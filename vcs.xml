@@ -6,8 +6,12 @@
           <option name="url" value="git@github.com:AleksNeStu/pycharm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:AleksNeStu/NFS4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/cloud/Dropbox/Python" />
+    <option name="cloneParentDir" value="/cloud/Dropbox/sync/git/python/NFS4" />
   </component>
 </application>
