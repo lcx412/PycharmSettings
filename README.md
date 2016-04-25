@@ -1,0 +1,2 @@
+# pycharm
+Settings for Pycharm
