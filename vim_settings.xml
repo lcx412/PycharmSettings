@@ -10,10 +10,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461706113190">
+      <file name="/Python Console" timestamp="1461707260808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1461706336269">
+      <file name="/fragment.py" timestamp="1461706862057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -60,12 +60,12 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461706286240">
-        <mark key="'" line="92" column="12" />
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="40" column="66" />
-        <mark key="." line="40" column="66" />
-        <mark key="^" line="40" column="66" />
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461707254302">
+        <mark key="'" line="45" column="52" />
+        <mark key="[" line="92" column="42" />
+        <mark key="]" line="92" column="42" />
+        <mark key="." line="92" column="42" />
+        <mark key="^" line="92" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -153,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
@@ -236,7 +235,6 @@
       <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" />
       <jump line="12" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" />
       <jump line="37" column="48" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="44" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="79" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="35" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="70" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -252,56 +250,58 @@
       <jump line="15" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="23" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="87" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="92" column="12" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="44" column="10" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="92" column="10" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="45" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsZV9saXN0X3dpdGhfZ2l0IA==</text>
+        <text>writelines</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZV9saXN0X3dpdGhfZ2l0IA==</text>
+        <text>writelines</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</text>
+        <text encoding="base64">XDx3cml0ZWxpbmVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">d2hpdGVfbGlzdF9maWxlc19maWxlbmFtZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZXhpc3RpbmcudHh0JywgJ28nKSBhcyBmOgogICAgICAgIGYud3JpdGVsaW5lcyhub3JtYWxpemVkX2FwcHJvdmVkX2ZpbGVzKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZmlsZV9saXN0X3dpdGhfZ2l0IA==</text>
+        <text>writelines</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVfbGlzdCA9IFtpIGZvciBpIGluIGZpbGVfbGlzdF93aXRoX2dpdCBpZiBub3QgaS5zdGFydHN3aXRoKHJlcG9fcm9vdCArICdVbHRyYUNhbVxcLmdpdCcpXQo=</text>
+      <register name="2" type="4">
+        <text>writelines</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>writelines</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZmlsZV9saXN0IA==</text>
+        <text>normalized_approved_files</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVfbGlzdCA9IFtdCiAgICBmb3Igcm9vdCwgc3ViRm9sZGVycywgZmlsZXMgaW4gb3Mud2Fsayhyb290ZGlyKToKICAgICAgICBmb3IgZmlsZSBpbiBmaWxlczoKICAgICAgICAgICAgZmlsZV9saXN0LmFwcGVuZChvcy5wYXRoLmpvaW4ocm9vdCwgZmlsZSkpCiAgICByZXR1cm4gZmlsZV9saXN0Cg==</text>
+      <register name="5" type="4">
+        <text>existing</text>
       </register>
       <register name="6" type="4">
-        <text>os.system</text>
+        <text encoding="base64">ZmlsZV9saXN0X3dpdGhfZ2l0IA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
+        <text encoding="base64">ICAgIGZpbGVfbGlzdCA9IFtpIGZvciBpIGluIGZpbGVfbGlzdF93aXRoX2dpdCBpZiBub3QgaS5zdGFydHN3aXRoKHJlcG9fcm9vdCArICdVbHRyYUNhbVxcLmdpdCcpXQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3lzdGVtIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text encoding="base64">ZmlsZV9saXN0IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZWxpbmVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZWxpbmVzXD4=</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYW5pdHlfY2hlY2tfcnVuXD4=</entry>
         <entry encoding="base64">XDx2b2NhYnVsYXJ5X2NvdW50XD4=</entry>
         <entry>Therea are</entry>
         <entry>vocabul</entry>
@@ -329,6 +328,7 @@
         <entry encoding="base64">XDxnZXRfZmlsZXNfcmVjdXJzaXZlXD4=</entry>
         <entry encoding="base64">XDxnZXRfZmlsZXNfdG9fZGVsZXRlXD4=</entry>
         <entry encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZWxpbmVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
