@@ -60,12 +60,12 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461709794251">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="93" column="14" />
-        <mark key="]" line="93" column="27" />
-        <mark key="." line="93" column="27" />
-        <mark key="^" line="93" column="27" />
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461711122714">
+        <mark key="'" line="44" column="14" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -153,13 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
@@ -249,10 +242,17 @@
       <jump line="23" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="90" column="82" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="88" column="33" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="13" column="6" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="44" column="27" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="93" column="28" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="34" column="11" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="24" column="48" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="130" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="109" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="96" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="85" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="86" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="93" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="42" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="44" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -262,7 +262,7 @@
         <text>writelines</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</text>
+        <text encoding="base64">XDxjdXJyZW50X2Rpclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbignZXhpc3RpbmcudHh0JywgJ28nKSBhcyBmOgogICAgICAgIGYud3JpdGVsaW5lcyhub3JtYWxpemVkX2FwcHJvdmVkX2ZpbGVzKQo=</text>
@@ -295,13 +295,13 @@
         <text encoding="base64">ZmlsZV9saXN0IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50X2Rpclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50X2Rpclw+</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vocabul</entry>
         <entry encoding="base64">XDxub3RfZm91bmRfcHJvYmFiaWxpdHlcPg==</entry>
         <entry>350</entry>
         <entry encoding="base64">XDxub3RfZm91bmRfcmF0aW9cPg==</entry>
@@ -329,15 +328,16 @@
         <entry encoding="base64">XDxjaGFuZ2VkX2FwcHJvdmVkX2ZpbGVzXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VfZmlsZW5hbWVfcm9vdFw+</entry>
         <entry encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50X2Rpclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NwXC5wL3AvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3BvcF9tYW5hZ2VyXC4vL2c=</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
