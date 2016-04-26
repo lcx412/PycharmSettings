@@ -10,11 +10,13 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461702279601">
+      <file name="/Python Console" timestamp="1461702480800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1461702346214">
+      <file name="/fragment.py" timestamp="1461702518101">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
         <mark key="'" line="38" column="0" />
@@ -58,12 +60,12 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461702405937">
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461702592199">
         <mark key="'" line="86" column="7" />
-        <mark key="[" line="77" column="30" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="23" />
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="25" />
+        <mark key="." line="78" column="25" />
+        <mark key="^" line="78" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -254,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -266,31 +268,31 @@
         <text encoding="base64">d2hpdGVfbGlzdF9maWxlc19maWxlbmFtZSA=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">cHJpbnQg</text>
       </register>
       <register name="2" type="4">
-        <text>file.replace(existing_root, new_root</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZmlsZSA=</text>
+        <text>file.replace(existing_root, new_root</text>
       </register>
       <register name="4" type="4">
-        <text>list(open(white_list))</text>
+        <text encoding="base64">ZmlsZSA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>list(open(white_list))</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>po here</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>po here</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
