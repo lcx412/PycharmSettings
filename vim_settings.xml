@@ -10,10 +10,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461711586418">
+      <file name="/Python Console" timestamp="1461714915173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1461531957124">
+      <file name="/fragment.py" timestamp="1461715004687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
@@ -76,12 +76,12 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461712574397">
-        <mark key="'" line="8" column="58" />
-        <mark key="[" line="12" column="66" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
+      <file name="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461715403906">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_PatternOfPatterns.py" timestamp="1461254932306">
         <mark key="c" line="12" column="0" />
@@ -151,9 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" />
       <jump line="31" column="42" filename="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" />
@@ -250,56 +247,59 @@
       <jump line="2" column="25" filename="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" />
       <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" />
       <jump line="12" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" />
-      <jump line="8" column="58" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="69" column="0" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="96" column="38" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="159" column="0" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="8" column="28" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/Geospatial/Main/UltraCam/</text>
+        <text encoding="base64">IGRlbGV0ZV9jb3VudA==</text>
       </register>
       <register name="-" type="4">
-        <text>/Geospatial/Main/UltraCam/</text>
+        <text encoding="base64">IGRlbGV0ZV9jb3VudA==</text>
       </register>
       <register name="/" type="4">
-        <text>\\</text>
+        <text encoding="base64">XDxPY3RhbmVXb3JraW5nXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>D:\\git-tfs\\bfg.jar</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByZXNlbnRfZmlsZXMgPSBzdWJwcm9jZXNzLmNoZWNrX291dHB1dCgnZ2l0IGxzLWZpbGVzJykuc3BsaXRsaW5lcygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>/Geospatial/Main/UltraCam/</text>
+        <text encoding="base64">IGRlbGV0ZV9jb3VudA==</text>
       </register>
-      <register name="2" type="4">
-        <text>Octane_TransferringSW_Final</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQgJ05vdGhpbmcgd2FzIGRlbGV0ZWQuIE5vIGdpdCBjb21taXRzIG1hZGUnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>\</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGRlbGV0ZV9jb3VudCA+IDA6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>C:\\\\OctaneMainNoBranchBRZ\\UltraCam\\</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlX2NvdW50ICs9IDEKICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>C:\\\\OctaneMainNoBranchBRZ\\UltraCam\\</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Repos</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGRlbGV0aW9uX2xpc3Q6CiAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgaW5kZXg9MQojIHdoaWxlIHJlYWQgcDsgZG8KIyAgIGVjaG8gIkNsb25pbmciICRwICRpbmRleAojICAgZ2l0IHRmcyBjbG9uZSBodHRwOi8vdnN0ZmlwZTo4MDgwL3Rmcy9pcGUgJHAgJGluZGV4CiMgICBpbmRleD0kKChpbmRleCsxKSkKIyBkb25lIDwgVWx0cmEzX05vRXh0ZXJuYWwudHh0Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZV9jb3VudCA9IDAK</text>
       </register>
       <register name="8" type="4">
-        <text>- c = 50714</text>
+        <text>deleted_files + present_files</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxPY3RhbmVXb3JraW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>\\</last-pattern>
+      <last-pattern encoding="base64">XDxPY3RhbmVXb3JraW5nXD4=</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -307,7 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhbl90ZXh0XD4=</entry>
         <entry>self</entry>
         <entry encoding="base64">XDxzYW5pdHlfY2hlY2tfcnVuXD4=</entry>
         <entry encoding="base64">XDx2b2NhYnVsYXJ5X2NvdW50XD4=</entry>
@@ -327,6 +326,7 @@
         <entry encoding="base64">XDxiZmdfbG9jYXRpb25cPg==</entry>
         <entry encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</entry>
         <entry>\\</entry>
+        <entry encoding="base64">XDxPY3RhbmVXb3JraW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
@@ -336,6 +336,7 @@
         <entry encoding="base64">JzwsJz5zL1xcL1xcXFwvZw==</entry>
         <entry>wq</entry>
         <entry>s/\\/\\\\/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
