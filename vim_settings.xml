@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461709119714">
+      <file name="/Python Console" timestamp="1461781849358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1461706862057">
@@ -60,12 +60,12 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461779666938">
-        <mark key="'" line="104" column="20" />
-        <mark key="[" line="129" column="61" />
-        <mark key="]" line="130" column="12" />
-        <mark key="^" line="130" column="12" />
-        <mark key="." line="130" column="12" />
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461782490169">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -153,19 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" />
-      <jump line="28" column="73" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" />
-      <jump line="29" column="11" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" />
-      <jump line="42" column="4" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" />
-      <jump line="44" column="30" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" />
-      <jump line="33" column="0" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="4" column="0" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="50" column="6" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="62" column="30" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="64" column="33" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="65" column="34" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="28" column="4" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
-      <jump line="29" column="73" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="30" column="11" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="60" column="4" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="55" column="6" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
@@ -183,69 +170,50 @@
       <jump line="35" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="62" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="11" column="3" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="82" column="72" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="84" column="7" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="92" column="10" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="45" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="23" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="90" column="82" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="130" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="96" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="85" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="86" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="93" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="42" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="44" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="57" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="97" column="25" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="105" column="100" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="108" column="2" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="110" column="28" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="112" column="29" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="113" column="32" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="40" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="49" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="50" column="73" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="51" column="11" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="109" column="28" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="15" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="54" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="68" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="87" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="99" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="148" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="127" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="114" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="100" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="73" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="55" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="37" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="34" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="30" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="17" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="12" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="6" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="3" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="0" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="81" column="38" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="107" column="61" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="120" column="34" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="134" column="33" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="25" column="60" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="1" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="4" column="7" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="8" column="24" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="9" column="22" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="24" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="47" column="50" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="48" column="50" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="67" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="69" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="70" column="72" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="74" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="75" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="76" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="77" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -253,55 +221,87 @@
       <jump line="88" column="39" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="98" column="46" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="104" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="105" column="94" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="17" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="51" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="120" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="127" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="49" column="38" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="118" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="126" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="139" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="160" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="124" column="12" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="86" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="74" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="54" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="24" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="29" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="33" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="36" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="53" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="73" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="85" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="106" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="111" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="125" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="112" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="107" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="82" column="31" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="18" column="7" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICc=</text>
+        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICc=</text>
+        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
       </register>
       <register name="/" type="4">
-        <text>os</text>
+        <text>chdir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IGFkZCAtdScpCg==</text>
+        <text encoding="base64">ICAgICAgICBiZmdfY29tbWFuZCA9ICdqYXZhIC1qYXIgJyArIGJmZ19sb2NhdGlvbiArICcgLUQgJyArIGZpbGVuYW1lX3dpdGhvdXRfc2xhc2ggKyAnICcgKyByZXBvX3Jvb3QgKyAnXFwuZ2l0JwogICAgICAgIHByaW50ICdFeGVjdXRpbmcgJywgYmZnX2NvbW1hbmQKICAgICAgICBvcy5zeXN0ZW0oYmZnX2NvbW1hbmQpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICc=</text>
+        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>D:\\git-tfs\\final_whitelist.csv</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>D:\\Repos\\OctaneWorking\\017-Portable-v0.1\\</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>nuke_by_visiting_folder</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Z2l0IGdjIC0tYWdncmVzc2l2ZSAtLXBydW5lJykK</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>git add -u</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>git add dummy.txt</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>os</last-search>
+      <last-search>chdir</last-search>
       <last-offset />
-      <last-pattern>os</last-pattern>
+      <last-pattern>chdir</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -309,8 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gener</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZWRfb3V0cHV0XD4=</entry>
         <entry>train_token</entry>
         <entry>choose</entry>
         <entry>white</entry>
@@ -323,12 +321,14 @@
         <entry encoding="base64">XDxjaGFuZ2VkX2FwcHJvdmVkX2ZpbGVzXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VfZmlsZW5hbWVfcm9vdFw+</entry>
         <entry encoding="base64">XDxkZWxldGlvbl9saXN0X2ZpbGVcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50X2Rpclw+</entry>
         <entry encoding="base64">XDxmaWxlc190b19kZWxldGVcPg==</entry>
         <entry encoding="base64">XDxkZWxldGVfZmlsZXNfYW5kX21ha2VfY29tbWl0XD4=</entry>
-        <entry encoding="base64">XDxkZWxldGlvbl9saXN0X291dHB1dF9maWxlXD4=</entry>
         <entry>split</entry>
         <entry>os</entry>
+        <entry encoding="base64">XDxkZWxldF9maWxlc1w+</entry>
+        <entry encoding="base64">XDxjdXJyZW50X2Rpclw+</entry>
+        <entry encoding="base64">XDxkZWxldGlvbl9saXN0X291dHB1dF9maWxlXD4=</entry>
+        <entry>chdir</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
