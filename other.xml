@@ -55,6 +55,7 @@
       <map>
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="false" />
+        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -62,12 +63,14 @@
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="true" />
         <entry key="C:\virtualenvs\esm\Scripts\python.exe" value="true" />
+        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="false" />
+        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="false" />
       </map>
     </option>
   </component>
