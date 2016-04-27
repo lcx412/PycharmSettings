@@ -10,7 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461781849358">
+      <file name="/Python Console" timestamp="1461783214175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1461706862057">
@@ -60,12 +60,11 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="25" />
       </file>
-      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461782490169">
-        <mark key="'" line="18" column="7" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-        <mark key="." line="9" column="44" />
+      <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461783980922">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -153,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="11" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="60" column="4" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="55" column="6" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
       <jump line="68" column="51" filename="C:/Repos/OctaneMainNoBranchBRZ/FilterGit_bfg.py" />
@@ -187,7 +185,6 @@
       <jump line="40" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="50" column="73" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="109" column="28" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="15" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="68" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="87" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="99" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -219,18 +216,14 @@
       <jump line="77" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="78" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="88" column="39" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="98" column="46" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="104" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="105" column="94" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="17" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="51" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="120" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="127" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="49" column="38" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="118" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="126" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="139" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="160" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -253,55 +246,61 @@
       <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="82" column="31" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="18" column="7" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="118" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="122" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="98" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="127" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="15" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZV9iYXRjaF9zaXplID0gMTAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
+        <text>f.write('\n'.join(list_of_files_to_delete))</text>
       </register>
       <register name="/" type="4">
-        <text>chdir</text>
+        <text encoding="base64">XDxkZWxldGVfYmF0Y2hfc2l6ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZmdfY29tbWFuZCA9ICdqYXZhIC1qYXIgJyArIGJmZ19sb2NhdGlvbiArICcgLUQgJyArIGZpbGVuYW1lX3dpdGhvdXRfc2xhc2ggKyAnICcgKyByZXBvX3Jvb3QgKyAnXFwuZ2l0JwogICAgICAgIHByaW50ICdFeGVjdXRpbmcgJywgYmZnX2NvbW1hbmQKICAgICAgICBvcy5zeXN0ZW0oYmZnX2NvbW1hbmQpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlc190b19iZV9kZWxldGVkX3R4dF8sICd3JykgYXMgZjoKICAgICAgICBmLndyaXRlKCdcbicuam9pbihsaXN0X29mX2ZpbGVzX3RvX2RlbGV0ZSkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZV9iYXRjaF9zaXplID0gMTAwCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>D:\\git-tfs\\final_whitelist.csv</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>D:\\Repos\\OctaneWorking\\017-Portable-v0.1\\</text>
+        <text>f.write('\n'.join(list_of_files_to_delete))</text>
       </register>
-      <register name="4" type="4">
-        <text>nuke_by_visiting_folder</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpbGVzX3RvX2JlX2RlbGV0ZWRfdHh0XyA9IHJlcG9fbG9jYXRpb24gKyAnLi5cXEZpbGVzVG9CZURlbGV0ZWQudHh0Jwo=</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>/Geospatial/Releases/UltraCam/017-Portable-v0.1/</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>D:\\git-tfs\\final_whitelist.csv</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>D:\\Repos\\OctaneWorking\\017-Portable-v0.1\\</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>nuke_by_visiting_folder</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chdir</last-search>
+      <last-search encoding="base64">XDxkZWxldGVfYmF0Y2hfc2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern>chdir</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVfYmF0Y2hfc2l6ZVw+</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -309,8 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>train_token</entry>
-        <entry>choose</entry>
         <entry>white</entry>
         <entry>list</entry>
         <entry encoding="base64">XDxiZmdfbG9jYXRpb25cPg==</entry>
@@ -329,6 +326,8 @@
         <entry encoding="base64">XDxjdXJyZW50X2Rpclw+</entry>
         <entry encoding="base64">XDxkZWxldGlvbl9saXN0X291dHB1dF9maWxlXD4=</entry>
         <entry>chdir</entry>
+        <entry encoding="base64">XDxmaWxlc190b19iZV9kZWxldGVkX3R4dF9cPg==</entry>
+        <entry encoding="base64">XDxkZWxldGVfYmF0Y2hfc2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
