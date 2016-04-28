@@ -10,10 +10,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461803196175">
+      <file name="/Python Console" timestamp="1461804191920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1461706862057">
+      <file name="/fragment.py" timestamp="1461804436754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,11 +85,12 @@
         <mark key="^" line="150" column="21" />
         <mark key="." line="150" column="21" />
       </file>
-      <file name="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461803191000">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461804400622">
+        <mark key="'" line="175" column="34" />
+        <mark key="[" line="175" column="44" />
+        <mark key="]" line="175" column="52" />
+        <mark key="." line="175" column="52" />
+        <mark key="^" line="175" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Generalizer.py" timestamp="1460859396461">
         <mark key="'" line="3" column="7" />
@@ -159,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="11" column="3" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="84" column="7" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="45" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="130" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="96" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -259,55 +257,58 @@
       <jump line="109" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="114" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="133" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="185" column="36" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="28" column="4" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="175" column="34" filename="D:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C:\\Repos\\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>C:\\Repos\\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibG9iX2lkc19maWxlXD4=</text>
+        <text encoding="base64">XDxyZWFkX2xpc3RcPg==</text>
       </register>
       <register name="0" type="4">
         <text>017-Portable-v0.1\</text>
       </register>
       <register name="1" type="4">
-        <text>C:\\Repos\\</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdQdXJnaW5nIGJ5IG5hbWVzJwogICAgbnVrZV9ieV9uYW1lX2JhdGNoKHJlcG9fcm9vdD1yZXBvX2xvY2F0aW9uLCBkZWxldGlvbl9saXN0PXVuaXF1ZV9uYW1lcykK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVwb19sb2NhdGlvbiA9ICdEOlxcUmVwb3NcXE9jdGFuZVdvcmtpbmc0XFwwMTctUG9ydGFibGUtdjAuMVxcJwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlbGV0aW9uX2xpc3Q=</text>
       </register>
       <register name="4" type="4">
-        <text>\ctrans</text>
+        <text>C:\\Repos\\</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL1JlbGVhc2VzL1VsdHJhQ2FtLzAxNy1Qb3J0YWJsZS12MC4xLwo=</text>
+        <text encoding="base64">ICAgIHByaW50ICdQdXJnaW5nIGJ5IG5hbWVzJwogICAgbnVrZV9ieV9uYW1lX2JhdGNoKHJlcG9fcm9vdD1yZXBvX2xvY2F0aW9uLCBkZWxldGlvbl9saXN0PXVuaXF1ZV9uYW1lcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL01haW4vVWx0cmFDYW0vJwo=</text>
+        <text encoding="base64">cmVwb19sb2NhdGlvbiA9ICdEOlxcUmVwb3NcXE9jdGFuZVdvcmtpbmc0XFwwMTctUG9ydGFibGUtdjAuMVxcJwo=</text>
       </register>
       <register name="7" type="4">
-        <text>nuke_by_name_batch</text>
+        <text>\ctrans</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YmZnX2xvY2F0aW9uIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL1JlbGVhc2VzL1VsdHJhQ2FtLzAxNy1Qb3J0YWJsZS12MC4xLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnIHwgeGFyZ3MgLUljb21taXRJZCBnaXQgcmV2LXBhcnNlIGNvbW1pdElkOicgKyBmaWxlKQo=</text>
+        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL01haW4vVWx0cmFDYW0vJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibG9iX2lkc19maWxlXD4=</last-search>
+      <last-search encoding="base64">XDxyZWFkX2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibG9iX2lkc19maWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkX2xpc3RcPg==</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -315,8 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZmdfbG9jYXRpb25cPg==</entry>
-        <entry>\\</entry>
         <entry encoding="base64">XDxnZXRfZmlsZXNfcmVjdXJzaXZlXD4=</entry>
         <entry encoding="base64">XDx3cml0ZWxpbmVzXD4=</entry>
         <entry encoding="base64">XDxnZXRfZmlsZXNfdG9fZGVsZXRlXD4=</entry>
@@ -335,6 +334,8 @@
         <entry encoding="base64">XDxkZWxldGVfYmF0Y2hfc2l6ZVw+</entry>
         <entry encoding="base64">XDxzdWJwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxibG9iX2lkc19maWxlXD4=</entry>
+        <entry encoding="base64">XDxmaW5kX2ZpbGVzX3dpdGhfbm9uX3VuaXF1ZV9uYW1lc1w+</entry>
+        <entry encoding="base64">XDxyZWFkX2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
