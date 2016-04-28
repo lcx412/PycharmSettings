@@ -10,10 +10,7 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1461804191920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1461861307225">
+      <file name="/fragment.py" timestamp="1461861447991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -263,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3bf3c7ab7f8dfc7c76ace8324429ec7a87a23ab</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3bf3c7ab7f8dfc7c76ace8324429ec7a87a23ab</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkX2xpc3RcPg==</text>
@@ -275,31 +272,31 @@
         <text>017-Portable-v0.1\</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3bf3c7ab7f8dfc7c76ace8324429ec7a87a23ab</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c53c59f24a4f73522a7d1eb8c9cbbb38e96e0b0</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGRlbGV0aW9uX2xpc3Q=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGRlbGV0aW9uX2xpc3Q=</text>
+      </register>
+      <register name="6" type="4">
         <text>C:\\Repos\\</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50ICdQdXJnaW5nIGJ5IG5hbWVzJwogICAgbnVrZV9ieV9uYW1lX2JhdGNoKHJlcG9fcm9vdD1yZXBvX2xvY2F0aW9uLCBkZWxldGlvbl9saXN0PXVuaXF1ZV9uYW1lcykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cmVwb19sb2NhdGlvbiA9ICdEOlxcUmVwb3NcXE9jdGFuZVdvcmtpbmc0XFwwMTctUG9ydGFibGUtdjAuMVxcJwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>\ctrans</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL1JlbGVhc2VzL1VsdHJhQ2FtLzAxNy1Qb3J0YWJsZS12MC4xLwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">d2hpdGVfbGlzdF9yb290ID0gJy9HZW9zcGF0aWFsL01haW4vVWx0cmFDYW0vJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
