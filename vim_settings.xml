@@ -10,14 +10,14 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461963878098">
+      <file name="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461965177703">
         <mark key="'" line="58" column="8" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="39" />
-        <mark key="." line="53" column="39" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
         <mark key="^" line="53" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1461964028611">
+      <file name="/Python Console" timestamp="1461965185776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1461879525340">
@@ -160,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="160" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="124" column="12" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="86" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -259,14 +258,15 @@
       <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="15" column="54" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="11" column="44" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="41" column="23" filename="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="58" column="8" filename="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IHN0YXR1cycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>E:\\repos\\NewPlanJustFilter\\</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</text>
@@ -274,32 +274,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlX2xpc3Qobm9ybWFsaXplZF9leGlzdGluZ19maWxlcywgJ0ZpbGVzSW5SZXBvLnR4dCcpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IHN0YXR1cycpCg==</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZGVsZXRlX3BhdGhzKCkKICAgICMgY29tbWl0X2NoYW5nZXMoKQo=</text>
+      <register name="2" type="4">
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>E:\\repos\\NewPlanJustFilter\\</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHdvcmtpbmdfZGly</text>
+        <text encoding="base64">IC0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcG9fbG9jYXRpb24gPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsIHdvcmtpbmdfZGlyKSArICdcXCcK</text>
+        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IHN0YXR1cycpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>D:\\Repos\\Modified</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZGVsZXRlX3BhdGhzKCkKICAgICMgY29tbWl0X2NoYW5nZXMoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>-Streetside-v3.6</text>
+        <text>E:\\repos\\NewPlanJustFilter\\</text>
       </register>
       <register name="8" type="4">
-        <text>015</text>
+        <text encoding="base64">IHdvcmtpbmdfZGly</text>
       </register>
-      <register name="9" type="4">
-        <text>\\\\BR812025\\OctaneGold\\015-Streetside-v3.6</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlcG9fbG9jYXRpb24gPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsIHdvcmtpbmdfZGlyKSArICdcXCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
