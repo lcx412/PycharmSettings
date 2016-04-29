@@ -5829,7 +5829,7 @@
         <entry key="PyCDI" value="1.0.6" />
         <entry key="PyCEGUI" value="0.7.5" />
         <entry key="PyCIM" value="15.13.4" />
-        <entry key="PyCK" value="0.10" />
+        <entry key="PyCK" value="0.9.8.6" />
         <entry key="PyCLP" value="0.8" />
         <entry key="PyCOSM" value="0.1.1.6" />
         <entry key="PyCPUID" value="0.4" />
@@ -7416,7 +7416,7 @@
         <entry key="Scrambled-Egg" value="0.4" />
         <entry key="ScrapML" value="1.0" />
         <entry key="Scrappy" value="0.3.0.alpha.4" />
-        <entry key="Scrapy" value="1.1.0rc4" />
+        <entry key="Scrapy" value="1.1.0rc3" />
         <entry key="ScrapyCouchDB" value="0.2" />
         <entry key="ScrapyDot" value="0.1" />
         <entry key="ScrapyElasticSearch" value="0.6.1" />
@@ -8191,7 +8191,7 @@
         <entry key="TodoApp" value="0.1" />
         <entry key="TodoFlow" value="4.0.2" />
         <entry key="TogetherVideo" value="0.1.0" />
-        <entry key="Token" value="1.5.0" />
+        <entry key="Token" value="1.4.0" />
         <entry key="Tokify" value="0.0.1" />
         <entry key="Tolk" value="0.2.1" />
         <entry key="TomograPy" value="0.3.1" />
@@ -14741,7 +14741,7 @@
         <entry key="casper" value="1.0.0" />
         <entry key="caspo" value="2.2.0" />
         <entry key="cassandra-cql" value="0.9.0" />
-        <entry key="cassandra-dataset-manager" value="0.4" />
+        <entry key="cassandra-dataset-manager" value="0.3" />
         <entry key="cassandra-driver" value="3.2.2" />
         <entry key="cassandra-quickstart" value="0.1.2" />
         <entry key="cassandra_snapshotter" value="1.0.0" />
@@ -16283,7 +16283,7 @@
         <entry key="cmsplugin-footnote" value="0.3.5" />
         <entry key="cmsplugin-form-handler" value="0.1.2" />
         <entry key="cmsplugin-forms-builder" value="1.0.1" />
-        <entry key="cmsplugin-frequently" value="0.2" />
+        <entry key="cmsplugin-frequently" value="0.1" />
         <entry key="cmsplugin-googleform" value="0.1" />
         <entry key="cmsplugin-googlegroups-widgets" value="0.1" />
         <entry key="cmsplugin-googlemap" value="0.1.5" />
@@ -16407,7 +16407,7 @@
         <entry key="coal" value="0.0.2" />
         <entry key="coal_mine" value="0.4.4" />
         <entry key="coala" value="0.7.0.dev20160428165047" />
-        <entry key="coala-bears" value="0.3.0.dev20160428205526" />
+        <entry key="coala-bears" value="0.2.0.dev20160428173735" />
         <entry key="coalmine" value="0.0.0" />
         <entry key="coalringbuf" value="0.1.0" />
         <entry key="coards" value="1.0.5" />
@@ -21001,7 +21001,6 @@
         <entry key="dj-obj-update" value="0.2.1" />
         <entry key="dj-paas-env" value="0.6.1" />
         <entry key="dj-paginator" value="0.2.1" />
-        <entry key="dj-places" value="1.0.0" />
         <entry key="dj-pq" value="1.4.2" />
         <entry key="dj-queryset-manager" value="0.1.3" />
         <entry key="dj-redis-url" value="0.1.4" />
@@ -23729,7 +23728,6 @@
         <entry key="django-includefilefinder" value="0.1" />
         <entry key="django-indb-logger" value="0.1" />
         <entry key="django-indexer" value="0.3.0" />
-        <entry key="django-indigorestwrapper" value="0.1" />
         <entry key="django-indisposable-email-field" value="0.1.7" />
         <entry key="django-inet" value="0.1.3" />
         <entry key="django-infinite-memcached" value="0.1" />
@@ -36375,7 +36373,7 @@
         <entry key="hitchredis" value="0.4.6" />
         <entry key="hitchs3" value="0.1" />
         <entry key="hitchselenium" value="0.5.2" />
-        <entry key="hitchserve" value="0.5.0" />
+        <entry key="hitchserve" value="0.4.9" />
         <entry key="hitchsmtp" value="0.2.1" />
         <entry key="hitchsystem" value="0.1.5" />
         <entry key="hitchtest" value="0.9.9" />
@@ -43953,7 +43951,7 @@
         <entry key="messaging" value="1.1" />
         <entry key="messaging-client" value="0.0.5" />
         <entry key="messenger" value="1.0" />
-        <entry key="messenger_bot" value="0.3.8" />
+        <entry key="messenger_bot" value="0.3.7" />
         <entry key="messenger_hook" value="0.2.1" />
         <entry key="messengerbot" value="0.1.3" />
         <entry key="messier" value="0.1.1" />
@@ -49580,7 +49578,7 @@
         <entry key="osx-powerline-battery-segment" value="0.1.3" />
         <entry key="osx_only" value="0.0.5" />
         <entry key="osx_trash" value="1.0.0" />
-        <entry key="osxcollector" value="1.8" />
+        <entry key="osxcollector" value="1.7" />
         <entry key="osxcollector_output_filters" value="1.0.8" />
         <entry key="osxmmkeys" value="0.0.4" />
         <entry key="osxmpdkeys" value="0.0.5" />
@@ -50353,7 +50351,6 @@
         <entry key="patent-parsing-tools" value="0.9.1" />
         <entry key="path" value="0.33" />
         <entry key="path-and-address" value="1.1.0" />
-        <entry key="path-command" value="0.0.3" />
         <entry key="path.py" value="8.2.1" />
         <entry key="path3" value="3.0b1" />
         <entry key="path_helpers" value="0.2.post3" />
@@ -56149,7 +56146,6 @@
         <entry key="pykurento" value="0.0.1" />
         <entry key="pykush" value="0.0.2" />
         <entry key="pykwalify" value="1.5.1" />
-        <entry key="pykwalify-unfixed" value="1.5.1" />
         <entry key="pykwic" value="0.4" />
         <entry key="pykwiki" value="2.1.17" />
         <entry key="pykwiki2" value="2.1.0" />
@@ -57373,7 +57369,6 @@
         <entry key="pyramid-prometheus" value="0.6" />
         <entry key="pyramid-recipe-modwsgi" value="0.1" />
         <entry key="pyramid-sendgrid-webhooks" value="1.2.3" />
-        <entry key="pyramid-sms" value="0.1.0" />
         <entry key="pyramid-sqlalchemy-continuum" value="0.1" />
         <entry key="pyramid-tiny-utility" value="0.0.2" />
         <entry key="pyramid-views" value="1.2.8" />
@@ -60248,7 +60243,7 @@
         <entry key="pywebkitgtk" value="1.8" />
         <entry key="pyweblib" value="1.3.12" />
         <entry key="pywebperf" value="1.0" />
-        <entry key="pywebpush" value="0.3.2" />
+        <entry key="pywebpush" value="0.3.1" />
         <entry key="pywebqq" value="0.2" />
         <entry key="pywebserver" value="0.1" />
         <entry key="pywebsite" value="0.1.26pre" />
@@ -64386,7 +64381,7 @@
         <entry key="scriptharness" value="0.2.0" />
         <entry key="scriptine" value="0.2.1" />
         <entry key="scripting" value="0.1" />
-        <entry key="scription" value="0.77.0" />
+        <entry key="scription" value="0.76.0" />
         <entry key="scriptloader" value="0.2.0" />
         <entry key="scriptmutex" value="0.2dev" />
         <entry key="scriptqualis" value="0.1.0" />
@@ -64955,7 +64950,7 @@
         <entry key="setoptconf" value="0.2.0" />
         <entry key="setproctitle" value="1.1.9" />
         <entry key="setr" value="0.2.0" />
-        <entry key="sets" value="0.2.8" />
+        <entry key="sets" value="0.2.6" />
         <entry key="settei" value="0.1.1" />
         <entry key="setting" value="0.0.1" />
         <entry key="settings-overrider" value="0.5.0" />
@@ -65590,7 +65585,7 @@
         <entry key="simple-invoice" value="0.3.2" />
         <entry key="simple-jsonrpc" value="0.3.4" />
         <entry key="simple-lpk" value="0.0.5" />
-        <entry key="simple-mail" value="0.1.5.1" />
+        <entry key="simple-mail" value="0.1.5.0" />
         <entry key="simple-models" value="0.3.8" />
         <entry key="simple-money" value="0.1.2" />
         <entry key="simple-pbkdf2" value="1.0" />
@@ -72687,7 +72682,6 @@
         <entry key="typechecks" value="0.0.2" />
         <entry key="typecorrector" value="0.2.2" />
         <entry key="typed" value="0.6" />
-        <entry key="typed-ast" value="0.5" />
         <entry key="typed.py" value="1.0.0.1" />
         <entry key="typedbytes" value="0.3.8" />
         <entry key="typedecorator" value="0.0.4" />
@@ -74959,7 +74953,7 @@
         <entry key="went" value="0.1.5" />
         <entry key="wenxuan_nester" value="1.0.0" />
         <entry key="wepay" value="0.3.2" />
-        <entry key="weppy" value="0.6.7" />
+        <entry key="weppy" value="0.6.6" />
         <entry key="weppy-Assets" value="0.4" />
         <entry key="weppy-BS3" value="0.4" />
         <entry key="weppy-FBAuth" value="0.1" />
@@ -77799,6 +77793,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1461877459886" />
+    <option name="LAST_TIME_CHECKED" value="1461875404475" />
   </component>
 </application>
