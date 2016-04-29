@@ -10,13 +10,14 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461882629065">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="54" column="41" />
-        <mark key="." line="54" column="41" />
-        <mark key="^" line="54" column="41" />
+      <file name="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461963878098">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="39" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1461877742841">
+      <file name="/Python Console" timestamp="1461964028611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1461879525340">
@@ -159,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="126" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="160" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="124" column="12" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -259,55 +259,56 @@
       <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="15" column="54" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="11" column="44" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
+      <jump line="58" column="8" filename="D:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHdvcmtpbmdfZGly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IHN0YXR1cycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdvcmtpbmdfZGly</text>
+        <text>E:\\repos\\NewPlanJustFilter\\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb2xkX3NoYXJlXD4=</text>
+        <text encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlX2xpc3Qobm9ybWFsaXplZF9leGlzdGluZ19maWxlcywgJ0ZpbGVzSW5SZXBvLnR4dCcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHdvcmtpbmdfZGly</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG9zLnN5c3RlbSgnZ2l0IHN0YXR1cycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcG9fbG9jYXRpb24gPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsIHdvcmtpbmdfZGlyKSArICdcXCcK</text>
+        <text encoding="base64">ICAgICMgZGVsZXRlX3BhdGhzKCkKICAgICMgY29tbWl0X2NoYW5nZXMoKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>D:\\Repos\\Modified</text>
+        <text>E:\\repos\\NewPlanJustFilter\\</text>
       </register>
       <register name="4" type="4">
-        <text>-Streetside-v3.6</text>
+        <text encoding="base64">IHdvcmtpbmdfZGly</text>
       </register>
-      <register name="5" type="4">
-        <text>015</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlcG9fbG9jYXRpb24gPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsIHdvcmtpbmdfZGlyKSArICdcXCcK</text>
       </register>
       <register name="6" type="4">
-        <text>\\\\BR812025\\OctaneGold\\015-Streetside-v3.6</text>
+        <text>D:\\Repos\\Modified</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGNvbW1pdElk</text>
+        <text>-Streetside-v3.6</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHJlcG9fbG9jYXRpb24=</text>
+        <text>015</text>
       </register>
       <register name="9" type="4">
-        <text>'C:\\Repos\\MainGold\\'</text>
+        <text>\\\\BR812025\\OctaneGold\\015-Streetside-v3.6</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb2xkX3NoYXJlXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb2xkX3NoYXJlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</last-pattern>
       <last-replace>\\\\</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZmlsZXNfcmVjdXJzaXZlXD4=</entry>
         <entry encoding="base64">XDxnZXRfZmlsZXNfdG9fZGVsZXRlXD4=</entry>
         <entry>os.path</entry>
         <entry>split</entry>
@@ -335,6 +335,7 @@
         <entry>relpath</entry>
         <entry encoding="base64">XDxkZWxldGVfYnlfYmxvYl9pZFw+</entry>
         <entry encoding="base64">XDxnb2xkX3NoYXJlXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3JlbGVhc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwXC4vL2c=</entry>
