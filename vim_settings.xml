@@ -279,11 +279,10 @@
       <file name="/Dummy.txt" timestamp="1460825132930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462107301296">
-        <mark key="[" line="154" column="26" />
-        <mark key="]" line="155" column="12" />
-        <mark key="^" line="155" column="12" />
-        <mark key="." line="155" column="12" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462110328732">
+        <mark key="[" line="171" column="34" />
+        <mark key="]" line="171" column="34" />
+        <mark key="." line="171" column="34" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1461919170690">
         <mark key="[" line="8" column="16" />
@@ -462,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>学生充值消费</text>
+        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
       </register>
       <register name="-" type="4">
-        <text>学生充值消费</text>
+        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -474,31 +473,31 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>学生充值消费</text>
+        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
       </register>
-      <register name="2" type="4">
-        <text>_</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text encoding="base64">ICBpbnQoc3RhdFsnY2hhcmdlX2Ftb3VudF9hbGlwYXknXSkgKyBpbnQoc3RhdFsnY2hhcmdlX2Ftb3VudF93ZWNoYXQnXSkgKyBpbnQoCiAgICAgICAgICAgICAgICBzdGF0WydjaGFyZ2VfYW1vdW50X2JhbmsnXSkgKyBpbnQoCiAgICAgICAgICAgICAgICBzdGF0WydjaGFyZ2VfYW1vdW50X290aGVyJ10pICsgaW50KHN0YXRbJ2NoYXJnZV9hbW91bnRfY2FyZCddKV0=</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>学生充值消费</text>
       </register>
       <register name="5" type="4">
+        <text>_</text>
+      </register>
+      <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
+      <register name="8" type="4">
         <text>p</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNbMTA6XV0gZm9yIGMgaW4gZXhjZWxfcHJlX2RhdGFdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY1swXSArIFtzdHIocm91bmQoZmxvYXQoY2MpIC8gMTAwLCAyKSkgKyAnJScgZm9yIGNjIGluIGNbMSwgN11dICsgW3JvdW5kKGZsb2F0KGNjKSAvIDEwMCwgMikgZm9yIGNjIGluCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF9kYXRhID0gWwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
