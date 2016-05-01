@@ -97,7 +97,12 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1462033472314">
+      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462097140794">
+        <mark key="[" line="62" column="50" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1462097058164">
         <mark key="'" line="114" column="12" />
         <mark key="[" line="140" column="45" />
         <mark key="]" line="140" column="46" />
@@ -274,11 +279,11 @@
       <file name="/Dummy.txt" timestamp="1460825132930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462095884067">
-        <mark key="[" line="138" column="110" />
-        <mark key="]" line="136" column="25" />
-        <mark key="^" line="112" column="45" />
-        <mark key="." line="75" column="95" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462097386103">
+        <mark key="[" line="140" column="79" />
+        <mark key="]" line="140" column="79" />
+        <mark key="^" line="140" column="47" />
+        <mark key="." line="140" column="79" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1461919170690">
         <mark key="[" line="8" column="16" />
@@ -292,7 +297,6 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1462095739980" />
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="34" column="0" />
@@ -336,7 +340,7 @@
         <mark key="." line="67" column="16" />
         <mark key="^" line="65" column="9" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_finance.html" timestamp="1461939870983">
+      <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_finance.html" timestamp="1462097157085">
         <mark key="[" line="0" column="73" />
         <mark key="]" line="4" column="51" />
         <mark key="." line="4" column="51" />
@@ -457,11 +461,11 @@
       <jump line="70" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>wage_tutor</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -470,31 +474,31 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>wage_tutor</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>值</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>充</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>送</text>
       </register>
       <register name="6" type="4">
-        <text>!</text>
+        <text>赠</text>
       </register>
       <register name="7" type="4">
-        <text>type</text>
+        <text>统</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>系</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">MiA=</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
