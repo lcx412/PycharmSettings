@@ -35,7 +35,7 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462095691422">
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462112010557">
         <mark key="'" line="402" column="0" />
         <mark key="[" line="402" column="14" />
         <mark key="]" line="402" column="19" />
@@ -97,7 +97,7 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462097140794">
+      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462111613673">
         <mark key="[" line="62" column="50" />
         <mark key="]" line="62" column="50" />
         <mark key="." line="62" column="50" />
@@ -162,10 +162,6 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="29" column="51" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1461941194033">
-        <mark key="'" line="458" column="37" />
-        <mark key="^" line="140" column="32" />
-      </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" timestamp="1461884850729">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="8" column="106" />
@@ -220,6 +216,12 @@
         <mark key="[" line="445" column="36" />
         <mark key="]" line="445" column="36" />
         <mark key="." line="445" column="36" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1462111561747">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
       </file>
       <file name="D:/PythonProjects/Stat/T.py" timestamp="1461917009148">
         <mark key="[" line="27" column="49" />
@@ -279,7 +281,7 @@
       <file name="/Dummy.txt" timestamp="1460825132930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462110328732">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462112003575">
         <mark key="[" line="171" column="34" />
         <mark key="]" line="171" column="34" />
         <mark key="." line="171" column="34" />
@@ -289,11 +291,11 @@
         <mark key="]" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1461939595275">
+      <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1462111631055">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="118" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
         <mark key="^" line="20" column="17" />
       </file>
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
@@ -333,6 +335,13 @@
       <file name="/a.regexp" timestamp="1460819554955">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers.html" timestamp="1462111449192">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="42" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_chart.js" timestamp="1462111580255" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1461821467754">
         <mark key="[" line="66" column="34" />
         <mark key="]" line="67" column="16" />
@@ -461,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -473,31 +482,31 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>int(stat['consume_amount_tutor']) + int(stat['consume_amount_answer']</text>
+        <text>dev</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBpbnQoc3RhdFsnY2hhcmdlX2Ftb3VudF9hbGlwYXknXSkgKyBpbnQoc3RhdFsnY2hhcmdlX2Ftb3VudF93ZWNoYXQnXSkgKyBpbnQoCiAgICAgICAgICAgICAgICBzdGF0WydjaGFyZ2VfYW1vdW50X2JhbmsnXSkgKyBpbnQoCiAgICAgICAgICAgICAgICBzdGF0WydjaGFyZ2VfYW1vdW50X290aGVyJ10pICsgaW50KHN0YXRbJ2NoYXJnZV9hbW91bnRfY2FyZCddKV0=</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>学生充值消费</text>
-      </register>
-      <register name="5" type="4">
-        <text>_</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
+      <register name="5" type="4">
+        <text>d</text>
+      </register>
+      <register name="6" type="4">
+        <text>u</text>
+      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNbMTA6XV0gZm9yIGMgaW4gZXhjZWxfcHJlX2RhdGFdCg==</text>
+      <register name="9" type="4">
+        <text>__cohhntent</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
