@@ -48,12 +48,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462094534822">
-        <mark key="'" line="84" column="16" />
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="79" column="31" />
-        <mark key="^" line="79" column="31" />
-        <mark key="." line="79" column="31" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462101881498">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="107" column="83" />
+        <mark key="]" line="107" column="99" />
+        <mark key="^" line="107" column="99" />
+        <mark key="." line="107" column="99" />
       </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
@@ -279,11 +279,11 @@
       <file name="/Dummy.txt" timestamp="1460825132930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462097386103">
-        <mark key="[" line="140" column="79" />
-        <mark key="]" line="140" column="79" />
-        <mark key="^" line="140" column="47" />
-        <mark key="." line="140" column="79" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462101253728">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="145" column="53" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1461919170690">
         <mark key="[" line="8" column="16" />
@@ -462,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -474,31 +474,31 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29uc3VtZV9hbW91bnRfYW5zd2VyJwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>值</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29uc3VtZV9hbW91bnRfdHV0b3InLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>充</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAneWVhcl9tZW1iZXJfYWN0aXZhdGVkJywK</text>
       </register>
-      <register name="5" type="4">
-        <text>送</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncXVhcnRlcl9tZW1iZXJfYWN0aXZhdGVkJywK</text>
       </register>
       <register name="6" type="4">
-        <text>赠</text>
+        <text>charge_amount_alipay</text>
       </register>
       <register name="7" type="4">
-        <text>统</text>
+        <text>）</text>
       </register>
       <register name="8" type="4">
-        <text>系</text>
+        <text>分</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>（</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
