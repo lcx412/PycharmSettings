@@ -48,12 +48,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462089540994">
-        <mark key="'" line="73" column="16" />
-        <mark key="[" line="51" column="89" />
-        <mark key="]" line="53" column="33" />
-        <mark key="^" line="53" column="33" />
-        <mark key="." line="53" column="33" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462092597877">
+        <mark key="'" line="78" column="16" />
+        <mark key="[" line="73" column="16" />
+        <mark key="]" line="59" column="14" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="59" column="14" />
       </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
@@ -456,44 +456,44 @@
       <jump line="70" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjILiotby9zMqmuaTXygo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBwYXRoIGluIHBhdGhzX3RvX3JlbW92ZToKICAgICAgICBvcy5zeXN0ZW0oJ2dpdCBybSAnICsgcGF0aCArICcqIC1yJykK</text>
+        <text encoding="base64">ICAgICAgICAjILiotby9zMqmuaTXygo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="4">
         <text>2</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>1</text>
       </register>
+      <register name="3" type="4">
+        <text>=</text>
+      </register>
+      <register name="4" type="4">
+        <text>!</text>
+      </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>type</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aW4g</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZWFjaGVyX3R5cGUg</text>
+        <text encoding="base64">MiA=</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>*</text>
+        <text>check_status</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -539,7 +539,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -557,16 +557,16 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -578,23 +578,38 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
