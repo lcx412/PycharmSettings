@@ -48,12 +48,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462093112295">
-        <mark key="'" line="78" column="16" />
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="73" column="16" />
-        <mark key="^" line="73" column="16" />
-        <mark key="." line="73" column="16" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462094467332">
+        <mark key="'" line="84" column="16" />
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="79" column="31" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
         <mark key="[" line="0" column="0" />
@@ -456,44 +456,44 @@
       <jump line="70" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjILiotby9zMqmuaTXygo=</text>
+      <register name="&quot;" type="4">
+        <text>wage_tutor</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>wage_tutor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjILiotby9zMqmuaTXygo=</text>
+      <register name="0" type="4">
+        <text>wage_tutor_bonus</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>wage_tutor</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>=</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>type</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">YW5kIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">MiA=</text>
-      </register>
-      <register name="8" type="4">
         <text>=</text>
       </register>
+      <register name="6" type="4">
+        <text>!</text>
+      </register>
+      <register name="7" type="4">
+        <text>type</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">YW5kIA==</text>
+      </register>
       <register name="9" type="4">
-        <text>check_status</text>
+        <text encoding="base64">MiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
