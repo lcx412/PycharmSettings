@@ -1,23 +1,4 @@
 <application>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PyCompatibilityInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -54,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -66,46 +47,39 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe" />
-  </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="false" />
-        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="true" />
-        <entry key="C:\virtualenvs\esm\Scripts\python.exe" value="true" />
-        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="true" />
+        <entry key="/usr/bin/python2.7" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
-        <entry key="C:\Python27\python.exe" value="false" />
-        <entry key="C:\Users\matt1mast\upperhand\Scripts\python.exe" value="false" />
-        <entry key="C:\virtualenvs\redis\Scripts\python.exe" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
       </map>
     </option>
   </component>
   <component name="RecentTaskRepositories">
-    <iceScrum shared="false" url="http://10.16.1.4:8080/icescrum/p/ESM">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password>dfc7dfcbdfdedfdedf84dfc7dfcbdfd9dfde</password>
+      <password />
+      <token />
       <option name="loginAnonymously" value="false" />
-      <option name="pkey" value="ESM" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="serverUrl" value="http://10.16.1.4:8080/icescrum" />
+      <option name="repoAuthor" value="" />
+      <option name="repoName" value="" />
       <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="true" />
+      <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>matt.mast</username>
-    </iceScrum>
+      <option name="user" value="" />
+      <username />
+    </GitHub>
   </component>
 </application>
