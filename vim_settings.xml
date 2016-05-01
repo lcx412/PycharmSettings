@@ -35,12 +35,12 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462090297811">
-        <mark key="'" line="401" column="0" />
-        <mark key="[" line="398" column="42" />
-        <mark key="]" line="403" column="42" />
-        <mark key="^" line="403" column="42" />
-        <mark key="." line="403" column="42" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462095691422">
+        <mark key="'" line="402" column="0" />
+        <mark key="[" line="402" column="14" />
+        <mark key="]" line="402" column="19" />
+        <mark key="^" line="402" column="19" />
+        <mark key="." line="402" column="19" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1461648926405">
         <mark key="[" line="16" column="14" />
@@ -274,8 +274,8 @@
       <file name="/Dummy.txt" timestamp="1460825132930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462088941129">
-        <mark key="[" line="136" column="25" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462095884067">
+        <mark key="[" line="138" column="110" />
         <mark key="]" line="136" column="25" />
         <mark key="^" line="112" column="45" />
         <mark key="." line="75" column="95" />
@@ -292,6 +292,7 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1462095739980" />
       <file name="C:/Repos/OctaneMainNoBranchBRZ/FilterGit.py" timestamp="1461370682829">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="34" column="0" />
@@ -456,8 +457,8 @@
       <jump line="70" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wage_tutor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="-" type="4">
         <text>wage_tutor</text>
@@ -465,8 +466,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>wage_tutor_bonus</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
         <text>wage_tutor</text>
