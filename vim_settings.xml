@@ -50,17 +50,11 @@
         <mark key="^" line="108" column="27" />
         <mark key="." line="102" column="35" />
       </file>
-      <file name="C:/Repos/octane/allReleases/ultracamgitrepo.py" timestamp="1461617209224">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" timestamp="1461618150150">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/.gitignore" timestamp="1461940831773">
-        <mark key="[" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/PopManager.py" timestamp="1461343543493">
         <mark key="'" line="184" column="29" />
@@ -81,9 +75,6 @@
         <mark key="]" line="319" column="123" />
         <mark key="^" line="319" column="123" />
         <mark key="." line="319" column="123" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_one4one.html" timestamp="1461938197596">
-        <mark key="[" line="6" column="72" />
       </file>
       <file name="D:/PythonProjects/one4one/oneToOne.sh" timestamp="1462154766101">
         <mark key="'" line="19" column="0" />
@@ -166,7 +157,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1461783214175">
+      <file name="/Python Console" timestamp="1462166469151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -178,12 +169,12 @@
         <mark key="." line="183" column="12" />
         <mark key="^" line="182" column="12" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1462154827498">
-        <mark key="'" line="67" column="37" />
-        <mark key="[" line="174" column="36" />
-        <mark key="]" line="174" column="37" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="174" column="37" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1462165304281">
+        <mark key="'" line="68" column="37" />
+        <mark key="[" line="176" column="36" />
+        <mark key="]" line="176" column="37" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="176" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
@@ -222,9 +213,6 @@
         <mark key="]" line="70" column="30" />
         <mark key="^" line="70" column="30" />
         <mark key="." line="70" column="30" />
-      </file>
-      <file name="/Django Console" timestamp="1462088011650">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" timestamp="1461860205173">
         <mark key="'" line="11" column="44" />
@@ -294,9 +282,9 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1461381000213">
         <mark key="[" line="135" column="94" />
-        <mark key="]" line="142" column="26" />
-        <mark key="." line="142" column="26" />
-        <mark key="^" line="140" column="46" />
+        <mark key="]" line="143" column="26" />
+        <mark key="." line="143" column="26" />
+        <mark key="^" line="141" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/StreamPredictor.py" timestamp="1461343230304">
         <mark key="'" line="38" column="0" />
@@ -305,8 +293,11 @@
         <mark key="^" line="15" column="90" />
         <mark key="." line="15" column="90" />
       </file>
-      <file name="/a.regexp" timestamp="1460819554955">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Python2/Lib/site-packages/mail.py" timestamp="1462166472044">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers.html" timestamp="1462111449192">
         <mark key="[" line="22" column="37" />
@@ -447,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>关</text>
+        <text>, datetime</text>
       </register>
       <register name="-" type="4">
-        <text>关</text>
+        <text>, datetime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -459,28 +450,28 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>关</text>
+        <text>, datetime</text>
       </register>
       <register name="2" type="4">
-        <text>相</text>
+        <text>关</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>相</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
         <text>)</text>
