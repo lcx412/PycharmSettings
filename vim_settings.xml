@@ -46,12 +46,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462122118390">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="108" column="43" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="108" column="27" />
-        <mark key="." line="102" column="35" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462196694502">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="102" column="16" />
+        <mark key="]" line="104" column="35" />
+        <mark key="^" line="110" column="27" />
+        <mark key="." line="104" column="35" />
       </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" timestamp="1461618150150">
         <mark key="[" line="12" column="0" />
@@ -173,7 +173,6 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="176" column="37" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.1/system/python_stubs/1473657777/__builtin__.py" timestamp="1462172764012" />
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/WordPredictor.py" timestamp="1461343590809">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="52" />
@@ -219,7 +218,6 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="C:/Python2/Lib/email/header.py" timestamp="1462172703373" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1461812154989">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="78" column="170" />
@@ -309,7 +307,12 @@
         <mark key="]" line="54" column="23" />
         <mark key="." line="54" column="23" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1461821467754">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462196372112">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462196248168">
         <mark key="[" line="66" column="34" />
         <mark key="]" line="67" column="16" />
         <mark key="." line="67" column="16" />
@@ -437,10 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -449,31 +452,31 @@
         <text encoding="base64">ICAgIHdhZ2VfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="2" type="4">
-        <text>quit</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>close</text>
+        <text>quit</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGltcG9ydCBNSU1FTXVsdGlwYXJ0</text>
+        <text>close</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text encoding="base64">IGltcG9ydCBNSU1FTXVsdGlwYXJ0</text>
       </register>
       <register name="6" type="4">
-        <text>, datetime</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>关</text>
+        <text>, datetime</text>
       </register>
       <register name="8" type="4">
-        <text>相</text>
+        <text>关</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>相</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
