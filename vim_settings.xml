@@ -114,12 +114,12 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="82" column="33" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" timestamp="1462286399210">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="43" column="52" />
-        <mark key="." line="43" column="52" />
-        <mark key="^" line="43" column="52" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" timestamp="1462287155853">
+        <mark key="'" line="130" column="4" />
+        <mark key="[" line="51" column="76" />
+        <mark key="]" line="51" column="89" />
+        <mark key="." line="51" column="89" />
+        <mark key="^" line="51" column="89" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1462120759759">
         <mark key="[" line="56" column="27" />
@@ -459,43 +459,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>last_period_start_date</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>.strftime('%Y%m%d')</text>
       </register>
       <register name="3" type="4">
         <text>y</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgogICAgICAgIGNvbm5fbWF0cml4ID0gc2VsZi5jb25uX21hdHJpeAogICAgICAgIGN1cl9tYXRyaXggPSBzZWxmLmN1cl9tYXRyaXgK</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9wZXJpb2RfZW5kX2RheSA9IChkYXRldGltZS5zdHJwdGltZSh0b2QsICclWS0lbS0lZCcpIC0gdGltZWRlbHRhKDEpKS5zdHJmdGltZSgnJVklbSVkJykK</text>
       </register>
-      <register name="6" type="4">
-        <text>y</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9wZXJpb2RfZW5kX2RheSA9IChkYXRldGltZS5zdHJwdGltZSh0b2QsICclWS0lbS0lZCcpIC0gdGltZWRlbHRhKDEpKS5zdHJmdGltZSgnJVklbSVkJykK</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
