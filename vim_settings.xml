@@ -53,6 +53,11 @@
         <mark key="^" line="82" column="23" />
         <mark key="." line="149" column="32" />
       </file>
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1462243916080">
+        <mark key="[" line="110" column="55" />
+        <mark key="]" line="110" column="55" />
+        <mark key="." line="110" column="55" />
+      </file>
       <file name="C:/Repos/Imagery/private/user/arao/octane/python/ultracamgitrepo.py" timestamp="1461618150150">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -453,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -465,31 +470,31 @@
         <text>self.week == u'星期一'</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="4">
-        <text>not (self.week == u'星期一' or re.search(r'01$', self.yes_date)):</text>
-      </register>
-      <register name="3" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="4">
-        <text>8</text>
-      </register>
-      <register name="5" type="4">
-        <text>-</text>
-      </register>
-      <register name="6" type="4">
-        <text>f</text>
-      </register>
-      <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="8" type="4">
         <text>u</text>
       </register>
-      <register name="9" type="4">
+      <register name="2" type="4">
+        <text>)</text>
+      </register>
+      <register name="3" type="4">
+        <text>not (self.week == u'星期一' or re.search(r'01$', self.yes_date)):</text>
+      </register>
+      <register name="4" type="4">
         <text>'</text>
+      </register>
+      <register name="5" type="4">
+        <text>8</text>
+      </register>
+      <register name="6" type="4">
+        <text>-</text>
+      </register>
+      <register name="7" type="4">
+        <text>f</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="4">
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
