@@ -100,14 +100,17 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="29" column="51" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_chart.js" timestamp="1462331215203">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_chart.js" timestamp="1462334777294">
         <mark key="[" line="53" column="17" />
+        <mark key="]" line="68" column="32" />
+        <mark key="^" line="68" column="32" />
+        <mark key="." line="68" column="32" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462331151532">
-        <mark key="[" line="579" column="32" />
-        <mark key="]" line="579" column="32" />
-        <mark key="^" line="572" column="39" />
-        <mark key="." line="579" column="32" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462335644143">
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="8" />
+        <mark key="^" line="476" column="0" />
+        <mark key="." line="476" column="8" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1461129108107">
         <mark key="[" line="50" column="441" />
@@ -198,13 +201,12 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462330874230">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462336200668">
         <mark key="'" line="44" column="37" />
         <mark key="j" line="17" column="20" />
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="18" column="19" />
+        <mark key="[" line="17" column="87" />
+        <mark key="]" line="17" column="88" />
+        <mark key="." line="17" column="88" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462330106216">
         <mark key="[" line="30" column="51" />
@@ -329,43 +331,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>日</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>日</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BlcmlvZF9uZXcgPSB1J7WxyNXQwtT2yKjP3tPDu6fBvycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdGltZV9zdHIsIGVuZF90aW1lX3N0ciA9IGR0KHRvZGF5X2RhdGUsIDM1KSwgZHQodG9kYXlfZGF0ZSwgMCkK</text>
       </register>
       <register name="1" type="4">
-        <text>日</text>
+        <text>5</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>3</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>detailed</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC5kYXk1X2NoYXJnZWRfb3JfbWVtYmVyfGFzX3BlcmNlbnRhZ2Vfb2Zfd2l0aF9kZXNjcmlwdGlvbjpzdGF0LnByaXZpbGVnZWRfdXNlcnNfbmV3IH19PC90ZD4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnRfdG9fZXhjZWw6IDEsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">NF9yZXF1ZXN0ZWR8YXNfcGVyY2VudGFnZV9vZl93aXRoX2Rlc2NyaXB0aW9uOnN0YXQucHJpdmlsZWdlZF91c2Vyc19uZXcgfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LmRheTE0X3R1dG9yZWR8YXNfcGVyY2VudGFnZV9vZl93aXRoX2Rlc2NyaXB0aW9uOnN0YXQucHJpdmlsZWdlZF91c2Vyc19uZXcgfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LmRheTE0X2NoYXJnZWRfb3JfbWVtYmVyfGFzX3BlcmNlbnRhZ2Vfb2Zfd2l0aF9kZXNjcmlwdGlvbjpzdGF0LnByaXZpbGVnZWRfdXNlcnNfbmV3IH19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC5kYXkzMF9yZXF1ZXN0ZWR8YXNfcGVyY2VudGFnZV9vZl93aXRoX2Rlc2NyaXB0aW9uOnN0YXQucHJpdmlsZWdlZF91c2Vyc19uZXcgfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LmRheTMwX3R1dG9yZWR8YXNfcGVyY2VudGFnZV9vZl93aXRoX2Rlc2NyaXB0aW9uOnN0YXQucHJpdmlsZWdlZF91c2Vyc19uZXcgfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LmRheTMw</text>
       </register>
       <register name="6" type="4">
         <text>日</text>
       </register>
       <register name="7" type="4">
-        <text>日</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>日</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>, u'+14周发起', u'+14周使用',</text>
+        <text>detailed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
