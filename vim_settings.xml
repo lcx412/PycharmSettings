@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1462174252146">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="77" column="69" />
-        <mark key="^" line="6" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/test_word_predictor.py" timestamp="1461343626625">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="12" />
@@ -67,6 +62,12 @@
         <mark key="]" line="113" column="53" />
         <mark key="." line="113" column="53" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one.js" timestamp="1462330426352">
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="53" column="4" />
+        <mark key="^" line="53" column="41" />
+        <mark key="." line="53" column="4" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1460991864344">
         <mark key="[" line="82" column="32" />
         <mark key="]" line="82" column="33" />
@@ -99,12 +100,14 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="29" column="51" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462328021455">
-        <mark key="'" line="486" column="58" />
-        <mark key="[" line="509" column="98" />
-        <mark key="]" line="509" column="99" />
-        <mark key="." line="509" column="99" />
-        <mark key="^" line="503" column="61" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_chart.js" timestamp="1462331215203">
+        <mark key="[" line="53" column="17" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462331151532">
+        <mark key="[" line="579" column="32" />
+        <mark key="]" line="579" column="32" />
+        <mark key="^" line="572" column="39" />
+        <mark key="." line="579" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1461129108107">
         <mark key="[" line="50" column="441" />
@@ -195,14 +198,15 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462326350864">
-        <mark key="j" line="13" column="20" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="11" column="67" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462330874230">
+        <mark key="'" line="44" column="37" />
+        <mark key="j" line="17" column="20" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="18" column="19" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462203545574">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462330106216">
         <mark key="[" line="30" column="51" />
         <mark key="]" line="30" column="51" />
         <mark key="^" line="27" column="36" />
@@ -222,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="134" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="148" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -322,63 +325,63 @@
       <jump line="461" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="471" column="7" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="44" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>日</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>日</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydF90aW1lX3N0clw+</text>
+        <text encoding="base64">XDx2aWV3X2J5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiB2aWV3X2J5ID09IDA6CiAgICAgICAgZXhjZWxfcHJlX2RhdGEgPSBzdGF0aXN0aWNzX2xpc3QudmFsdWVzX2xpc3QoJ2RhdGUnLCAncHJpdmlsZWdlZF91c2Vyc19uZXcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXkwX3JlcXVlc3RlZCcsICdkYXkwX3R1dG9yZWQnLCAnZGF5MF9jaGFyZ2VkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF5MF9jaGFyZ2VkX29yX21lbWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RheTFfcmVxdWVzdGVkJywgJ2RheTFfdHV0b3JlZCcsICdkYXkxX2NoYXJnZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXkxX2NoYXJnZWRfb3JfbWVtYmVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF5M19yZXF1ZXN0ZWQnLCAnZGF5M190dXRvcmVkJywgJ2RheTNfY2hhcmdlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RheTNfY2hhcmdlZF9vcl9tZW1iZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXk3X3JlcXVlc3RlZCcsICdkYXk3X3R1dG9yZWQnLCAnZGF5N19jaGFyZ2VkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF5N19jaGFyZ2VkX29yX21lbWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RheTE0X3JlcXVlc3RlZCcsICdkYXkxNF90dXRvcmVkJywgJ2RheTE0X2NoYXJnZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXkxNF9jaGFyZ2VkX29yX21lbWJlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RheTMwX3JlcXVlc3RlZCcsICdkYXkzMF90dXRvcmVkJywgJ2RheTMwX2NoYXJnZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXkzMF9jaGFyZ2VkX29yX21lbWJlcicpCiAgICAgICAgZXhjZWxfZGF0YSA9IFsKICAgICAgICAgICAgW2ludChyb3dbMF0pLCBpbnQocm93WzFdKV0gKyBbc3RyKHJvdW5kKGZsb2F0KGMpICogMTAwIC8gcm93WzFdLCAyKSkgKyAnJScgZm9yIGMgaW4gcm93WzI6XSBpZiBjID49IDBdCiAgICAgICAgICAgIGZvcgogICAgICAgICAgICByb3cgaW4gZXhjZWxfcHJlX2RhdGFdCiAgICAgICAgaWYgc3RhcnRfdGltZV9zdHIgIT0gZW5kX3RpbWVfc3RyOgogICAgICAgICAgICBmaWxlX25hbWUgPSB1J9DC1PbIqM/e08O7p9equ6/Ns7zGXycgKyBzdGFydF90aW1lX3N0ciArICctJyArIGVuZF90aW1lX3N0cgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZpbGVfbmFtZSA9IHUn0MLU9sioz97Tw7un16q7r82zvMZfJyArIHN0YXJ0X3RpbWVfc3RyCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BlcmlvZF9uZXcgPSB1J7WxyNXQwtT2yKjP3tPDu6fBvycK</text>
       </register>
       <register name="1" type="4">
-        <text>y</text>
+        <text>日</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>detailed</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXhjZWxfcmVzcG9uc2UoY29sdW1uX25hbWVzMiwgZXhjZWxfZGF0YSwgZmlsZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnRfdG9fZXhjZWw6IDEsCg==</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>日</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>日</text>
       </register>
       <register name="8" type="4">
-        <text>员</text>
+        <text>日</text>
       </register>
       <register name="9" type="4">
-        <text>会</text>
+        <text>, u'+14周发起', u'+14周使用',</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydF90aW1lX3N0clw+</last-search>
+      <last-search encoding="base64">XDx2aWV3X2J5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydF90aW1lX3N0clw+</last-pattern>
+      <last-pattern encoding="base64">XDx2aWV3X2J5XD4=</last-pattern>
       <last-replace />
       <last-substitute>\#.+\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>工资</entry>
         <entry>date_starts</entry>
         <entry>column</entry>
         <entry encoding="base64">XDxpZlw+</entry>
@@ -398,6 +401,7 @@
         <entry>ratio</entry>
         <entry>remain</entry>
         <entry encoding="base64">XDxzdGFydF90aW1lX3N0clw+</entry>
+        <entry encoding="base64">XDx2aWV3X2J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
