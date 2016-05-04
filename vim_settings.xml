@@ -17,11 +17,6 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="C:/Python2/Lib/socket.py" timestamp="1462169343512">
-        <mark key="[" line="538" column="29" />
-        <mark key="]" line="538" column="29" />
-        <mark key="." line="538" column="29" />
-      </file>
       <file name="/a.dummy" timestamp="1462287646018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,10 +27,11 @@
         <mark key="^" line="287" column="51" />
         <mark key="." line="287" column="51" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462368655340">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462369696108">
+        <mark key="[" line="84" column="99" />
+        <mark key="]" line="84" column="104" />
+        <mark key="." line="84" column="104" />
+        <mark key="^" line="84" column="104" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1462355187707">
         <mark key="'" line="48" column="11" />
@@ -89,11 +85,6 @@
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="4" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462123983643">
-        <mark key="[" line="59" column="111" />
-        <mark key="]" line="59" column="111" />
-        <mark key="." line="59" column="111" />
-      </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1462358695239">
         <mark key="'" line="118" column="12" />
         <mark key="[" line="151" column="33" />
@@ -107,11 +98,6 @@
         <mark key="]" line="51" column="89" />
         <mark key="." line="51" column="89" />
         <mark key="^" line="51" column="89" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1462120759759">
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/ProtobufManager.py" timestamp="1461037569001">
         <mark key="'" line="102" column="0" />
@@ -248,11 +234,6 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_chart.js" timestamp="1462121780532">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462345776693">
         <mark key="'" line="44" column="37" />
         <mark key="j" line="17" column="20" />
@@ -265,11 +246,6 @@
         <mark key="]" line="30" column="51" />
         <mark key="^" line="27" column="36" />
         <mark key="." line="30" column="51" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_chart.js" timestamp="1462122591918">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="13" />
-        <mark key="." line="56" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -375,11 +351,11 @@
       <jump line="48" column="11" filename="D:/PythonProjects/Stat/answer_consume_stat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWxzID0gJygnICsgJywnLmpvaW4odGVscykgKyAnKScK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
@@ -387,32 +363,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQuZXhjaGFuZ2VfYW5zd2VyfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWxzID0gJygnICsgJywnLmpvaW4odGVscykgKyAnKScK</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWxzID0gW10K</text>
+      <register name="2" type="4">
+        <text>account_balance</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVscyArPSBbbGluZS5zdHJpcCgpXQo=</text>
+      <register name="3" type="4">
+        <text>province,city,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBvcGVuKCcuL2xhZGluZ191c2Vycy50eHQnLCAncicpOgo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>q</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>q</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
