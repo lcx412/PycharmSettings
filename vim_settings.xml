@@ -59,10 +59,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1462290621694">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="15" />
-        <mark key="." line="36" column="15" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1462326042416">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="113" column="52" />
+        <mark key="]" line="113" column="53" />
+        <mark key="." line="113" column="53" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462123983643">
         <mark key="[" line="59" column="111" />
@@ -139,7 +140,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462290719837">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462326064575">
         <mark key="'" line="115" column="4" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="12" />
@@ -232,10 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="23" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="170" column="41" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="171" column="13" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="179" column="67" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="180" column="64" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="185" column="33" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -332,6 +329,10 @@
       <jump line="108" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="37" column="24" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="117" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
+      <jump line="110" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
+      <jump line="18" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
+      <jump line="122" column="8" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
