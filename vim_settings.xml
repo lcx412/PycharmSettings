@@ -14,13 +14,15 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="C:/Python2/Lib/socket.py" timestamp="1462169343512">
-        <mark key="[" line="538" column="29" />
-        <mark key="]" line="538" column="29" />
-        <mark key="." line="538" column="29" />
-      </file>
       <file name="/a.dummy" timestamp="1462287646018">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462326583190">
+        <mark key="'" line="427" column="0" />
+        <mark key="[" line="287" column="44" />
+        <mark key="]" line="287" column="51" />
+        <mark key="^" line="287" column="51" />
+        <mark key="." line="287" column="51" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1461648926405">
         <mark key="[" line="16" column="14" />
@@ -65,11 +67,6 @@
         <mark key="]" line="113" column="53" />
         <mark key="." line="113" column="53" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1462123983643">
-        <mark key="[" line="59" column="111" />
-        <mark key="]" line="59" column="111" />
-        <mark key="." line="59" column="111" />
-      </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1460991864344">
         <mark key="[" line="82" column="32" />
         <mark key="]" line="82" column="33" />
@@ -82,11 +79,6 @@
         <mark key="]" line="51" column="89" />
         <mark key="." line="51" column="89" />
         <mark key="^" line="51" column="89" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1462120759759">
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1462203729084" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462174417200">
@@ -106,6 +98,13 @@
         <mark key="]" line="42" column="53" />
         <mark key="." line="42" column="53" />
         <mark key="^" line="29" column="51" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462327327713">
+        <mark key="'" line="484" column="58" />
+        <mark key="[" line="471" column="32" />
+        <mark key="]" line="471" column="38" />
+        <mark key="." line="471" column="38" />
+        <mark key="^" line="471" column="38" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1461129108107">
         <mark key="[" line="50" column="441" />
@@ -140,7 +139,7 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462326064575">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462326118329">
         <mark key="'" line="115" column="4" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="12" />
@@ -196,16 +195,11 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_chart.js" timestamp="1462121780532">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462209142311">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462326350864">
         <mark key="j" line="13" column="20" />
-        <mark key="[" line="12" column="82" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="60" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="11" column="67" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462203545574">
@@ -226,17 +220,8 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_chart.js" timestamp="1462122591918">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="13" />
-        <mark key="." line="56" column="13" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="67" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="180" column="64" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="185" column="33" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
-      <jump line="187" column="32" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="90" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="134" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -333,55 +318,59 @@
       <jump line="18" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="122" column="8" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
+      <jump line="452" column="49" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="461" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="471" column="7" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
+        <text encoding="base64">XDxzdGFydF90aW1lX3N0clw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdF93ZWVrX3N0YXJ0X3RzID0gaW50KHRpbWUyLm1rdGltZShsYXN0X3dlZWtfc3RhcnQudGltZXR1cGxlKCkpKQo=</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QuUE9TVC5nZXQoJ3BhZ2UnLCAwKSAhPSAwOgo=</text>
       </register>
       <register name="1" type="4">
-        <text>!</text>
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+      <register name="2" type="4">
+        <text>g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLmV4aQo=</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</last-search>
+      <last-search encoding="base64">XDxzdGFydF90aW1lX3N0clw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF90aW1lX3N0clw+</last-pattern>
       <last-replace />
       <last-substitute>\#.+\n</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>公职</entry>
         <entry>工资</entry>
         <entry>date_starts</entry>
         <entry>column</entry>
@@ -409,6 +397,7 @@
         <entry>118</entry>
         <entry>ratio</entry>
         <entry>remain</entry>
+        <entry encoding="base64">XDxzdGFydF90aW1lX3N0clw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
