@@ -17,9 +17,6 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1462287646018">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462345551503">
         <mark key="'" line="427" column="0" />
         <mark key="[" line="430" column="43" />
@@ -27,12 +24,12 @@
         <mark key="^" line="287" column="51" />
         <mark key="." line="287" column="51" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462376019473">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="93" column="95" />
-        <mark key="]" line="93" column="107" />
-        <mark key="." line="93" column="107" />
-        <mark key="^" line="93" column="107" />
+      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462382906736">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="98" column="79" />
+        <mark key="]" line="98" column="65" />
+        <mark key="^" line="98" column="65" />
+        <mark key="." line="98" column="65" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1462355187707">
         <mark key="'" line="48" column="11" />
@@ -73,12 +70,6 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1462326042416">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="113" column="52" />
-        <mark key="]" line="113" column="53" />
-        <mark key="." line="113" column="53" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one.js" timestamp="1462330426352">
         <mark key="[" line="55" column="47" />
         <mark key="]" line="53" column="4" />
@@ -106,6 +97,7 @@
         <mark key="^" line="68" column="91" />
         <mark key="." line="68" column="91" />
       </file>
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1462203729084" />
       <file name="$USER_HOME$/Documents/Github/StreamPredictor/source/Experiment.py" timestamp="1461341843268">
         <mark key="'" line="148" column="6" />
         <mark key="[" line="150" column="4" />
@@ -145,6 +137,7 @@
       <file name="D:/PythonProjects/matrix/statistics/templatetags/divide_by_num.py" timestamp="1462346513143">
         <mark key="[" line="6" column="28" />
       </file>
+      <file name="D:/PythonProjects/Stat/Fenglei3.py" timestamp="1462381632633" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1462346405300">
         <mark key="[" line="47" column="24" />
         <mark key="]" line="47" column="34" />
@@ -179,6 +172,7 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
+      <file name="C:/Python2/Lib/email/header.py" timestamp="1462219545498" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1461812154989">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="78" column="170" />
@@ -249,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="47" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="123" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="188" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="172" column="20" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -347,48 +340,49 @@
       <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="44" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" />
       <jump line="48" column="11" filename="D:/PythonProjects/Stat/answer_consume_stat.py" />
-      <jump line="101" column="230" filename="D:/PythonProjects/Stat/Lading.py" />
       <jump line="58" column="0" filename="D:/PythonProjects/Stat/Lading.py" />
+      <jump line="101" column="136" filename="D:/PythonProjects/Stat/Lading.py" />
+      <jump line="113" column="0" filename="D:/PythonProjects/Stat/Lading.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ZGlzdGluY3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ZGlzdGluY3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQuZXhjaGFuZ2VfYW5zd2VyfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCiAgICAgICAgY3VyID0gc2VsZi5jdXIK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text encoding="base64">ZGlzdGluY3Qg</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>city</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>province</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
-      <register name="9" type="4">
-        <text>balance</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -399,7 +393,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx2aWV3X2J5XD4=</last-pattern>
       <last-replace />
-      <last-substitute>\#.+\n</last-substitute>
+      <last-substitute encoding="base64">XDx2aWV3X2J5XD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
