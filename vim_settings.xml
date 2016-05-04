@@ -59,7 +59,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1462287664167">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1462290621694">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="36" column="15" />
         <mark key="." line="36" column="15" />
@@ -139,12 +139,11 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462289186539">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="64" column="75" />
-        <mark key="]" line="64" column="76" />
-        <mark key="^" line="64" column="76" />
-        <mark key="." line="64" column="76" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462290719837">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="12" />
+        <mark key="." line="106" column="12" />
       </file>
       <file name="D:/PythonProjects/Stat/T.py" timestamp="1461917009148">
         <mark key="[" line="27" column="49" />
@@ -233,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="10" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="23" column="14" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
       <jump line="170" column="41" filename="C:/Repos/Imagery/private/user/arao/octane/python/FilterGit_bfg.py" />
@@ -331,15 +329,16 @@
       <jump line="124" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
       <jump line="122" column="47" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="39" column="56" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
-      <jump line="117" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="108" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
+      <jump line="37" column="24" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
+      <jump line="117" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5X2FuZF9jaGRpclw+</text>
@@ -348,31 +347,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbGFzdF93ZWVrX3N0YXJ0X3RzID0gaW50KHRpbWUyLm1rdGltZShsYXN0X3dlZWtfc3RhcnQudGltZXR1cGxlKCkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>y</text>
+        <text>!</text>
       </register>
-      <register name="2" type="4">
-        <text>a</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLmV4aQo=</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>y</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
