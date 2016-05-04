@@ -211,11 +211,12 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462326118329">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462348754069">
         <mark key="'" line="115" column="4" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="12" />
-        <mark key="." line="106" column="12" />
+        <mark key="[" line="115" column="31" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="67" column="82" />
       </file>
       <file name="D:/PythonProjects/Stat/T.py" timestamp="1461917009148">
         <mark key="[" line="27" column="49" />
@@ -460,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
@@ -472,31 +473,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQuZXhjaGFuZ2VfYW5zd2VyfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
       </register>
       <register name="1" type="4">
-        <text>3</text>
-      </register>
-      <register name="2" type="4">
-        <text>exchange_answer</text>
-      </register>
-      <register name="3" type="4">
-        <text>)</text>
-      </register>
-      <register name="4" type="4">
-        <text>2</text>
-      </register>
-      <register name="5" type="4">
-        <text>,</text>
-      </register>
-      <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="2" type="4">
+        <text>6</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>-</text>
+      </register>
+      <register name="5" type="4">
+        <text>3</text>
+      </register>
+      <register name="6" type="4">
+        <text>exchange_answer</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
+      <register name="8" type="4">
+        <text>2</text>
+      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
