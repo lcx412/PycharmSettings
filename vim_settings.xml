@@ -16,17 +16,18 @@
         <mark key="^" line="287" column="51" />
         <mark key="." line="287" column="51" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462416506582">
-        <mark key="[" line="133" column="32" />
-        <mark key="]" line="130" column="85" />
-        <mark key="." line="130" column="85" />
+      <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462420135450">
+        <mark key="[" line="91" column="13" />
+        <mark key="]" line="90" column="24" />
+        <mark key="." line="90" column="24" />
+        <mark key="^" line="90" column="24" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462413798301">
+      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462418059015">
         <mark key="'" line="126" column="0" />
-        <mark key="[" line="98" column="79" />
-        <mark key="]" line="98" column="65" />
-        <mark key="^" line="98" column="65" />
-        <mark key="." line="98" column="65" />
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="82" column="57" />
+        <mark key="^" line="82" column="57" />
+        <mark key="." line="82" column="57" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1462355187707">
         <mark key="'" line="48" column="11" />
@@ -248,12 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.merge(charge_stat, how='left',
-                                                                                            on=['user_id']).merge(
-            member_stat, how='left', on=['user_id'])</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
@@ -262,33 +261,33 @@
         <text encoding="base64">ICAgICAgICBjaGFyZ2Vfbm90X21lbWJlci50b19jc3YoIi4vY2hhcmdlX25vdF9tZW1iZXIuY3N2IiwgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="4">
+        <text>s</text>
+      </register>
+      <register name="2" type="4">
+        <text>i</text>
+      </register>
+      <register name="3" type="4">
+        <text>d</text>
+      </register>
+      <register name="4" type="4">
         <text>.merge(charge_stat, how='left',
                                                                                             on=['user_id']).merge(
             member_stat, how='left', on=['user_id'])</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
-      </register>
-      <register name="4" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
-        <text>o</text>
-      </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
