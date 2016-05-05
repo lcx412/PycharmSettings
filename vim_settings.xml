@@ -9,12 +9,12 @@
         <mark key="^" line="96" column="109" />
         <mark key="." line="96" column="110" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462421596029">
-        <mark key="'" line="434" column="0" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="^" line="283" column="50" />
-        <mark key="." line="291" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462439525978">
+        <mark key="'" line="435" column="0" />
+        <mark key="[" line="286" column="17" />
+        <mark key="]" line="286" column="26" />
+        <mark key="^" line="286" column="26" />
+        <mark key="." line="286" column="26" />
       </file>
       <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462437988627">
         <mark key="[" line="91" column="498" />
@@ -86,11 +86,12 @@
         <mark key="^" line="68" column="32" />
         <mark key="." line="68" column="32" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462350906472">
-        <mark key="[" line="158" column="63" />
-        <mark key="]" line="574" column="63" />
-        <mark key="^" line="574" column="63" />
-        <mark key="." line="574" column="63" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462439760268">
+        <mark key="'" line="471" column="15" />
+        <mark key="[" line="583" column="92" />
+        <mark key="]" line="584" column="24" />
+        <mark key="^" line="584" column="24" />
+        <mark key="." line="584" column="24" />
       </file>
       <file name="/Python Console" timestamp="1462350162870">
         <mark key="[" line="0" column="0" />
@@ -231,7 +232,6 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="452" column="49" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="461" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="471" column="7" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="44" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" />
       <jump line="48" column="11" filename="D:/PythonProjects/Stat/answer_consume_stat.py" />
@@ -240,19 +240,20 @@
       <jump line="113" column="0" filename="D:/PythonProjects/Stat/Lading.py" />
       <jump line="102" column="26" filename="D:/PythonProjects/Stat/Lading_Hive.py" />
       <jump line="136" column="4" filename="D:/PythonProjects/Stat/Lading_Hive.py" />
+      <jump line="471" column="15" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>u'+2周发起', u'+2周使用', u'+2周充值(会员)',</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aWV3X2J5XD4=</text>
+        <text>conversion</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHdlZWszX3JlcXVlc3RlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfdHV0b3JlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfY2hhcmdlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfY2hhcmdlZF9vcl9tZW1iZXIgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKIA==</text>
+        <text>u'+2周发起', u'+2周使用', u'+2周充值(会员)',</text>
       </register>
       <register name="1" type="4">
         <text>)</text>
@@ -286,17 +287,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2aWV3X2J5XD4=</last-search>
+      <last-search>conversion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aWV3X2J5XD4=</last-pattern>
+      <last-pattern>conversion</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx2aWV3X2J5XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date_starts</entry>
         <entry>column</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxkaXN0aW5jdFw+</entry>
@@ -316,6 +316,7 @@
         <entry>remain</entry>
         <entry encoding="base64">XDxzdGFydF90aW1lX3N0clw+</entry>
         <entry encoding="base64">XDx2aWV3X2J5XD4=</entry>
+        <entry>conversion</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
