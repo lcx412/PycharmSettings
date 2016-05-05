@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Lading_Hive.py" timestamp="1462384611163">
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="94" column="52" />
-        <mark key="^" line="91" column="29" />
-        <mark key="." line="94" column="52" />
+      <file name="D:/PythonProjects/Stat/Lading_Hive.py" timestamp="1462409399851">
+        <mark key="[" line="129" column="85" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1462345551503">
         <mark key="'" line="427" column="0" />
@@ -30,12 +30,11 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462350159545">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="146" column="141" />
-        <mark key="]" line="139" column="119" />
-        <mark key="." line="139" column="119" />
-        <mark key="^" line="139" column="119" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462408695107">
+        <mark key="'" line="96" column="8" />
+        <mark key="]" line="137" column="119" />
+        <mark key="." line="137" column="119" />
+        <mark key="^" line="137" column="119" />
       </file>
       <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1462375860235">
         <mark key="]" line="110" column="55" />
@@ -239,10 +238,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3VzZXJfbmFtZScsIA==</text>
+        <text>.merge(charge_stat, how='left',
+                                                                                            on=['user_id']).merge(
+            member_stat, how='left', on=['user_id'])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3VzZXJfbmFtZScsIA==</text>
+        <text>telephone_num</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
@@ -251,28 +252,30 @@
         <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCiAgICAgICAgY3VyID0gc2VsZi5jdXIK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">J3VzZXJfbmFtZScsIA==</text>
+        <text>.merge(charge_stat, how='left',
+                                                                                            on=['user_id']).merge(
+            member_stat, how='left', on=['user_id'])</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>telephone_num</text>
       </register>
       <register name="3" type="4">
-        <text>user_name</text>
+        <text encoding="base64">J3VzZXJfbmFtZScsIA==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>user_name</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZGlzdGluY3Qg</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text encoding="base64">ZGlzdGluY3Qg</text>
       </register>
       <register name="9" type="4">
         <text>t</text>
