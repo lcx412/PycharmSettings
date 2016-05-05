@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Lading_Hive.py" timestamp="1462413333694">
+      <file name="D:/PythonProjects/Stat/Lading_Hive.py" timestamp="1462416479556">
         <mark key="'" line="138" column="4" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="8" />
@@ -16,7 +16,12 @@
         <mark key="^" line="287" column="51" />
         <mark key="." line="287" column="51" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462413244183">
+      <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462416506582">
+        <mark key="[" line="133" column="32" />
+        <mark key="]" line="130" column="85" />
+        <mark key="." line="130" column="85" />
+      </file>
+      <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462413798301">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="98" column="79" />
         <mark key="]" line="98" column="65" />
@@ -53,11 +58,11 @@
         <mark key="]" line="113" column="53" />
         <mark key="." line="113" column="53" />
       </file>
-      <file name="D:/PythonProjects/Stat/Charge_all_stat.py" timestamp="1462413136119">
-        <mark key="[" line="73" column="36" />
-        <mark key="]" line="75" column="205" />
-        <mark key="." line="75" column="205" />
-        <mark key="^" line="75" column="205" />
+      <file name="D:/PythonProjects/Stat/Charge_all_stat.py" timestamp="1462417035957">
+        <mark key="[" line="92" column="141" />
+        <mark key="]" line="77" column="202" />
+        <mark key="." line="77" column="202" />
+        <mark key="^" line="77" column="202" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one.js" timestamp="1462330426352">
         <mark key="[" line="55" column="47" />
@@ -131,13 +136,6 @@
         <mark key="]" line="55" column="34" />
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462345776693">
-        <mark key="'" line="44" column="37" />
-        <mark key="j" line="17" column="20" />
-        <mark key="[" line="17" column="87" />
-        <mark key="]" line="17" column="88" />
-        <mark key="." line="17" column="88" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462330106216">
         <mark key="[" line="30" column="51" />
@@ -250,43 +248,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>.merge(charge_stat, how='left',
+                                                                                            on=['user_id']).merge(
+            member_stat, how='left', on=['user_id'])</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCiAgICAgICAgY3VyID0gc2VsZi5jdXIK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2Vfbm90X21lbWJlci50b19jc3YoIi4vY2hhcmdlX25vdF9tZW1iZXIuY3N2IiwgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>.merge(charge_stat, how='left',
+                                                                                            on=['user_id']).merge(
+            member_stat, how='left', on=['user_id'])</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
-      </register>
-      <register name="4" type="4">
-        <text>i</text>
-      </register>
-      <register name="5" type="4">
-        <text>h</text>
-      </register>
-      <register name="6" type="4">
         <text>_</text>
       </register>
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
