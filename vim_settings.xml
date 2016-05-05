@@ -16,11 +16,11 @@
         <mark key="^" line="283" column="50" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462420135450">
-        <mark key="[" line="91" column="13" />
-        <mark key="]" line="90" column="24" />
-        <mark key="." line="90" column="24" />
-        <mark key="^" line="90" column="24" />
+      <file name="D:/PythonProjects/Stat/Lading_Hive2.py" timestamp="1462422628827">
+        <mark key="[" line="91" column="111" />
+        <mark key="]" line="91" column="126" />
+        <mark key="." line="91" column="126" />
+        <mark key="^" line="91" column="126" />
       </file>
       <file name="D:/PythonProjects/Stat/Lading.py" timestamp="1462418059015">
         <mark key="'" line="126" column="0" />
@@ -248,11 +248,11 @@
       <jump line="136" column="4" filename="D:/PythonProjects/Stat/Lading_Hive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdlZWszX2NoYXJnZWRfb3JfbWVtYmVyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3X2J5XD4=</text>
@@ -260,34 +260,34 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIHdlZWszX3JlcXVlc3RlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfdHV0b3JlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfY2hhcmdlZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgd2VlazNfY2hhcmdlZF9vcl9tZW1iZXIgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHdlZWszX2NoYXJnZWRfb3JfbWVtYmVyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHdlZWs0X2NoYXJnZWRfb3JfbWVtYmVyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICB3ZWVrM19jaGFyZ2VkX29yX21lbWJlciA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>s</text>
-      </register>
-      <register name="5" type="4">
+      <register name="1" type="4">
         <text>i</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHdlZWszX2NoYXJnZWRfb3JfbWVtYmVyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdlZWs0X2NoYXJnZWRfb3JfbWVtYmVyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICB3ZWVrM19jaGFyZ2VkX29yX21lbWJlciA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
         <text>.merge(charge_stat, how='left',
                                                                                             on=['user_id']).merge(
             member_stat, how='left', on=['user_id'])</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="9" type="4">
-        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
