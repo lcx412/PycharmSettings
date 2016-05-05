@@ -106,7 +106,7 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462440649375">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462443274094">
         <mark key="'" line="122" column="8" />
         <mark key="[" line="112" column="40" />
         <mark key="]" line="112" column="44" />
@@ -133,7 +133,7 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462440410160">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462443278866">
         <mark key="'" line="44" column="37" />
         <mark key="j" line="17" column="20" />
         <mark key="[" line="106" column="36" />
@@ -252,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>用户转化增加按周查看；完善财务数据</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>用户转化增加按周查看；完善财务数据</text>
       </register>
       <register name="/" type="4">
         <text>conversion</text>
@@ -264,31 +264,31 @@
         <text>u'+2周发起', u'+2周使用', u'+2周充值(会员)',</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>用户转化增加按周查看；完善财务数据</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
