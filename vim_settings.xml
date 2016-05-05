@@ -53,7 +53,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="D:/PythonProjects/Stat/Charge_all_stat.py" timestamp="1462462497620">
+      <file name="D:/PythonProjects/Stat/Charge_all_stat.py" timestamp="1462467035060">
         <mark key="[" line="92" column="141" />
         <mark key="]" line="77" column="202" />
         <mark key="." line="77" column="202" />
@@ -99,11 +99,11 @@
         <mark key="^" line="584" column="24" />
         <mark key="." line="584" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1462350162870">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templatetags/divide_by_num.py" timestamp="1462346513143">
-        <mark key="[" line="6" column="28" />
+      <file name="C:/Python2/Lib/site-packages/mysql_pool.py" timestamp="1462467320679">
+        <mark key="[" line="183" column="69" />
+        <mark key="]" line="183" column="12" />
+        <mark key="." line="183" column="12" />
+        <mark key="^" line="182" column="12" />
       </file>
       <file name="D:/PythonProjects/Stat/Fenglei3.py" timestamp="1462381632633" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1462346405300">
@@ -118,6 +118,11 @@
         <mark key="]" line="112" column="44" />
         <mark key="." line="112" column="44" />
         <mark key="^" line="112" column="44" />
+      </file>
+      <file name="D:/PythonProjects/Stat/T.py" timestamp="1462467422067">
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="C:/Python2/Lib/email/header.py" timestamp="1462219545498" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1462384960557">
@@ -257,11 +262,11 @@
       <jump line="122" column="8" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>用户转化增加按周查看；完善财务数据</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>用户转化增加按周查看；完善财务数据</text>
+        <text>conn_post</text>
       </register>
       <register name="/" type="4">
         <text>conversion</text>
@@ -269,32 +274,33 @@
       <register name="0" type="4">
         <text>u'+2周发起', u'+2周使用', u'+2周充值(会员)',</text>
       </register>
-      <register name="1" type="4">
-        <text>用户转化增加按周查看；完善财务数据</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uX2hpdmUgPSBzZWxmLmNvbm5faGl2ZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uX3Bvc3QgPSBzZWxmLgo=</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>conn_post</text>
       </register>
-      <register name="5" type="4">
-        <text>m</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>MySQLdb.connect(host='10.51.50.57', user='matrix', passwd='matrix_afanti100',
+                                           db='statistic_data', port=3306)</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>cur2</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
