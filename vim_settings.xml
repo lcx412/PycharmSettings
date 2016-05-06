@@ -54,8 +54,11 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462538408947">
-        <mark key="'" line="183" column="8" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462546164515">
+        <mark key="[" line="187" column="80" />
+        <mark key="]" line="191" column="76" />
+        <mark key="^" line="191" column="76" />
+        <mark key="." line="191" column="76" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462515065543">
         <mark key="'" line="96" column="8" />
@@ -279,43 +282,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text>'fenglei.ma@lejent.com'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'fenglei.ma@lejent.com'</text>
       </register>
       <register name="/" type="4">
         <text>timed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50X3N0YXR1cy5hcHBlbmQoY29ubmVjdGVkX3R1dG9yX2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5fc3RhdHVzLmFwcGVuZCh1IrWlwb/X3LzGIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text>'fenglei.ma@lejent.com'</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>prhe</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text />
       </register>
       <register name="6" type="4">
-        <text>accept_student_ratio</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>成功接单人数比例</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>accept_student_ratio</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
