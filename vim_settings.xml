@@ -34,11 +34,11 @@
         <mark key="^" line="91" column="126" />
       </file>
       <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462589549637">
-        <mark key="[" line="880" column="92" />
-        <mark key="]" line="880" column="92" />
-        <mark key="^" line="880" column="92" />
-        <mark key="." line="880" column="92" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462606897871">
+        <mark key="[" line="877" column="78" />
+        <mark key="]" line="877" column="78" />
+        <mark key="^" line="878" column="42" />
+        <mark key="." line="877" column="78" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462515065543">
         <mark key="'" line="96" column="8" />
@@ -104,14 +104,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1462443278866">
-        <mark key="'" line="44" column="37" />
-        <mark key="j" line="17" column="20" />
-        <mark key="[" line="106" column="36" />
-        <mark key="]" line="106" column="37" />
-        <mark key="." line="106" column="37" />
-        <mark key="^" line="106" column="122" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462330106216">
         <mark key="[" line="30" column="51" />
@@ -233,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -245,31 +237,31 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5fc3RhdHVzLmFwcGVuZCh1IrWlwb/X3LzGIikK</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="4">
         <text>i</text>
       </register>
+      <register name="5" type="4">
+        <text>t</text>
+      </register>
+      <register name="6" type="4">
+        <text>)</text>
+      </register>
+      <register name="7" type="4">
+        <text>d</text>
+      </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
