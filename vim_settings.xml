@@ -9,11 +9,17 @@
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1462727782946">
+        <mark key="[" line="77" column="96" />
+        <mark key="]" line="77" column="96" />
+        <mark key="^" line="77" column="96" />
+        <mark key="." line="78" column="49" />
+      </file>
       <file name="/a.dummy" timestamp="1462502454534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462724645020">
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462727841462">
         <mark key="[" line="901" column="17" />
         <mark key="]" line="896" column="42" />
         <mark key="." line="896" column="42" />
@@ -25,7 +31,7 @@
         <mark key="." line="137" column="119" />
         <mark key="^" line="137" column="119" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462723794995">
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462724866545">
         <mark key="'" line="122" column="8" />
         <mark key="[" line="112" column="40" />
         <mark key="]" line="112" column="44" />
@@ -68,9 +74,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462724566730">
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462727935317">
         <mark key="'" line="43" column="34" />
-        <mark key="^" line="29" column="33" />
+        <mark key="[" line="87" column="55" />
+        <mark key="]" line="87" column="63" />
+        <mark key="^" line="87" column="63" />
+        <mark key="." line="87" column="63" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1462590513940">
         <mark key="^" line="11" column="118" />
@@ -180,43 +189,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllcyA9IChkYXRldGltZS50b2RheSgpIC0gdGltZWRlbHRhKDEpKS5zdHJmdGltZSgnJVktJW0tJWQnKQ==</text>
+        <text>总</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllcyA9IChkYXRldGltZS50b2RheSgpIC0gdGltZWRlbHRhKDEpKS5zdHJmdGltZSgnJVktJW0tJWQnKQ==</text>
+        <text>总</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoZGlzdGluY3Qgb3BlcmF0ZWRfdXNlcl9pZCkgZnJvbSBvcGVyYXRpb24gd2hlcmUgdHlwZT0zNCBhbmQgb3BlcmF0aW9uX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIpCg==</text>
+      <register name="0" type="4">
+        <text>sum(if(cost_flag=1,consume_amount,0))</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllcyA9IChkYXRldGltZS50b2RheSgpIC0gdGltZWRlbHRhKDEpKS5zdHJmdGltZSgnJVktJW0tJWQnKQ==</text>
+        <text>总</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>汇</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>日</text>
       </register>
       <register name="4" type="4">
-        <text>y</text>
+        <text>每</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIL32ysrTw9Pa1tzSuwo=</text>
+      <register name="5" type="4">
+        <text>一</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>对</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>一</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -227,7 +236,7 @@
       <last-offset />
       <last-pattern>question</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XDx2aWV3X2J5XD4=</last-substitute>
+      <last-substitute>question</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
