@@ -31,13 +31,12 @@
         <mark key="^" line="91" column="126" />
       </file>
       <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462719717268">
-        <mark key="[" line="203" column="66" />
-        <mark key="]" line="203" column="66" />
-        <mark key="." line="203" column="66" />
-        <mark key="^" line="200" column="53" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462721617228">
+        <mark key="]" line="896" column="42" />
+        <mark key="." line="896" column="42" />
+        <mark key="^" line="896" column="42" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462515065543">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462722117314">
         <mark key="'" line="96" column="8" />
         <mark key="]" line="137" column="119" />
         <mark key="." line="137" column="119" />
@@ -103,6 +102,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462722256143">
+        <mark key="'" line="60" column="34" />
+        <mark key="[" line="63" column="83" />
+        <mark key="]" line="63" column="83" />
+        <mark key="." line="63" column="83" />
+        <mark key="^" line="63" column="83" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1462330106216">
         <mark key="[" line="30" column="51" />
         <mark key="]" line="30" column="51" />
@@ -120,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="156" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="177" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="157" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -220,46 +225,47 @@
       <jump line="150" column="39" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="152" column="21" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="153" column="23" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
+      <jump line="60" column="34" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connected_tutor_count</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>connected_tutor_count</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
-      <register name="0" type="4">
-        <text>status_dict['9']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoZGlzdGluY3Qgb3BlcmF0ZWRfdXNlcl9pZCkgZnJvbSBvcGVyYXRpb24gd2hlcmUgdHlwZT0zNCBhbmQgb3BlcmF0aW9uX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>connected_tutor_count</text>
+        <text>4</text>
       </register>
       <register name="2" type="4">
-        <text>success_tutor_count</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>success_tutor_coun</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>态</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="6" type="4">
-        <text>状</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>有</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>所</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>通</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
