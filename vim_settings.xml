@@ -19,8 +19,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462727841462">
-        <mark key="[" line="901" column="17" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462731232267">
+        <mark key="[" line="901" column="20" />
         <mark key="]" line="896" column="42" />
         <mark key="." line="896" column="42" />
         <mark key="^" line="896" column="42" />
@@ -74,28 +74,18 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462727935317">
-        <mark key="'" line="43" column="34" />
-        <mark key="[" line="87" column="55" />
-        <mark key="]" line="87" column="63" />
-        <mark key="^" line="87" column="63" />
-        <mark key="." line="87" column="63" />
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462730456104">
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="108" column="74" />
+        <mark key="]" line="108" column="74" />
+        <mark key="^" line="108" column="73" />
+        <mark key="." line="108" column="74" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1462590513940">
         <mark key="^" line="11" column="118" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="177" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="157" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="151" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="158" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="161" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="165" column="26" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="1" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="61" column="6" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="17" column="50" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="160" column="3" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="192" column="36" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="64" column="28" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -186,46 +176,56 @@
       <jump line="152" column="21" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="153" column="23" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="60" column="34" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="87" column="102" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="8" column="0" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="88" column="20" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="9" column="12" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="109" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="94" column="42" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="10" column="26" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="106" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="86" column="42" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="111" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>总</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>总</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="4">
-        <text>sum(if(cost_flag=1,consume_amount,0))</text>
+        <text>Sheet1</text>
       </register>
       <register name="1" type="4">
-        <text>总</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>汇</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>日</text>
+        <text>上</text>
       </register>
-      <register name="4" type="4">
-        <text>每</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>一</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZWxfd3JpdGVyLnNhdmUoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>对</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGYudG9fZXhjZWwoZXhjZWxfd3JpdGVyLCBzaGVldF9uYW1lPSdTaGVldDEnLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="7" type="4">
-        <text>一</text>
+        <text>教师相关</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZWxfd3JpdGVyID0gcGFuZGFzLkV4Y2VsV3JpdGVyKGNodW55YW5fZmlsZSwgZW5naW49J3hsd3QnKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>教师相关</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
