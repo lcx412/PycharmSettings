@@ -56,10 +56,11 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462781841403">
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="88" />
-        <mark key="." line="50" column="88" />
+      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462785506282">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="34" />
+        <mark key="." line="42" column="34" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462552401466">
         <mark key="[" line="105" column="33" />
@@ -198,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -210,31 +211,31 @@
         <text>join answer_user on(operation.operated_user_id=answer_user.user_id)</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>requested</text>
       </register>
       <register name="3" type="4">
-        <text>w</text>
-      </register>
-      <register name="4" type="4">
-        <text>s</text>
-      </register>
-      <register name="5" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
-        <text>a</text>
-      </register>
-      <register name="7" type="4">
         <text>r</text>
       </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
         <text>e</text>
       </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text>w</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text>n</text>
+      </register>
+      <register name="8" type="4">
+        <text>a</text>
+      </register>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
