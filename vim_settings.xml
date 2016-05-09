@@ -24,6 +24,9 @@
       <file name="/a.dummy" timestamp="1462763596033">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1462783872938">
+        <mark key="[" line="185" column="4" />
+      </file>
       <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462781040314">
         <mark key="[" line="903" column="18" />
@@ -64,12 +67,12 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="25" column="62" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1462780465942">
-        <mark key="'" line="46" column="15" />
+      <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1462784081034">
+        <mark key="'" line="57" column="32" />
         <mark key="[" line="47" column="82" />
-        <mark key="]" line="47" column="80" />
-        <mark key="^" line="47" column="80" />
-        <mark key="." line="47" column="80" />
+        <mark key="]" line="45" column="85" />
+        <mark key="^" line="45" column="85" />
+        <mark key="." line="45" column="85" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462765131830">
         <mark key="[" line="126" column="91" />
@@ -80,21 +83,18 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462781765050">
-        <mark key="'" line="123" column="4" />
-        <mark key="[" line="101" column="59" />
-        <mark key="]" line="100" column="179" />
-        <mark key="^" line="100" column="179" />
-        <mark key="." line="100" column="179" />
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462783321365">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="62" column="187" />
+        <mark key="]" line="62" column="211" />
+        <mark key="^" line="62" column="211" />
+        <mark key="." line="62" column="211" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1462590513940">
         <mark key="^" line="11" column="118" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="32" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="76" column="25" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="78" column="47" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="81" column="58" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="86" column="18" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="91" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -192,46 +192,49 @@
       <jump line="64" column="8" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
       <jump line="20" column="0" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
       <jump line="46" column="15" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
+      <jump line="16" column="18" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="114" column="0" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
+      <jump line="57" column="32" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>。</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="4">
-        <text>'houjian.song@lejent.com',</text>
+        <text>join answer_user on(operation.operated_user_id=answer_user.user_id)</text>
       </register>
       <register name="1" type="4">
-        <text>。</text>
+        <text>r</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">sb6xqLHtzqq1pbbAt9ay8LP2wLS1xNanuLaxqLHto7s8YnI+1Pa808HLw7/I1bPk1rW98LbuoaLDv7TOs+TWtdPDu6fBv6Giw7/I1crXtM6z5Na108O7p8G/tcjWuLHq</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>'fenglei.ma@lejent.com',</text>
+        <text>w</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">J3pvbmdjaGFuZy5saUBsZWplbnQuY29tJywg</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>[</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">J2ZlbmdsZWkubWFAbGVqZW50LmNvbScsIA==</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>using</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
