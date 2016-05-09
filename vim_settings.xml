@@ -58,8 +58,11 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="25" column="62" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1462766752647">
-        <mark key="[" line="16" column="7" />
+      <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1462770437548">
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="44" />
+        <mark key="^" line="74" column="60" />
+        <mark key="." line="74" column="44" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462765131830">
         <mark key="[" line="126" column="91" />
@@ -188,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -200,31 +203,31 @@
         <text>Sheet1</text>
       </register>
       <register name="1" type="4">
-        <text>8</text>
+        <text>*</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>5</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="6" type="4">
-        <text>b</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PA==</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text>\</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
