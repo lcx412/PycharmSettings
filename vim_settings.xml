@@ -56,11 +56,12 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462785506282">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="34" />
-        <mark key="." line="42" column="34" />
-        <mark key="^" line="42" column="35" />
+      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462804046353">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="44" column="39" />
+        <mark key="^" line="44" column="61" />
+        <mark key="." line="44" column="39" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462786767500">
         <mark key="[" line="100" column="36" />
@@ -96,8 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="58" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="86" column="18" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="91" column="52" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="99" column="60" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="105" column="36" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -196,13 +195,15 @@
       <jump line="16" column="18" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="114" column="0" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="57" column="32" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
+      <jump line="40" column="67" filename="D:/PythonProjects/one4one/wb_ltvpu.py" />
+      <jump line="36" column="31" filename="D:/PythonProjects/one4one/wb_ltvpu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -211,31 +212,31 @@
         <text>join answer_user on(operation.operated_user_id=answer_user.user_id)</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>u</text>
       </register>
       <register name="2" type="4">
-        <text>requested</text>
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>, 'week8_tutored'</text>
       </register>
       <register name="5" type="4">
-        <text>w</text>
+        <text>, 'week7_tutored'</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>, 'week6_tutored'</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>, 'week5_tutored'</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>, 'week4_tutored'</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>, 'week3_tutored'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
