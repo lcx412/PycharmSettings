@@ -126,12 +126,12 @@
         <mark key="^" line="62" column="211" />
         <mark key="." line="62" column="211" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462853630759">
-        <mark key="'" line="704" column="35" />
-        <mark key="[" line="687" column="22" />
-        <mark key="]" line="687" column="22" />
-        <mark key="." line="687" column="22" />
-        <mark key="^" line="686" column="33" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462853911600">
+        <mark key="'" line="700" column="35" />
+        <mark key="[" line="687" column="34" />
+        <mark key="]" line="687" column="34" />
+        <mark key="^" line="687" column="29" />
+        <mark key="." line="687" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -238,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>率</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>率</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -250,31 +250,31 @@
         <text encoding="base64">ICAgIChyZXN1bHRzX2xpc3QsIHBhZ2VfcmFuZ2UpID0gZG9fcGFnZV9wb3N0KHJlcXVlc3QsIHN0YXRpc3RpY3NfbGlzdCwgNDIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>率</text>
+        <text>+</text>
       </register>
       <register name="2" type="4">
-        <text>化</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>转</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>的</text>
+        <text>u</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91bmQoZmxvYXQoc3RhdFsnd2VlazBfdHV0b3JlZCddKSAqIDEwMCAvIHN0YXRbJ3ByaXZpbGVnZWRfdXNlcnNfbmV3J10sIDIpXQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb2x1bW5fZGF0YVt1J7Wx1tzKudPDuKi1vCjT0LzGyrEptcTXqruvwsonXSArPSBbCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91bmQoZmxvYXQoc3RhdFsnd2VlazBfY2hhcmdlZF9vcl9tZW1iZXInXSkgKiAxMDAgLyBzdGF0Wydwcml2aWxlZ2VkX3VzZXJzX25ldyddLCAyKV0K</text>
       </register>
-      <register name="8" type="4">
-        <text>-</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb2x1bW5fZGF0YVt1J7Wx1tyz5Na1KLvh1LEptcTXqruvwsonXSArPSBbCg==</text>
       </register>
       <register name="9" type="4">
-        <text>7</text>
+        <text>率</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
