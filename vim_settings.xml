@@ -15,12 +15,12 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462846253021">
+      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462848639527">
         <mark key="'" line="36" column="31" />
-        <mark key="[" line="55" column="133" />
-        <mark key="]" line="55" column="103" />
-        <mark key="^" line="55" column="103" />
-        <mark key="." line="55" column="103" />
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="38" />
+        <mark key="^" line="84" column="95" />
+        <mark key="." line="77" column="38" />
       </file>
       <file name="/Python Console" timestamp="1462843838030">
         <mark key="[" line="0" column="0" />
@@ -95,6 +95,9 @@
       <file name="D:/PythonProjects/one4one/oneToOne.sh" timestamp="1462845451010" />
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1462590513940">
         <mark key="^" line="11" column="118" />
+      </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1462848890398">
+        <mark key="[" line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -201,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">cHJpdmlsZWdlZF9jb252ZXJzaW9uX2J5X3dlZWsg</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">cHJpdmlsZWdlZF9jb252ZXJzaW9uX2J5X3dlZWsg</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -213,31 +216,55 @@
         <text>join answer_user on(operation.operated_user_id=answer_user.user_id)</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text encoding="base64">cHJpdmlsZWdlZF9jb252ZXJzaW9uX2J5X3dlZWsg</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>conversion</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIuZXhlY3V0a19zdHIpKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">d2hpdGVfYm9hcmRfd2hpdGVfbGlzdCA=</text>
+        <text>e
+                        &quot;select count(distinct user_id) from ((select distinct user_id from charge_record where end_time BETWEEN {0} and {1} and status=1 and charge_type not in (5,6) and user_id in (select distinct user_id from white_board_white_list where on_off=1 and add_time between {2} and {3})) union (select distinct user_id from charge_code_used_record where charge_time BETWEEN {0} and {1} and user_id in (select distinct user_id from white_board_white_list where on_off=1 and add_time between {2} and {3})))a&quot;.format(
+                            last_week_start_ts, tod_start_ts, week_start_ts, week_end_ts))
+                    week_charged_or_member = cur.fetchone()[0]
+                    cur_matrix.execute(
+                        &quot;update wb_privileged_conversion_by_week set {0}={1} where date={2}&quot;.format(
+                            week_charged_or_member_str,
+                            week_charged_or_member,
+                            wee</text>
       </register>
       <register name="5" type="4">
-        <text>conversion_</text>
+        <text>(
+                        &quot;select count(distinct student_user_id) from tutor_record where start_time BETWEEN {0} and {1} and student_user_id in (select distinct user_id from white_board_white_list where on_off=1 and add_time between {2} and {3})&quot;.format(
+                            last_week_start_ts, tod_start_ts, week_start_ts, week_end_ts))
+                    week_tutored = cur.fetchone()[0]
+                    cur_matrix.execute(
+                        &quot;update wb_privileged_conversion_by_week set {0}={1} where date={2}&quot;.format(week_tutored_str,
+                                                                                                    week_tutored,
+                                                                                                    week_str))
+                    cur.execute(
+                        &quot;select count(distinct user_id) from charge_record where end_time BETWEEN {0} and {1} and status=1 and charge_type not in (5,6) and user_id in (select distinct user_id from white_board_white_list where on_off=1 and add_time between {2} and {3})&quot;.format(
+                            last_week_start_ts, tod_start_ts, week_start_ts, week_end_ts))
+                    week_charged = cur.fetchone()[0]
+                    cur_matrix.execute(
+                        &quot;update wb_privileged_conversion_by_week set {0}={1} where date={2}&quot;.format(week_charged_str,
+                                                                                                    week_charged,
+                                                                                                    week_str))
+                    cur.execute(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGNvbnZlcnNpb24uY29udmVyc2lvbl9zdGF0KCkK</text>
+      <register name="6" type="4">
+        <text>requested</text>
       </register>
       <register name="7" type="4">
-        <text>Privileged_Conversion_Week</text>
+        <text encoding="base64">cmVxdWVzdGVkIA==</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>week_requested_str</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text encoding="base64">cHJpdmlsZWdlZF9jb252ZXJzaW9uX2J5X3dlZWsg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
