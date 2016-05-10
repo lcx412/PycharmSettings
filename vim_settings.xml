@@ -18,11 +18,11 @@
         <mark key="^" line="77" column="96" />
         <mark key="." line="78" column="49" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1462852680935">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="59" column="85" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1462862866026">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1462763596033">
         <mark key="[" line="0" column="0" />
@@ -119,6 +119,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_chart.js" timestamp="1462863311024">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462843967757">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="62" column="187" />
@@ -126,12 +131,12 @@
         <mark key="^" line="62" column="211" />
         <mark key="." line="62" column="211" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462861253833">
-        <mark key="'" line="700" column="31" />
-        <mark key="[" line="687" column="34" />
-        <mark key="]" line="687" column="34" />
-        <mark key="^" line="687" column="29" />
-        <mark key="." line="687" column="34" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462863273424">
+        <mark key="'" line="695" column="31" />
+        <mark key="[" line="684" column="25" />
+        <mark key="]" line="684" column="25" />
+        <mark key="^" line="684" column="41" />
+        <mark key="." line="684" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -238,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -250,31 +255,31 @@
         <text encoding="base64">ICAgIChyZXN1bHRzX2xpc3QsIHBhZ2VfcmFuZ2UpID0gZG9fcGFnZV9wb3N0KHJlcXVlc3QsIHN0YXRpc3RpY3NfbGlzdCwgNDIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>as_percentage_of_with_description</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91bmQoZmxvYXQoc3RhdFsnd2VlazBfdHV0b3JlZCddKSAqIDEwMCAvIHN0YXRbJ3ByaXZpbGVnZWRfdXNlcnNfbmV3J10sIDIpXQo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5fZGF0YVt1J7Wx1tzKudPDuKi1vCjT0LzGyrEptcTXqruvwsonXSArPSBbCg==</text>
+      <register name="6" type="4">
+        <text>privileg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91bmQoZmxvYXQoc3RhdFsnd2VlazBfY2hhcmdlZF9vcl9tZW1iZXInXSkgKiAxMDAgLyBzdGF0Wydwcml2aWxlZ2VkX3VzZXJzX25ldyddLCAyKV0K</text>
+      <register name="7" type="4">
+        <text>d_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5fZGF0YVt1J7Wx1tyz5Na1KLvh1LEptcTXqruvwsonXSArPSBbCg==</text>
+      <register name="8" type="4">
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>率</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
