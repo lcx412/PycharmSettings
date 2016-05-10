@@ -9,6 +9,22 @@
         <mark key="^" line="96" column="109" />
         <mark key="." line="81" column="157" />
       </file>
+      <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1462554770372">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462844024448">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="15" />
+        <mark key="^" line="119" column="14" />
+        <mark key="." line="119" column="15" />
+      </file>
+      <file name="/Python Console" timestamp="1462843838030">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Python2/Lib/site-packages/mysql_pool.py" timestamp="1462610163841">
         <mark key="'" line="153" column="23" />
         <mark key="[" line="185" column="0" />
@@ -26,42 +42,6 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1462783872938">
         <mark key="[" line="185" column="4" />
-      </file>
-      <file name="C:/Python2/Lib/site-packages/flask/app.py" timestamp="1462547116923" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462784644156">
-        <mark key="[" line="903" column="18" />
-        <mark key="]" line="903" column="18" />
-        <mark key="." line="903" column="18" />
-        <mark key="^" line="894" column="42" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462763274978">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="134" column="65" />
-        <mark key="]" line="138" column="119" />
-        <mark key="." line="138" column="119" />
-        <mark key="^" line="138" column="119" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462724866545">
-        <mark key="'" line="122" column="8" />
-        <mark key="[" line="112" column="40" />
-        <mark key="]" line="112" column="44" />
-        <mark key="." line="112" column="44" />
-        <mark key="^" line="112" column="44" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1462777509219" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1462779544595" />
-      <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1462554770372">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_ltvpu.py" timestamp="1462804046353">
-        <mark key="'" line="36" column="31" />
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="39" />
-        <mark key="^" line="44" column="61" />
-        <mark key="." line="44" column="39" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462786767500">
         <mark key="[" line="100" column="36" />
@@ -85,7 +65,27 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462783321365">
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462843482167">
+        <mark key="[" line="903" column="18" />
+        <mark key="]" line="903" column="18" />
+        <mark key="." line="903" column="18" />
+        <mark key="^" line="894" column="42" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462843685657">
+        <mark key="'" line="96" column="8" />
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="138" column="17" />
+        <mark key="." line="138" column="17" />
+        <mark key="^" line="136" column="10" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1462724866545">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="44" />
+        <mark key="." line="112" column="44" />
+        <mark key="^" line="112" column="44" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462843967757">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="62" column="187" />
         <mark key="]" line="62" column="211" />
@@ -200,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>conversion_</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>conversion_</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -212,31 +212,31 @@
         <text>join answer_user on(operation.operated_user_id=answer_user.user_id)</text>
       </register>
       <register name="1" type="4">
-        <text>u</text>
+        <text>conversion_</text>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgICAgIGNvbnZlcnNpb24uY29udmVyc2lvbl9zdGF0KCkK</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>Privileged_Conversion_Week</text>
       </register>
       <register name="4" type="4">
-        <text>, 'week8_tutored'</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>, 'week7_tutored'</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>, 'week6_tutored'</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>, 'week5_tutored'</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>, 'week4_tutored'</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>, 'week3_tutored'</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
