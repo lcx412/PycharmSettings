@@ -120,11 +120,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_chart.js" timestamp="1462868865282">
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="40" column="50" />
-        <mark key="^" line="40" column="42" />
-        <mark key="." line="40" column="50" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_chart.js" timestamp="1462873711996">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="37" column="28" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462843967757">
         <mark key="'" line="114" column="0" />
@@ -246,43 +246,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>horizontal</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>horizontal</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHgyOic4MCUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbiA6ICdkYXRhTWluJywK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>horizontal</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text>bottom</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text>center</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>x</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>[</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text />
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
