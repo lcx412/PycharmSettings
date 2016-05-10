@@ -18,11 +18,12 @@
         <mark key="^" line="77" column="96" />
         <mark key="." line="78" column="49" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1462862866026">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="58" column="39" />
-        <mark key="." line="0" column="8" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1462865775880">
+        <mark key="'" line="58" column="28" />
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="36" />
+        <mark key="^" line="59" column="18" />
+        <mark key="." line="58" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1462763596033">
         <mark key="[" line="0" column="0" />
@@ -119,10 +120,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_chart.js" timestamp="1462863311024">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="15" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_chart.js" timestamp="1462868865282">
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="50" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="50" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1462843967757">
         <mark key="'" line="114" column="0" />
@@ -131,16 +133,16 @@
         <mark key="^" line="62" column="211" />
         <mark key="." line="62" column="211" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462863273424">
-        <mark key="'" line="695" column="31" />
-        <mark key="[" line="684" column="25" />
-        <mark key="]" line="684" column="25" />
-        <mark key="^" line="684" column="41" />
-        <mark key="." line="684" column="25" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_chart.js" timestamp="1462864904045" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1462867248076">
+        <mark key="'" line="693" column="31" />
+        <mark key="[" line="682" column="73" />
+        <mark key="]" line="682" column="73" />
+        <mark key="^" line="677" column="35" />
+        <mark key="." line="682" column="73" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="16" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="183" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="173" column="32" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="169" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -240,46 +242,47 @@
       <jump line="697" column="61" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="114" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="700" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="58" column="28" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChyZXN1bHRzX2xpc3QsIHBhZ2VfcmFuZ2UpID0gZG9fcGFnZV9wb3N0KHJlcXVlc3QsIHN0YXRpc3RpY3NfbGlzdCwgNDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgyOic4MCUnLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>{</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text>as_percentage_of_with_description</text>
+        <text>2</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>privileg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>d_</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
         <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
