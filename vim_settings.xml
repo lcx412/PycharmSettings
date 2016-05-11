@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462960456040">
@@ -11,9 +11,6 @@
         <mark key="^" line="101" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1462947017057" />
-      <file name="/Python Console" timestamp="1462843838030">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1462945954207">
         <mark key="[" line="61" column="796" />
         <mark key="]" line="77" column="96" />
@@ -28,13 +25,6 @@
         <mark key="]" line="106" column="805" />
         <mark key="." line="106" column="805" />
         <mark key="^" line="106" column="805" />
-      </file>
-      <file name="D:/PythonProjects/Stat/Activated_time_stat.py" timestamp="1462963559739">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="8" />
-        <mark key="^" line="74" column="45" />
-        <mark key="." line="74" column="8" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462945790059">
         <mark key="[" line="21" column="50" />
@@ -189,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -201,31 +191,31 @@
         <text encoding="base64">ICAgICAgICBiYXNlID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVt1J3VzZXJfaWQnLCB1J7Xnu7AnLCB1J8TqvLYnLCB1J9eisuHKsbzkJywgdSfKobfdJywgdSezx8rQJywgdSfA+sq319yz5Na1J10pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>{0}&quot;.format(charge_code)</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>+ stat['charge_amount_card']</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>base</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="4">
         <text>i</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
