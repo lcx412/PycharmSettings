@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462939829539">
-        <mark key="'" line="92" column="4" />
-        <mark key="[" line="87" column="158" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462943974812">
+        <mark key="[" line="74" column="381" />
+        <mark key="]" line="74" column="131" />
+        <mark key="." line="74" column="131" />
+        <mark key="^" line="74" column="131" />
       </file>
       <file name="/Python Console" timestamp="1462843838030">
         <mark key="[" line="0" column="0" />
@@ -52,7 +51,7 @@
         <mark key="." line="903" column="18" />
         <mark key="^" line="894" column="42" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462935707894">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1462943050347">
         <mark key="'" line="96" column="8" />
         <mark key="[" line="137" column="61" />
         <mark key="]" line="150" column="73" />
@@ -62,7 +61,7 @@
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1462927495398" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1462943095231" />
       <file name="D:/PythonProjects/one4one/oneToOne.sh" timestamp="1462874036880">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="15" />
@@ -225,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>where</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -237,31 +236,31 @@
         <text encoding="base64">ICAgICAgICBwYXlzID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSxjb2x1bW5zPVt1J3VzZXJfaWQnLHUn1+69/NK7tM64qLW8yrG85CcsdSfX7r380ru0zriotby/xsS/Jyx1J9fuvfzSu7TOuKi1vMqxs6QnLHUn1+69/NK7tM64qLW8vczKpsbAvNsnLHUn1+69/NK7tM64qLW8z/u30ScsdSfX7r380ru0zriotby4trfRJ10pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>where</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
-        <text>m</text>
-      </register>
-      <register name="7" type="4">
-        <text>i</text>
-      </register>
-      <register name="8" type="4">
         <text>l</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="4">
+        <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>s</text>
+      </register>
+      <register name="8" type="4">
+        <text>个人数据</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBiYXNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
