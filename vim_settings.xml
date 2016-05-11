@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462949430754">
+      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462955403245">
+        <mark key="'" line="91" column="0" />
         <mark key="[" line="78" column="11" />
         <mark key="]" line="85" column="52" />
         <mark key="." line="85" column="119" />
@@ -90,8 +91,6 @@
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1462945862306" />
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="155" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="0" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="39" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -190,6 +189,8 @@
       <jump line="85" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="92" column="4" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
