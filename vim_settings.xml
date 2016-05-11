@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462938354410">
+      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462939829539">
         <mark key="'" line="92" column="4" />
-        <mark key="[" line="87" column="144" />
-        <mark key="]" line="87" column="144" />
-        <mark key="." line="87" column="144" />
-        <mark key="^" line="20" column="50" />
+        <mark key="[" line="87" column="158" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="/Python Console" timestamp="1462843838030">
         <mark key="[" line="0" column="0" />
@@ -122,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="159" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="155" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -220,7 +219,8 @@
       <jump line="700" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="58" column="28" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" />
       <jump line="88" column="117" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="21" column="46" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="85" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="92" column="4" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
     </jumps>
     <registers>
