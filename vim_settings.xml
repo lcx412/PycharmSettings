@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462956661910">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="90" column="18" />
-        <mark key="." line="90" column="18" />
-        <mark key="^" line="90" column="18" />
+      <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1462960456040">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="75" column="11" />
+        <mark key="]" line="101" column="42" />
+        <mark key="." line="101" column="42" />
+        <mark key="^" line="101" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1462947017057" />
       <file name="/Python Console" timestamp="1462843838030">
@@ -59,10 +59,11 @@
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1462945840109" />
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1462945851975" />
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462958755169">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462961102829">
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="39" />
+        <mark key="." line="95" column="39" />
+        <mark key="^" line="54" column="27" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1462945766741" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462945760644">
@@ -78,10 +79,6 @@
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1462945862306" />
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="0" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="39" column="4" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
-      <jump line="14" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="16" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="21" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="27" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -175,49 +172,53 @@
       <jump line="88" column="117" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="85" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="92" column="4" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="99" column="33" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="83" column="13" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="111" column="8" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="92" column="118" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
+      <jump line="11" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNob3dfZGV0YWlsID0gcmVxdWVzdC5QT1NULmdldCgnc2hvd19kZXRhaWwnLCAnMCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlzID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSxjb2x1bW5zPVt1J3VzZXJfaWQnLHUn1+69/NK7tM64qLW8yrG85CcsdSfX7r380ru0zriotby/xsS/Jyx1J9fuvfzSu7TOuKi1vMqxs6QnLHUn1+69/NK7tM64qLW8vczKpsbAvNsnLHUn1+69/NK7tM64qLW8z/u30ScsdSfX7r380ru0zriotby4trfRJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVt1J3VzZXJfaWQnLCB1J7Xnu7AnLCB1J8TqvLYnLCB1J9eisuHKsbzkJywgdSfKobfdJywgdSezx8rQJywgdSfA+sq319yz5Na1J10pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNob3dfZGV0YWlsID0gcmVxdWVzdC5QT1NULmdldCgnc2hvd19kZXRhaWwnLCAnMCcpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>+ stat['charge_amount_card']</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>base</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>where</text>
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
