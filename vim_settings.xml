@@ -59,7 +59,11 @@
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1462945840109" />
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1462945851975" />
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462956959383" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1462958755169">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1462945766741" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462945760644">
         <mark key="[" line="105" column="31" />
@@ -176,8 +180,8 @@
       <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNob3dfZGV0YWlsID0gcmVxdWVzdC5QT1NULmdldCgnc2hvd19kZXRhaWwnLCAnMCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -188,32 +192,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXlzID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSxjb2x1bW5zPVt1J3VzZXJfaWQnLHUn1+69/NK7tM64qLW8yrG85CcsdSfX7r380ru0zriotby/xsS/Jyx1J9fuvfzSu7TOuKi1vMqxs6QnLHUn1+69/NK7tM64qLW8vczKpsbAvNsnLHUn1+69/NK7tM64qLW8z/u30ScsdSfX7r380ru0zriotby4trfRJ10pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNob3dfZGV0YWlsID0gcmVxdWVzdC5QT1NULmdldCgnc2hvd19kZXRhaWwnLCAnMCcpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
-      </register>
-      <register name="3" type="4">
         <text>t</text>
       </register>
+      <register name="3" type="4">
+        <text>a</text>
+      </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="6" type="4">
         <text>where</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
-      </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
