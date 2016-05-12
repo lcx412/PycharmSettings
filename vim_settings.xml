@@ -25,11 +25,11 @@
       <file name="/a.dummy" timestamp="1462934529109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463026204442">
-        <mark key="[" line="92" column="415" />
-        <mark key="]" line="92" column="415" />
-        <mark key="." line="92" column="415" />
-        <mark key="^" line="92" column="133" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463030608778">
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="29" />
+        <mark key="^" line="177" column="24" />
+        <mark key="." line="175" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462945760644">
         <mark key="[" line="105" column="31" />
@@ -178,43 +178,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'yiqi.cong@lejent.com', 'yamin.zhang@lejent.com', 'ruibin.jia@lejent.com',</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'yiqi.cong@lejent.com', 'yamin.zhang@lejent.com', 'ruibin.jia@lejent.com',</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGd1YWd1YWxlID0gR3VhZ3VhbGUoKQo=</text>
+        <text encoding="base64">ICAgIHRvX2FkZHJlc3Nlc19mZWVkYmFjayA9IFsneWlxaS5jb25nQGxlamVudC5jb20nLCAneWFtaW4uemhhbmdAbGVqZW50LmNvbScsICdydWliaW4uamlhQGxlamVudC5jb20nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjaGVuZ3hpYW5nLmx1QGxlamVudC5jb20nXQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'yiqi.cong@lejent.com', 'yamin.zhang@lejent.com', 'ruibin.jia@lejent.com',</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>之</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>敏</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>张</text>
       </register>
       <register name="5" type="4">
-        <text>%</text>
+        <text>['yiqi.cong@lejent.com', 'yamin.zhang@lejent.com', 'ruibin.jia@lejent.com', 'chengxiang.lu@lejent.com']</text>
       </register>
-      <register name="6" type="4">
-        <text>:</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50X251bScsICdhZG9wdGVkX251bScsICdwYXJ0aWNpcGF0ZWRfcG9zdF9udW0nLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhZG9wdGlvbl9udW0nLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>%</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhdHRlbnRpb25fbnVtJywK</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>,'%Y-%m-%d %H:%i:%s'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
