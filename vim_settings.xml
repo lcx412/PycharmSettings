@@ -67,10 +67,12 @@
         <mark key="." line="150" column="73" />
         <mark key="^" line="150" column="73" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463036053833">
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463037410722">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="107" column="11" />
-        <mark key="^" line="115" column="72" />
+        <mark key="[" line="123" column="439" />
+        <mark key="]" line="123" column="439" />
+        <mark key="^" line="114" column="57" />
+        <mark key="." line="123" column="439" />
       </file>
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
@@ -188,11 +190,11 @@
       <jump line="66" column="0" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbW0gPSBzZWxmLmN1cl9tbQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8282</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -200,32 +202,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRvX2FkZHJlc3Nlc19mZWVkYmFjayA9IFsneWlxaS5jb25nQGxlamVudC5jb20nLCAneWFtaW4uemhhbmdAbGVqZW50LmNvbScsICdydWliaW4uamlhQGxlamVudC5jb20nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjaGVuZ3hpYW5nLmx1QGxlamVudC5jb20nXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbW0gPSBzZWxmLmN1cl9tbQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX21tID0gc2VsZi5jb25uX21tCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YW5kIGFjdHVhbF9jb25zdW1lX2Ftb3VudD4w</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9tbSA9IHNlbGYuY29ubl9tbS5jdXJzb3IoKQo=</text>
+      <register name="3" type="4">
+        <text>m</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fbW0gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuMjEuMTc4JywgcG9ydD0sIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nYWZhbnRpMTAwJywgZGI9J29uZScpCg==</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>8282</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">c3RhcnRfdGltZSA=</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Y291bnQoaWYodXBsb2FkX3RpbWU+dW5peF90aW1lc3RhbXAoJzIwMTYtMDQtMTInKSwxLE5VTEwpKWFzIGxhc3RfbW9udGhfc2VhcmNoLGNvdW50KCopYXMgdG90YWxfc2VhcmNoIGZyb20gdXNlciB1IGxlZnQgam9pbiBpbWFnZV9zZWFyY2ggaSBvbiB1LnVzZXJfaWQ9aS51c2VyX2lkIHdoZXJlIHRlbGVwaG9uZV9udW0gaW4gezB9IGdyb3VwIGJ5IHUudXNlcl9pZA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
