@@ -25,11 +25,11 @@
       <file name="/a.dummy" timestamp="1462934529109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463022552141">
-        <mark key="[" line="188" column="21" />
-        <mark key="]" line="106" column="805" />
-        <mark key="." line="106" column="805" />
-        <mark key="^" line="106" column="805" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463026204442">
+        <mark key="[" line="92" column="415" />
+        <mark key="]" line="92" column="415" />
+        <mark key="." line="92" column="415" />
+        <mark key="^" line="92" column="133" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462945760644">
         <mark key="[" line="105" column="31" />
@@ -39,6 +39,13 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
         <mark key="[" line="126" column="91" />
+      </file>
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463025822836">
+        <mark key="'" line="86" column="24" />
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="5" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1462945790059">
         <mark key="[" line="21" column="50" />
@@ -68,7 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="57" column="19" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="8" column="0" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
       <jump line="58" column="8" filename="C:/Repos/Imagery/private/user/arao/octane/python/ReleaseFilter.py" />
@@ -168,46 +174,47 @@
       <jump line="11" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="75" column="56" filename="D:/PythonProjects/Stat/Activated_time_stat.py" />
       <jump line="76" column="0" filename="D:/PythonProjects/Stat/Activated_time_stat.py" />
+      <jump line="86" column="24" filename="D:/PythonProjects/one4one/Guaguale.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlID0gcGFuZGFzLkRhdGFGcmFtZShsaXN0KGN1ci5mZXRjaGFsbCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVt1J3VzZXJfaWQnLCB1J7Xnu7AnLCB1J8TqvLYnLCB1J9eisuHKsbzkJywgdSfKobfdJywgdSezx8rQJywgdSfA+sq319yz5Na1J10pCg==</text>
+        <text encoding="base64">ICAgIGd1YWd1YWxlID0gR3VhZ3VhbGUoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>%</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>%</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
