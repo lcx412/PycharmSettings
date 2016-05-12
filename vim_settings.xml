@@ -75,12 +75,12 @@
         <mark key="[" line="61" column="29" />
         <mark key="^" line="155" column="73" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463038495105">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="73" column="29" />
-        <mark key="]" line="73" column="29" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="73" column="29" />
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463043843776">
+        <mark key="'" line="149" column="4" />
+        <mark key="[" line="123" column="24" />
+        <mark key="]" line="123" column="24" />
+        <mark key="^" line="123" column="23" />
+        <mark key="." line="123" column="24" />
       </file>
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
@@ -97,8 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="11" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="70" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="104" column="18" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="101" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="37" column="32" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
@@ -197,46 +195,48 @@
       <jump line="97" column="166" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="136" column="4" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
+      <jump line="129" column="113" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
+      <jump line="149" column="4" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndHV0b3Jfc3RhdCcK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>d</text>
-      </register>
-      <register name="5" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
         <text>a</text>
       </register>
+      <register name="3" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>s</text>
+      </register>
+      <register name="5" type="4">
+        <text>t</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
