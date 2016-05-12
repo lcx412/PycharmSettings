@@ -67,12 +67,12 @@
         <mark key="." line="150" column="73" />
         <mark key="^" line="150" column="73" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463037410722">
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463038495105">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="123" column="439" />
-        <mark key="]" line="123" column="439" />
-        <mark key="^" line="114" column="57" />
-        <mark key="." line="123" column="439" />
+        <mark key="[" line="73" column="29" />
+        <mark key="]" line="73" column="29" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="73" column="29" />
       </file>
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
@@ -191,43 +191,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvX2FkZHJlc3Nlc19mZWVkYmFjayA9IFsneWlxaS5jb25nQGxlamVudC5jb20nLCAneWFtaW4uemhhbmdAbGVqZW50LmNvbScsICdydWliaW4uamlhQGxlamVudC5jb20nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjaGVuZ3hpYW5nLmx1QGxlamVudC5jb20nXQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">YW5kIGFjdHVhbF9jb25zdW1lX2Ftb3VudD4w</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c3RhcnRfdGltZSA=</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
