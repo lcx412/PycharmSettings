@@ -75,12 +75,12 @@
         <mark key="[" line="61" column="29" />
         <mark key="^" line="155" column="73" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463043843776">
-        <mark key="'" line="149" column="4" />
-        <mark key="[" line="123" column="24" />
-        <mark key="]" line="123" column="24" />
-        <mark key="^" line="123" column="23" />
-        <mark key="." line="123" column="24" />
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463046711615">
+        <mark key="'" line="152" column="4" />
+        <mark key="[" line="125" column="105" />
+        <mark key="]" line="125" column="105" />
+        <mark key="^" line="125" column="105" />
+        <mark key="." line="125" column="105" />
       </file>
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
@@ -200,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
@@ -212,31 +212,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCAndHV0b3Jfc3RhdCcK</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>v</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>zhuoyue_sum</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>'./</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
