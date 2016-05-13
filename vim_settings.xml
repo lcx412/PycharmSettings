@@ -28,7 +28,10 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463032993598">
+      <file name="/Python Console" timestamp="1463121505158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463121814373">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="84" column="44" />
         <mark key="^" line="84" column="44" />
@@ -37,12 +40,10 @@
       <file name="/a.dummy" timestamp="1462934529109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463032471807">
-        <mark key="'" line="190" column="30" />
-        <mark key="[" line="202" column="103" />
-        <mark key="]" line="175" column="29" />
-        <mark key="^" line="177" column="24" />
-        <mark key="." line="175" column="29" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463123270659">
+        <mark key="'" line="200" column="30" />
+        <mark key="[" line="114" column="55" />
+        <mark key="." line="114" column="61" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1463041372222" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1462945760644">
@@ -198,43 +199,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>contact_info</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>contact_info</text>
       </register>
       <register name="/" type="4">
         <text>question</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndHV0b3Jfc3RhdCcK</text>
+      <register name="0" type="4">
+        <text>，</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>contact_info</text>
       </register>
       <register name="2" type="4">
-        <text>v</text>
+        <text>end_time</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>start_time</text>
       </register>
       <register name="4" type="4">
-        <text>c</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>zhuoyue_sum</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>'./</text>
+        <text>，</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>，</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>charge_amount</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
