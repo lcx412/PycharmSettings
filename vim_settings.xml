@@ -13,7 +13,7 @@
         <mark key="." line="101" column="42" />
         <mark key="^" line="101" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1463121505158">
+      <file name="/Python Console" timestamp="1463143193495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463121814373">
@@ -31,7 +31,8 @@
         <mark key="." line="114" column="61" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463138748538" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463138297730">
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463143205842">
+        <mark key="'" line="914" column="8" />
         <mark key="[" line="893" column="42" />
         <mark key="]" line="893" column="42" />
         <mark key="." line="893" column="42" />
@@ -72,11 +73,11 @@
         <mark key="^" line="54" column="27" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1463041372222" />
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463138583385">
-        <mark key="[" line="105" column="31" />
-        <mark key="]" line="105" column="32" />
-        <mark key="." line="105" column="32" />
-        <mark key="^" line="104" column="33" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463143171723">
+        <mark key="[" line="100" column="36" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+        <mark key="^" line="100" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
         <mark key="[" line="126" column="91" />
@@ -91,9 +92,6 @@
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463138638174" />
     </filemarks>
     <jumps>
-      <jump line="104" column="18" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="101" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="37" column="32" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
       <jump line="41" column="104" filename="C:/Python2/Lib/site-packages/mail.py" />
       <jump line="44" column="21" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
       <jump line="25" column="48" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
@@ -191,6 +189,9 @@
       <jump line="66" column="0" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="129" column="113" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="149" column="4" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
+      <jump line="909" column="20" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="914" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +234,7 @@
         <text>:</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
