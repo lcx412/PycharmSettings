@@ -6,12 +6,27 @@
       <file name="/start_script.py" timestamp="1463031555019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1463040896374">
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="90" column="88" />
+        <mark key="^" line="88" column="11" />
+        <mark key="." line="90" column="88" />
+      </file>
       <file name="D:/PythonProjects/Stat/Telephone_Sales.py" timestamp="1463034248685">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="75" column="11" />
         <mark key="]" line="101" column="42" />
         <mark key="." line="101" column="42" />
         <mark key="^" line="101" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463041108617">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1463041382388">
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="39" />
+        <mark key="." line="95" column="47" />
+        <mark key="^" line="54" column="27" />
       </file>
       <file name="/Python Console" timestamp="1463143193495">
         <mark key="[" line="0" column="0" />
@@ -30,7 +45,22 @@
         <mark key="[" line="114" column="55" />
         <mark key="." line="114" column="61" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463138748538" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463143171723">
+        <mark key="[" line="100" column="36" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+        <mark key="^" line="100" column="34" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
+        <mark key="[" line="126" column="91" />
+      </file>
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463025822836">
+        <mark key="'" line="86" column="24" />
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="5" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463143205842">
         <mark key="'" line="914" column="8" />
         <mark key="[" line="893" column="42" />
@@ -53,46 +83,14 @@
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Afanti/business/trunk/afanti/afanti/celery.py" timestamp="1463112089670" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463157935295">
+        <mark key="'" line="633" column="22" />
+      </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1463040411422">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1463040896374">
-        <mark key="[" line="150" column="32" />
-        <mark key="]" line="90" column="88" />
-        <mark key="^" line="88" column="11" />
-        <mark key="." line="90" column="88" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1463041108617">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1463041382388">
-        <mark key="[" line="95" column="39" />
-        <mark key="]" line="95" column="39" />
-        <mark key="." line="95" column="47" />
-        <mark key="^" line="54" column="27" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1463041372222" />
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463143171723">
-        <mark key="[" line="100" column="36" />
-        <mark key="]" line="100" column="37" />
-        <mark key="." line="100" column="37" />
-        <mark key="^" line="100" column="34" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
-        <mark key="[" line="126" column="91" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463025822836">
-        <mark key="'" line="86" column="24" />
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="5" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463138638174" />
     </filemarks>
     <jumps>
-      <jump line="41" column="104" filename="C:/Python2/Lib/site-packages/mail.py" />
       <jump line="44" column="21" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
       <jump line="25" column="48" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
       <jump line="124" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week_or_month.py" />
@@ -192,6 +190,7 @@
       <jump line="909" column="20" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="914" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="633" column="22" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +200,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>question</text>
+        <text>remain</text>
       </register>
       <register name="0" type="4">
         <text>，</text>
@@ -238,9 +237,9 @@
       </register>
     </registers>
     <search>
-      <last-search>question</last-search>
+      <last-search>remain</last-search>
       <last-offset />
-      <last-pattern>question</last-pattern>
+      <last-pattern>remain</last-pattern>
       <last-replace />
       <last-substitute>question</last-substitute>
       <last-dir>1</last-dir>
@@ -260,7 +259,6 @@
         <entry>181</entry>
         <entry>118</entry>
         <entry>ratio</entry>
-        <entry>remain</entry>
         <entry encoding="base64">XDxzdGFydF90aW1lX3N0clw+</entry>
         <entry encoding="base64">XDx2aWV3X2J5XD4=</entry>
         <entry>conversion</entry>
@@ -268,6 +266,7 @@
         <entry>计时</entry>
         <entry>timed</entry>
         <entry>question</entry>
+        <entry>remain</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
