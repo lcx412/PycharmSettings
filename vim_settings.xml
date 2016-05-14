@@ -68,10 +68,12 @@
         <mark key="." line="893" column="42" />
         <mark key="^" line="892" column="88" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463180431126">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463181086096">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="61" column="29" />
-        <mark key="^" line="155" column="73" />
+        <mark key="[" line="75" column="22" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="75" column="21" />
+        <mark key="." line="75" column="22" />
       </file>
       <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463046711615">
         <mark key="'" line="152" column="4" />
@@ -194,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -206,28 +208,28 @@
         <text>，</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>'weiwei.song@lejent.com'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>contact_info</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>end_time</text>
+        <text>'weiwei.song@lejent.com'</text>
       </register>
       <register name="6" type="4">
-        <text>start_time</text>
+        <text>contact_info</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>end_time</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>start_time</text>
       </register>
       <register name="9" type="4">
         <text>:</text>
