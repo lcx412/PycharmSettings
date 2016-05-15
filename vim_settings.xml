@@ -30,11 +30,18 @@
         <mark key="[" line="114" column="55" />
         <mark key="." line="114" column="61" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463319087437">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463329875858">
         <mark key="'" line="101" column="56" />
-        <mark key="[" line="95" column="44" />
-        <mark key="]" line="95" column="44" />
-        <mark key="." line="95" column="44" />
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="83" />
+        <mark key="^" line="65" column="83" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463331000180">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="^" line="304" column="26" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463143205842">
         <mark key="'" line="914" column="8" />
@@ -43,11 +50,11 @@
         <mark key="." line="893" column="42" />
         <mark key="^" line="892" column="88" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463314163449">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463333454446">
         <mark key="'" line="70" column="32" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="." line="75" column="20" />
         <mark key="^" line="75" column="20" />
       </file>
       <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463314638247">
@@ -57,10 +64,22 @@
         <mark key="^" line="125" column="105" />
         <mark key="." line="125" column="105" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1463332064739">
+        <mark key="[" line="132" column="31" />
+        <mark key="]" line="132" column="31" />
+        <mark key="^" line="80" column="247" />
+        <mark key="." line="132" column="31" />
+      </file>
       <file name="/Django Console" timestamp="1462874985081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1463315469151" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1463332045296">
+        <mark key="[" line="76" column="30" />
+        <mark key="]" line="71" column="56" />
+        <mark key="^" line="71" column="56" />
+        <mark key="." line="71" column="56" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1463315222953" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1463284982336">
         <mark key="'" line="0" column="10" />
@@ -103,8 +122,13 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="5" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463180247238">
-        <mark key="'" line="633" column="22" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463332459979" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463333334775">
+        <mark key="'" line="636" column="22" />
+        <mark key="[" line="535" column="32" />
+        <mark key="]" line="535" column="33" />
+        <mark key="." line="535" column="33" />
+        <mark key="^" line="537" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -211,43 +235,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20nLCAnaG91amlhbi5zb25nQGxlamVudC5jb20nLA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20nLCAnaG91amlhbi5zb25nQGxlamVudC5jb20nLA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0b19hZGRyZXNzZXMgPSBbJ3l1LmhhbkBsZWplbnQuY29tJywgJ2ZlbmdsZWkubWFAbGVqZW50LmNvbScsICdob3VqaWFuLnNvbmdAbGVqZW50LmNvbScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjaGVuZ3hpYW5nLmx1QGxlamVudC5jb20nXQo=</text>
+      <register name="0" type="4">
+        <text>day30_requested</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20nLCAnaG91amlhbi5zb25nQGxlamVudC5jb20nLA==</text>
+        <text>5</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="3" type="4">
-        <text>'weirong.chen@lejent.com', 'xiaoting.tang@lejent.com', 'meng.zhang@lejent.com',</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>sum</text>
+        <text>起</text>
       </register>
       <register name="5" type="4">
-        <text>cur.fetchone()[0</text>
+        <text />
       </register>
       <register name="6" type="4">
-        <text>yes_date</text>
+        <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>功</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>成</text>
       </register>
       <register name="9" type="4">
-        <text>date(2016, 4, 4)</text>
+        <text>时</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
