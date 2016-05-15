@@ -48,6 +48,12 @@
         <mark key="." line="100" column="37" />
         <mark key="^" line="100" column="34" />
       </file>
+      <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1463314310496">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="8" />
+        <mark key="^" line="76" column="36" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
         <mark key="[" line="126" column="91" />
       </file>
@@ -193,8 +199,8 @@
       <jump line="72" column="32" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -205,32 +211,32 @@
       <register name="0" type="4">
         <text>，</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGVhY2hlcnMuYXBwZW5kKGludCh3YWdlX2Fuc3dlciAqIDEwMCkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>yes_dat</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>7</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>7</text>
       </register>
       <register name="9" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
