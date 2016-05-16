@@ -6,6 +6,11 @@
       <file name="/start_script.py" timestamp="1463031555019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1463372845809">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463121814373">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="84" column="44" />
@@ -15,17 +20,17 @@
       <file name="/a.dummy" timestamp="1463315195338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463123270659">
-        <mark key="'" line="200" column="30" />
-        <mark key="[" line="114" column="55" />
-        <mark key="." line="114" column="61" />
-      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463365634248">
         <mark key="'" line="104" column="56" />
         <mark key="[" line="78" column="82" />
         <mark key="]" line="78" column="53" />
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
+      </file>
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463370950997">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463331000180">
         <mark key="[" line="298" column="0" />
@@ -108,13 +113,19 @@
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
         <mark key="[" line="126" column="91" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463332459979" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463338327689">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463372453920">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463371826800">
         <mark key="'" line="626" column="22" />
         <mark key="[" line="141" column="86" />
-        <mark key="]" line="141" column="50" />
-        <mark key="^" line="174" column="19" />
-        <mark key="." line="141" column="108" />
+        <mark key="]" line="571" column="41" />
+        <mark key="^" line="571" column="41" />
+        <mark key="." line="571" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -221,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>一</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>一</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -233,31 +244,31 @@
         <text>day30_requested</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>一</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>对</text>
       </register>
       <register name="3" type="4">
-        <text>day_end_ts</text>
+        <text>一</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>strong</text>
       </register>
       <register name="5" type="4">
-        <text>day_start_ts</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>：</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>请</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>多</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
