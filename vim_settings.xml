@@ -120,12 +120,12 @@
         <mark key="." line="25" column="20" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463378921952">
-        <mark key="'" line="621" column="22" />
-        <mark key="[" line="557" column="42" />
-        <mark key="]" line="574" column="57" />
-        <mark key="^" line="574" column="27" />
-        <mark key="." line="574" column="57" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463381329264">
+        <mark key="'" line="623" column="22" />
+        <mark key="[" line="473" column="20" />
+        <mark key="]" line="501" column="109" />
+        <mark key="^" line="501" column="109" />
+        <mark key="." line="501" column="109" />
       </file>
     </filemarks>
     <jumps>
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>情</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>情</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -244,31 +244,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>情</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>详</text>
-      </register>
-      <register name="3" type="4">
-        <text>导</text>
-      </register>
-      <register name="4" type="4">
-        <text>辅</text>
-      </register>
-      <register name="5" type="4">
         <text>)</text>
       </register>
+      <register name="3" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
+        <text>d</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>7</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
