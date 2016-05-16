@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1463031555019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1463315189529">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463121814373">
         <mark key="[" line="67" column="47" />
         <mark key="]" line="84" column="44" />
@@ -23,12 +20,12 @@
         <mark key="[" line="114" column="55" />
         <mark key="." line="114" column="61" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463338159751">
-        <mark key="'" line="100" column="56" />
-        <mark key="[" line="76" column="69" />
-        <mark key="]" line="64" column="83" />
-        <mark key="." line="64" column="83" />
-        <mark key="^" line="64" column="83" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463365634248">
+        <mark key="'" line="104" column="56" />
+        <mark key="[" line="78" column="82" />
+        <mark key="]" line="78" column="53" />
+        <mark key="." line="78" column="72" />
+        <mark key="^" line="78" column="53" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463331000180">
         <mark key="[" line="298" column="0" />
@@ -96,11 +93,11 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463337558279">
-        <mark key="[" line="105" column="32" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="33" />
-        <mark key="^" line="87" column="363" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463366088085">
+        <mark key="[" line="79" column="358" />
+        <mark key="]" line="79" column="248" />
+        <mark key="." line="79" column="248" />
+        <mark key="^" line="79" column="248" />
       </file>
       <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1463315138732">
         <mark key="[" line="74" column="87" />
@@ -224,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>存</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>存</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -236,31 +233,31 @@
         <text>day30_requested</text>
       </register>
       <register name="1" type="4">
-        <text>存</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>留</text>
+        <text>存</text>
       </register>
       <register name="3" type="4">
-        <text>存</text>
+        <text>留</text>
       </register>
       <register name="4" type="4">
-        <text>留</text>
+        <text>存</text>
       </register>
       <register name="5" type="4">
-        <text>存</text>
+        <text>留</text>
       </register>
       <register name="6" type="4">
-        <text>留</text>
+        <text>存</text>
       </register>
       <register name="7" type="4">
-        <text>存</text>
-      </register>
-      <register name="8" type="4">
         <text>留</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>存</text>
+      </register>
+      <register name="9" type="4">
+        <text>留</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
