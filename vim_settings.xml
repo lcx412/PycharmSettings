@@ -120,12 +120,12 @@
         <mark key="^" line="25" column="18" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463371826800">
-        <mark key="'" line="626" column="22" />
-        <mark key="[" line="141" column="86" />
-        <mark key="]" line="571" column="41" />
-        <mark key="^" line="571" column="41" />
-        <mark key="." line="571" column="41" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463374458684">
+        <mark key="'" line="630" column="22" />
+        <mark key="[" line="586" column="27" />
+        <mark key="]" line="586" column="28" />
+        <mark key="^" line="583" column="49" />
+        <mark key="." line="586" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>一</text>
+        <text>导</text>
       </register>
       <register name="-" type="4">
-        <text>一</text>
+        <text>导</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -244,31 +244,31 @@
         <text>day30_requested</text>
       </register>
       <register name="1" type="4">
-        <text>一</text>
+        <text>导</text>
       </register>
       <register name="2" type="4">
-        <text>对</text>
+        <text>辅</text>
       </register>
       <register name="3" type="4">
-        <text>一</text>
+        <text>功</text>
       </register>
       <register name="4" type="4">
-        <text>strong</text>
+        <text>成</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>一</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>对</text>
       </register>
       <register name="7" type="4">
-        <text>：</text>
+        <text>一</text>
       </register>
       <register name="8" type="4">
-        <text>请</text>
+        <text>strong</text>
       </register>
       <register name="9" type="4">
-        <text>多</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
