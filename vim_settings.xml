@@ -22,12 +22,12 @@
         <mark key="^" line="84" column="44" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463402772629">
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463406654515">
         <mark key="'" line="201" column="30" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="175" column="13" />
+        <mark key="[" line="52" column="92" />
+        <mark key="]" line="52" column="92" />
+        <mark key="." line="52" column="92" />
+        <mark key="^" line="52" column="49" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463402837329">
         <mark key="'" line="104" column="56" />
@@ -36,7 +36,7 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463370950997">
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463406697915">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
@@ -252,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -264,31 +264,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>v</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>image_source</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>lave</text>
-      </register>
-      <register name="7" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>v</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>l</text>
+      </register>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
