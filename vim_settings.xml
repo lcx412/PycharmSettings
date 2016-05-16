@@ -20,6 +20,13 @@
       <file name="/a.dummy" timestamp="1463315195338">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463385590182">
+        <mark key="'" line="200" column="30" />
+        <mark key="[" line="47" column="349" />
+        <mark key="]" line="47" column="320" />
+        <mark key="." line="47" column="320" />
+        <mark key="^" line="47" column="320" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463365634248">
         <mark key="'" line="104" column="56" />
         <mark key="[" line="78" column="82" />
@@ -45,12 +52,12 @@
         <mark key="." line="894" column="42" />
         <mark key="^" line="893" column="88" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463337217344">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463384450218">
         <mark key="'" line="70" column="32" />
         <mark key="[" line="168" column="70" />
-        <mark key="]" line="168" column="70" />
-        <mark key="." line="168" column="70" />
-        <mark key="^" line="75" column="20" />
+        <mark key="]" line="171" column="25" />
+        <mark key="." line="171" column="25" />
+        <mark key="^" line="171" column="25" />
       </file>
       <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463314638247">
         <mark key="'" line="152" column="4" />
@@ -79,10 +86,6 @@
         <mark key="." line="111" column="385" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1463315222953" />
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1463284982336">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="13" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1463040896374">
         <mark key="[" line="150" column="32" />
         <mark key="]" line="90" column="88" />
@@ -98,7 +101,8 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463368546894">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463384377988">
+        <mark key="'" line="76" column="81" />
         <mark key="[" line="63" column="91" />
         <mark key="]" line="63" column="104" />
         <mark key="." line="63" column="104" />
@@ -129,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="37" column="24" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="117" column="4" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
       <jump line="110" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
@@ -229,6 +232,7 @@
       <jump line="72" column="32" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="91" column="37" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
       <jump line="94" column="56" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
+      <jump line="76" column="81" filename="D:/PythonProjects/one4one/wb_remain.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
