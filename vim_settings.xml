@@ -20,12 +20,12 @@
       <file name="/a.dummy" timestamp="1463315195338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463385590182">
-        <mark key="'" line="200" column="30" />
-        <mark key="[" line="47" column="349" />
-        <mark key="]" line="47" column="320" />
-        <mark key="." line="47" column="320" />
-        <mark key="^" line="47" column="320" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463391605855">
+        <mark key="'" line="201" column="30" />
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="13" />
+        <mark key="." line="175" column="13" />
+        <mark key="^" line="175" column="13" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463365634248">
         <mark key="'" line="104" column="56" />
@@ -92,7 +92,7 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="90" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463390323677">
+      <file name="/Dummy.txt" timestamp="1463390363561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1463041382388">
@@ -124,12 +124,12 @@
         <mark key="." line="25" column="20" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463381329264">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463391093537">
         <mark key="'" line="623" column="22" />
         <mark key="[" line="473" column="20" />
-        <mark key="]" line="501" column="109" />
-        <mark key="^" line="501" column="109" />
-        <mark key="." line="501" column="109" />
+        <mark key="]" line="455" column="7" />
+        <mark key="^" line="455" column="7" />
+        <mark key="." line="455" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -235,8 +235,8 @@
       <jump line="76" column="81" filename="D:/PythonProjects/one4one/wb_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcndyaXRlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdsYWxhJwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">b3ZlcndyaXRlIA==</text>
@@ -247,32 +247,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">b3ZlcndyaXRlIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50ICdsYWxhJwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">b3ZlcndyaXRlIA==</text>
       </register>
       <register name="3" type="4">
-        <text>if not exists</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="4" type="4">
+        <text>if not exists</text>
+      </register>
       <register name="5" type="4">
-        <text>table</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>table</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
