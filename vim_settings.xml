@@ -113,16 +113,19 @@
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1462945821956">
         <mark key="[" line="126" column="91" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463372453920">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="18" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463379046740">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="102" column="36" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463377875946">
-        <mark key="'" line="619" column="22" />
-        <mark key="[" line="503" column="55" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463378921952">
+        <mark key="'" line="621" column="22" />
+        <mark key="[" line="557" column="42" />
+        <mark key="]" line="574" column="57" />
+        <mark key="^" line="574" column="27" />
+        <mark key="." line="574" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -229,54 +232,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'date', 'privileged_users_new',
-                                                         'week0_requested', 'week0_requested_success', 'week0_tutored',
-                                                         'week0_charged', 'week0_charged_or_member',
-                                                         'week1_requested', 'week1_requested_success', 'week1_tutored',
-                                                         'week1_charged', 'week1_charged_or_member',
-                                                         'week2_requested', 'week2_requested_success', 'week2_tutored',
-                                                         'week2_charged', 'week2_charged_or_member',
-                                                         'week3_requested', 'week3_requested_success', 'week3_tutored',
-                                                         'week3_charged', 'week3_charged_or_member',
-                                                         'week4_requested', 'week4_requested_success', 'week4_tutored',
-                                                         'week4_charged', 'week4_charged_or_member'</text>
+        <text>情</text>
       </register>
       <register name="-" type="4">
-        <text>导</text>
+        <text>情</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
-      <register name="0" type="4">
-        <text>day30_requested</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>'date', 'privileged_users_new',
-                                                         'week0_requested', 'week0_requested_success', 'week0_tutored',
-                                                         'week0_charged', 'week0_charged_or_member',
-                                                         'week1_requested', 'week1_requested_success', 'week1_tutored',
-                                                         'week1_charged', 'week1_charged_or_member',
-                                                         'week2_requested', 'week2_requested_success', 'week2_tutored',
-                                                         'week2_charged', 'week2_charged_or_member',
-                                                         'week3_requested', 'week3_requested_success', 'week3_tutored',
-                                                         'week3_charged', 'week3_charged_or_member',
-                                                         'week4_requested', 'week4_requested_success', 'week4_tutored',
-                                                         'week4_charged', 'week4_charged_or_member'</text>
+        <text>情</text>
       </register>
       <register name="2" type="4">
-        <text>'date', 'privileged_users_new',
-                                                         'day0_requested', 'day0_requested_success', 'day0_tutored',
-                                                         'day0_charged', 'day0_charged_or_member',
-                                                         'day1_requested', 'day1_requested_success', 'day1_tutored',
-                                                         'day1_charged', 'day1_charged_or_member',
-                                                         'day3_requested', 'day3_requested_success', 'day3_tutored',
-                                                         'day3_charged', 'day3_charged_or_member',
-                                                         'day7_requested', 'day7_requested_success', 'day7_tutored',
-                                                         'day7_charged', 'day7_charged_or_member',
-                                                         'day14_requested', 'day14_requested_success', 'day14_tutored',
-                                                         'day14_charged', 'day14_charged_or_member',
-                                                         'day30_requested', 'day30_requested_success', 'day30_tutored',
-                                                         'day30_charged', 'day30_charged_or_member'</text>
+        <text>详</text>
       </register>
       <register name="3" type="4">
         <text>导</text>
@@ -285,19 +256,19 @@
         <text>辅</text>
       </register>
       <register name="5" type="4">
-        <text>功</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>成</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>一</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>对</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>一</text>
+        <text>7</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
