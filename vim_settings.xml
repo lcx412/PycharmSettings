@@ -92,7 +92,7 @@
         <mark key="^" line="88" column="11" />
         <mark key="." line="90" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463041108617">
+      <file name="/Dummy.txt" timestamp="1463390323677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1463041382388">
@@ -101,11 +101,11 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463384377988">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463390223208">
         <mark key="'" line="76" column="81" />
-        <mark key="[" line="63" column="91" />
-        <mark key="]" line="63" column="104" />
-        <mark key="." line="63" column="104" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
         <mark key="^" line="63" column="104" />
       </file>
       <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1463315138732">
@@ -236,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">b3ZlcndyaXRlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">b3ZlcndyaXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -248,31 +248,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text encoding="base64">b3ZlcndyaXRlIA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>if not exists</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>table</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
