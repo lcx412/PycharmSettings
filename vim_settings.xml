@@ -47,6 +47,12 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1463453086034">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="16" column="27" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463452786721">
         <mark key="'" line="915" column="8" />
         <mark key="[" line="892" column="119" />
@@ -270,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -282,31 +288,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>8</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="4" type="4">
         <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>O</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>T</text>
+        <text>O</text>
       </register>
       <register name="8" type="4">
-        <text>cur.fetchall()[0][0]</text>
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>T</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
