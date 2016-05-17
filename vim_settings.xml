@@ -42,10 +42,10 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463409321515">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463450540549">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463402795340">
         <mark key="'" line="915" column="8" />
@@ -92,9 +92,9 @@
         <mark key="." line="111" column="385" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1463409368152" />
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1463409305693">
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1463450431100">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="2" column="30" />
+        <mark key="[" line="46" column="0" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
@@ -270,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -282,31 +282,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
-      </register>
-      <register name="3" type="4">
         <text>t</text>
       </register>
+      <register name="3" type="4">
+        <text>a</text>
+      </register>
       <register name="4" type="4">
-        <text>O</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>O</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
+        <text>T</text>
+      </register>
+      <register name="8" type="4">
         <text>cur.fetchall()[0][0]</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
