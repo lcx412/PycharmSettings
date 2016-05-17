@@ -85,12 +85,11 @@
         <mark key="^" line="75" column="46" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/afanti/models.py" timestamp="1463456690738" />
-      <file name="D:/PythonProjects/Streaming/GuipengR.py" timestamp="1463486083732">
+      <file name="D:/PythonProjects/Streaming/GuipengR.py" timestamp="1463487495499">
         <mark key="c" line="5" column="0" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="8" column="7" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463402699275">
         <mark key="'" line="86" column="24" />
@@ -140,11 +139,11 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
-      <file name="D:/PythonProjects/Streaming/GuipengM.py" timestamp="1463486068826">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
+      <file name="D:/PythonProjects/Streaming/GuipengM.py" timestamp="1463489056143">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1463452786721">
         <mark key="'" line="915" column="8" />
@@ -296,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWVzc2FnZV9pZCA=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVzc2FnZV9pZCA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -308,31 +307,31 @@
         <text encoding="base64">ICAgICAgICBtZXNzYWdlX2lkID0gcmUuc2VhcmNoKHIncmVjZWl2ZV9tZXNzYWdlX2lkPShcZCspXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bWVzc2FnZV9pZCA=</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>+ '_' + user_id + '_' + install_id</text>
+        <text>:</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>re.search(r'2016-05-16 07:0\d:', line) and</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>)</text>
       </register>
+      <register name="4" type="4">
+        <text>}</text>
+      </register>
+      <register name="5" type="4">
+        <text>2</text>
+      </register>
+      <register name="6" type="4">
+        <text>{</text>
+      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>2016-05-16 18:</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text encoding="base64">IGFuZCAnMjAxNi0wNS0xNiAxOCcgaW4gbGluZQ==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
