@@ -151,11 +151,11 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="87" column="5" />
       </file>
-      <file name="D:/PythonProjects/Stat/Charge_card_users_stat.py" timestamp="1463460964216">
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="80" column="85" />
-        <mark key="^" line="80" column="85" />
-        <mark key="." line="80" column="85" />
+      <file name="D:/PythonProjects/Stat/Charge_card_users_stat.py" timestamp="1463462462413">
+        <mark key="[" line="133" column="120" />
+        <mark key="]" line="128" column="92" />
+        <mark key="^" line="122" column="46" />
+        <mark key="." line="128" column="92" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463379046740">
         <mark key="[" line="25" column="20" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c join charge_code using (charge_code_id)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>c join charge_code using (charge_code_id)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>c join charge_code using (charge_code_id)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCBkaXN0aW5jdCB1c2VyX2lkIGZyb20gY2hhcmdlX2NvZGVfdXNlZF9yZWNvcmQgYyBqb2luIGNoYXJnZV9jb2RlIHVzaW5nIChjaGFyZ2VfY29kZV9pZCkgd2hlcmUgY2hhcmdlX2NvZGVfbm8gaW4gKHswfSkiLmZvcm1hdCgK</text>
+      <register name="3" type="4">
+        <text>zhengzhi</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lishi</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dili</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shengwu</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>huaxue</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1aWRzID0gW10K</text>
+      <register name="8" type="4">
+        <text>wuli</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWxzID0gW11kZAo=</text>
+      <register name="9" type="4">
+        <text>（</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
