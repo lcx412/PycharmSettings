@@ -150,6 +150,12 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="87" column="5" />
       </file>
+      <file name="D:/PythonProjects/Stat/Charge_card_users_stat.py" timestamp="1463455902548">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="90" column="228" />
+        <mark key="^" line="90" column="21" />
+        <mark key="." line="90" column="228" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463379046740">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="20" />
@@ -158,7 +164,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1463402848487" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463391093537">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463453957433">
         <mark key="'" line="623" column="22" />
         <mark key="[" line="473" column="20" />
         <mark key="]" line="455" column="7" />
@@ -276,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -288,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>8</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1aWRzID0gW10K</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0ZWxzID0gW11kZAo=</text>
       </register>
       <register name="7" type="4">
-        <text>O</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBvcGVuKCcuL3podW95dWVfdXNlcnMudHh0JywgJ3InKToKICAgICAgICAgICAgIyB0ZWxzICs9IFtsaW5lLnN0cmlwKCldCiAgICAgICAgICAgIHVpZHMgKz0gW2xpbmUuc3RyaXAoKV0KICAgICAgICAjIHRlbHMgPSAnKCcgKyAnLCcuam9pbih0ZWxzKSArICcpJwogICAgICAgICMgY3VyLmV4ZWN1dGUoInNlbGVjdCB1c2VyX2lkIGZyb20gdXNlciB3aGVyZSB0ZWxlcGhvbmVfbnVtIGluIHswfSIuZm9ybWF0KHRlbHMpKQogICAgICAgICMgdWlkcyA9IFtzdHIodWlkKSBmb3IgW3VpZF0gaW4gY3VyLmZldGNoYWxsKCldCiAgICAgICAgdWlkcyA9ICcoJyArICcsJy5qb2luKHVpZHMpICsgJykn</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
