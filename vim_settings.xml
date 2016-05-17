@@ -25,7 +25,7 @@
         <mark key="^" line="84" column="44" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1463315195338">
+      <file name="/a.dummy" timestamp="1463465910065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463409348160">
@@ -35,7 +35,7 @@
         <mark key="." line="52" column="92" />
         <mark key="^" line="52" column="49" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463409449972">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463464804243">
         <mark key="'" line="104" column="56" />
         <mark key="[" line="78" column="82" />
         <mark key="]" line="78" column="53" />
@@ -60,6 +60,13 @@
         <mark key="." line="893" column="39" />
         <mark key="^" line="892" column="119" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_card_users_stat.py" timestamp="1463465929645">
+        <mark key="'" line="109" column="75" />
+        <mark key="[" line="109" column="50" />
+        <mark key="]" line="109" column="50" />
+        <mark key="." line="109" column="50" />
+        <mark key="^" line="37" column="50" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463410152945">
         <mark key="'" line="70" column="32" />
         <mark key="[" line="18" column="56" />
@@ -67,12 +74,11 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="171" column="25" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463401084948">
-        <mark key="'" line="152" column="4" />
-        <mark key="[" line="125" column="105" />
-        <mark key="]" line="125" column="105" />
-        <mark key="^" line="125" column="105" />
-        <mark key="." line="125" column="105" />
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463464410175">
+        <mark key="'" line="159" column="4" />
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="27" />
+        <mark key="." line="136" column="27" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1463409177023">
         <mark key="[" line="113" column="388" />
@@ -151,11 +157,14 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="87" column="5" />
       </file>
-      <file name="D:/PythonProjects/Stat/Charge_card_users_stat.py" timestamp="1463462462413">
-        <mark key="[" line="133" column="120" />
-        <mark key="]" line="128" column="92" />
-        <mark key="^" line="122" column="46" />
-        <mark key="." line="128" column="92" />
+      <file name="D:/PythonProjects/Stat/Charge_card_users_stat.py" timestamp="1463464542343">
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="27" />
+        <mark key="^" line="137" column="18" />
+        <mark key="." line="136" column="27" />
+      </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1463465916502">
+        <mark key="[" line="30" column="43" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463379046740">
         <mark key="[" line="25" column="20" />
@@ -175,7 +184,7 @@
         <mark key="^" line="455" column="7" />
         <mark key="." line="455" column="7" />
       </file>
-      <file name="D:/PythonProjects/Stat/Telephone_Sales2.py" timestamp="1463401886846">
+      <file name="D:/PythonProjects/Stat/Telephone_Sales2.py" timestamp="1463462884751">
         <mark key="[" line="81" column="264" />
         <mark key="]" line="81" column="264" />
         <mark key="." line="81" column="264" />
@@ -183,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="122" column="8" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
       <jump line="452" column="49" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -283,13 +291,14 @@
       <jump line="105" column="34" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="2053" column="32" filename="D:/Afanti/business/trunk/afanti/afanti/account.py" />
       <jump line="25" column="17" filename="D:/Afanti/business/trunk/afanti/afanti/account.py" />
+      <jump line="147" column="75" filename="D:/PythonProjects/one4one/tutor_card_users_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20n</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -298,31 +307,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgc3RhdC53ZWVrM19yZXF1ZXN0ZWRfc3VjY2Vzc3xhc19wZXJjZW50YWdlX29mX3dpdGhfZGVzY3JpcHRpb246c3RhdC5wcml2aWxlZ2VkX3VzZXJzX25ldyB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdmZW5nbGVpLm1hQGxlamVudC5jb20n</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>zhengzhi</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>lishi</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>dili</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>shengwu</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>huaxue</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>wuli</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>（</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
