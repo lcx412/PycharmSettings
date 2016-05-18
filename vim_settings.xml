@@ -107,9 +107,6 @@
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1463576792773">
         <mark key="[" line="30" column="43" />
       </file>
-      <file name="D:/Afanti/business/trunk/afanti/afanti/account.py" timestamp="1463456578472">
-        <mark key="'" line="25" column="17" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463453957433">
         <mark key="'" line="623" column="22" />
         <mark key="[" line="473" column="20" />
@@ -125,6 +122,13 @@
         <mark key="^" line="101" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1463402843064" />
+      <file name="D:/PythonProjects/Stat/zhule.py" timestamp="1463580386213">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="11" />
+        <mark key="^" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463409348160">
         <mark key="'" line="201" column="30" />
         <mark key="[" line="52" column="92" />
@@ -189,10 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="8" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_privileged_conversion.py" />
-      <jump line="452" column="49" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="461" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="44" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" />
       <jump line="48" column="11" filename="D:/PythonProjects/Stat/answer_consume_stat.py" />
@@ -289,13 +289,17 @@
       <jump line="2053" column="32" filename="D:/Afanti/business/trunk/afanti/afanti/account.py" />
       <jump line="25" column="17" filename="D:/Afanti/business/trunk/afanti/afanti/account.py" />
       <jump line="147" column="75" filename="D:/PythonProjects/one4one/tutor_card_users_stat.py" />
+      <jump line="45" column="12" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="59" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="3" column="12" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="60" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -304,31 +308,31 @@
         <text encoding="base64">ICAgICAgICBtZXNzYWdlX2lkID0gcmUuc2VhcmNoKHIncmVjZWl2ZV9tZXNzYWdlX2lkPShcZCspXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>h</text>
       </register>
       <register name="7" type="4">
-        <text>2016-05-16 18:</text>
+        <text>S</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGFuZCAnMjAxNi0wNS0xNiAxOCcgaW4gbGluZQ==</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
