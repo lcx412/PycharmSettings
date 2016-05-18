@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1463031555019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463409331375">
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463580408175">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="^" line="84" column="44" />
@@ -42,7 +42,7 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="171" column="25" />
       </file>
-      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463467964526">
+      <file name="D:/PythonProjects/Stat/Zhuoyue.py" timestamp="1463581645417">
         <mark key="'" line="159" column="4" />
         <mark key="[" line="134" column="70" />
         <mark key="]" line="134" column="72" />
@@ -71,11 +71,11 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463491405169">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463581801891">
         <mark key="'" line="107" column="34" />
-        <mark key="[" line="107" column="34" />
-        <mark key="]" line="107" column="35" />
-        <mark key="." line="107" column="35" />
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="33" />
+        <mark key="." line="108" column="33" />
         <mark key="^" line="63" column="49" />
       </file>
       <file name="D:/PythonProjects/Stat/Teacher_Remain.py" timestamp="1463315138732">
@@ -122,12 +122,12 @@
         <mark key="^" line="101" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1463402843064" />
-      <file name="D:/PythonProjects/Stat/zhule.py" timestamp="1463580386213">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="63" column="11" />
-        <mark key="^" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+      <file name="D:/PythonProjects/Stat/zhule.py" timestamp="1463582326829">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463409348160">
         <mark key="'" line="201" column="30" />
@@ -193,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="58" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="44" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" />
-      <jump line="48" column="11" filename="D:/PythonProjects/Stat/answer_consume_stat.py" />
-      <jump line="58" column="0" filename="D:/PythonProjects/Stat/Lading.py" />
-      <jump line="101" column="136" filename="D:/PythonProjects/Stat/Lading.py" />
-      <jump line="113" column="0" filename="D:/PythonProjects/Stat/Lading.py" />
       <jump line="102" column="26" filename="D:/PythonProjects/Stat/Lading_Hive.py" />
       <jump line="136" column="4" filename="D:/PythonProjects/Stat/Lading_Hive.py" />
       <jump line="471" column="15" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -293,13 +287,19 @@
       <jump line="59" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
       <jump line="3" column="12" filename="D:/PythonProjects/Stat/zhule.py" />
       <jump line="60" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="76" column="20" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="4" column="26" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="77" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="72" column="50" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="9" column="28" filename="D:/PythonProjects/Stat/zhule.py" />
+      <jump line="80" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>异常</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>异常</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -308,31 +308,33 @@
         <text encoding="base64">ICAgICAgICBtZXNzYWdlX2lkID0gcmUuc2VhcmNoKHIncmVjZWl2ZV9tZXNzYWdlX2lkPShcZCspXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>异常</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="4" type="4">
         <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>S</text>
+        <text>'weirong.chen@lejent.com', 'xiaoting.tang@lejent.com', 'meng.zhang@lejent.com',
+                'yu.han@lejent.com', 'fenglei.ma@lejent.com', 'houjian.song@lejent.com',
+                'weiwei.song@lejent.com'</text>
       </register>
       <register name="8" type="4">
         <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
