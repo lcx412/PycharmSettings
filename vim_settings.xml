@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1463031555019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1463372845809">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1463583457748">
         <mark key="[" line="70" column="33" />
         <mark key="]" line="46" column="33" />
@@ -15,12 +23,16 @@
         <mark key="^" line="84" column="44" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463642172809">
+      <file name="/a.dummy" timestamp="1463468650319">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463450540549">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1463647947579">
         <mark key="'" line="524" column="8" />
-        <mark key="[" line="533" column="34" />
-        <mark key="]" line="533" column="35" />
-        <mark key="^" line="530" column="32" />
-        <mark key="." line="533" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/overall_content.html" timestamp="1463475651874" />
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1463553579639">
@@ -66,17 +78,17 @@
         <mark key="^" line="71" column="36" />
         <mark key="." line="111" column="385" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1463641824264">
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
+      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1463650352799" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1463402600607">
         <mark key="[" line="13" column="42" />
         <mark key="]" line="13" column="44" />
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1463409200717">
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain_content.html" timestamp="1463639213744">
         <mark key="[" line="57" column="35" />
@@ -97,14 +109,17 @@
         <mark key="." line="75" column="76" />
         <mark key="^" line="75" column="46" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit.html" timestamp="1463642480382" />
-      <file name="D:/Afanti/business/trunk/afanti/afanti/models.py" timestamp="1463456690738" />
-      <file name="D:/PythonProjects/Streaming/GuipengR.py" timestamp="1463487495499">
-        <mark key="c" line="5" column="0" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1463409209741">
+        <mark key="[" line="210" column="34" />
+        <mark key="]" line="210" column="35" />
+        <mark key="." line="210" column="35" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit.html" timestamp="1463646136195">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="D:/Afanti/business/trunk/afanti/afanti/models.py" timestamp="1463456690738" />
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463402699275">
         <mark key="'" line="86" column="24" />
         <mark key="[" line="23" column="41" />
@@ -121,7 +136,13 @@
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1463582493920">
         <mark key="[" line="15" column="31" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463643970193">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit_chart.js" timestamp="1463648615930">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="44" column="21" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463649011277">
         <mark key="'" line="470" column="54" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="8" />
@@ -176,14 +197,43 @@
         <mark key="^" line="80" column="247" />
         <mark key="." line="113" column="389" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1463409360938">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1463409368152" />
+      <file name="/Dummy.txt" timestamp="1463650570520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1463041382388">
         <mark key="[" line="95" column="39" />
         <mark key="]" line="95" column="39" />
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1463473369803" />
+      <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1463647960823">
+        <mark key="[" line="1" column="156" />
+        <mark key="]" line="1" column="54" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="54" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1463452741544">
+        <mark key="[" line="215" column="43" />
+        <mark key="]" line="215" column="44" />
+        <mark key="." line="215" column="44" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit_content.html" timestamp="1463646734485">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="40" column="45" />
+        <mark key="." line="30" column="42" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1463409353140">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+      </file>
       <file name="D:/PythonProjects/Streaming/Zhanglei2.py" timestamp="1463468620181" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1463379046740">
         <mark key="[" line="25" column="20" />
@@ -193,12 +243,12 @@
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1463402848487" />
-      <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463644235603">
+      <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463649762165">
         <mark key="'" line="28" column="68" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="22" />
-        <mark key="." line="66" column="22" />
-        <mark key="^" line="66" column="22" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="13" />
+        <mark key="^" line="82" column="50" />
+        <mark key="." line="56" column="13" />
       </file>
       <file name="D:/PythonProjects/Stat/Telephone_Sales2.py" timestamp="1463462884751">
         <mark key="[" line="81" column="264" />
@@ -311,43 +361,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>一对一用户新增用户留存增加活跃留存指标</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>一对一用户新增用户留存增加活跃留存指标</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J8zixL/X3Mr9J10gPSBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKHR5cGU9MCkudmFsdWVzKCdkYXRlJykuYW5ub3RhdGUoc3VtX2NvdW50cz1TdW0oJ2NvdW50cycpKS5vcmRlcl9ieSgnZGF0ZScpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>一对一用户新增用户留存增加活跃留存指标</text>
       </register>
       <register name="2" type="4">
-        <text>数</text>
+        <text encoding="base64">dSfM4sS/19zK/ScsIA==</text>
       </register>
       <register name="3" type="4">
-        <text>帖</text>
+        <text>[x[0] for x in echarts_data[u'题目总数']</text>
       </register>
       <register name="4" type="4">
-        <text>发</text>
+        <text>.values_list('sum_counts')</text>
       </register>
       <register name="5" type="4">
-        <text>中</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>命</text>
+        <text>[</text>
       </register>
       <register name="7" type="4">
-        <text>充值卡充值</text>
+        <text encoding="base64">dSfI1cbaJ10gKyA=</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>额</text>
       </register>
       <register name="9" type="4">
-        <text>贴</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
