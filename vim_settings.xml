@@ -121,7 +121,7 @@
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1463582493920">
         <mark key="[" line="15" column="31" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463639283278">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1463643970193">
         <mark key="'" line="470" column="54" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="8" />
@@ -193,11 +193,12 @@
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_content.html" timestamp="1463372041314" />
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1463402848487" />
-      <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463642549243">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="48" />
-        <mark key="." line="28" column="48" />
-        <mark key="^" line="28" column="48" />
+      <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463644235603">
+        <mark key="'" line="28" column="68" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="66" column="22" />
+        <mark key="^" line="66" column="22" />
       </file>
       <file name="D:/PythonProjects/Stat/Telephone_Sales2.py" timestamp="1463462884751">
         <mark key="[" line="81" column="264" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="32" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="452" column="33" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="637" column="39" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="450" column="40" filename="D:/PythonProjects/one4one/tutor_sum.py" />
@@ -307,13 +307,14 @@
       <jump line="499" column="0" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="524" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="28" column="68" filename="D:/PythonProjects/matrix/statistics/tk_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -322,31 +323,31 @@
         <text encoding="base64">ICAgIHN1YmplY3QgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>数</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>帖</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>发</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>中</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>命</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>充值卡充值</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>贴</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
