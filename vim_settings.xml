@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1463031555019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1463583457748">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="24" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1463580408175">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
@@ -296,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>异常</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>异常</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -308,33 +314,33 @@
         <text encoding="base64">ICAgICAgICBtZXNzYWdlX2lkID0gcmUuc2VhcmNoKHIncmVjZWl2ZV9tZXNzYWdlX2lkPShcZCspXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>异常</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>index=False</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>异常</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>'weirong.chen@lejent.com', 'xiaoting.tang@lejent.com', 'meng.zhang@lejent.com',
-                'yu.han@lejent.com', 'fenglei.ma@lejent.com', 'houjian.song@lejent.com',
-                'weiwei.song@lejent.com'</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
         <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>'weirong.chen@lejent.com', 'xiaoting.tang@lejent.com', 'meng.zhang@lejent.com',
+                'yu.han@lejent.com', 'fenglei.ma@lejent.com', 'houjian.song@lejent.com',
+                'weiwei.song@lejent.com'</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
