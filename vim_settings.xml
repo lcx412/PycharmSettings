@@ -31,12 +31,12 @@
         <mark key="." line="99" column="30" />
         <mark key="^" line="99" column="18" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463709866207">
-        <mark key="'" line="70" column="32" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="171" column="25" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1463714065604">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="154" column="75" />
+        <mark key="]" line="154" column="74" />
+        <mark key="." line="154" column="74" />
+        <mark key="^" line="154" column="74" />
       </file>
       <file name="D:/PythonProjects/Streaming/Guipeng.py" timestamp="1463468504222">
         <mark key="[" line="8" column="8" />
@@ -174,8 +174,6 @@
       <file name="D:/Afanti/websys/trunk/answer/models.py" timestamp="1463708015878" />
     </filemarks>
     <jumps>
-      <jump line="637" column="39" filename="D:/PythonProjects/one4one/tutor_sum.py" />
-      <jump line="450" column="40" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="170" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="176" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="8" column="22" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
@@ -274,13 +272,15 @@
       <jump line="524" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="28" column="68" filename="D:/PythonProjects/matrix/statistics/tk_views.py" />
       <jump line="46" column="30" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="151" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="144" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -289,16 +289,16 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG15c3FsX3Bvb2wuY29ubmVjdGlvbignYWZhbnRpX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl9zdGF0ID0gc2VsZi5jb25uX3N0YXQuY3Vyc29yKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text>v</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
         <text>e</text>
@@ -313,7 +313,7 @@
         <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
