@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1463031555019">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1463372845809">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -22,9 +19,6 @@
         <mark key="]" line="22" column="40" />
         <mark key="^" line="84" column="44" />
         <mark key="." line="22" column="40" />
-      </file>
-      <file name="/a.dummy" timestamp="1463468650319">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1463450540549">
         <mark key="[" line="12" column="4" />
@@ -66,9 +60,6 @@
         <mark key="]" line="7" column="111" />
         <mark key="^" line="7" column="111" />
         <mark key="." line="7" column="111" />
-      </file>
-      <file name="D:/PythonProjects/one4one/oneToOne.sh" timestamp="1463409312794">
-        <mark key="[" line="28" column="43" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1463409167256">
         <mark key="[" line="111" column="384" />
@@ -129,9 +120,6 @@
         <mark key="^" line="137" column="18" />
         <mark key="." line="136" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1463582493920">
-        <mark key="[" line="15" column="31" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit_chart.js" timestamp="1463648615930">
         <mark key="[" line="51" column="23" />
         <mark key="]" line="51" column="23" />
@@ -189,7 +177,12 @@
         <mark key="." line="893" column="39" />
         <mark key="^" line="892" column="119" />
       </file>
-      <file name="D:/Afanti/websys/trunk/settle_day_credit.py" timestamp="1463667158217" />
+      <file name="D:/Afanti/websys/trunk/settle_day_credit.py" timestamp="1463669427430">
+        <mark key="[" line="86" column="43" />
+        <mark key="]" line="86" column="42" />
+        <mark key="." line="86" column="42" />
+        <mark key="^" line="86" column="42" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1463409177023">
         <mark key="[" line="113" column="388" />
         <mark key="]" line="113" column="389" />
@@ -200,6 +193,12 @@
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
+      </file>
+      <file name="D:/Afanti/websys/trunk/answer/update_answer_info.py" timestamp="1463670444643">
+        <mark key="[" line="38" column="59" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1463653784882">
         <mark key="[" line="0" column="0" />
@@ -252,6 +251,7 @@
         <mark key="." line="81" column="264" />
         <mark key="^" line="95" column="230" />
       </file>
+      <file name="D:/Afanti/websys/trunk/answer/models.py" timestamp="1463670461410" />
     </filemarks>
     <jumps>
       <jump line="452" column="33" filename="D:/PythonProjects/one4one/tutor_sum.py" />
@@ -357,10 +357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>一对一用户新增用户留存增加活跃留存指标</text>
+        <text>get_or_create</text>
       </register>
       <register name="-" type="4">
-        <text>一对一用户新增用户留存增加活跃留存指标</text>
+        <text>get_or_create</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -369,31 +369,31 @@
         <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J8zixL/X3Mr9J10gPSBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKHR5cGU9MCkudmFsdWVzKCdkYXRlJykuYW5ub3RhdGUoc3VtX2NvdW50cz1TdW0oJ2NvdW50cycpKS5vcmRlcl9ieSgnZGF0ZScpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>一对一用户新增用户留存增加活跃留存指标</text>
+        <text>get_or_create</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dSfM4sS/19zK/ScsIA==</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>[x[0] for x in echarts_data[u'题目总数']</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>.values_list('sum_counts')</text>
+        <text>一对一用户新增用户留存增加活跃留存指标</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text encoding="base64">dSfM4sS/19zK/ScsIA==</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>[x[0] for x in echarts_data[u'题目总数']</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dSfI1cbaJ10gKyA=</text>
+        <text>.values_list('sum_counts')</text>
       </register>
       <register name="8" type="4">
-        <text>额</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
