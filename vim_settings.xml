@@ -27,6 +27,7 @@
       <file name="/a.dummy" timestamp="1463990792410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464007293403" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463464804243">
         <mark key="'" line="104" column="56" />
         <mark key="[" line="78" column="82" />
@@ -109,7 +110,7 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463997270981">
+      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1464007248973">
         <mark key="'" line="83" column="25" />
         <mark key="[" line="91" column="85" />
         <mark key="]" line="89" column="113" />
@@ -261,11 +262,11 @@
       <jump line="83" column="25" filename="D:/PythonProjects/Stat/Card_Duration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dHMgPSBpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>duration</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>duration</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -274,31 +275,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dHMgPSBpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>duration</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text encoding="base64">ZHVyYXRpb24g</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text encoding="base64">Y3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgInNlbGVjdCB1c2VyX2lkLGNoYXJnZV9jb2RlX2lkLGMyLmNoYXJnZV9jb2RlX25vLGNoYXJnZV90aW1lLGMxLm1lbWJlcl90eXBlIGZyb20gY2hhcmdlX2NvZGVfdXNlZF9yZWNvcmQgYzEgam9pbiBjaGFyZ2VfY29kZSBjMiB1c2luZyhjaGFyZ2VfY29kZV9pZCkgd2hlcmUgYzEubWVtYmVyX3R5cGUgaW4gKDEsMykgb3JkZXIgYnkgdXNlcl9pZCxjaGFyZ2VfdGltZSIpCiAgICAgICAgcmVzID0gY3VyX3N0YXQuZmV0Y2hhbGwoKQogICAgICAgIGZvciB1aWQsIGNpZCwgY25vLCBjaGFyZ2VfdGltZSwgbWVtYmVyX3R5cGUgaW4gcmVzOgogICAgICAgICAgICBpZiBtZW1iZXJfdHlwZSA9PSAxOgogICAgICAgICAgICAgICAgZGF5cyA9IDMwCiAgICAgICAgICAgIGVsaWYgbWVtYmVyX3R5cGUgPT0gMjoKICAgICAgICAgICAgICAgIGRheXMgPSAzNjUKICAgICAgICAgICAgZWxpZiBtZW1iZXJfdHlwZSA9PSAzOgogICAgICAgICAgICAgICAgZGF5cyA9IDkwCiAgICAgICAgICAgIHJvd3MgPSBjdXJfbWF0cml4LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGZyb21fdGltZSx0b190aW1lIGZyb20gbWVtYmVyX2NhcmRfZHVyYXRpb24gd2hlcmUgdXNlcl9pZD17MH0gb3JkZXIgYnkgZnJvbV90aW1lIGRlc2MgbGltaXQgMSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHVpZCkpCiAgICAgICAgICAgIGlmIHJvd3MgPiAwOgogICAgICAgICAgICAgICAgZnRzMiwgdHRzMiA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKQogICAgICAgICAgICAgICAgaWYgZnRzMiA8PSBjaGFyZ2VfdGltZSA8PSB0dHMyOgogICAgICAgICAgICAgICAgICAgIGZ0cyA9IHR0czIgKyAxCiAgICAgICAgICAgICAgICAgICAgdHRzID0gdHRzMiArIDM2MDAgKiAyNCAqIGRheXMKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZnRzID0gY2hhcmdlX3RpbWUKICAgICAgICAgICAgICAgICAgICB0dHMgPSBjaGFyZ2VfdGltZSArIDM2MDAgKiAyNCAqIGRheXMKICAgICAgICAgICAgICAgICAgICB0dHMgPSBpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZnRzID0gY2hhcmdlX3RpbWUKICAgICAgICAgICAgICAgIHR0cyA9IGNoYXJnZV90aW1lICsgMzYwMCAqIDI0ICogZGF5cwogICAgICAgICAgICAgICAgdHRzID0gaW50KAogICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQogICAgICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAiaW5zZXJ0IGludG8gbWVtYmVyX2NhcmRfZHVyYXRpb24gKHVzZXJfaWQsY2FyZF9pZCxjYXJkX25vLGNhcmRfdHlwZSxjaGFyZ2VfdGltZSxmcm9tX3RpbWUsdG9fdGltZSkgdmFsdWVzICh7MH0sezF9LHsyfSx7M30sezR9LHs1fSx7Nn0pIi5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgdWlkLCBjaWQsIGNubywgbWVtYmVyX3R5cGUsIGNoYXJnZV90aW1lLCBmdHMsIHR0cykpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>}</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
