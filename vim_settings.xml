@@ -31,6 +31,12 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
+      <file name="D:/PythonProjects/Stat/Member_Duration.py" timestamp="1463986326504">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1463982869868">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="26" />
@@ -70,6 +76,12 @@
         <mark key="]" line="134" column="72" />
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
+      </file>
+      <file name="D:/PythonProjects/Stat/T.py" timestamp="1463986272936">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="47" />
       </file>
       <file name="D:/Afanti/websys/trunk/answer/update_answer_info.py" timestamp="1463670444643">
         <mark key="[" line="38" column="59" />
@@ -135,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="8" column="22" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="154" column="19" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="129" column="39" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
@@ -235,13 +246,14 @@
       <jump line="151" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="144" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="49" column="67" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="16" column="7" filename="D:/PythonProjects/Stat/Member_Duration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -250,28 +262,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG15c3FsX3Bvb2wuY29ubmVjdGlvbignYWZhbnRpX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl9zdGF0ID0gc2VsZi5jb25uX3N0YXQuY3Vyc29yKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>h</text>
+        <text>y</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>v</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>l</text>
+      </register>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
       <register name="9" type="4">
         <text>e</text>
