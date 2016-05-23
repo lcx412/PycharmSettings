@@ -80,7 +80,7 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
-      <file name="D:/Afanti/business/trunk/afanti/afanti/pay_interface.py" timestamp="1463993621751" />
+      <file name="D:/Afanti/business/trunk/afanti/afanti/pay_interface.py" timestamp="1463996552627" />
       <file name="D:/PythonProjects/Stat/T.py" timestamp="1463990837931">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="24" column="47" />
@@ -109,11 +109,12 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463993722583">
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="29" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="80" column="29" />
+      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463997270981">
+        <mark key="'" line="83" column="25" />
+        <mark key="[" line="91" column="85" />
+        <mark key="]" line="89" column="113" />
+        <mark key="^" line="84" column="116" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463709030870">
         <mark key="'" line="118" column="25" />
@@ -158,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
-      <jump line="154" column="19" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="129" column="39" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="131" column="21" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="132" column="23" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
@@ -258,46 +257,48 @@
       <jump line="144" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="49" column="67" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="16" column="7" filename="D:/PythonProjects/Stat/Member_Duration.py" />
+      <jump line="98" column="116" filename="D:/PythonProjects/Stat/Card_Duration.py" />
+      <jump line="83" column="25" filename="D:/PythonProjects/Stat/Card_Duration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dHMgPSBpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG15c3FsX3Bvb2wuY29ubmVjdGlvbignYWZhbnRpX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl9zdGF0ID0gc2VsZi5jb25uX3N0YXQuY3Vyc29yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dHMgPSBpbnQoCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5mcm9tdGltZXN0YW1wKHR0cykucmVwbGFjZShob3VyPTIzLCBtaW51dGU9NTksIHNlY29uZD01OSkudGltZXR1cGxlKCkpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY191aWQgID09IHVpZDoK</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjX3VpZCA9IE5vbmUK</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
