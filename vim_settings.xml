@@ -24,6 +24,9 @@
         <mark key="." line="52" column="92" />
         <mark key="^" line="52" column="49" />
       </file>
+      <file name="/a.dummy" timestamp="1463990792410">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463464804243">
         <mark key="'" line="104" column="56" />
         <mark key="[" line="78" column="82" />
@@ -31,7 +34,7 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
-      <file name="D:/PythonProjects/Stat/Member_Duration.py" timestamp="1463986326504">
+      <file name="D:/PythonProjects/Stat/Member_Duration.py" timestamp="1463990780394">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="71" column="36" />
         <mark key="]" line="16" column="21" />
@@ -77,8 +80,8 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
-      <file name="D:/PythonProjects/Stat/T.py" timestamp="1463986272936">
-        <mark key="[" line="24" column="44" />
+      <file name="D:/PythonProjects/Stat/T.py" timestamp="1463990837931">
+        <mark key="[" line="66" column="22" />
         <mark key="]" line="24" column="47" />
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
@@ -104,6 +107,12 @@
         <mark key="]" line="64" column="27" />
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
+      </file>
+      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463991761169">
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="80" column="16" />
+        <mark key="^" line="80" column="16" />
+        <mark key="." line="80" column="16" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463709030870">
         <mark key="'" line="118" column="25" />
@@ -251,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -263,31 +272,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG15c3FsX3Bvb2wuY29ubmVjdGlvbignYWZhbnRpX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl9zdGF0ID0gc2VsZi5jb25uX3N0YXQuY3Vyc29yKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>y</text>
+        <text>d</text>
       </register>
       <register name="2" type="4">
-        <text>p</text>
+        <text>r</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>u</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
