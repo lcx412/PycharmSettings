@@ -80,6 +80,7 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
+      <file name="D:/Afanti/business/trunk/afanti/afanti/pay_interface.py" timestamp="1463993621751" />
       <file name="D:/PythonProjects/Stat/T.py" timestamp="1463990837931">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="24" column="47" />
@@ -108,11 +109,11 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463991761169">
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="80" column="16" />
-        <mark key="^" line="80" column="16" />
-        <mark key="." line="80" column="16" />
+      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1463993722583">
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463709030870">
         <mark key="'" line="118" column="25" />
@@ -259,8 +260,8 @@
       <jump line="16" column="7" filename="D:/PythonProjects/Stat/Member_Duration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -271,32 +272,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG15c3FsX3Bvb2wuY29ubmVjdGlvbignYWZhbnRpX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl9zdGF0ID0gc2VsZi5jb25uX3N0YXQuY3Vyc29yKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY191aWQgID09IHVpZDoK</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjX3VpZCA9IE5vbmUK</text>
       </register>
       <register name="4" type="4">
-        <text>c</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
-      </register>
-      <register name="6" type="4">
         <text>r</text>
       </register>
+      <register name="6" type="4">
+        <text>o</text>
+      </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
