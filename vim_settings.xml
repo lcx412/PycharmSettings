@@ -27,11 +27,11 @@
       <file name="/a.dummy" timestamp="1463990792410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464010321443">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="10" />
-        <mark key="^" line="78" column="10" />
-        <mark key="." line="78" column="10" />
+      <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464011876555">
+        <mark key="[" line="82" column="101" />
+        <mark key="]" line="82" column="99" />
+        <mark key="^" line="82" column="99" />
+        <mark key="." line="82" column="99" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463464804243">
         <mark key="'" line="104" column="56" />
@@ -129,6 +129,7 @@
         <mark key="^" line="68" column="80" />
         <mark key="." line="121" column="35" />
       </file>
+      <file name="D:/Afanti/business/trunk/afanti/afanti/white_board.py" timestamp="1464011449069" />
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463402699275">
         <mark key="'" line="86" column="24" />
         <mark key="[" line="23" column="41" />
@@ -268,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stat</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>stat</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -280,31 +281,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzX21vbnRoX3N0YXJ0X3RzID0gaW50KHRpbWUyLm1rdGltZShkYXRldGltZS5zdHJwdGltZSh0b2QsJyVZLSVtLSVkJykucmVwbGFjZShkYXk9MSkudGltZXR1cGxlKCkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>stat</text>
+        <text>]</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGJhc2UgPSBwYW5kYXMuRGF0YUZyYW1lKGxpc3QocmVzKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9WydjYXJkX2lkJywgJ2NhcmRfdHlwZScsICd1c2VyX2lkJywgJ2NoYXJnZV90aW1lJywgJ2Zyb21fdGltZScsICd0b190aW1lJ10pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>p</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jbG9zZSgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>y</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jb21taXQoKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>using(tutor_record_id)</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
         <text>n</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>i</text>
+      </register>
+      <register name="8" type="4">
+        <text>uids</text>
+      </register>
+      <register name="9" type="4">
+        <text>this_month_end_ts</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
