@@ -17,7 +17,7 @@
         <mark key="^" line="46" column="28" />
         <mark key="." line="46" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1464048726756">
+      <file name="/Python Console" timestamp="1464099511665">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1463409348160">
@@ -30,12 +30,12 @@
       <file name="/a.dummy" timestamp="1463990792410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464018572244">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="117" column="15" />
-        <mark key="]" line="117" column="15" />
-        <mark key="^" line="103" column="60" />
-        <mark key="." line="117" column="15" />
+      <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464100676392">
+        <mark key="'" line="111" column="4" />
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="119" column="15" />
+        <mark key="^" line="105" column="60" />
+        <mark key="." line="119" column="15" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1463464804243">
         <mark key="'" line="104" column="56" />
@@ -118,12 +118,12 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1464017179531">
-        <mark key="'" line="83" column="25" />
-        <mark key="[" line="91" column="85" />
-        <mark key="]" line="89" column="113" />
-        <mark key="^" line="84" column="116" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1464100449028">
+        <mark key="'" line="88" column="149" />
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="88" column="149" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1463709030870">
         <mark key="'" line="118" column="25" />
@@ -167,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="19" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="136" column="39" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="140" column="19" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
       <jump line="143" column="39" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
@@ -267,13 +266,14 @@
       <jump line="84" column="84" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="76" column="26" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="95" column="4" filename="D:/PythonProjects/Stat/Card_Cost.py" />
+      <jump line="91" column="149" filename="D:/PythonProjects/Stat/Card_Duration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBmcm9tIHB5aGl2ZSBpbXBvcnQgaGl2ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>member_typ</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -281,32 +281,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXJkX2Nvc3RfZmlsZSA9IG9wZW4oJy4vY2FyZF9jb3N0XycgKyB0aGlzX21vbnRoX3N0ciArICcudHh0JywgJ3cnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">IyBmcm9tIHB5aGl2ZSBpbXBvcnQgaGl2ZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHB5aHMyCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>w</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcwo=</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>member_typ</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>q</text>
