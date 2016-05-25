@@ -106,7 +106,7 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464170898780">
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464180189489">
         <mark key="[" line="44" column="96" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1464174667879">
@@ -125,12 +125,12 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1464177874997">
-        <mark key="'" line="180" column="8" />
-        <mark key="[" line="24" column="74" />
-        <mark key="]" line="24" column="74" />
-        <mark key="." line="24" column="74" />
-        <mark key="^" line="24" column="97" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1464180151015">
+        <mark key="'" line="186" column="8" />
+        <mark key="[" line="163" column="35" />
+        <mark key="]" line="146" column="50" />
+        <mark key="." line="146" column="50" />
+        <mark key="^" line="146" column="24" />
       </file>
       <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1464142700743">
         <mark key="'" line="87" column="149" />
@@ -139,7 +139,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1464173454240">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1464180207668">
         <mark key="'" line="120" column="25" />
         <mark key="[" line="78" column="102" />
         <mark key="]" line="78" column="109" />
@@ -284,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -296,31 +296,31 @@
         <text encoding="base64">ICAgICAgICB1aWRzMyA9IHNldChbc3RyKHgpIGZvciBbeF0gaW4gY3VyX3N0YXQuZmV0Y2hhbGwoKV0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
-      </register>
-      <register name="3" type="4">
-        <text>o</text>
-      </register>
-      <register name="4" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="4">
-        <text>0</text>
-      </register>
-      <register name="7" type="4">
         <text>1</text>
       </register>
+      <register name="3" type="4">
+        <text>[</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>o</text>
+      </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
       <register name="8" type="4">
-        <text>afanti</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
