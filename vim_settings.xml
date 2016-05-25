@@ -50,7 +50,7 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="D:/PythonProjects/one4one/Allowance_Remain.py" timestamp="1464161333728">
+      <file name="D:/PythonProjects/one4one/Allowance_Remain.py" timestamp="1464162115156">
         <mark key="'" line="71" column="12" />
         <mark key="[" line="86" column="32" />
         <mark key="]" line="85" column="31" />
@@ -123,12 +123,12 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1464161506287">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="105" column="39" />
-        <mark key="]" line="105" column="35" />
-        <mark key="." line="105" column="35" />
-        <mark key="^" line="105" column="35" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1464164041006">
+        <mark key="'" line="156" column="8" />
+        <mark key="[" line="135" column="49" />
+        <mark key="]" line="135" column="46" />
+        <mark key="^" line="135" column="46" />
+        <mark key="." line="135" column="46" />
       </file>
       <file name="D:/PythonProjects/Stat/Card_Duration.py" timestamp="1464142700743">
         <mark key="'" line="87" column="149" />
@@ -281,11 +281,11 @@
       <jump line="71" column="12" filename="D:/PythonProjects/one4one/Allowance_Remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHllc19zdGFydF90cywgeWVzX2VuZF90cyw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHllc19zdGFydF90cywgeWVzX2VuZF90cyw=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -293,32 +293,32 @@
       <register name="0" type="4">
         <text>from_unixtime(end_time,'%Y%m%d')</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHllc19zdGFydF90cywgeWVzX2VuZF90cyw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>get_consume_amount</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ci5leGVjdXRlKCJkZWxldGUgZnJvbSBhbGxvd2FuY2VfcmVtYWluIHdoZXJlIHVzZXJfaWQ9ezB9Ii5mb3JtYXQodWlkKSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9pZCxjaGFyZ2VfYW1vdW50LGVuZF90aW1lIGZyb20gY2hhcmdlX3JlY29yZCB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU9NiBhbmQgdXNlcl9pZCA9IHswfSBhbmQgZW5kX3RpbWU8ezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgdWlkLCB5ZXNfc3RhcnRfdHMpKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>student_user_id</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>cur_stat</text>
+        <text>贴</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Y3VyX3N0YXQsIA==</text>
+        <text>补</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
