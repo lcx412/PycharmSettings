@@ -50,11 +50,11 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="D:/PythonProjects/one4one/Allowance_Remain.py" timestamp="1464151723202">
-        <mark key="[" line="74" column="59" />
-        <mark key="]" line="74" column="16" />
-        <mark key="." line="74" column="16" />
-        <mark key="^" line="73" column="15" />
+      <file name="D:/PythonProjects/one4one/Allowance_Remain.py" timestamp="1464152790829">
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+        <mark key="^" line="86" column="82" />
       </file>
       <file name="D:/PythonProjects/Stat/answer_consume_stat.py" timestamp="1464017046904">
         <mark key="[" line="33" column="23" />
@@ -281,43 +281,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">Y2FyZF9kdXJhdGlvbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">Y2FyZF9kdXJhdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3VtKGlmKGNoYXJnZV90eXBlPD42LGNoYXJnZV9hbW91bnQsMCkp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY29uc3VtZV9hbW91bnRfeWVzID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBjb25zdW1lX2Ftb3VudF95ZXMgPSAwCg==</text>
       </register>
       <register name="1" type="4">
-        <text>`</text>
+        <text encoding="base64">Y2FyZF9kdXJhdGlvbiA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgYWxsb3dhbmNlX3JlbWFpbiA9IGN1ci5mZXRjaG9uZSgpWzBdCg==</text>
+      <register name="2" type="4">
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3Qgc3VtKGNvbnN1bWVfYW1vdW50KSBmcm9tIGNvbnN1bWVfcmVjb3JkIHdoZXJlIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCB1c2VyX2lkPXsyfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cywgdWlkKSkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY29uc3VtZV9hbW91bnRfdHV0b3JfeWVzID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBjb25zdW1lX2Ftb3VudF90dXRvcl95ZXMgPSAwCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>yes_yes_date</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X19wb3N0X3llcyA9IDAKCg==</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3Qgc3VtKGNvbnN1bWVfYW1vdW50KSBmcm9tIGNvbnN1bWVfcmVjb3JkIHdoZXJlIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCB1c2VyX2lkPXsyfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cywgdWlkKSkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY29uc3VtZV9hbW91bnRfdHV0b3JfeWVzID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBjb25zdW1lX2Ftb3VudF90dXRvcl95ZXMgPSAwCg==</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>`</text>
       </register>
-      <register name="8" type="4">
-        <text>{</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgYWxsb3dhbmNlX3JlbWFpbiA9IGN1ci5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
