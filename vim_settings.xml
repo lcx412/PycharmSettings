@@ -82,8 +82,10 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464180189489">
-        <mark key="[" line="44" column="96" />
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464228366463">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1464188736740">
         <mark key="[" line="29" column="96" />
@@ -158,6 +160,12 @@
         <mark key="]" line="81" column="77" />
         <mark key="^" line="82" column="50" />
         <mark key="." line="81" column="77" />
+      </file>
+      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1464229865087">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="62" column="62" />
+        <mark key="." line="62" column="62" />
+        <mark key="^" line="62" column="62" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1464171483465">
         <mark key="'" line="474" column="54" />
@@ -274,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -286,31 +294,31 @@
         <text encoding="base64">ICAgICAgICB1aWRzMyA9IHNldChbc3RyKHgpIGZvciBbeF0gaW4gY3VyX3N0YXQuZmV0Y2hhbGwoKV0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text encoding="base64">dGhpc19tb250aF9zdHIg</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
         <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
