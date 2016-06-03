@@ -98,8 +98,8 @@
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1464188628106">
         <mark key="[" line="52" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1464451064384">
-        <mark key="[" line="58" column="6" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1464959353925">
+        <mark key="[" line="58" column="10" />
         <mark key="]" line="58" column="7" />
         <mark key="." line="58" column="7" />
       </file>
@@ -136,12 +136,12 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1464450993345">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1464959136574">
         <mark key="'" line="120" column="25" />
-        <mark key="[" line="120" column="36" />
-        <mark key="]" line="120" column="37" />
+        <mark key="[" line="124" column="32" />
+        <mark key="]" line="124" column="32" />
         <mark key="^" line="78" column="109" />
-        <mark key="." line="120" column="37" />
+        <mark key="." line="124" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1464188605725">
         <mark key="[" line="29" column="96" />
@@ -286,11 +286,11 @@
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -298,32 +298,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjsLTUwsXcCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>4</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiBieV9kYXRlID09IDE6CiAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>8</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">eWVzX2RhdGUg</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
       <register name="7" type="4">
-        <text>yes_date</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
         <text>yes_date</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>yes_date</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
