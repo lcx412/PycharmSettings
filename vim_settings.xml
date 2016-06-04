@@ -136,9 +136,9 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1464959136574">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465010218002">
         <mark key="'" line="120" column="25" />
-        <mark key="[" line="124" column="32" />
+        <mark key="[" line="124" column="31" />
         <mark key="]" line="124" column="32" />
         <mark key="^" line="78" column="109" />
         <mark key="." line="124" column="32" />
@@ -287,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -299,28 +299,28 @@
         <text encoding="base64">ICAgICAgICAjsLTUwsXcCg==</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>6</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>4</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiBieV9kYXRlID09IDE6CiAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>8</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">eWVzX2RhdGUg</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
-      </register>
       <register name="8" type="4">
-        <text>yes_date</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
         <text>yes_date</text>
