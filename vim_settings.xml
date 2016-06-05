@@ -136,13 +136,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465131853660">
-        <mark key="'" line="120" column="25" />
-        <mark key="[" line="124" column="31" />
-        <mark key="]" line="124" column="32" />
-        <mark key="^" line="78" column="109" />
-        <mark key="." line="124" column="32" />
-      </file>
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465133853076" />
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1464188605725">
         <mark key="[" line="29" column="96" />
       </file>
@@ -287,43 +281,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjsLTUwsXcCg==</text>
+        <text encoding="base64">ICAgIHJlbWFpbiA9IFJlbWFpbigpCiAgICByZW1haW4ucmVtYWluX3N0YXQoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>6</text>
+        <text>y</text>
       </register>
       <register name="2" type="4">
-        <text>4</text>
+        <text>6</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>4</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiBieV9kYXRlID09IDE6CiAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>8</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">eWVzX2RhdGUg</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
       <register name="9" type="4">
-        <text>yes_date</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
