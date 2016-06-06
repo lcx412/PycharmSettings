@@ -23,6 +23,9 @@
       <file name="/Python Console" timestamp="1464252723140">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1465174256012">
+        <mark key="[" line="74" column="116" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1464188541000">
         <mark key="[" line="37" column="96" />
       </file>
@@ -85,6 +88,11 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1465174880257">
+        <mark key="[" line="128" column="58" />
+        <mark key="]" line="128" column="59" />
+        <mark key="." line="128" column="59" />
+      </file>
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464829725567">
         <mark key="'" line="76" column="15" />
         <mark key="[" line="104" column="37" />
@@ -98,10 +106,11 @@
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1464188628106">
         <mark key="[" line="52" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1465012864227">
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1465175176712">
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1464188664092">
         <mark key="[" line="28" column="96" />
@@ -143,7 +152,7 @@
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1464188573494">
         <mark key="[" line="52" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1463402699275">
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1465174537572">
         <mark key="'" line="86" column="24" />
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="41" />
@@ -280,8 +289,8 @@
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gKc3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -290,34 +299,34 @@
         <text>remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbWFpbiA9IFJlbWFpbigpCiAgICByZW1haW4ucmVtYWluX3N0YXQoKQo=</text>
+        <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gKc3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
       </register>
-      <register name="1" type="4">
-        <text>y</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>6</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>4</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>y</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBieV9kYXRlID09IDE6CiAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>6</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text>4</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eWVzX2RhdGUg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
