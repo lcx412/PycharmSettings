@@ -20,13 +20,13 @@
         <mark key="^" line="46" column="28" />
         <mark key="." line="46" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1465281303037">
+      <file name="/Python Console" timestamp="1465283137215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1465174256012">
         <mark key="[" line="74" column="116" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1464188541000">
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465282312223">
         <mark key="[" line="37" column="96" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1465259737932">
@@ -36,7 +36,7 @@
         <mark key="." line="41" column="70" />
         <mark key="^" line="184" column="124" />
       </file>
-      <file name="/a.dummy" timestamp="1463990792410">
+      <file name="/a.dummy" timestamp="1465282696348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Stat/Card_Cost.py" timestamp="1464100676392">
@@ -93,6 +93,13 @@
         <mark key="." line="134" column="72" />
         <mark key="^" line="134" column="71" />
       </file>
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1465283119364">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
+        <mark key="^" line="70" column="19" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1465174880257">
         <mark key="[" line="128" column="58" />
         <mark key="]" line="128" column="59" />
@@ -108,7 +115,7 @@
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1464188736740">
         <mark key="[" line="29" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1464188628106">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1465282326736">
         <mark key="[" line="52" column="96" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1465193422640">
@@ -117,12 +124,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1464188664092">
-        <mark key="[" line="28" column="96" />
-        <mark key="]" line="159" column="31" />
-        <mark key="." line="159" column="31" />
-        <mark key="^" line="141" column="144" />
       </file>
       <file name="/Dummy.txt" timestamp="1464960275013">
         <mark key="[" line="0" column="0" />
@@ -164,6 +165,11 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1465282868078">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463653723157">
         <mark key="'" line="28" column="68" />
         <mark key="[" line="81" column="76" />
@@ -192,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="23" filename="C:/Python2/Lib/site-packages/mysql_pool.py" />
-      <jump line="60" column="34" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
-      <jump line="87" column="102" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="8" column="0" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="88" column="20" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="9" column="12" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
@@ -292,6 +295,9 @@
       <jump line="57" column="18" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
       <jump line="67" column="18" filename="D:/PythonProjects/one4one/matrix.sh" />
+      <jump line="22" column="29" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="15" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="61" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,34 +310,34 @@
         <text>remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gKc3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAidHV0b3JfZGV0YWlsIGZhaWxlZCIK</text>
       </register>
       <register name="1" type="4">
         <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>w</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
