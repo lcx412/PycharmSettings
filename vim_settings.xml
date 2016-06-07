@@ -20,7 +20,7 @@
         <mark key="^" line="46" column="28" />
         <mark key="." line="46" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1465193450405">
+      <file name="/Python Console" timestamp="1465259745462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1465174256012">
@@ -29,11 +29,11 @@
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1464188541000">
         <mark key="[" line="37" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1464827479398">
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1465259737932">
         <mark key="'" line="202" column="30" />
-        <mark key="[" line="184" column="124" />
-        <mark key="]" line="184" column="124" />
-        <mark key="." line="185" column="53" />
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="70" />
+        <mark key="." line="41" column="70" />
         <mark key="^" line="184" column="124" />
       </file>
       <file name="/a.dummy" timestamp="1463990792410">
@@ -157,12 +157,12 @@
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1464188573494">
         <mark key="[" line="52" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1465174537572">
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1465260083000">
         <mark key="'" line="86" column="24" />
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="^" line="87" column="5" />
+        <mark key="[" line="75" column="153" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1463653723157">
         <mark key="'" line="28" column="68" />
@@ -295,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -307,31 +307,31 @@
         <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gKc3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
+        <text>w</text>
+      </register>
+      <register name="3" type="4">
+        <text>2</text>
+      </register>
+      <register name="4" type="4">
         <text>1</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">c3NoIC1sIGx1Y2hlbmd4aWFuZyAxMC40NC4yMS4xNzggL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvbXlzcWwvYmluL215c3FsYWRtaW4gLXVyb290IC1wYWZhbnRpIHJlZnJlc2gK</text>
       </register>
-      <register name="7" type="4">
-        <text>y</text>
-      </register>
-      <register name="8" type="4">
-        <text>6</text>
-      </register>
       <register name="9" type="4">
-        <text>4</text>
+        <text>y</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
