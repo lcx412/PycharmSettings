@@ -23,8 +23,11 @@
       <file name="/Python Console" timestamp="1465283137215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1465174256012">
-        <mark key="[" line="74" column="116" />
+      <file name="D:/PythonProjects/one4one/zhule.py" timestamp="1465379404472">
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="15" />
+        <mark key="^" line="27" column="55" />
+        <mark key="." line="74" column="15" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465282312223">
         <mark key="[" line="37" column="96" />
@@ -301,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>remain</text>
@@ -313,19 +316,19 @@
         <text encoding="base64">Q0hLX1JFVCBGQVRBTCAidHV0b3JfZGV0YWlsIGZhaWxlZCIK</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
-      </register>
-      <register name="2" type="4">
-        <text>a</text>
-      </register>
-      <register name="3" type="4">
-        <text>t</text>
-      </register>
-      <register name="4" type="4">
         <text>s</text>
       </register>
+      <register name="2" type="4">
+        <text>%</text>
+      </register>
+      <register name="3" type="4">
+        <text>n</text>
+      </register>
+      <register name="4" type="4">
+        <text>\</text>
+      </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
         <text>t</text>
