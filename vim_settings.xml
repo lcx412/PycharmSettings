@@ -108,12 +108,12 @@
         <mark key="]" line="128" column="59" />
         <mark key="." line="128" column="59" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1464829725567">
-        <mark key="'" line="76" column="15" />
-        <mark key="[" line="104" column="37" />
-        <mark key="]" line="104" column="38" />
-        <mark key="." line="104" column="38" />
-        <mark key="^" line="76" column="220" />
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465707150065">
+        <mark key="'" line="71" column="34" />
+        <mark key="[" line="106" column="37" />
+        <mark key="]" line="106" column="38" />
+        <mark key="." line="106" column="38" />
+        <mark key="^" line="100" column="44" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1464188736740">
         <mark key="[" line="29" column="96" />
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="9" column="12" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="109" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="94" column="42" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
@@ -302,6 +301,7 @@
       <jump line="15" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="61" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="118" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="71" column="34" filename="D:/PythonProjects/one4one/Card_Cost.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
