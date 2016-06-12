@@ -108,8 +108,8 @@
         <mark key="]" line="128" column="59" />
         <mark key="." line="128" column="59" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465707150065">
-        <mark key="'" line="71" column="34" />
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465708112512">
+        <mark key="'" line="115" column="4" />
         <mark key="[" line="106" column="37" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
@@ -186,8 +186,8 @@
         <mark key="]" line="81" column="28" />
         <mark key="." line="81" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1464834911397">
-        <mark key="'" line="69" column="35" />
+      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1465708173341">
+        <mark key="'" line="57" column="25" />
         <mark key="[" line="80" column="40" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1465695153934">
@@ -202,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
-      <jump line="109" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
-      <jump line="94" column="42" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="10" column="26" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="106" column="4" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
       <jump line="86" column="42" filename="D:/PythonProjects/one4one/ft_chunyan.py" />
@@ -293,8 +290,6 @@
       <jump line="91" column="149" filename="D:/PythonProjects/Stat/Card_Duration.py" />
       <jump line="90" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="71" column="12" filename="D:/PythonProjects/one4one/Allowance_Remain.py" />
-      <jump line="76" column="15" filename="D:/PythonProjects/one4one/Card_Cost.py" />
-      <jump line="57" column="18" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
       <jump line="67" column="18" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="22" column="29" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -302,6 +297,11 @@
       <jump line="61" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="118" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="71" column="34" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="72" column="19" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="76" column="338" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="115" column="4" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="57" column="25" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
