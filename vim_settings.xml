@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465876450091">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465897432691">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="37" column="96" />
-        <mark key="]" line="169" column="102" />
-        <mark key="." line="169" column="102" />
-        <mark key="^" line="169" column="102" />
+        <mark key="[" line="120" column="80" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1465876214796">
         <mark key="[" line="29" column="96" />
@@ -42,11 +42,11 @@
         <mark key="." line="111" column="89" />
         <mark key="^" line="111" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465895165580">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="83" column="19" />
-        <mark key="^" line="83" column="19" />
-        <mark key="." line="83" column="19" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465896652432">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="100" column="160" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
         <mark key="[" line="16" column="50" />
@@ -275,44 +275,44 @@
       <jump line="531" column="33" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWycwNTozMDowMCcsICcwNjozMDowMCddLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QkVUV0VFTiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXJkX2Nvc3QgPSBwYW5kYXMucmVhZF9leGNlbCgnLi9ub3JtYWxfY29zdF8yMDE2MDUueGxzeCcsc2hlZXRuYW1lPSdTaGVldDEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoInNlbGVjdCBjb3VudCgqKSBmcm9tIGxvZ2luX2luZm8gd2hlcmUgdXNlcl9pZD17MH0gYW5kIGxvZ2luX3RpbWUgQkVUV0VFTiB7MX0gYW5kIHsyfSIuZm9ybWF0KHRlYWNoZXJfaWQpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWycwNTozMDowMCcsICcwNjozMDowMCddLAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWycwNDozMDowMCcsICcwNTozMDowMCddLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWycwMzozMDowMCcsICcwNDozMDowMCddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVhY2hlciBpbiB0ZWFjaGVyczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWycwMjozMDowMCcsICcwMzozMDowMCddLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWycwMTozMDowMCcsICcwMjozMDowMCddLAo=</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text encoding="base64">QkVUV0VFTiA=</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="9" type="4">
-        <text>student</text>
+        <text>login</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
