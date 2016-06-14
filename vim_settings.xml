@@ -29,8 +29,8 @@
         <mark key="." line="78" column="72" />
         <mark key="^" line="78" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1465876086801">
-        <mark key="'" line="919" column="8" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1465890231280">
+        <mark key="'" line="531" column="33" />
         <mark key="[" line="22" column="90" />
         <mark key="]" line="22" column="90" />
         <mark key="." line="22" column="90" />
@@ -49,7 +49,7 @@
         <mark key="]" line="128" column="59" />
         <mark key="." line="128" column="59" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1465876232945" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1465890282038" />
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465876144211">
         <mark key="'" line="116" column="4" />
         <mark key="[" line="25" column="90" />
@@ -96,7 +96,7 @@
         <mark key="." line="111" column="89" />
         <mark key="^" line="111" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465890184942">
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465890197019">
         <mark key="[" line="81" column="57" />
         <mark key="]" line="81" column="32" />
         <mark key="^" line="81" column="32" />
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="32" filename="D:/PythonProjects/Stat/Teacher_Remain.py" />
       <jump line="40" column="67" filename="D:/PythonProjects/one4one/wb_ltvpu.py" />
       <jump line="36" column="31" filename="D:/PythonProjects/one4one/wb_ltvpu.py" />
       <jump line="636" column="39" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -270,6 +269,7 @@
       <jump line="181" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="14" column="17" filename="D:/PythonProjects/one4one/one4one.sh" />
       <jump line="23" column="19" filename="D:/PythonProjects/one4one/one4one.sh" />
+      <jump line="531" column="33" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
