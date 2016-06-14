@@ -9,7 +9,7 @@
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465897432691">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465899069675">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="120" column="80" />
         <mark key="]" line="65" column="31" />
@@ -42,11 +42,11 @@
         <mark key="." line="111" column="89" />
         <mark key="^" line="111" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465896652432">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="100" column="160" />
-        <mark key="." line="83" column="0" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465899611555">
+        <mark key="[" line="110" column="56" />
+        <mark key="]" line="112" column="11" />
+        <mark key="^" line="112" column="11" />
+        <mark key="." line="112" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
         <mark key="[" line="16" column="50" />
@@ -276,43 +276,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwNTozMDowMCcsICcwNjozMDowMCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlYWNoZXJfbG9ncyArPSBbY3VyXzFvbjEuZmV0Y2hvbmUoKVswXV0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QkVUV0VFTiA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoInNlbGVjdCBjb3VudCgqKSBmcm9tIGxvZ2luX2luZm8gd2hlcmUgdXNlcl9pZD17MH0gYW5kIGxvZ2luX3RpbWUgQkVUV0VFTiB7MX0gYW5kIHsyfSIuZm9ybWF0KHRlYWNoZXJfaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlYWNoZXJfbG9ncyArPSBbY3VyXzFvbjEuZmV0Y2hvbmUoKVswXV0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwNTozMDowMCcsICcwNjozMDowMCddLAo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwNDozMDowMCcsICcwNTozMDowMCddLAo=</text>
+      <register name="2" type="4">
+        <text>:</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwMzozMDowMCcsICcwNDozMDowMCddLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">d2hpbGUg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwMjozMDowMCcsICcwMzozMDowMCddLAo=</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycwMTozMDowMCcsICcwMjozMDowMCddLAo=</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">QkVUV0VFTiA=</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>time_periods</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text encoding="base64">cGVyaW9kIA==</text>
       </register>
-      <register name="9" type="4">
-        <text>login</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lX3BlcmlvZHMgPSBbCiAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
