@@ -170,12 +170,12 @@
         <mark key="]" line="67" column="304" />
         <mark key="." line="67" column="304" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teacher_Busy.py" timestamp="1465985782751">
+      <file name="D:/PythonProjects/Stat/Teacher_Busy.py" timestamp="1465987029631">
         <mark key="'" line="19" column="14" />
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="66" column="60" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="66" column="60" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="73" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1465876386146">
         <mark key="[" line="56" column="41" />
@@ -299,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -311,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgWycxODowMDowMCcsICcxODozMDowMCddLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
-      <register name="2" type="4">
-        <text>, 4: u'小学初中', 5: u'小学高中', 6: u'初中高中</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA0OiB1J7/G0acnLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>\</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAwOiB1J8fr0aHU8dGnv8YnLAo=</text>
       </register>
       <register name="4" type="4">
-        <text>\</text>
+        <text>-1: u'未知',</text>
       </register>
       <register name="5" type="4">
-        <text>\</text>
-      </register>
-      <register name="6" type="4">
-        <text>\</text>
-      </register>
-      <register name="7" type="4">
         <text>'</text>
       </register>
+      <register name="6" type="4">
+        <text>, 4: u'小学初中', 5: u'小学高中', 6: u'初中高中</text>
+      </register>
+      <register name="7" type="4">
+        <text>\</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>yes_start_ts</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
