@@ -10,14 +10,11 @@
         <mark key="^" line="110" column="31" />
         <mark key="." line="110" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465956870416">
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465978405287">
         <mark key="[" line="84" column="41" />
         <mark key="]" line="84" column="37" />
         <mark key="^" line="84" column="36" />
         <mark key="." line="84" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1465889123974">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465899069675">
         <mark key="'" line="144" column="0" />
@@ -36,8 +33,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teachers.py" timestamp="1465975317130">
-        <mark key="[" line="64" column="36" />
+      <file name="D:/PythonProjects/Stat/Teachers.py" timestamp="1465980170193">
+        <mark key="[" line="94" column="31" />
+        <mark key="]" line="116" column="39" />
+        <mark key="^" line="116" column="39" />
+        <mark key="." line="116" column="39" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1465876190734">
         <mark key="[" line="30" column="96" />
@@ -48,7 +48,7 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1465883225224">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1465978896452">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="111" column="89" />
         <mark key="]" line="111" column="89" />
@@ -104,21 +104,12 @@
         <mark key="." line="185" column="12" />
         <mark key="^" line="180" column="11" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1463660545499">
-        <mark key="[" line="101" column="21" />
-      </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1465876179425">
         <mark key="[" line="29" column="96" />
       </file>
-      <file name="/Python Console" timestamp="1465891568358">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1465921215961">
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1465978158677">
         <mark key="'" line="203" column="30" />
-        <mark key="[" line="186" column="73" />
-        <mark key="]" line="186" column="73" />
-        <mark key="." line="186" column="73" />
-        <mark key="^" line="186" column="59" />
+        <mark key="[" line="216" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1465876224883">
         <mark key="'" line="104" column="56" />
@@ -154,17 +145,18 @@
         <mark key="^" line="226" column="19" />
         <mark key="." line="226" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465975433142">
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465979120450">
         <mark key="'" line="116" column="4" />
         <mark key="[" line="25" column="90" />
         <mark key="]" line="25" column="90" />
         <mark key="." line="25" column="90" />
         <mark key="^" line="101" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1465923020914">
-        <mark key="[" line="94" column="42" />
-        <mark key="]" line="96" column="12" />
-        <mark key="." line="96" column="12" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1465980232656">
+        <mark key="[" line="90" column="12" />
+        <mark key="]" line="90" column="11" />
+        <mark key="." line="90" column="11" />
+        <mark key="^" line="90" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1465925935084">
         <mark key="'" line="67" column="18" />
@@ -173,10 +165,11 @@
         <mark key="^" line="37" column="63" />
         <mark key="." line="37" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464960275013">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1465977365293">
+        <mark key="[" line="67" column="304" />
+        <mark key="]" line="67" column="304" />
+        <mark key="." line="67" column="304" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1465891488885" />
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1465876386146">
         <mark key="[" line="56" column="41" />
         <mark key="]" line="56" column="41" />
@@ -298,11 +291,11 @@
       <jump line="93" column="123" filename="D:/PythonProjects/Stat/Members.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Member</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -310,32 +303,32 @@
       <register name="0" type="4">
         <text>if(grade between 7 and 9,2,if(grade=10,1,3))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICMgY3VyLmV4ZWN1dGUoCiAgICAgICAgIyAgICAgInNlbGVjdCBhLnR1dG9yX3JlY29yZF9pZCxhLnN0dWRlbnRfdXNlcl9pZCxhLnRlbGVwaG9uZV9udW0sZnJvbV91bml4dGltZShhLnN0YXJ0X3RpbWUpLHJvdW5kKGEuZHVyYXRpb24vNjAsMikscm91bmQoYS5hY3R1YWxfY29uc3VtZV9hbW91bnQvMTAwLDIpLGEuc3ViamVjdCxiLmNoYXJnZV9jb2RlX25vLGIubm90ZSBmcm9tIChzZWxlY3QgdC50dXRvcl9yZWNvcmRfaWQsdC5zdHVkZW50X3VzZXJfaWQsdC50ZWxlcGhvbmVfbnVtLHQuc3RhcnRfdGltZSx0LmR1cmF0aW9uLHQuYWN0dWFsX2NvbnN1bWVfYW1vdW50LHQuc3ViamVjdCxjLmNoYXJnZV9jb2RlX2lkIGZyb20gKHNlbGVjdCB0dXRvcl9yZWNvcmRfaWQsc3R1ZGVudF91c2VyX2lkLHRlbGVwaG9uZV9udW0sc3RhcnRfdGltZSwoZW5kX3RpbWUtc3RhcnRfdGltZSlhcyBkdXJhdGlvbixhY3R1YWxfY29uc3VtZV9hbW91bnQsc3ViamVjdCBmcm9tIHR1dG9yX3JlY29yZCBqb2luIHVzZXIgb24gdHV0b3JfcmVjb3JkLnN0dWRlbnRfdXNlcl9pZD11c2VyLnVzZXJfaWQgd2hlcmUgaXNfbWVtYmVyX3VzZXI9MSBhbmQgc3RhcnRfdGltZT4wIGFuZCBlbmRfdGltZT4wICkgdCBqb2luIChzZWxlY3QgKiBmcm9tIGNoYXJnZV9jb2RlX3VzZWRfcmVjb3JkIG9yZGVyIGJ5IGNoYXJnZV90aW1lIGRlc2MpIGMgb24gKHQuc3R1ZGVudF91c2VyX2lkPWMudXNlcl9pZCBhbmQgYy5jaGFyZ2VfdGltZTx0LnN0YXJ0X3RpbWUpIHdoZXJlIG1lbWJlcl90eXBlIT0wIGdyb3VwIGJ5IHQudHV0b3JfcmVjb3JkX2lkKWEgam9pbiBjaGFyZ2VfY29kZSBiIG9uIGEuY2hhcmdlX2NvZGVfaWQ9Yi5jaGFyZ2VfY29kZV9pZCIpCiAgICAgICAgIwogICAgICAgICMgY3VyLmV4ZWN1dGUoCiAgICAgICAgIyAgICAgInNlbGVjdCBhLioscm91bmQoc3VtKGlmKHN0YXJ0X3RpbWU+YS5jaGFyZ2VfdGltZSxjaGFyZ2VfYW1vdW50LDApKS8xMDAsMikgZnJvbSAoc2VsZWN0IGIudXNlcl9pZCxiLmdyYWRlLGIuZ2VuZGVyLGIudGVsZXBob25lX251bSxmcm9tX3VuaXh0aW1lKGIuY2hhcmdlX3RpbWUpYXMgYWN0aXZlX3RpbWUsYi5jaGFyZ2VfdGltZSxiLmNoYXJnZV9jb2RlX25vLGIubm90ZSxjb3VudChpZihhcHBseV90aW1lLzEwMDA8Y2hhcmdlX3RpbWUgYW5kIGlzX21lbWJlcl91c2VyPTAsMSxOVUxMKSksY291bnQoaWYoc3RhcnRfdGltZT4wIGFuZCBzdGFydF90aW1lPGNoYXJnZV90aW1lIGFuZCBpc19tZW1iZXJfdXNlcj0wLDEsTlVMTCkpLGNvdW50KGlmKHN0YXJ0X3RpbWU+MCBhbmQgc3RhcnRfdGltZTxjaGFyZ2VfdGltZSBhbmQgYWN0dWFsX2NvbnN1bWVfYW1vdW50PjAgYW5kIGFjdHVhbF9wYXlfYW1vdW50PGFjdHVhbF9jb25zdW1lX2Ftb3VudCBhbmQgaXNfbWVtYmVyX3VzZXI9MCwxLE5VTEwpKSxyb3VuZChzdW0oaWYoc3RhcnRfdGltZT4wIGFuZCBzdGFydF90aW1lPGNoYXJnZV90aW1lIGFuZCBpc19tZW1iZXJfdXNlcj0wLGFjdHVhbF9jb25zdW1lX2Ftb3VudCwwKSkvMTAwLDIpLGNvdW50KGlmKGFwcGx5X3RpbWUvMTAwMD5jaGFyZ2VfdGltZSBhbmQgaXNfbWVtYmVyX3VzZXI9MSwxLE5VTEwpKSxjb3VudChpZihzdGFydF90aW1lPjAgYW5kIHN0YXJ0X3RpbWU+Y2hhcmdlX3RpbWUgYW5kIGlzX21lbWJlcl91c2VyPTEsMSxOVUxMKSkgZnJvbSAoc2VsZWN0IGMudXNlcl9pZCxncmFkZSxnZW5kZXIsdGVsZXBob25lX251bSxjaGFyZ2VfdGltZSxjaGFyZ2VfY29kZV9ubyxub3RlIGZyb20gY2hhcmdlX2NvZGVfdXNlZF9yZWNvcmQgYyBqb2luIGNoYXJnZV9jb2RlIGMyIG9uIGMuY2hhcmdlX2NvZGVfaWQ9YzIuY2hhcmdlX2NvZGVfaWQgam9pbiB1c2VyIG9uIGMudXNlcl9pZD11c2VyLnVzZXJfaWQgd2hlcmUgYy5tZW1iZXJfdHlwZSE9MCliIGxlZnQgam9pbiB0dXRvcl9yZWNvcmQgdCBvbiBiLnVzZXJfaWQ9dC5zdHVkZW50X3VzZXJfaWQgZ3JvdXAgYnkgYi5jaGFyZ2VfY29kZV9ubyxiLmNoYXJnZV90aW1lKWEgbGVmdCBqb2luIChzZWxlY3QgKiBmcm9tIGNoYXJnZV9yZWNvcmQgd2hlcmUgc3RhdHVzPTEpY2Mgb24gYS51c2VyX2lkPWNjLnVzZXJfaWQgZ3JvdXAgYnkgYS5jaGFyZ2VfY29kZV9ubyIpCgogICAgICAgIG1lbWJlcl90eXBlcyA9IHsxOiB1J7D81MK/qCcsIDM6IHUnsPy8vr+oJ30KCiAgICAgICAgY2FyZF9jb3N0X2ZpbGUgPSBvcGVuKCcuL2NhcmRfY29zdC50eHQnLCAndycpCiAgICAgICAgY2FyZF9jb3N0X2V4Y2VsX3dyaXRlciA9IHBhbmRhcy5FeGNlbFdyaXRlcignLi9jYXJkX2Nvc3QueGxzeCcsIGVuZ2luZT0neGxzeHdyaXRlcicpCiAgICAgICAgY3VyX21hdHJpeC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNhcmRfaWQsY2FyZF9ubyxjYXJkX3R5cGUsY2FyZF9ub3RlLHVzZXJfaWQsY2hhcmdlX3RpbWUsZnJvbV90aW1lLHRvX3RpbWUgZnJvbSBtZW1iZXJfY2FyZF9kdXJhdGlvbiBvcmRlciBieSB0b190aW1lIikKICAgICAgICByZXMgPSBjdXJfbWF0cml4LmZldGNoYWxsKCkKICAgICAgICBmb3IgY2lkLCBjbm8sIGNfdHlwZSwgY19ub3RlLCB1aWQsIHRzLCBmdHMsIHR0cyBpbiByZXM6CiAgICAgICAgICAgIHJvd3MgPSBjdXJfbWF0cml4LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGZyb21fdGltZSBmcm9tIG1lbWJlcl9jYXJkX2R1cmF0aW9uIHdoZXJlIHVzZXJfaWQ9ezB9IGFuZCBjaGFyZ2VfdGltZTx7MX0gb3JkZXIgYnkgY2hhcmdlX3RpbWUgbGltaXQgMSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHVpZCwgdHMpKQogICAgICAgICAgICBpZiByb3dzICE9IDA6CiAgICAgICAgICAgICAgICBmaXJzdCA9IDAKICAgICAgICAgICAgICAgIGZpcnN0X2NoYXJnZV90aW1lID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpWzBdCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmaXJzdCA9IDEKICAgICAgICAgICAgICAgIGZpcnN0X2NoYXJnZV90aW1lID0gZnRzCgogICAgICAgICAgICBjdXJfc3RhdC5leGVjdXRlKCJzZWxlY3QgYWRkX3RpbWUgZnJvbSB3aGl0ZV9ib2FyZF93aGl0ZV9saXN0IHdoZXJlIHVzZXJfaWQ9ezB9Ii5mb3JtYXQodWlkKSkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgYWRkX3RzID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQogICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICBhZGRfdHMgPSAwCiAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGNvdW50KCopLGNvdW50KGlmKHN0YXJ0X3RpbWU+MCwxLE5VTEwpKSBmcm9tIHR1dG9yX3JlY29yZCB3aGVyZSBzdHVkZW50X3VzZXJfaWQ9ezB9IGFuZCBhcHBseV90aW1lLzEwMDAgPCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB1aWQsIGZpcnN0X2NoYXJnZV90aW1lKSkKICAgICAgICAgICAgdHV0b3JfYXBwbHlfdGltZXNfYmVmb3JlLCB0dXRvcl90cnVlX3RpbWVzX2JlZm9yZSA9IGN1cl8xb24xLmZldGNob25lKCkKCiAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGlmKGdyYWRlIGJldHdlZW4gNyBhbmQgOSwyLGlmKGdyYWRlPTEwLDEsMykpLGNvdW50KCopIGFzIGNvdW50IGZyb20gdHV0b3JfcmVjb3JkIHdoZXJlIGdyYWRlPjAgYW5kIHN0dWRlbnRfdXNlcl9pZD17MH0gZ3JvdXAgYnkgaWYoZ3JhZGUgYmV0d2VlbiA3IGFuZCA5LDIsaWYoZ3JhZGU9MTAsMSwzKSkgb3JkZXIgYnkgY291bnQgZGVzYyBsaW1pdCAxIi5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgdWlkKSkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgdHV0b3JfZ3JhZGUgPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIHR1dG9yX2dyYWRlID0gMAogICAgICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3Qgcm91bmQoc3VtKGlmKHN0YXJ0X3RpbWU+MCBhbmQgZW5kX3RpbWU+c3RhcnRfdGltZSxpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8PW1heF9kdXJhdGlvbixlbmRfdGltZS1zdGFydF90aW1lLG1heF9kdXJhdGlvbiksMCkpLzYwLDIpLHJvdW5kKHN1bShhY3R1YWxfY29uc3VtZV9hbW91bnQpLzEwMCwyKSBmcm9tIHR1dG9yX3JlY29yZCB3aGVyZSBpc19tZW1iZXJfdXNlcj0xIGFuZCBhcHBseV90aW1lLzEwMDAgYmV0d2VlbiB7MH0gYW5kIHsxfSBhbmQgc3R1ZGVudF91c2VyX2lkID0gezJ9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgZnRzLCB0dHMsIHVpZCkpCiAgICAgICAgICAgIGR1cmF0aW9uLCBjb3N0ID0gY3VyLmZldGNob25lKCkKICAgICAgICAgICAgaWYgZHVyYXRpb24gaXMgTm9uZToKICAgICAgICAgICAgICAgIGR1cmF0aW9uID0gMAogICAgICAgICAgICBpZiBjb3N0IGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb3N0ID0gMAoKICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9uYW1lLHRlbGVwaG9uZV9udW0scHJvdmluY2UsY2l0eSxncmFkZSxnZW5kZXIgZnJvbSB1c2VyX29ubGluZSB3aGVyZSB1c2VyX2lkPXswfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHVpZCkpCiAgICAgICAgICAgIHVuYW1lLCB0ZWwsIHByb3YsIGNpdHksIGdyYWRlLCBnZW5kZXIgPSBjdXJfc3RhdC5mZXRjaG9uZSgpCiAgICAgICAgICAgIHByaW50ICdcdCcuam9pbigKICAgICAgICAgICAgICAgIFtzdHIoeCkgZm9yIHggaW4KICAgICAgICAgICAgICAgICBbdWlkLCB1bmFtZSwgdGVsLCBwcm92LCBjaXR5LCBncmFkZSwgZ2VuZGVyLCBjaWQsIGNubywgbWVtYmVyX3R5cGVzW2NfdHlwZV0sIGNfbm90ZSwgdHV0b3JfZ3JhZGUsCiAgICAgICAgICAgICAgICAgIHRzX3RvX3N0cih0cyksIHRzX3RvX3N0cihmdHMpLCB0c190b19zdHIodHRzKSwgZHVyYXRpb24sIGNvc3QsIGZpcnN0LCB0dXRvcl9hcHBseV90aW1lc19iZWZvcmUsCiAgICAgICAgICAgICAgICAgIHR1dG9yX3RydWVfdGltZXNfYmVmb3JlLCB0c190b19zdHIoYWRkX3RzKV1dKQogICAgICAgICAgICBjYXJkX2Nvc3RfZmlsZS53cml0ZSgKICAgICAgICAgICAgICAgICdcdCcuam9pbigKICAgICAgICAgICAgICAgICAgICBbc3RyKHgpIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgIFt1aWQsIHVuYW1lLCB0ZWwsIHByb3YsIGNpdHksIGdyYWRlLCBnZW5kZXIsIGNpZCwgY25vLCBtZW1iZXJfdHlwZXNbY190eXBlXSwgY19ub3RlLCB0dXRvcl9ncmFkZSwKICAgICAgICAgICAgICAgICAgICAgIHRzX3RvX3N0cih0cyksIHRzX3RvX3N0cihmdHMpLCB0c190b19zdHIodHRzKSwgZHVyYXRpb24sIGNvc3QsIGZpcnN0LCB0dXRvcl9hcHBseV90aW1lc19iZWZvcmUsCiAgICAgICAgICAgICAgICAgICAgICB0dXRvcl90cnVlX3RpbWVzX2JlZm9yZSwgdHNfdG9fc3RyKGFkZF90cyldXSkpCiAgICAgICAgICAgIGNhcmRfY29zdF9maWxlLndyaXRlKCdcbicpCgogICAgICAgIGNhcmRfY29zdF9maWxlLmNsb3NlKCkKCiAgICAgICAgY2FyZF9jb3N0ID0gcGFuZGFzLnJlYWRfdGFibGUoJy4vY2FyZF9jb3N0LnR4dCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZXM9W3Un08O7p0lEJywgdSfTw7unw/snLCB1J8rWu/q6xScsIHUnyqEnLCB1J8rQJywgdSfE6ry2JywgdSfQ1LHwJywgdSe74dSxv6i/qLrFJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe74dSxv6jD3MLrJywgdSe74dSxwODQzScsIHUnsbjXoicsIHUnu+HUscTqvLajqLLCssLO0srHvLjE6ry2MCzQodGnMaOss/XW0DKjrLjf1tAzo6knLCB1J7vh1LG8pLvuyrG85CcsIHUnu+HUscn60KfKsbzkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe74dSxtb3G2sqxvOQnLCB1J8bavOTX3M/7t9HKsbOko6i31qOpJywgdSfG2rzk19zP+7fRvfC27qOo1KqjqScsIHUnyse38crXtM6z5Lvh1LG/qKOot/Ewo6zKxzGjqScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUntdrSu9XF0afPsL+ovKS77sewuKi1vLTOyv0nLCB1J7Xa0rvVxdGnz7C/qLyku+7HsNX9s6O4qLW8tM7K/ScsIHUn0ru21NK7v6rNqMqxvOQnXSkKCiAgICAgICAgY2FyZF9jb3N0W3Unu+HUsb+ow9zC6yddID0gY2FyZF9jb3N0W3Unu+HUsb+ow9zC6yddLmFzdHlwZSgnc3RyJykKICAgICAgICBjYXJkX2Nvc3QudG9fZXhjZWwoY2FyZF9jb3N0X2V4Y2VsX3dyaXRlciwgaW5kZXg9RmFsc2UpCiAgICAgICAgY2FyZF9jb3N0X2V4Y2VsX3dyaXRlci5zYXZlKA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>Member</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text>using(tutor_record_id)</text>
+        <text>duration_all</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
         <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
