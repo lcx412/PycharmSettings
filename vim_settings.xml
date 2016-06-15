@@ -45,12 +45,12 @@
         <mark key="." line="111" column="89" />
         <mark key="^" line="111" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465921076650">
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465954382558">
         <mark key="'" line="115" column="91" />
-        <mark key="[" line="117" column="97" />
-        <mark key="]" line="117" column="29" />
+        <mark key="[" line="131" column="13" />
+        <mark key="]" line="131" column="13" />
         <mark key="^" line="117" column="29" />
-        <mark key="." line="117" column="29" />
+        <mark key="." line="131" column="13" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
         <mark key="[" line="16" column="50" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>吧</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>吧</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWVuZy56aGFuZ0BsZWplbnQuY29tJywgJ3hpYW8uemhhbmdAbGVqZW50LmNvbScsICd4aWFvdGluZy50YW5nQGxlamVudC5jb20nLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>吧</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICd4aWFvdGluZy50YW5nQGxlamVudC5jb20nLA==</text>
+        <text>业</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>作</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>吧</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>业</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>作</text>
       </register>
       <register name="7" type="4">
-        <text>z</text>
+        <text>吧</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>业</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>作</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
