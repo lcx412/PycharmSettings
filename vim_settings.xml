@@ -33,11 +33,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teachers.py" timestamp="1465980170193">
-        <mark key="[" line="94" column="31" />
-        <mark key="]" line="116" column="39" />
-        <mark key="^" line="116" column="39" />
-        <mark key="." line="116" column="39" />
+      <file name="D:/PythonProjects/Stat/Teachers.py" timestamp="1465981427304">
+        <mark key="[" line="123" column="31" />
+        <mark key="]" line="123" column="32" />
+        <mark key="^" line="113" column="0" />
+        <mark key="." line="123" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1465876190734">
         <mark key="[" line="30" column="96" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -304,31 +304,31 @@
         <text>if(grade between 7 and 9,2,if(grade=10,1,3))</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>duration_all</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>duration_all</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
