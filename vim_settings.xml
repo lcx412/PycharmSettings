@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465922975743">
-        <mark key="[" line="60" column="1166" />
-        <mark key="]" line="65" column="99" />
-        <mark key="^" line="65" column="99" />
-        <mark key="." line="65" column="99" />
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1465956870416">
+        <mark key="[" line="84" column="41" />
+        <mark key="]" line="84" column="37" />
+        <mark key="^" line="84" column="36" />
+        <mark key="." line="84" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
@@ -45,12 +45,12 @@
         <mark key="." line="111" column="89" />
         <mark key="^" line="111" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465954382558">
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1465956743664">
         <mark key="'" line="115" column="91" />
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="131" column="13" />
-        <mark key="^" line="117" column="29" />
-        <mark key="." line="131" column="13" />
+        <mark key="[" line="130" column="79" />
+        <mark key="]" line="130" column="79" />
+        <mark key="^" line="130" column="79" />
+        <mark key="." line="130" column="79" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
         <mark key="[" line="16" column="50" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>吧</text>
+        <text>为</text>
       </register>
       <register name="-" type="4">
-        <text>吧</text>
+        <text>为</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -294,22 +294,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWVuZy56aGFuZ0BsZWplbnQuY29tJywgJ3hpYW8uemhhbmdAbGVqZW50LmNvbScsICd4aWFvdGluZy50YW5nQGxlamVudC5jb20nLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>吧</text>
+        <text>为</text>
       </register>
       <register name="2" type="4">
-        <text>业</text>
+        <text>价</text>
       </register>
       <register name="3" type="4">
-        <text>作</text>
+        <text>评</text>
       </register>
       <register name="4" type="4">
-        <text>吧</text>
+        <text>时间</text>
       </register>
       <register name="5" type="4">
-        <text>业</text>
+        <text>总</text>
       </register>
       <register name="6" type="4">
-        <text>作</text>
+        <text>总</text>
       </register>
       <register name="7" type="4">
         <text>吧</text>
