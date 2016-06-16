@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Members.py" timestamp="1466056622209">
+      <file name="D:/PythonProjects/Stat/Members.py" timestamp="1466072151512">
         <mark key="'" line="97" column="123" />
         <mark key="[" line="71" column="53" />
         <mark key="]" line="71" column="42" />
@@ -57,11 +57,11 @@
         <mark key="^" line="113" column="0" />
         <mark key="." line="123" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466057202140">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466071235084">
         <mark key="[" line="152" column="13" />
-        <mark key="]" line="152" column="13" />
-        <mark key="." line="152" column="13" />
-        <mark key="^" line="152" column="164" />
+        <mark key="]" line="171" column="28" />
+        <mark key="." line="171" column="28" />
+        <mark key="^" line="171" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1465876190734">
         <mark key="[" line="30" column="96" />
@@ -91,7 +91,7 @@
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466071718314">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="50" />
         <mark key="." line="16" column="50" />
@@ -114,7 +114,7 @@
         <mark key="^" line="82" column="82" />
         <mark key="." line="82" column="82" />
       </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1466046083339">
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1466069377887">
         <mark key="'" line="24" column="19" />
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="7" />
@@ -156,9 +156,9 @@
         <mark key="." line="22" column="90" />
         <mark key="^" line="672" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1465963613152">
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466071176400">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="25" column="28" />
+        <mark key="[" line="69" column="33" />
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
         <mark key="^" line="67" column="19" />
@@ -174,7 +174,7 @@
         <mark key="^" line="226" column="19" />
         <mark key="." line="226" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1465979120450">
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1466072246804">
         <mark key="'" line="116" column="4" />
         <mark key="[" line="25" column="90" />
         <mark key="]" line="25" column="90" />
@@ -187,11 +187,11 @@
         <mark key="." line="90" column="11" />
         <mark key="^" line="90" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466056997231">
-        <mark key="[" line="20" column="116" />
-        <mark key="]" line="32" column="5" />
-        <mark key="^" line="32" column="5" />
-        <mark key="." line="32" column="5" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466071869133">
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="7" />
+        <mark key="." line="55" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1466058513451">
         <mark key="[" line="0" column="0" />
@@ -208,12 +208,12 @@
         <mark key="]" line="67" column="304" />
         <mark key="." line="67" column="304" />
       </file>
-      <file name="D:/PythonProjects/Stat/Teacher_Busy.py" timestamp="1466061616895">
+      <file name="D:/PythonProjects/Stat/Teacher_Busy.py" timestamp="1466070881255">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="97" column="55" />
-        <mark key="]" line="109" column="53" />
-        <mark key="." line="109" column="53" />
-        <mark key="^" line="109" column="53" />
+        <mark key="]" line="107" column="66" />
+        <mark key="." line="107" column="66" />
+        <mark key="^" line="107" column="66" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1465876386146">
         <mark key="[" line="56" column="41" />
@@ -336,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -348,31 +348,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQubW9udGhfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>*</text>
+        <text>3</text>
       </register>
       <register name="2" type="4">
-        <text>h</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>7</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>*</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
-      </register>
-      <register name="6" type="4">
-        <text>m</text>
-      </register>
-      <register name="7" type="4">
         <text>h</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>n</text>
+      </register>
+      <register name="8" type="4">
+        <text>o</text>
+      </register>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
