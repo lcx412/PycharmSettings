@@ -16,6 +16,9 @@
         <mark key="^" line="84" column="36" />
         <mark key="." line="84" column="37" />
       </file>
+      <file name="/a.dummy" timestamp="1465889123974">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1466050026117">
         <mark key="[" line="9" column="21" />
       </file>
@@ -47,6 +50,12 @@
         <mark key="]" line="123" column="32" />
         <mark key="^" line="113" column="0" />
         <mark key="." line="123" column="32" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466057202140">
+        <mark key="[" line="152" column="13" />
+        <mark key="]" line="152" column="13" />
+        <mark key="." line="152" column="13" />
+        <mark key="^" line="152" column="164" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1465876190734">
         <mark key="[" line="30" column="96" />
@@ -106,12 +115,15 @@
         <mark key="." line="66" column="11" />
         <mark key="^" line="110" column="84" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1465824125103">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1466057010867">
         <mark key="'" line="48" column="51" />
         <mark key="[" line="185" column="39" />
         <mark key="]" line="185" column="12" />
         <mark key="." line="185" column="12" />
         <mark key="^" line="180" column="11" />
+      </file>
+      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1463660545499">
+        <mark key="[" line="101" column="21" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1465876179425">
         <mark key="[" line="29" column="96" />
@@ -165,12 +177,14 @@
         <mark key="." line="90" column="11" />
         <mark key="^" line="90" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1465925935084">
-        <mark key="'" line="67" column="18" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="37" column="64" />
-        <mark key="^" line="37" column="63" />
-        <mark key="." line="37" column="64" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466056997231">
+        <mark key="[" line="20" column="116" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1466056863270">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1465977365293">
         <mark key="[" line="67" column="304" />
@@ -305,11 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.format(
-                yes_start_ts, yes_end_ts)</text>
+        <text>insert</text>
       </register>
       <register name="-" type="4">
-        <text>where charge_time between {0} and {1}</text>
+        <text>insert</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -318,32 +331,32 @@
         <text encoding="base64">ICAgICAgICAgICAgWycxODowMDowMCcsICcxODozMDowMCddLAo=</text>
       </register>
       <register name="1" type="4">
+        <text>insert</text>
+      </register>
+      <register name="2" type="4">
+        <text>h</text>
+      </register>
+      <register name="3" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>n</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>m</text>
+      </register>
+      <register name="7" type="4">
         <text>.format(
                 yes_start_ts, yes_end_ts)</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>where charge_time between {0} and {1}</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>c1.member_type in (1,2,3,4) and</text>
-      </register>
-      <register name="5" type="4">
-        <text>values</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
