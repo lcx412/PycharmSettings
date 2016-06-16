@@ -22,6 +22,12 @@
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1466050026117">
         <mark key="[" line="9" column="21" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1466058074549">
+        <mark key="[" line="466" column="4" />
+        <mark key="]" line="466" column="7" />
+        <mark key="^" line="466" column="7" />
+        <mark key="." line="466" column="7" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1465899069675">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="120" column="80" />
@@ -80,6 +86,11 @@
         <mark key="^" line="130" column="79" />
         <mark key="." line="130" column="79" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1466058278477">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1465876490925">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="50" />
@@ -127,10 +138,6 @@
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1465876179425">
         <mark key="[" line="29" column="96" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1465978158677">
-        <mark key="'" line="203" column="30" />
-        <mark key="[" line="216" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1465876224883">
         <mark key="'" line="104" column="56" />
@@ -185,6 +192,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1466056863270">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1466058360803">
+        <mark key="'" line="49" column="67" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1465977365293">
         <mark key="[" line="67" column="304" />
@@ -319,44 +333,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>insert</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWycxODowMDowMCcsICcxODozMDowMCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQubW9udGhfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>insert</text>
-      </register>
-      <register name="2" type="4">
         <text>h</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>t</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>n</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>o</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>m</text>
       </register>
+      <register name="6" type="4">
+        <text>h</text>
+      </register>
       <register name="7" type="4">
-        <text>.format(
-                yes_start_ts, yes_end_ts)</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>where charge_time between {0} and {1}</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
