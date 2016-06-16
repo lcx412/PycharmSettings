@@ -29,11 +29,11 @@
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1465925729116">
         <mark key="[" line="29" column="96" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1466052589541">
-        <mark key="[" line="56" column="195" />
-        <mark key="]" line="69" column="104" />
-        <mark key="^" line="69" column="104" />
-        <mark key="." line="69" column="104" />
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1466053619636">
+        <mark key="[" line="72" column="86" />
+        <mark key="]" line="73" column="35" />
+        <mark key="^" line="73" column="35" />
+        <mark key="." line="73" column="35" />
       </file>
       <file name="D:/PythonProjects/Streaming/Sum.sh" timestamp="1465800004756">
         <mark key="[" line="3" column="16" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgWycxODowMDowMCcsICcxODozMDowMCddLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>values</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>c1.member_type in (1,2,3,4) and</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>values</text>
       </register>
       <register name="4" type="4">
         <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text />
       </register>
       <register name="6" type="4">
         <text>)</text>
       </register>
       <register name="7" type="4">
+        <text>x</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
         <text>1</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA0OiB1J7/G0acnLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAwOiB1J8fr0aHU8dGnv8YnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
