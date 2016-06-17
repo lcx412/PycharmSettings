@@ -91,12 +91,12 @@
         <mark key="." line="25" column="90" />
         <mark key="^" line="101" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466190231821">
-        <mark key="'" line="110" column="64" />
-        <mark key="[" line="98" column="37" />
-        <mark key="]" line="98" column="37" />
-        <mark key="^" line="115" column="81" />
-        <mark key="." line="98" column="37" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466191535740">
+        <mark key="'" line="111" column="64" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="20" />
+        <mark key="^" line="102" column="40" />
+        <mark key="." line="121" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466071869133">
         <mark key="[" line="55" column="7" />
@@ -332,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -344,31 +344,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQubW9udGhfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
