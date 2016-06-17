@@ -20,6 +20,7 @@
         <mark key="^" line="84" column="36" />
         <mark key="." line="84" column="27" />
       </file>
+      <file name="C:/Python2/Lib/socket.py" timestamp="1466161361856" />
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +45,7 @@
         <mark key="^" line="466" column="7" />
         <mark key="." line="466" column="7" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.1/system/python_stubs/1473657777/__builtin__.py" timestamp="1466161361098" />
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1466145541286">
         <mark key="'" line="531" column="33" />
         <mark key="[" line="909" column="18" />
@@ -51,7 +53,7 @@
         <mark key="." line="909" column="18" />
         <mark key="^" line="672" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1466154009318">
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1466157147894">
         <mark key="[" line="90" column="19" />
         <mark key="]" line="90" column="19" />
         <mark key="." line="90" column="19" />
@@ -89,11 +91,12 @@
         <mark key="." line="25" column="90" />
         <mark key="^" line="101" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466135178317">
-        <mark key="[" line="94" column="31" />
-        <mark key="]" line="94" column="37" />
-        <mark key="." line="94" column="37" />
-        <mark key="^" line="94" column="42" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466163870773">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="110" column="31" />
+        <mark key="^" line="110" column="31" />
+        <mark key="." line="110" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466071869133">
         <mark key="[" line="55" column="7" />
@@ -226,17 +229,12 @@
         <mark key="." line="185" column="12" />
         <mark key="^" line="180" column="11" />
       </file>
+      <file name="C:/Python2/Lib/site-packages/xlsxwriter/workbook.py" timestamp="1466160597382" />
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1463660545499">
         <mark key="[" line="101" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="D:/PythonProjects/matrix/statistics/templates/sidebar_one4one.html" />
-      <jump line="697" column="61" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="114" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="700" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="58" column="28" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" />
-      <jump line="88" column="117" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="85" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
@@ -331,13 +329,19 @@
       <jump line="48" column="37" filename="C:/Python2/Lib/site-packages/mail.py" />
       <jump line="66" column="22" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="84" column="27" filename="D:/PythonProjects/one4one/tutor_comment.py" />
+      <jump line="73" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="87" column="34" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="101" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="119" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="106" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VfZGF0YSA9IEJ5dGVzSU8odXJsb3Blbih1cmwsIHRpbWVvdXQ9NSkucmVhZCgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>：</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -346,31 +350,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQubW9udGhfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VfZGF0YSA9IEJ5dGVzSU8odXJsb3Blbih1cmwsIHRpbWVvdXQ9NSkucmVhZCgpKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>：</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHVybAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>注</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
