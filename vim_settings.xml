@@ -91,12 +91,12 @@
         <mark key="." line="25" column="90" />
         <mark key="^" line="101" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466177055670">
-        <mark key="'" line="130" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466178455660">
+        <mark key="'" line="109" column="64" />
         <mark key="[" line="16" column="17" />
-        <mark key="]" line="109" column="76" />
-        <mark key="^" line="109" column="76" />
-        <mark key="." line="109" column="76" />
+        <mark key="]" line="104" column="36" />
+        <mark key="^" line="104" column="36" />
+        <mark key="." line="104" column="36" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466071869133">
         <mark key="[" line="55" column="7" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
@@ -335,6 +334,7 @@
       <jump line="119" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="106" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
