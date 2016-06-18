@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1466233442145">
-        <mark key="[" line="89" column="578" />
-        <mark key="]" line="89" column="578" />
-        <mark key="^" line="89" column="658" />
-        <mark key="." line="89" column="578" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1466233763718">
+        <mark key="[" line="89" column="28" />
+        <mark key="]" line="89" column="28" />
+        <mark key="^" line="89" column="470" />
+        <mark key="." line="89" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1466146060177">
         <mark key="[" line="9" column="21" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -304,31 +304,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmZyb21fdGltZXN0YW1wID0gaW50KAogICAgICAgICAgICB0aW1lMi5ta3RpbWUoZGF0ZXRpbWUuc3RycHRpbWUoKHNlbGYueWVzdGVyZGF5ICsgJyAwMDowMDowMCcpLCAnJVktJW0tJWQgJUg6JU06JVMnKS50aW1ldHVwbGUoKSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text encoding="base64">IE9OIHUudGVsZXBob25lX251bSA9IHIudGVsZXBob25lX251bQ==</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>u</text>
       </register>
       <register name="7" type="4">
-        <text>ed_packet</text>
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRfcGFja2V0LmNyZWF0ZV90aW1lIDwgIiArIHNlbGYueWVzX2VuZF90cykK</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBTkQK</text>
+      <register name="9" type="4">
+        <text>=user_offline.user_id</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
