@@ -148,6 +148,7 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain_content.html" timestamp="1466223667776" />
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1465978896452">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="111" column="89" />
@@ -162,11 +163,9 @@
         <mark key="^" line="147" column="73" />
         <mark key="." line="147" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466071718314">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="67" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466223372134">
+        <mark key="'" line="94" column="25" />
+        <mark key="[" line="96" column="41" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1465876195777">
         <mark key="[" line="29" column="96" />
@@ -232,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
       <jump line="99" column="33" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
@@ -332,13 +330,14 @@
       <jump line="106" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="93" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>像</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>像</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -347,31 +346,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQubW9udGhfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>像</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>头</text>
+        <text>像</text>
       </register>
       <register name="3" type="4">
-        <text>/data/home/luchengxiang/one4one/</text>
+        <text>头</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>/data/home/luchengxiang/one4one/</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>3</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
