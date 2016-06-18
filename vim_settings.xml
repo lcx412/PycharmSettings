@@ -24,11 +24,12 @@
       <file name="/a.dummy" timestamp="1465889123974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1466234788363">
-        <mark key="[" line="102" column="357" />
-        <mark key="]" line="102" column="357" />
-        <mark key="^" line="102" column="356" />
-        <mark key="." line="102" column="357" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1466236876710">
+        <mark key="'" line="196" column="21" />
+        <mark key="[" line="93" column="60" />
+        <mark key="]" line="93" column="60" />
+        <mark key="^" line="93" column="60" />
+        <mark key="." line="93" column="60" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1466146060177">
         <mark key="[" line="9" column="21" />
@@ -128,11 +129,12 @@
         <mark key="^" line="147" column="73" />
         <mark key="." line="147" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466231956922">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466236193810">
         <mark key="'" line="93" column="25" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="16" />
-        <mark key="." line="94" column="16" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="51" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1465876195777">
         <mark key="[" line="29" column="96" />
@@ -189,18 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="24" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="91" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="99" column="33" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="83" column="13" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="111" column="8" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="92" column="118" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="11" column="0" filename="D:/PythonProjects/Stat/Telephone_Sales.py" />
-      <jump line="75" column="56" filename="D:/PythonProjects/Stat/Activated_time_stat.py" />
-      <jump line="76" column="0" filename="D:/PythonProjects/Stat/Activated_time_stat.py" />
-      <jump line="86" column="24" filename="D:/PythonProjects/one4one/Guaguale.py" />
-      <jump line="190" column="30" filename="D:/PythonProjects/one4one/tutor_detail.py" />
-      <jump line="97" column="166" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="136" column="4" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
       <jump line="129" column="113" filename="D:/PythonProjects/Stat/Zhuoyue.py" />
@@ -289,46 +279,58 @@
       <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="93" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="126" column="29" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="172" column="11" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="50" column="749" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="213" column="4" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="170" column="13" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="6" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="169" column="19" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="19" column="8" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="49" column="8" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="216" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="197" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>create_time</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>create_time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZyb21fdGltZXN0YW1wID0gaW50KAogICAgICAgICAgICB0aW1lMi5ta3RpbWUoZGF0ZXRpbWUuc3RycHRpbWUoKHNlbGYueWVzdGVyZGF5ICsgJyAwMDowMDowMCcpLCAnJVktJW0tJWQgJUg6JU06JVMnKS50aW1ldHVwbGUoKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHUiuKi1vCIK</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>create_time</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>discount</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>account</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>，</text>
       </register>
       <register name="5" type="4">
-        <text>WHERE start_time</text>
+        <text>，</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>status</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>生</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>学</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PSB1LnVzZXJfaWQg</text>
+        <text>生</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
