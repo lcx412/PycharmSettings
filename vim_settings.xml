@@ -83,12 +83,12 @@
         <mark key="." line="81" column="188" />
         <mark key="^" line="82" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466347093790">
-        <mark key="'" line="158" column="4" />
-        <mark key="[" line="104" column="38" />
-        <mark key="]" line="94" column="26" />
-        <mark key="." line="94" column="26" />
-        <mark key="^" line="94" column="26" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466349225107">
+        <mark key="'" line="104" column="46" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="20" />
+        <mark key="." line="109" column="20" />
+        <mark key="^" line="109" column="51" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1466188742842">
         <mark key="'" line="101" column="22" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="50" filename="D:/PythonProjects/Stat/zhule.py" />
       <jump line="9" column="28" filename="D:/PythonProjects/Stat/zhule.py" />
       <jump line="80" column="0" filename="D:/PythonProjects/Stat/zhule.py" />
       <jump line="104" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
@@ -283,13 +282,14 @@
       <jump line="140" column="42" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="154" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="104" column="46" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNoZWV0LmNlbGwocm93LCBjb2wpLnZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, formatting_info=True</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNoZWV0LmNlbGwocm93LCBjb2wpLnZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>, formatting_info=True</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNoZWV0LmNlbGwocm93LCBjb2wpLnZhbHVlCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>, formatting_info=True</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIHNoZWV0cyA9IHdiUkQuc2hlZXRzKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3Igc2hlZXQgaW4gc2hlZXRzOiAgIyB3cml0ZSBkYXRhIGZyb20gb2xkIGZpbGUK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>.</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>e</text>
       </register>
-      <register name="7" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="4">
-        <text>l</text>
-      </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
