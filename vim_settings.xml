@@ -98,8 +98,8 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466406097095">
-        <mark key="'" line="115" column="16" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466407660089">
+        <mark key="'" line="132" column="64" />
         <mark key="[" line="64" column="11" />
         <mark key="]" line="64" column="11" />
         <mark key="." line="64" column="11" />
@@ -112,8 +112,8 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466393170325">
-        <mark key="'" line="132" column="62" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466407671232">
+        <mark key="'" line="178" column="20" />
         <mark key="[" line="183" column="58" />
         <mark key="]" line="183" column="59" />
         <mark key="." line="183" column="59" />
@@ -179,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="84" filename="D:/PythonProjects/Stat/Card_Cost.py" />
-      <jump line="76" column="26" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="95" column="4" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="91" column="149" filename="D:/PythonProjects/Stat/Card_Duration.py" />
       <jump line="90" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
@@ -279,6 +277,8 @@
       <jump line="61" column="39" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="48" column="12" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="115" column="16" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="132" column="64" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="178" column="20" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
