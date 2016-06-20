@@ -98,7 +98,7 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466407660089">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466410133745">
         <mark key="'" line="132" column="64" />
         <mark key="[" line="64" column="11" />
         <mark key="]" line="64" column="11" />
@@ -112,8 +112,8 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466407671232">
-        <mark key="'" line="178" column="20" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466409708232">
+        <mark key="'" line="73" column="35" />
         <mark key="[" line="183" column="58" />
         <mark key="]" line="183" column="59" />
         <mark key="." line="183" column="59" />
@@ -140,12 +140,12 @@
         <mark key="." line="107" column="66" />
         <mark key="^" line="107" column="66" />
       </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1466406935878">
+      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1466408754653">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="41" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
         <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1466134978961">
         <mark key="'" line="85" column="24" />
@@ -179,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="D:/PythonProjects/Stat/Card_Cost.py" />
-      <jump line="91" column="149" filename="D:/PythonProjects/Stat/Card_Duration.py" />
       <jump line="90" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="71" column="12" filename="D:/PythonProjects/one4one/Allowance_Remain.py" />
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
@@ -249,7 +247,6 @@
       <jump line="57" column="14" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="92" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="105" column="57" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="194" column="23" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="132" column="62" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="91" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
@@ -278,14 +275,17 @@
       <jump line="48" column="12" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="115" column="16" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="132" column="64" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="158" column="47" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="194" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="178" column="20" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="73" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>share_to</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>share_to</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>share_to</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text encoding="base64">IGFuZCAnZG8gc2hhcmUnIGluIGxpbmU=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>卡</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>行</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>）</text>
+        <text>卡</text>
       </register>
       <register name="7" type="4">
-        <text>F</text>
+        <text>行</text>
       </register>
       <register name="8" type="4">
-        <text>F</text>
+        <text>）</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>F</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
