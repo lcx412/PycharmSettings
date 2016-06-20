@@ -62,12 +62,12 @@
         <mark key="." line="65" column="31" />
         <mark key="^" line="65" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466421956756">
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466422719502">
         <mark key="'" line="57" column="30" />
         <mark key="[" line="40" column="13" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="16" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1466240002438">
         <mark key="'" line="36" column="7" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hive</text>
+        <text>spark-sql</text>
       </register>
       <register name="-" type="4">
-        <text>hive</text>
+        <text>spark-sql</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>hive</text>
+        <text>spark-sql</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>hive</text>
       </register>
       <register name="3" type="4">
-        <text>SET mapreduce.job.priority=VERY_HIGH</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
+        <text>SET mapreduce.job.priority=VERY_HIGH</text>
       </register>
       <register name="5" type="4">
-        <text>5</text>
+        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
       </register>
       <register name="6" type="4">
-        <text>share_to</text>
+        <text>5</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGFuZCAnZG8gc2hhcmUnIGluIGxpbmU=</text>
+        <text>share_to</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFuZCAnZG8gc2hhcmUnIGluIGxpbmU=</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
