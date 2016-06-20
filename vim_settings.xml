@@ -62,11 +62,11 @@
         <mark key="." line="65" column="31" />
         <mark key="^" line="65" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466418287711">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466420589509">
+        <mark key="'" line="57" column="30" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
         <mark key="^" line="25" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1466240002438">
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="12" filename="D:/PythonProjects/one4one/Allowance_Remain.py" />
       <jump line="66" column="35" filename="D:/PythonProjects/one4one/Normal_Cost.py" />
       <jump line="67" column="18" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="22" column="29" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -279,13 +278,14 @@
       <jump line="178" column="20" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="73" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="100" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="57" column="30" filename="D:/PythonProjects/one4one/answer_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>hive</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>hive</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>hive</text>
       </register>
       <register name="2" type="4">
-        <text>share_to</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGFuZCAnZG8gc2hhcmUnIGluIGxpbmU=</text>
+        <text>SET mapreduce.job.priority=VERY_HIGH</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>5</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>share_to</text>
       </register>
       <register name="7" type="4">
-        <text>卡</text>
+        <text encoding="base64">IGFuZCAnZG8gc2hhcmUnIGluIGxpbmU=</text>
       </register>
       <register name="8" type="4">
-        <text>行</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>）</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
