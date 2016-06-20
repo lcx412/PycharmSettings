@@ -98,12 +98,12 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466402285522">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="72" column="14" />
-        <mark key="]" line="72" column="28" />
-        <mark key="." line="72" column="28" />
-        <mark key="^" line="72" column="28" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466405683603">
+        <mark key="'" line="115" column="16" />
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="11" />
+        <mark key="." line="64" column="11" />
+        <mark key="^" line="64" column="11" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1466058360803">
         <mark key="'" line="49" column="67" />
@@ -140,12 +140,12 @@
         <mark key="." line="107" column="66" />
         <mark key="^" line="107" column="66" />
       </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1466245255414">
+      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1466405970801">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+        <mark key="." line="7" column="55" />
       </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1466134978961">
         <mark key="'" line="85" column="24" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="25" filename="D:/PythonProjects/Stat/Card_Duration.py" />
       <jump line="84" column="84" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="76" column="26" filename="D:/PythonProjects/Stat/Card_Cost.py" />
       <jump line="95" column="4" filename="D:/PythonProjects/Stat/Card_Cost.py" />
@@ -279,13 +278,14 @@
       <jump line="18" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="61" column="39" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="48" column="12" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="115" column="16" filename="D:/PythonProjects/one4one/ft_students.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzRp8n61NpcPg==</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>F</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>F</text>
+        <text>卡</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>行</text>
       </register>
       <register name="4" type="4">
-        <text>.replace('-', '')</text>
+        <text>）</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>F</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>F</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNoZWV0LmNlbGwocm93LCBjb2wpLnZhbHVlCg==</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>, formatting_info=True</text>
+        <text>.replace('-', '')</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNoZWV0cyA9IHdiUkQuc2hlZXRzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
