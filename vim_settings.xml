@@ -104,12 +104,11 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466438574194">
-        <mark key="'" line="134" column="64" />
-        <mark key="[" line="129" column="21" />
-        <mark key="]" line="129" column="14" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="64" column="11" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466439722816">
+        <mark key="'" line="181" column="64" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="158" column="50" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1466058360803">
         <mark key="'" line="49" column="67" />
@@ -282,7 +281,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRs+TWtb3wtu6jqLfWo6kKICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInNlbGVjdCBzdW0oY29uc3VtZV9hbW91bnRfdHV0b3JfY2hhcmdlKSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKCiAgICAgICAgIyDH89b6z/u30QogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudCkgZnJvbSBhbnN3ZXJfY29uc3VtZV9yZWNvcmQgd2hlcmUgY29zdF9mbGFnPTIgYW5kIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IDAKCiAgICAgICAgc3R1ZGVudHMgKz0gW2NvbnN1bWVfYW1vdW50X3R1dG9yLCBjb25zdW1lX2Ftb3VudF9hbnN3ZXJdCgogICAgICAgICMgx/PW+s/7t9HNy7/uvfC27gogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShyZWZ1bmRfYW1vdW50KSBmcm9tIGFuc3dlcl9yZWZ1bmRfcmVjb3JkIHdoZXJlIHJlZnVuZF9mbGFnPTIgYW5kIHJlZnVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCiAgICAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCBpcyBOb25lOgogICAgICAgICAgICBjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kID0gMAogICAgICAgICMgY3VyX21hdHJpeC5leGVjdXRlKCJ1cGRhdGUgZnRfc3R1ZGVudHMgc2V0IGNvbnN1bWVfYW1vdW50X2Fuc3dlcl9yZWZ1bmQ9ezB9IHdoZXJlIGRhdGU9ezF9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCwgeWVzX2RhdGUpKQogICAgICAgIHN0dWRlbnRzICs9IFtjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kXQo=</text>
       </register>
       <register name="-" type="4">
         <text>求助版本分布、付费统计</text>
@@ -291,7 +290,7 @@
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRCg==</text>
+        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRs+TWtb3wtu6jqLfWo6kKICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInNlbGVjdCBzdW0oY29uc3VtZV9hbW91bnRfdHV0b3JfY2hhcmdlKSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKCiAgICAgICAgIyDH89b6z/u30QogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudCkgZnJvbSBhbnN3ZXJfY29uc3VtZV9yZWNvcmQgd2hlcmUgY29zdF9mbGFnPTIgYW5kIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IDAKCiAgICAgICAgc3R1ZGVudHMgKz0gW2NvbnN1bWVfYW1vdW50X3R1dG9yLCBjb25zdW1lX2Ftb3VudF9hbnN3ZXJdCgogICAgICAgICMgx/PW+s/7t9HNy7/uvfC27gogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShyZWZ1bmRfYW1vdW50KSBmcm9tIGFuc3dlcl9yZWZ1bmRfcmVjb3JkIHdoZXJlIHJlZnVuZF9mbGFnPTIgYW5kIHJlZnVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCiAgICAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCBpcyBOb25lOgogICAgICAgICAgICBjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kID0gMAogICAgICAgICMgY3VyX21hdHJpeC5leGVjdXRlKCJ1cGRhdGUgZnRfc3R1ZGVudHMgc2V0IGNvbnN1bWVfYW1vdW50X2Fuc3dlcl9yZWZ1bmQ9ezB9IHdoZXJlIGRhdGU9ezF9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCwgeWVzX2RhdGUpKQogICAgICAgIHN0dWRlbnRzICs9IFtjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
