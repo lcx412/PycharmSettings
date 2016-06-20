@@ -91,6 +91,12 @@
         <mark key="." line="91" column="13" />
         <mark key="^" line="140" column="32" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466438634532">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1466188742842">
         <mark key="'" line="101" column="22" />
         <mark key="[" line="56" column="167" />
@@ -98,11 +104,11 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466415950341">
-        <mark key="'" line="132" column="64" />
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="11" />
-        <mark key="." line="64" column="11" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466438574194">
+        <mark key="'" line="134" column="64" />
+        <mark key="[" line="129" column="21" />
+        <mark key="]" line="129" column="14" />
+        <mark key="." line="129" column="0" />
         <mark key="^" line="64" column="11" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1466058360803">
@@ -275,8 +281,8 @@
       <jump line="37" column="202" filename="D:/PythonProjects/one4one/answer_consume.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>求助版本分布、付费统计</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>求助版本分布、付费统计</text>
@@ -285,34 +291,34 @@
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19kYXRlID0gc2VsZi55ZXMucmVwbGFjZSgnLScsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>求助版本分布、付费统计</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>'</text>
+      <register name="4" type="2">
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMKc3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="5" type="4">
-        <text>祥</text>
+        <text>求助版本分布、付费统计</text>
       </register>
       <register name="6" type="4">
-        <text>spark-sql</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>hive</text>
+        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>SET mapreduce.job.priority=VERY_HIGH</text>
+        <text>祥</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
