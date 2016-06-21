@@ -123,8 +123,11 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466486213227">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466489234348">
         <mark key="'" line="100" column="31" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1466477645144">
         <mark key="[" line="8" column="15" />
@@ -139,12 +142,12 @@
         <mark key="^" line="147" column="73" />
         <mark key="." line="147" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466239672728">
-        <mark key="'" line="93" column="25" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="51" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="51" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466490086388">
+        <mark key="'" line="94" column="25" />
+        <mark key="[" line="129" column="33" />
+        <mark key="]" line="129" column="34" />
+        <mark key="." line="129" column="34" />
+        <mark key="^" line="129" column="34" />
       </file>
       <file name="D:/PythonProjects/Stat/Teacher_Busy.py" timestamp="1466070881255">
         <mark key="'" line="19" column="14" />
@@ -291,11 +294,11 @@
       <jump line="190" column="14" filename="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>13</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>13</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -303,29 +306,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIMihz/u4w7K5s6W7+tbGCiAgICAgICAgIyBjdXIuZXhlY3V0ZSgK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>13</text>
+      </register>
+      <register name="2" type="4">
+        <text>4</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGN1ci5leGVjdXRlKAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYoYWN0dWFsX2NvbnN1bWVfYW1vdW50PTAgYW5kIHN0YXJ0X3RpbWU+MCBhbmQgKGVuZF90aW1lLXN0YXJ0X3RpbWUpPjAgYW5kIChlbmRfdGltZS1zdGFydF90aW1lKTw2MCx0ZWFjaGVyX3ByaWNlLA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="4">
-        <text>n</text>
-      </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text encoding="base64">aWYoYWN0dWFsX2NvbnN1bWVfYW1vdW50PTAgYW5kIHN0YXJ0X3RpbWU+MCBhbmQgKGVuZF90aW1lLXN0YXJ0X3RpbWUpPjAgYW5kIChlbmRfdGltZS1zdGFydF90aW1lKTw2MCx0ZWFjaGVyX3ByaWNlLA==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">IA==</text>
