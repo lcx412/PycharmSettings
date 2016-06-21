@@ -104,11 +104,11 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466439722816">
-        <mark key="'" line="181" column="64" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="158" column="50" />
-        <mark key="." line="136" column="0" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466443246196">
+        <mark key="'" line="184" column="64" />
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="29" />
+        <mark key="." line="139" column="29" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1466058360803">
         <mark key="'" line="49" column="67" />
@@ -117,11 +117,11 @@
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466412222225">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466443464253">
         <mark key="'" line="100" column="31" />
-        <mark key="[" line="100" column="32" />
-        <mark key="]" line="100" column="31" />
-        <mark key="." line="100" column="31" />
+        <mark key="[" line="69" column="63" />
+        <mark key="]" line="69" column="63" />
+        <mark key="." line="69" column="63" />
         <mark key="^" line="100" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1466213140692">
@@ -280,44 +280,44 @@
       <jump line="37" column="202" filename="D:/PythonProjects/one4one/answer_consume.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRs+TWtb3wtu6jqLfWo6kKICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInNlbGVjdCBzdW0oY29uc3VtZV9hbW91bnRfdHV0b3JfY2hhcmdlKSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKCiAgICAgICAgIyDH89b6z/u30QogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudCkgZnJvbSBhbnN3ZXJfY29uc3VtZV9yZWNvcmQgd2hlcmUgY29zdF9mbGFnPTIgYW5kIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IDAKCiAgICAgICAgc3R1ZGVudHMgKz0gW2NvbnN1bWVfYW1vdW50X3R1dG9yLCBjb25zdW1lX2Ftb3VudF9hbnN3ZXJdCgogICAgICAgICMgx/PW+s/7t9HNy7/uvfC27gogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShyZWZ1bmRfYW1vdW50KSBmcm9tIGFuc3dlcl9yZWZ1bmRfcmVjb3JkIHdoZXJlIHJlZnVuZF9mbGFnPTIgYW5kIHJlZnVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCiAgICAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCBpcyBOb25lOgogICAgICAgICAgICBjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kID0gMAogICAgICAgICMgY3VyX21hdHJpeC5leGVjdXRlKCJ1cGRhdGUgZnRfc3R1ZGVudHMgc2V0IGNvbnN1bWVfYW1vdW50X2Fuc3dlcl9yZWZ1bmQ9ezB9IHdoZXJlIGRhdGU9ezF9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCwgeWVzX2RhdGUpKQogICAgICAgIHN0dWRlbnRzICs9IFtjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWVtYmVyX3R5cGU9MCBhbmQg</text>
       </register>
       <register name="-" type="4">
-        <text>求助版本分布、付费统计</text>
+        <text encoding="base64">bWVtYmVyX3R5cGU9MCBhbmQg</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjILiotbzP+7fRs+TWtb3wtu6jqLfWo6kKICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInNlbGVjdCBzdW0oY29uc3VtZV9hbW91bnRfdHV0b3JfY2hhcmdlKSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKCiAgICAgICAgIyDH89b6z/u30QogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudCkgZnJvbSBhbnN3ZXJfY29uc3VtZV9yZWNvcmQgd2hlcmUgY29zdF9mbGFnPTIgYW5kIGNvbnN1bWVfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IDAKCiAgICAgICAgc3R1ZGVudHMgKz0gW2NvbnN1bWVfYW1vdW50X3R1dG9yLCBjb25zdW1lX2Ftb3VudF9hbnN3ZXJdCgogICAgICAgICMgx/PW+s/7t9HNy7/uvfC27gogICAgICAgIGN1ci5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShyZWZ1bmRfYW1vdW50KSBmcm9tIGFuc3dlcl9yZWZ1bmRfcmVjb3JkIHdoZXJlIHJlZnVuZF9mbGFnPTIgYW5kIHJlZnVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCiAgICAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCBpcyBOb25lOgogICAgICAgICAgICBjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kID0gMAogICAgICAgICMgY3VyX21hdHJpeC5leGVjdXRlKCJ1cGRhdGUgZnRfc3R1ZGVudHMgc2V0IGNvbnN1bWVfYW1vdW50X2Fuc3dlcl9yZWZ1bmQ9ezB9IHdoZXJlIGRhdGU9ezF9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCwgeWVzX2RhdGUpKQogICAgICAgIHN0dWRlbnRzICs9IFtjb25zdW1lX2Ftb3VudF9hbnN3ZXJfcmVmdW5kXQo=</text>
+        <text encoding="base64">ICAgICAgICAjILfHu+HUsbiotbzP+7fRy/nWp7i2tcS67LD8vfC27qOot9ajqQogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudF90dXRvcl9yZWRwYWNrZXQpIGZyb20gZnRfc3R1ZGVudHNfZGV0YWlsIHdoZXJlIGRhdGU9ezB9Ii5mb3JtYXQoeWVzX2RhdGUpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bWVtYmVyX3R5cGU9MCBhbmQg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>）</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>分</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMKc3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+      <register name="4" type="4">
+        <text>（</text>
       </register>
       <register name="5" type="4">
-        <text>求助版本分布、付费统计</text>
+        <text />
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="6" type="2">
+        <text encoding="base64">o6kK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">SGksPGJyPjxicj7Xo7rDo6E8YnI+16KjurG+08q8/s6qz7XNs9fUtq+3osvNo6zH687w1rG907vYuLSjoTxicj48YnI+PGhyPrPJz+k=</text>
+      <register name="7" type="2">
+        <text encoding="base64">o6kK</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>）</text>
       </register>
       <register name="9" type="4">
-        <text>祥</text>
+        <text>分</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
