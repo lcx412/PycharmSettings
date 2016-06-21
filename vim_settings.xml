@@ -10,6 +10,9 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="/Python Console" timestamp="1466474366564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1466428215940">
         <mark key="'" line="84" column="27" />
         <mark key="[" line="84" column="27" />
@@ -84,6 +87,9 @@
         <mark key="." line="81" column="188" />
         <mark key="^" line="82" column="34" />
       </file>
+      <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1466475144556">
+        <mark key="'" line="292" column="10" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466393723977">
         <mark key="'" line="104" column="46" />
         <mark key="[" line="91" column="13" />
@@ -152,6 +158,9 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="/a.regexp" timestamp="1466474560800">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1466134978961">
         <mark key="'" line="85" column="24" />
         <mark key="[" line="81" column="107" />
@@ -178,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="71" column="34" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="72" column="19" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="76" column="338" filename="D:/PythonProjects/one4one/Card_Cost.py" />
@@ -278,6 +286,7 @@
       <jump line="58" column="6" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="46" column="40" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="37" column="202" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="292" column="10" filename="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +296,7 @@
         <text encoding="base64">bWVtYmVyX3R5cGU9MCBhbmQg</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>date_t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjILfHu+HUsbiotbzP+7fRy/nWp7i2tcS67LD8vfC27qOot9ajqQogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHN1bShjb25zdW1lX2Ftb3VudF90dXRvcl9yZWRwYWNrZXQpIGZyb20gZnRfc3R1ZGVudHNfZGV0YWlsIHdoZXJlIGRhdGU9ezB9Ii5mb3JtYXQoeWVzX2RhdGUpKQo=</text>
@@ -324,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>date_t</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern>date_t</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>students</entry>
         <entry>permi</entry>
         <entry>181</entry>
         <entry>118</entry>
@@ -354,6 +362,7 @@
         <entry>redpacket</entry>
         <entry>red</entry>
         <entry>w</entry>
+        <entry>date_t</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
