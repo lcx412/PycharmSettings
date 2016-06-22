@@ -91,7 +91,11 @@
         <mark key="^" line="147" column="60" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1466585220780" />
+      <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1466587707176">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1466583287147">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="16" />
@@ -229,8 +233,8 @@
       <jump line="46" column="33" filename="D:/PythonProjects/one4one/matrix.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>送</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>送</text>
@@ -241,32 +245,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQuY29uc3VtZV9hbW91bnRfdHV0b3JfYWxsb3dhbmNlfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
       </register>
-      <register name="1" type="4">
-        <text>送</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>赠</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGZsb2F0KHBhcnQpIDwgMDoKICAgICAgICByZXR1cm4gIiIK</text>
       </register>
-      <register name="3" type="4">
-        <text>+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjAuMDAlIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>送</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGZsb2F0KHdob2xlKSA8PSAwOgo=</text>
       </register>
       <register name="5" type="4">
+        <text>送</text>
+      </register>
+      <register name="6" type="4">
         <text>赠</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
       <register name="7" type="4">
-        <text>gift</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>费</text>
+        <text>送</text>
       </register>
       <register name="9" type="4">
-        <text>消</text>
+        <text>赠</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
