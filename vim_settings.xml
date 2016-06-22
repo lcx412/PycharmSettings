@@ -110,7 +110,7 @@
         <mark key="^" line="73" column="35" />
         <mark key="." line="56" column="197" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466508213599">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1466525439933">
         <mark key="'" line="222" column="0" />
         <mark key="[" line="192" column="18" />
         <mark key="]" line="192" column="20" />
@@ -125,11 +125,11 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="56" column="24" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466523752114">
-        <mark key="[" line="211" column="28" />
-        <mark key="]" line="211" column="29" />
-        <mark key="." line="211" column="29" />
-        <mark key="^" line="122" column="123" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466526910173">
+        <mark key="[" line="73" column="18" />
+        <mark key="]" line="73" column="18" />
+        <mark key="." line="73" column="18" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templatetags/as_percentage_of_with_description.py" timestamp="1466477645144">
         <mark key="[" line="8" column="15" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>close()</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>close()</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICAgICAgICB3YWdlX3R1dG9yX25vcm1hbCA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKVswXQogICAgICAgIGlmIHdhZ2VfdHV0b3Jfbm9ybWFsIGlzIE5vbmU6CiAgICAgICAgICAgIHdhZ2VfdHV0b3Jfbm9ybWFsID0gMAogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHN1bSh3YWdlX3R1dG9yX21lbWJlcikgZnJvbSBmdF9zdHVkZW50c19kZXRhaWwgd2hlcmUgZGF0ZT17MH0iLmZvcm1hdCh5ZXNfZGF0ZSkpCgoKICAgICAgICAnJyfH89b6JycnCiAgICAgICAgIyDH89b6z/u6xL3wtu6jqLfWo6kKICAgICAgICAjIGN1ci5leGVjdXRlKAogICAgICAgICMgICAgICJzZWxlY3Qgc3VtKGNvbnN1bWVfYW1vdW50KSBmcm9tIGFuc3dlcl9jb25zdW1lX3JlY29yZCB3aGVyZSBjb3N0X2ZsYWc9MiBhbmQgY29uc3VtZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAjICAgICAgICAgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKSkKICAgICAgICAjIGNvbnN1bWVfYW1vdW50X2Fuc3dlciA9IGN1ci5mZXRjaG9uZSgpWzBdCiAgICAgICAgIyBpZiBjb25zdW1lX2Ftb3VudF9hbnN3ZXIgaXMgTm9uZToKICAgICAgICAjICAgICBjb25zdW1lX2Ftb3VudF9hbnN3ZXIgPSAwCgogICAgICAgICMgx/PW+s/7usSz5Na1vfC27qOot9ajqQogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHN1bShjaGFyZ2VfY29uc3VtZV9wb3N0KSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKICAgICAgICBjb25zdW1lX2Ftb3VudF9wb3N0X2NoYXJnZSA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKVswXQogICAgICAgIGlmIGNvbnN1bWVfYW1vdW50X3Bvc3RfY2hhcmdlIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnN1bWVfYW1vdW50X3Bvc3RfY2hhcmdlID0gMAogICAgICAgICMgx/PW+s/7usSyucz5vfC27qOot9ajqQogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHN1bShhbGxvd2FuY2VfY29uc3VtZV9wb3N0KSBmcm9tIGZ0X3N0dWRlbnRzX2RldGFpbCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHllc19kYXRlKSkKICAgICAgICBjb25zdW1lX2Ftb3VudF9wb3N0X2Fsb3dhbmNlID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpWzBdCiAgICAgICAgaWYgY29uc3VtZV9hbW91bnRfcG9zdF9hbG93YW5jZSBpcyBOb25lOgogICAgICAgICAgICBjb25zdW1lX2Ftb3VudF9wb3N0X2Fsb3dhbmNlID0gMAoKICAgICAgICBzdHVkZW50cyArPSBbY29uc3VtZV9hbW91bnRfdHV0b3IsIGNvbnN1bWVfYW1vdW50X2Fuc3dlcl0KCiAgICAgICAgIyDH89b6z/u30c3Lv+698LbuCiAgICAgICAgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3Qgc3VtKHJlZnVuZF9hbW91bnQpIGZyb20gYW5zd2VyX3JlZnVuZF9yZWNvcmQgd2hlcmUgcmVmdW5kX2ZsYWc9MiBhbmQgcmVmdW5kX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKSkKICAgICAgICByZWZ1bmRfYW1vdW50X3Bvc3QgPSBjdXIuZmV0Y2hvbmUoKVswXQogICAgICAgIGlmIHJlZnVuZF9hbW91bnRfcG9zdCBpcyBOb25lOgogICAgICAgICAgICByZWZ1bmRfYW1vdW50X3Bvc3QgPSAwCgogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgKICAgICAgICAgICAgInJlcGxhY2UgaW50byBmdF9zdHVkZW50cyhkYXRlLGNoYXJnZV9hbW91bnRfYWxpcGF5LGNoYXJnZV9hbW91bnRfd2VjaGF0LGNoYXJnZV9hbW91bnRfYmFuayxjaGFyZ2VfYW1vdW50X290aGVyLGNoYXJnZV9hbW91bnRfZ2lmdCxjaGFyZ2VfYW1vdW50X2NhcmQsd2Vla19tZW1iZXJfYWN0aXZhdGVkLG1vbnRoX21lbWJlcl9hY3RpdmF0ZWQscXVhcnRlcl9tZW1iZXJfYWN0aXZhdGVkLHllYXJfbWVtYmVyX2FjdGl2YXRlZCxjb25zdW1lX2Ftb3VudF90dXRvcixjb25zdW1lX2Ftb3VudF9hbnN3ZXIsY29uc3VtZV9hbW91bnRfYW5zd2VyX3JlZnVuZCkgdmFsdWVzKHswfSkiLmZvcm1hdCgKICAgICAgICAgICAgICAgICcsJy5qb2luKFtzdHIoeCkgZm9yIHggaW4gc3R1ZGVudHNdKSkpCgogICAgICAgIGNvbm5fbWF0cml4LmNvbW1pdCgpCiAgICAgICAgY3VyX21hdHJpeC5jbG9zZSgpCiAgICAgICAgY29ubl9tYXRyaXguY2xvc2UoKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBmdF9zdHVkZW50cyA9IEZ0X1N0dWRlbnRzKCkKICAgICMgZnRfc3R1ZGVudHMgPSBGdF9TdHVkZW50cyh5ZXM9JzIwMTYtMDUtMDgnKQogICAgZnRfc3R1ZGVudHMuc3VtX3N0YXQoKQoKICAgICMgZnJvbV9kYXkgPSBkYXRldGltZSgyMDE2LCAxLCAxKQogICAgIyB0b19kYXkgPSBkYXRldGltZSgyMDE2LCA1LCAxMSkKICAgICMgZGF5ID0gZnJvbV9kYXkKICAgICMgd2hpbGUgZGF5IDw9IHRvX2RheToKICAgICMgICAgIGZ0X3N0dWRlbnRzID0gRnRfU3R1ZGVudHMoeWVzPWRheS5zdHJmdGltZSgnJVktJW0tJWQnKSkKICAgICMgICAgIGZ0X3N0dWRlbnRzLnN1bV9zdGF0KCkKICAgICMgICAgIGRheSArPSB0aW1lZGVsdGEoMSkK</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>close()</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">cm91bmQoc3VtKGlmKGFjdHVhbF9jb25zdW1lX2Ftb3VudD0wIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIChlbmRfdGltZS1zdGFydF90aW1lKTw2MCx0ZWFjaGVyX3ByaWNlLDApKSowLjkp</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>actual_consume_amount</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text encoding="base64">IGFuZCAoZW5kX3RpbWUtc3RhcnRfdGltZSk+MA==</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>v</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
