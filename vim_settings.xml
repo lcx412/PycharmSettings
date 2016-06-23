@@ -36,7 +36,7 @@
         <mark key="." line="909" column="18" />
         <mark key="^" line="672" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1466650450252">
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1466653053894">
         <mark key="'" line="29" column="6" />
         <mark key="[" line="47" column="380" />
         <mark key="]" line="47" column="381" />
@@ -73,12 +73,12 @@
       <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1466481709221">
         <mark key="'" line="190" column="14" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466393723977">
-        <mark key="'" line="104" column="46" />
-        <mark key="[" line="91" column="13" />
-        <mark key="]" line="91" column="13" />
-        <mark key="." line="91" column="13" />
-        <mark key="^" line="140" column="32" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466653216763">
+        <mark key="'" line="85" column="215" />
+        <mark key="[" line="85" column="217" />
+        <mark key="]" line="85" column="219" />
+        <mark key="." line="85" column="219" />
+        <mark key="^" line="85" column="219" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1466648115519">
         <mark key="'" line="46" column="33" />
@@ -116,18 +116,16 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1466648706197">
-        <mark key="'" line="110" column="40" />
-        <mark key="[" line="61" column="423" />
-        <mark key="]" line="61" column="423" />
-        <mark key="." line="61" column="423" />
+      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1466652762836">
+        <mark key="'" line="95" column="11" />
+        <mark key="[" line="71" column="111" />
+        <mark key="]" line="71" column="115" />
+        <mark key="." line="71" column="115" />
+        <mark key="^" line="71" column="115" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466606997190">
-        <mark key="'" line="95" column="21" />
-        <mark key="[" line="139" column="22" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-        <mark key="^" line="147" column="0" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1466652193864">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="96" column="30" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1466609107424">
         <mark key="'" line="126" column="81" />
@@ -154,10 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="123" filename="D:/PythonProjects/Stat/Members.py" />
-      <jump line="20" column="14" filename="D:/PythonProjects/Stat/Teacher_Busy.py" />
-      <jump line="101" column="22" filename="D:/PythonProjects/one4one/Card_Duration.py" />
-      <jump line="48" column="37" filename="C:/Python2/Lib/site-packages/mail.py" />
       <jump line="66" column="22" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="84" column="27" filename="D:/PythonProjects/one4one/tutor_comment.py" />
       <jump line="73" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
@@ -254,55 +248,59 @@
       <jump line="119" column="275" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="126" column="81" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="110" column="40" filename="D:/PythonProjects/one4one/wb_teachers.py" />
+      <jump line="151" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="61" column="0" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="91" column="11" filename="D:/PythonProjects/one4one/wb_teachers.py" />
+      <jump line="85" column="215" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>((select user_id,login_time,logout_time from login_info) union (select user_id,login_time,logout_time from login_info_bak) union (select user_id,login_time,logout_time from login_info_bak_bak))l</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>((select user_id,login_time,logout_time from login_info) union (select user_id,login_time,logout_time from login_info_bak) union (select user_id,login_time,logout_time from login_info_bak_bak))l</text>
       </register>
       <register name="/" type="4">
-        <text>actual_pay</text>
+        <text>idle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IHN0YXQuY29uc3VtZV9hbW91bnRfdHV0b3JfYWxsb3dhbmNlfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICBpZiB0ZWFjaGVyX2NvdW50X2lkbGUxIDwgMDoKICAgICAgICAgICAgdGVhY2hlcl9jb3VudF9pZGxlMSA9IDAK</text>
       </register>
       <register name="1" type="4">
-        <text>=</text>
+        <text>((select user_id,login_time,logout_time from login_info) union (select user_id,login_time,logout_time from login_info_bak) union (select user_id,login_time,logout_time from login_info_bak_bak))l</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>((select user_id,login_time,logout_time from login_info) union (select user_id,login_time,logout_time from login_info_bak) union (select user_id,login_time,logout_time from login_info_bak_bak))</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>=</text>
       </register>
       <register name="4" type="4">
+        <text>=</text>
+      </register>
+      <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="6" type="4">
         <text>3</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIGZsb2F0KHBhcnQpIDwgMDoKICAgICAgICByZXR1cm4gIiIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIjAuMDAlIgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGZsb2F0KHdob2xlKSA8PSAwOgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>送</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
       </register>
     </registers>
     <search>
-      <last-search>actual_pay</last-search>
+      <last-search>idle</last-search>
       <last-offset />
-      <last-pattern>actual_pay</last-pattern>
+      <last-pattern>idle</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -310,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ratio</entry>
         <entry encoding="base64">XDxzdGFydF90aW1lX3N0clw+</entry>
         <entry encoding="base64">XDx2aWV3X2J5XD4=</entry>
         <entry>conversion</entry>
@@ -330,6 +327,7 @@
         <entry>wb_remain</entry>
         <entry>付款</entry>
         <entry>actual_pay</entry>
+        <entry>idle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
