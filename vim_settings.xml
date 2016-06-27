@@ -79,8 +79,8 @@
         <mark key="." line="81" column="188" />
         <mark key="^" line="82" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466992831919">
-        <mark key="'" line="85" column="215" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1466994157624">
+        <mark key="'" line="49" column="55" />
         <mark key="[" line="93" column="54" />
         <mark key="]" line="146" column="23" />
         <mark key="." line="146" column="94" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="106" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
@@ -269,6 +268,7 @@
       <jump line="245" column="28" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="183" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="111" column="154" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
+      <jump line="49" column="55" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
