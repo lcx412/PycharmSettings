@@ -56,12 +56,12 @@
         <mark key="." line="95" column="58" />
         <mark key="^" line="65" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466824488715">
-        <mark key="'" line="49" column="88" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="40" column="281" />
-        <mark key="." line="37" column="592" />
-        <mark key="^" line="41" column="36" />
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466995929551">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1466992502894">
         <mark key="[" line="161" column="90" />
@@ -169,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="23" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="125" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="93" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="126" column="29" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -269,13 +267,15 @@
       <jump line="183" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="111" column="154" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="49" column="55" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="17" column="43" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="65" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>lcx_score</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -283,32 +283,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiB0ZWFjaGVyX2NvdW50X2lkbGUxIDwgMDoKICAgICAgICAgICAgdGVhY2hlcl9jb3VudF9pZGxlMSA9IDAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="1" type="4">
+        <text>5</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25saW5lX2R1cmF0aW9uX2F2ZTEgPSAwCg==</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvbmxpbmVfY291bnQxID09IDA6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25saW5lX2R1cmF0aW9uX2F2ZTEgPSAwCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25saW5lX2R1cmF0aW9uX2F2ZSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBvbmxpbmVfY291bnQxID09IDA6Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25saW5lX2R1cmF0aW9uX2F2ZSA9IDAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiBvbmxpbmVfY291bnQgPT0gMDoK</text>
       </register>
-      <register name="7" type="4">
-        <text>lcx_score</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGpvaW4gbGN4X2hpdmUucG9zdF9mb3JfYW5zd2VyIHBhIG9uIHBvc3QucG9zdF9pZD1wYS5wb3N0X2lk</text>
-      </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>lcx_score</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
