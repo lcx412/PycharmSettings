@@ -12,7 +12,7 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="/Python Console" timestamp="1466991374858">
+      <file name="/Python Console" timestamp="1467352183688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1466428215940">
@@ -35,8 +35,8 @@
         <mark key="." line="72" column="83" />
         <mark key="^" line="72" column="83" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1467328874225">
-        <mark key="'" line="531" column="33" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1467352174687">
+        <mark key="'" line="343" column="40" />
         <mark key="[" line="637" column="67" />
         <mark key="]" line="637" column="67" />
         <mark key="." line="637" column="67" />
@@ -56,8 +56,8 @@
         <mark key="." line="95" column="58" />
         <mark key="^" line="65" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1466998291621">
-        <mark key="'" line="65" column="0" />
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1467352148764">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="26" />
@@ -68,9 +68,6 @@
         <mark key="]" line="166" column="83" />
         <mark key="^" line="166" column="83" />
         <mark key="." line="166" column="83" />
-      </file>
-      <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1466481709221">
-        <mark key="'" line="190" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1466392095351">
         <mark key="'" line="121" column="4" />
@@ -134,12 +131,9 @@
         <mark key="'" line="61" column="0" />
         <mark key="[" line="96" column="30" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1466609107424">
-        <mark key="'" line="126" column="81" />
-      </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1466429417733">
+      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1467352253451">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="10" column="30" />
+        <mark key="[" line="7" column="33" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="7" column="41" />
         <mark key="." line="10" column="30" />
@@ -173,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="64" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="93" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="126" column="29" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="172" column="11" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="50" column="749" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -273,6 +265,8 @@
       <jump line="49" column="55" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="17" column="43" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="65" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="27" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
+      <jump line="343" column="40" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
