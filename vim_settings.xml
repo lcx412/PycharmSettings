@@ -63,11 +63,11 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1467330127292">
-        <mark key="[" line="83" column="158" />
-        <mark key="]" line="166" column="83" />
-        <mark key="^" line="166" column="83" />
-        <mark key="." line="166" column="83" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1467421789494">
+        <mark key="[" line="200" column="1254" />
+        <mark key="]" line="200" column="1254" />
+        <mark key="^" line="200" column="1245" />
+        <mark key="." line="200" column="1254" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1466392095351">
         <mark key="'" line="121" column="4" />
@@ -266,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">YXBwbHlfdGltZS8xMDAwPA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">YXBwbHlfdGltZS8xMDAwPA==</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -278,31 +278,31 @@
         <text encoding="base64">ICAgICAgICBpZiB0ZWFjaGVyX2NvdW50X2lkbGUxIDwgMDoKICAgICAgICAgICAgdGVhY2hlcl9jb3VudF9pZGxlMSA9IDAK</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">YXBwbHlfdGltZS8xMDAwPA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiA6Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="4" type="4">
-        <text>'message_id=0' in line</text>
+        <text encoding="base64">c3RhcnRfdGltZTw=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="7" type="4">
-        <text>5</text>
+        <text encoding="base64">c3RhcnRfdGltZTw9</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
