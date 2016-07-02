@@ -12,9 +12,6 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="/Python Console" timestamp="1467352183688">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Python2/Lib/site-packages/mysql_pool.py" timestamp="1466684343611">
         <mark key="[" line="180" column="0" />
       </file>
@@ -48,7 +45,14 @@
         <mark key="." line="637" column="67" />
         <mark key="^" line="672" column="11" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467444441921">
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1467448771453">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="59" column="39" />
+        <mark key="^" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467448849630">
         <mark key="'" line="133" column="204" />
         <mark key="[" line="106" column="15" />
         <mark key="]" line="106" column="15" />
@@ -232,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>数</text>
+        <text>http://whiteboard.afanti100.com/audio/%s/%s.wav</text>
       </register>
       <register name="-" type="4">
-        <text>数</text>
+        <text>http://whiteboard.afanti100.com/audio/%s/%s.wav</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -244,31 +248,31 @@
         <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInVwZGF0ZSBmdF90ZWFjaGVycyBzZXQgdHV0b3JfYW1vdW50PXswfSB3aGVyZSBkYXRlPXsxfSIuZm9ybWF0KHR1dG9yX2Ftb3VudCx5ZXNfZGF0ZSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>数</text>
+        <text>http://whiteboard.afanti100.com/audio/%s/%s.wav</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>data/</text>
       </register>
       <register name="3" type="4">
-        <text>单</text>
+        <text>http://image.afanti100.com/</text>
       </register>
       <register name="4" type="4">
-        <text>5</text>
+        <text>数</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dGVhY2hlcl90dXRvciA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text>单</text>
+      </register>
+      <register name="7" type="4">
+        <text>5</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dGVhY2hlcl90dXRvciA=</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">X2Ftb3VudCA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
