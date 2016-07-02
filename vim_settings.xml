@@ -56,12 +56,12 @@
         <mark key="^" line="47" column="381" />
         <mark key="." line="47" column="381" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467438798851">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="90" column="97" />
-        <mark key="]" line="177" column="20" />
-        <mark key="." line="177" column="20" />
-        <mark key="^" line="177" column="20" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467442891545">
+        <mark key="'" line="138" column="204" />
+        <mark key="[" line="202" column="30" />
+        <mark key="]" line="202" column="31" />
+        <mark key="." line="202" column="31" />
+        <mark key="^" line="91" column="69" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1467352148764">
         <mark key="'" line="27" column="0" />
@@ -134,6 +134,9 @@
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1467442413213">
+        <mark key="'" line="126" column="81" />
+      </file>
       <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1467429121810">
         <mark key="'" line="7" column="27" />
         <mark key="[" line="12" column="30" />
@@ -170,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="749" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="213" column="4" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="170" column="13" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="6" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -270,13 +272,14 @@
       <jump line="343" column="40" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="199" column="22" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="116" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="137" column="204" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>share_to</text>
+        <text encoding="base64">PjAgYW5kIGVuZF90aW1l</text>
       </register>
       <register name="-" type="4">
-        <text>share_to</text>
+        <text encoding="base64">PjAgYW5kIGVuZF90aW1l</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -285,31 +288,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAnJXNcdCVzJyAlIChzaGFyZV90bywgMSkK</text>
       </register>
       <register name="1" type="4">
-        <text>share_to</text>
+        <text encoding="base64">PjAgYW5kIGVuZF90aW1l</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>start_time</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>share_to</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YXBwbHlfdGltZS8xMDAwPA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">YXBwbHlfdGltZS8xMDAwPA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">c3RhcnRfdGltZTw=</text>
-      </register>
-      <register name="8" type="4">
         <text>=</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Pg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">c3RhcnRfdGltZTw=</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
