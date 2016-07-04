@@ -103,12 +103,12 @@
         <mark key="." line="99" column="140" />
         <mark key="^" line="99" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467604633252">
-        <mark key="'" line="296" column="31" />
-        <mark key="[" line="277" column="22" />
-        <mark key="]" line="277" column="29" />
-        <mark key="^" line="277" column="29" />
-        <mark key="." line="277" column="29" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467605485489">
+        <mark key="'" line="293" column="31" />
+        <mark key="[" line="280" column="32" />
+        <mark key="]" line="280" column="32" />
+        <mark key="^" line="280" column="110" />
+        <mark key="." line="280" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466584027084">
         <mark key="'" line="148" column="68" />
@@ -164,6 +164,7 @@
         <mark key="^" line="66" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1467508535547" />
+      <file name="D:/PythonProjects/matrix/statistics/tk_views.py" timestamp="1467605451303" />
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1466247469940">
         <mark key="[" line="70" column="103" />
       </file>
@@ -279,10 +280,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>辅导工资', u'答题工资</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>辅导工资', u'答题工资</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -291,31 +292,31 @@
         <text>ft_member_cards</text>
       </register>
       <register name="1" type="4">
-        <text>辅导工资', u'答题工资</text>
+        <text>[</text>
       </register>
       <register name="2" type="4">
-        <text>卡</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>教师工资提现</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>round(float(stat['wage_tutor']) / 100, 2)]</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
+        <text>+</text>
       </register>
       <register name="7" type="4">
-        <text>(float(cc) / 100, 2)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
