@@ -59,12 +59,12 @@
         <mark key="^" line="59" column="15" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467593379881">
-        <mark key="'" line="169" column="204" />
-        <mark key="[" line="217" column="49" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="220" column="0" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467600983128">
+        <mark key="'" line="118" column="34" />
+        <mark key="[" line="82" column="24" />
+        <mark key="]" line="82" column="29" />
+        <mark key="." line="82" column="29" />
+        <mark key="^" line="82" column="29" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1467444688079">
         <mark key="[" line="41" column="50" />
@@ -89,12 +89,12 @@
         <mark key="." line="81" column="188" />
         <mark key="^" line="82" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1467599708681">
-        <mark key="'" line="162" column="18" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1467601000775">
+        <mark key="'" line="162" column="0" />
         <mark key="[" line="122" column="48" />
-        <mark key="]" line="94" column="55" />
-        <mark key="." line="94" column="55" />
-        <mark key="^" line="94" column="55" />
+        <mark key="]" line="140" column="53" />
+        <mark key="." line="140" column="53" />
+        <mark key="^" line="140" column="53" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1467424041184">
         <mark key="'" line="46" column="33" />
@@ -108,11 +108,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467444664669">
-        <mark key="[" line="186" column="94" />
-        <mark key="]" line="186" column="95" />
-        <mark key="." line="186" column="95" />
-        <mark key="^" line="173" column="54" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467601264531">
+        <mark key="[" line="239" column="30" />
+        <mark key="]" line="239" column="33" />
+        <mark key="." line="239" column="33" />
+        <mark key="^" line="239" column="33" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1466584027084">
         <mark key="'" line="148" column="68" />
@@ -186,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
-      <jump line="169" column="19" filename="D:/PythonProjects/one4one/tutor_detail.py" />
-      <jump line="1" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="19" column="8" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="49" column="8" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="216" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -269,7 +266,6 @@
       <jump line="151" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="61" column="0" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="91" column="11" filename="D:/PythonProjects/one4one/wb_teachers.py" />
-      <jump line="85" column="215" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="49" column="88" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="51" column="30" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="6" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -285,47 +281,51 @@
       <jump line="116" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="137" column="204" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="94" column="55" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="162" column="18" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="238" column="27" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="87" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="118" column="34" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="85" column="53" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="162" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tutor_wage_remain,answer_</text>
+        <text>teach</text>
       </register>
       <register name="-" type="4">
-        <text>tutor_wage_remain,answer_</text>
+        <text>teach</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInVwZGF0ZSBmdF90ZWFjaGVycyBzZXQgdHV0b3JfYW1vdW50PXswfSB3aGVyZSBkYXRlPXsxfSIuZm9ybWF0KHR1dG9yX2Ftb3VudCx5ZXNfZGF0ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWFjaGVycy5hcHBlbmQodHV0b3Jfd2FnZV9yZW1haW4pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>tutor_wage_remain,answer_</text>
+        <text>teach</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>teachers</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>teach</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>teachers_content</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ0X3RlYWNoZXJzLnJlbWFpbl9zdGF0KCkK</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>update</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>/w</text>
