@@ -152,12 +152,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467709208333">
-        <mark key="'" line="311" column="31" />
-        <mark key="[" line="285" column="53" />
-        <mark key="]" line="282" column="23" />
-        <mark key="." line="282" column="23" />
-        <mark key="^" line="282" column="23" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1467710082194">
+        <mark key="'" line="301" column="31" />
+        <mark key="[" line="290" column="64" />
+        <mark key="]" line="289" column="31" />
+        <mark key="^" line="289" column="31" />
+        <mark key="." line="289" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_chart.js" timestamp="1467708113903">
         <mark key="[" line="54" column="23" />
@@ -298,44 +298,45 @@
       <jump line="355" column="80" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'card_id'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'card_id'</text>
+        <text>x[1] for x in</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
       </register>
-      <register name="0" type="4">
-        <text>u'包月卡激活张数'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLyku+7Vxcr9J10gPSBbCiAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihkYXRlPXgsIGNhcmRfdHlwZT0xKS5jb3VudCgpIGZvciB4IGluIHhheGlzX2xhYmVsc10K</text>
       </register>
-      <register name="1" type="4">
-        <text>'card_id'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text encoding="base64">ZWNoYXJ0c19kYXRhW3UnsPy8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9MykudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnKV0KICAgIGVjaGFydHNfZGF0YVt1J7D81ty/qLyku+7Vxcr9J10gPSBbeFsxXSBmb3IgeCBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRpc3RpY3NfbGlzdC5maWx0ZXIoY2FyZF90eXBlPTQpLnZhbHVlc19saXN0KCdkYXRlJykuYW5ub3RhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1bV9jb3VudHM9Q291bnQoJ2NhcmRfaWQnKSkub3JkZXJfYnkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRlJyldCiAgICBlY2hhcnRzX2RhdGFbdSfQwtTCv6i8pLvu1cXK/SddID0gW3hbMV0gZm9yIHggaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGNhcmRfdHlwZT01KS52YWx1ZXNfbGlzdCgnZGF0ZScpLmFubm90YXRlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdW1fY291bnRzPUNvdW50KCdjYXJkX2lkJykpLm9yZGVyX2J5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQogICAgZWNoYXJ0c19kYXRhW3Un0MK8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9NikudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICA=</text>
       </register>
       <register name="3" type="4">
-        <text>line</text>
+        <text>x[1] for x in</text>
       </register>
       <register name="4" type="4">
-        <text>月</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>包</text>
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>包</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>月</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>月</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>总</text>
+        <text>.order_by(
+                                    'date')</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
