@@ -177,12 +177,12 @@
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
       </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1467618883255">
+      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1467710973211">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="/a.regexp" timestamp="1467706517903">
         <mark key="[" line="0" column="0" />
@@ -298,11 +298,11 @@
       <jump line="355" column="80" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>x[1] for x in</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -310,33 +310,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLyku+7Vxcr9J10gPSBbCiAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihkYXRlPXgsIGNhcmRfdHlwZT0xKS5jb3VudCgpIGZvciB4IGluIHhheGlzX2xhYmVsc10K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>`</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZWNoYXJ0c19kYXRhW3UnsPy8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9MykudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnKV0KICAgIGVjaGFydHNfZGF0YVt1J7D81ty/qLyku+7Vxcr9J10gPSBbeFsxXSBmb3IgeCBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRpc3RpY3NfbGlzdC5maWx0ZXIoY2FyZF90eXBlPTQpLnZhbHVlc19saXN0KCdkYXRlJykuYW5ub3RhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1bV9jb3VudHM9Q291bnQoJ2NhcmRfaWQnKSkub3JkZXJfYnkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRlJyldCiAgICBlY2hhcnRzX2RhdGFbdSfQwtTCv6i8pLvu1cXK/SddID0gW3hbMV0gZm9yIHggaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGNhcmRfdHlwZT01KS52YWx1ZXNfbGlzdCgnZGF0ZScpLmFubm90YXRlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdW1fY291bnRzPUNvdW50KCdjYXJkX2lkJykpLm9yZGVyX2J5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQogICAgZWNoYXJ0c19kYXRhW3Un0MK8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9NikudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICA=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>x[1] for x in</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>.order_by(
-                                    'date')</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
