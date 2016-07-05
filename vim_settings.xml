@@ -137,9 +137,12 @@
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1467508973622">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1467684065670">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="96" column="30" />
+        <mark key="[" line="140" column="80" />
+        <mark key="]" line="140" column="81" />
+        <mark key="." line="140" column="81" />
+        <mark key="^" line="140" column="81" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1467442413213">
         <mark key="'" line="126" column="81" />
@@ -285,11 +288,11 @@
       <jump line="308" column="50" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgLm1lcmdlKGRmX3N0YXIsIGhvdz0nbGVmdCcsIG9uPXUnSUQnKSBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>day_wb_remain</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>day_wb_remain</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -297,29 +300,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXJnZShkZl9zdGFyLCBob3c9J2xlZnQnLCBvbj11J0lEJykgXAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>day_wb_remain</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgLm1lcmdlKGRmX3N0YXIsIGhvdz0nbGVmdCcsIG9uPXUnSUQnKSBcCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgLm1lcmdlKGRmX3JhdGUsIGhvdz0nbGVmdCcsIG9uPXUnSUQnKSBcCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y291bnQoaWYoc3Rhcj4wLDEsTlVMTCkp</text>
-      </register>
       <register name="5" type="4">
-        <text>`</text>
+        <text encoding="base64">Y291bnQoaWYoc3Rhcj4wLDEsTlVMTCkp</text>
       </register>
       <register name="6" type="4">
         <text>`</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>`</text>
       </register>
       <register name="8" type="4">
-        <text>L</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
         <text>L</text>
