@@ -94,11 +94,11 @@
         <mark key="." line="72" column="83" />
         <mark key="^" line="72" column="83" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1467355130552">
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1467771831804">
         <mark key="'" line="343" column="40" />
-        <mark key="[" line="637" column="67" />
-        <mark key="]" line="637" column="67" />
-        <mark key="." line="637" column="67" />
+        <mark key="[" line="895" column="16" />
+        <mark key="]" line="895" column="16" />
+        <mark key="." line="900" column="43" />
         <mark key="^" line="672" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1467597641007">
@@ -119,11 +119,11 @@
         <mark key="^" line="25" column="27" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1467618083988" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1467431368350">
-        <mark key="[" line="200" column="1254" />
-        <mark key="]" line="200" column="1254" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1467771856387">
+        <mark key="[" line="234" column="45" />
+        <mark key="]" line="234" column="45" />
         <mark key="^" line="200" column="1245" />
-        <mark key="." line="200" column="1254" />
+        <mark key="." line="236" column="45" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1467705900837">
         <mark key="'" line="121" column="4" />
@@ -132,12 +132,12 @@
         <mark key="." line="81" column="188" />
         <mark key="^" line="82" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1467705254256">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1467772427661">
         <mark key="'" line="354" column="80" />
-        <mark key="[" line="168" column="59" />
-        <mark key="]" line="168" column="59" />
-        <mark key="^" line="352" column="10" />
-        <mark key="." line="168" column="59" />
+        <mark key="[" line="120" column="65" />
+        <mark key="]" line="120" column="66" />
+        <mark key="^" line="120" column="66" />
+        <mark key="." line="120" column="66" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1467611385724">
         <mark key="'" line="57" column="27" />
@@ -299,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>'shanshan.yang@lejent.com',</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>'shanshan.yang@lejent.com',</text>
       </register>
       <register name="/" type="4">
         <text>lcx_score</text>
@@ -311,31 +311,31 @@
         <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLyku+7Vxcr9J10gPSBbCiAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihkYXRlPXgsIGNhcmRfdHlwZT0xKS5jb3VudCgpIGZvciB4IGluIHhheGlzX2xhYmVsc10K</text>
       </register>
       <register name="1" type="4">
-        <text>`</text>
+        <text>'shanshan.yang@lejent.com',</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">J3NoYW5zaGFuLnlhbmdAbGVqZW50LmNvbScsIA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ZWNoYXJ0c19kYXRhW3UnsPy8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9MykudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnKV0KICAgIGVjaGFydHNfZGF0YVt1J7D81ty/qLyku+7Vxcr9J10gPSBbeFsxXSBmb3IgeCBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRpc3RpY3NfbGlzdC5maWx0ZXIoY2FyZF90eXBlPTQpLnZhbHVlc19saXN0KCdkYXRlJykuYW5ub3RhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1bV9jb3VudHM9Q291bnQoJ2NhcmRfaWQnKSkub3JkZXJfYnkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRlJyldCiAgICBlY2hhcnRzX2RhdGFbdSfQwtTCv6i8pLvu1cXK/SddID0gW3hbMV0gZm9yIHggaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGNhcmRfdHlwZT01KS52YWx1ZXNfbGlzdCgnZGF0ZScpLmFubm90YXRlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdW1fY291bnRzPUNvdW50KCdjYXJkX2lkJykpLm9yZGVyX2J5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQogICAgZWNoYXJ0c19kYXRhW3Un0MK8vr+ovKS77tXFyv0nXSA9IFt4WzFdIGZvciB4IGluCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGlzdGljc19saXN0LmZpbHRlcihjYXJkX3R5cGU9NikudmFsdWVzX2xpc3QoJ2RhdGUnKS5hbm5vdGF0ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtX2NvdW50cz1Db3VudCgnY2FyZF9pZCcpKS5vcmRlcl9ieSgKICAgICA=</text>
+        <text>'shanshan.yang@lejent.com',</text>
       </register>
       <register name="4" type="4">
-        <text>x[1] for x in</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>f</text>
+        <text>`</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0ZScpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
