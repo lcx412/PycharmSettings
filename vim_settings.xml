@@ -206,11 +206,15 @@
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1466247469940">
         <mark key="[" line="70" column="103" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1467883265199">
+        <mark key="'" line="407" column="76" />
+        <mark key="[" line="574" column="59" />
+        <mark key="]" line="574" column="59" />
+        <mark key="^" line="574" column="98" />
+        <mark key="." line="574" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
-      <jump line="30" column="6" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
-      <jump line="128" column="13" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="18" column="20" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="155" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="140" column="42" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
@@ -308,55 +312,58 @@
       <jump line="71" column="32" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="91" column="12" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="133" column="0" filename="D:/PythonProjects/one4one/Card_Duration.py" />
+      <jump line="191" column="51" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="389" column="39" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="407" column="76" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Wb_Privileged_Conversion_By_Week.objects.all().aggregate(max('date'))['date__max']))</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Wb_Privileged_Conversion_By_Week.objects.all().aggregate(max('date'))['date__max']))</text>
       </register>
       <register name="/" type="4">
-        <text>lcx_score</text>
+        <text>privi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhcmRfZHVyYXRpb24gPSBDYXJkX0R1cmF0aW9uKCkK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>Wb_Privileged_Conversion_By_Week.objects.all().aggregate(max('date'))['date__max']))</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>财务统计模块增加会员激活统计</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>财务统计模块增加会员激活统计</text>
       </register>
       <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="6" type="4">
         <text>yes_date</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cGRhdGUgbWVtYmVyX2NhcmRfZHVyYXRpb24gc2V0IGRhdGU9ZnJvbV91bml4dGltZShjaGFyZ2VfdGltZSwnJVklbSVkJykgd2hlcmUgY2hhcmdlX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VyX21hdHJpeC5leGVjdXRlKAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>lcx_score</last-search>
+      <last-search>privi</last-search>
       <last-offset />
-      <last-pattern>lcx_score</last-pattern>
+      <last-pattern>privi</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3X2J5XD4=</entry>
         <entry>conversion</entry>
         <entry>总计</entry>
         <entry>计时</entry>
@@ -384,6 +390,7 @@
         <entry>actual_pay</entry>
         <entry>idle</entry>
         <entry>lcx_score</entry>
+        <entry>privi</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
