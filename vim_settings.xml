@@ -63,14 +63,14 @@
         <mark key="." line="79" column="59" />
         <mark key="^" line="79" column="59" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468055814476">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468057773111">
         <mark key="'" line="205" column="334" />
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="50" column="12" />
-        <mark key="." line="42" column="8" />
+        <mark key="[" line="219" column="31" />
+        <mark key="]" line="219" column="31" />
+        <mark key="^" line="216" column="24" />
+        <mark key="." line="219" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1468055730471">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1468057880058">
         <mark key="'" line="148" column="68" />
         <mark key="[" line="135" column="406" />
         <mark key="]" line="135" column="387" />
@@ -357,10 +357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>活</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>活</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>joyo</text>
@@ -369,31 +369,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LnF1YXJ0ZXJfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>活</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>激</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>活</text>
+        <text>3</text>
       </register>
       <register name="4" type="4">
-        <text>激</text>
+        <text>活</text>
       </register>
       <register name="5" type="4">
-        <text>活</text>
+        <text>激</text>
       </register>
       <register name="6" type="4">
-        <text>激</text>
+        <text>活</text>
       </register>
       <register name="7" type="4">
-        <text>活</text>
-      </register>
-      <register name="8" type="4">
         <text>激</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>活</text>
+      </register>
+      <register name="9" type="4">
+        <text>激</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
