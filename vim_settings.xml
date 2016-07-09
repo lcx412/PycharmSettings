@@ -95,12 +95,12 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1467879778821">
-        <mark key="'" line="121" column="4" />
-        <mark key="[" line="104" column="48" />
-        <mark key="]" line="104" column="49" />
-        <mark key="." line="104" column="49" />
-        <mark key="^" line="104" column="49" />
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468035687297">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="16" />
+        <mark key="^" line="114" column="49" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1467945107679" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1467792708484">
@@ -135,6 +135,12 @@
         <mark key="." line="79" column="56" />
         <mark key="^" line="79" column="51" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468036466350">
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="14" />
+        <mark key="^" line="138" column="99" />
+        <mark key="." line="101" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1468034219264">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,9 +151,9 @@
         <mark key="^" line="277" column="72" />
         <mark key="." line="277" column="72" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1467774386746">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1468036056435">
         <mark key="'" line="148" column="68" />
-        <mark key="[" line="53" column="32" />
+        <mark key="[" line="119" column="277" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="147" column="60" />
         <mark key="." line="8" column="0" />
@@ -326,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>激活</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>激活</text>
       </register>
       <register name="/" type="4">
         <text>privi</text>
@@ -338,31 +344,31 @@
         <text>col-sm-2 col-md-2</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>激活</text>
       </register>
       <register name="2" type="4">
-        <text>col-sm-offset-2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>col-sm-offset-2</text>
       </register>
       <register name="4" type="4">
-        <text>col-md-offset-2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>col-md-offset-2</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>position: relative;</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>position: relative;</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
