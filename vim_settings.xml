@@ -35,7 +35,6 @@
         <mark key="^" line="527" column="7" />
         <mark key="." line="527" column="16" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/overall_content.html" timestamp="1467948679282" />
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1467600983128">
         <mark key="'" line="118" column="34" />
         <mark key="[" line="82" column="24" />
@@ -49,7 +48,6 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1467945107679" />
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1467878820770">
         <mark key="'" line="130" column="0" />
         <mark key="[" line="104" column="30" />
@@ -134,11 +132,9 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="6" column="75" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/batch.sh" timestamp="1468042365272" />
       <file name="C:/Python2/Lib/site-packages/mysql_pool.py" timestamp="1466684343611">
         <mark key="[" line="180" column="0" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/create.sh" timestamp="1468045390883" />
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1467774346214">
         <mark key="'" line="199" column="22" />
         <mark key="[" line="206" column="41" />
@@ -177,7 +173,6 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468046309270" />
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1468054022607">
         <mark key="[" line="235" column="67" />
         <mark key="]" line="234" column="45" />
@@ -191,11 +186,12 @@
         <mark key="." line="83" column="16" />
         <mark key="^" line="114" column="49" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468202420491">
-        <mark key="[" line="387" column="72" />
-        <mark key="]" line="282" column="71" />
-        <mark key="^" line="282" column="71" />
-        <mark key="." line="282" column="71" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468205075835">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="435" column="20" />
+        <mark key="]" line="435" column="21" />
+        <mark key="^" line="435" column="21" />
+        <mark key="." line="435" column="21" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1467611385724">
         <mark key="'" line="57" column="27" />
@@ -266,13 +262,8 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/dir.sh" timestamp="1468045627695" />
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="104" column="46" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="97" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
-      <jump line="117" column="8" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
       <jump line="96" column="59" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="67" column="41" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="5" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
@@ -369,6 +360,10 @@
       <jump line="136" column="8" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="252" column="4" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="233" column="334" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="183" column="37" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="281" column="58" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="2" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="57" column="15" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
