@@ -9,7 +9,7 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468298229445">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468299635190">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
@@ -28,6 +28,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/task.sh" timestamp="1468300102760" />
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468232025168">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="3" column="24" />
@@ -68,11 +69,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1468297658115">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1468299599261">
         <mark key="[" line="2" column="224" />
-        <mark key="]" line="2" column="224" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="224" />
+        <mark key="]" line="2" column="342" />
+        <mark key="^" line="2" column="342" />
+        <mark key="." line="2" column="342" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468231966166">
         <mark key="[" line="7" column="24" />
@@ -133,6 +134,7 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468300027048" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1468231650257">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="10" />
@@ -158,6 +160,11 @@
         <mark key="]" line="203" column="69" />
         <mark key="." line="203" column="69" />
         <mark key="^" line="203" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1468299712754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1468232940977">
         <mark key="'" line="179" column="0" />
@@ -304,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log_date</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>log_date</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>joyo</text>
