@@ -9,11 +9,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468299635190">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="6" column="6" />
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468307704877">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468231808960">
         <mark key="'" line="139" column="34" />
@@ -29,12 +29,12 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/task.sh" timestamp="1468300102760" />
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468232025168">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468310121452">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="188" column="387" />
+        <mark key="]" line="196" column="37" />
+        <mark key="." line="196" column="37" />
+        <mark key="^" line="196" column="37" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468232083433">
         <mark key="'" line="244" column="334" />
@@ -134,7 +134,7 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468300027048" />
+      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468307517257" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1468231650257">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="10" />
@@ -147,7 +147,7 @@
         <mark key="^" line="288" column="65" />
         <mark key="." line="291" column="41" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468304756964">
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468306807461">
         <mark key="'" line="156" column="4" />
         <mark key="[" line="147" column="37" />
         <mark key="]" line="147" column="38" />
@@ -161,7 +161,7 @@
         <mark key="." line="203" column="69" />
         <mark key="^" line="203" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468299712754">
+      <file name="/Dummy.txt" timestamp="1468307576892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
@@ -311,43 +311,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>求助成本</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>求助成本</text>
       </register>
       <register name="/" type="4">
         <text>joyo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LnF1YXJ0ZXJfbWVtYmVyX2FjdGl2YXRlZCB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGNhcmRfZHVyYXRpb24uZHVyYXRpb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGV0Y2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycnvsm74dSxv6gnJycK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmltcG9ydA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXJkX2Nvc3RfZXhjZWxfd3JpdGVyLnNhdmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXJkX2Nvc3QudG9fZXhjZWwoY2FyZF9jb3N0X2V4Y2VsX3dyaXRlciwgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gZXRjZC5DbGllbnQoaG9zdD0nMTAwLjk4LjIyMi4yMjYnLCBwb3J0PTIzNzksIGFsbG93X3JlZGlyZWN0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe4w7+o09DQp8baxNq1xLiotbyzybG+KNSqKSddKQogICAgICAgIGNhcmRfY29zdFt1J7vh1LG/qMPcwusnXSA9IGNhcmRfY29zdFt1J7vh1LG/qMPcwusnXS5hc3R5cGUoJ3N0cicpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>fined</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjYXJkX2Nvc3QgPSBwYW5kYXMucmVhZF90YWJsZSgnLi9jYXJkX2Nvc3RfJyArIHRoaXNfbW9udGhfc3RyICsgJy50eHQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVzPVt1J7vh1LG/qLrFJywgdSe74dSxv6jD3MLrJywgdSe74dSxv6jA4NDNJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe74dSxv6ixuNeiJywgdSe74dSxSUQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7+os+TWtcqxvOQnLCB1J7+oyfrQp8qxvOQnLCB1J7+oyqfQp8qxvOQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7jDv6jT0NCnxtrE2riotbzKsbOkKLfWKScsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>code reformatted; schema modified</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ1x0Jy5qb2luCg==</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgW3N0cih4KSBmb3IgeCBpbgogICAgICAgICAgICAgICAgIFtjaWQsIGNubywgbWVtYmVyX3R5cGVzW2NfdHlwZV0sIGNfbm90ZSwgdWlkLCB0c190b19zdHIodHMpLAogICAgICAgICAgICAgICAgICB0c190b19zdHIoZnRzKSwgdHNfdG9fc3RyKHR0cyksIGR1cmF0aW9uLAogICAgICAgICAgICAgICAgICBjb3N0XV0pCiAgICAgICAgICAgIGNhcmRfY29zdF9maWxlLndyaXRlKAogICAgICAgICAgICAgICAgJ1x0Jy5qb2luKAogICAgICAgICAgICAgICAgICAgIFtzdHIoeCkgZm9yIHggaW4KICAgICAgICAgICAgICAgICAgICAgW2NpZCwgY25vLCBtZW1iZXJfdHlwZXNbY190eXBlXSwgY19ub3RlLCB1aWQsCiAgICAgICAgICAgICAgICAgICAgICB0c190b19zdHIodHMpLCB0c190b19zdHIoZnRzKSwgdHNfdG9fc3RyKHR0cyksCiAgICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgIGNvc3RdXSkpCiAgICAgICAgICAgIGNhcmRfY29zdF9maWxlLndyaXRlKCdcbicpCgogICAgICAgIGNhcmRfY29zdF9maWxlLmNsb3NlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
