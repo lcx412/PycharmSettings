@@ -9,6 +9,12 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468298229445">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468231808960">
         <mark key="'" line="139" column="34" />
         <mark key="[" line="6" column="24" />
@@ -61,6 +67,12 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
+      </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1468297658115">
+        <mark key="[" line="2" column="224" />
+        <mark key="]" line="2" column="224" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="224" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468231966166">
         <mark key="[" line="7" column="24" />
@@ -186,6 +198,7 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/dir.sh" timestamp="1468297851097" />
     </filemarks>
     <jumps>
       <jump line="132" column="64" filename="D:/PythonProjects/one4one/ft_students.py" />
@@ -291,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>log_date</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>log_date</text>
       </register>
       <register name="/" type="4">
         <text>joyo</text>
