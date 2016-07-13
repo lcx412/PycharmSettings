@@ -127,10 +127,12 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
-      <file name="C:/Python2/Lib/site-packages/django/shortcuts/__init__.py" timestamp="1468397101523" />
+      <file name="C:/Python2/Lib/site-packages/django/shortcuts/__init__.py" timestamp="1468397950475" />
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1468389450511" />
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1468390456260" />
-      <file name="D:/PythonProjects/matrix/xadmin/sites.py" timestamp="1468391067400" />
+      <file name="D:/PythonProjects/matrix/xadmin/sites.py" timestamp="1468398137891">
+        <mark key="'" line="85" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1468232146359">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="4" column="10" />
@@ -310,8 +312,6 @@
       <file name="D:/PythonProjects/hive_log_preprocess/dir.sh" timestamp="1468297851097" />
     </filemarks>
     <jumps>
-      <jump line="194" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="178" column="20" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="73" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="100" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="57" column="30" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -410,6 +410,8 @@
       <jump line="227" column="35" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="128" column="62" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="232" column="38" filename="D:/PythonProjects/matrix/admin/sites.py" />
+      <jump line="324" column="33" filename="D:/PythonProjects/matrix/xadmin/sites.py" />
+      <jump line="85" column="0" filename="D:/PythonProjects/matrix/xadmin/sites.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
