@@ -246,11 +246,11 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468381115975">
+      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468388050350">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
-        <mark key="^" line="3" column="19" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1468232940977">
         <mark key="'" line="179" column="0" />
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>你写作业，披星戴月</text>
+        <text>题</text>
       </register>
       <register name="-" type="4">
-        <text>你写作业，披星戴月</text>
+        <text>题</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
