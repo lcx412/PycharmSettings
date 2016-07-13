@@ -98,6 +98,7 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1468376426685" />
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1468231563119">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="16" />
@@ -140,6 +141,7 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
+      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1468377109356" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards.html" timestamp="1468315041759">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="7" />
@@ -242,6 +244,12 @@
         <mark key="]" line="33" column="62" />
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="44" />
+      </file>
+      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468376504049">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1468232940977">
         <mark key="'" line="179" column="0" />
@@ -400,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>计</text>
+        <text>页</text>
       </register>
       <register name="-" type="4">
-        <text>计</text>
+        <text>页</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
