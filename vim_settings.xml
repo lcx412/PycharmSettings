@@ -44,6 +44,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="D:/PythonProjects/matrix/xadmin/plugins/passwords.py" timestamp="1468393539901">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="48" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_one4one.html" timestamp="1467707587568">
         <mark key="[" line="0" column="59" />
         <mark key="]" line="0" column="59" />
@@ -421,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
