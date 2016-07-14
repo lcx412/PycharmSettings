@@ -236,12 +236,12 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1468485659269">
+      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1468487206473">
         <mark key="'" line="7" column="27" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="163" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1468479737959">
         <mark key="'" line="0" column="0" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
