@@ -36,8 +36,6 @@
       <file name="D:/PythonProjects/matrix/admin/sites.py" timestamp="1468389770494">
         <mark key="'" line="232" column="38" />
       </file>
-      <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468378844920" />
-      <file name="D:/PythonProjects/matrix/xadmin/models.py" timestamp="1468391039057" />
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468231808960">
         <mark key="'" line="139" column="34" />
         <mark key="[" line="6" column="24" />
@@ -63,7 +61,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/task.sh" timestamp="1468300102760" />
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468314212296">
         <mark key="'" line="219" column="0" />
         <mark key="[" line="167" column="17" />
@@ -135,9 +132,6 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
-      <file name="C:/Python2/Lib/site-packages/django/shortcuts/__init__.py" timestamp="1468397950475" />
-      <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1468389450511" />
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1468390456260" />
       <file name="D:/PythonProjects/matrix/xadmin/sites.py" timestamp="1468398137891">
         <mark key="'" line="85" column="0" />
       </file>
@@ -160,7 +154,6 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1468379033471" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards.html" timestamp="1468315041759">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="7" />
@@ -191,7 +184,6 @@
         <mark key="." line="124" column="76" />
         <mark key="^" line="124" column="76" />
       </file>
-      <file name="D:/PythonProjects/matrix/control.sh" timestamp="1468400092444" />
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1468289704981">
         <mark key="[" line="1003" column="41" />
         <mark key="]" line="1003" column="62" />
@@ -205,7 +197,6 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/admin/bin/compress.py" timestamp="1468389333308" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1467444688079">
         <mark key="[" line="41" column="50" />
       </file>
@@ -216,7 +207,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468307517257" />
+      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1468467820688">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1468231650257">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="7" column="10" />
@@ -232,7 +228,6 @@
         <mark key="^" line="288" column="65" />
         <mark key="." line="291" column="41" />
       </file>
-      <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1468399647410" />
       <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468313286429">
         <mark key="'" line="128" column="62" />
         <mark key="[" line="147" column="37" />
@@ -253,10 +248,10 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="15" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468315188926">
+      <file name="/Dummy.txt" timestamp="1468467843796">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468314964816">
         <mark key="'" line="313" column="31" />
@@ -304,6 +299,11 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/func.sh" timestamp="1468466965358">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1467950140338">
         <mark key="[" line="11" column="92" />
         <mark key="]" line="16" column="53" />
@@ -328,7 +328,6 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/dir.sh" timestamp="1468297851097" />
     </filemarks>
     <jumps>
       <jump line="100" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
@@ -434,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Java</text>
+        <text encoding="base64">cGFydGl0aW9uOiBsb2dfZGF0ZS0+ZGF5</text>
       </register>
       <register name="-" type="4">
-        <text>Java</text>
+        <text encoding="base64">cGFydGl0aW9uOiBsb2dfZGF0ZS0+ZGF5</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -446,31 +445,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LnRvX3RpbWV8cHJpbnRfdGltZXN0YW1wIH19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
+        <text encoding="base64">Iy4vdGFzay5zaCAuLi8uLi90YXNrLnR4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">I2NkIC9jbGllbnQvaGl2ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Iy4vdGFzay5zaCAuLi8uLi90YXNrLnR4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4K</text>
+        <text encoding="base64">I2NkIC9jbGllbnQvaGl2ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZG9fbG9nb3V0LyIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIiB0eXBlPSJidXR0b24iPs3Ls/Y8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIveGFkbWluLyIgY2xhc3M9ImJ0biBidG4taW5mbyIgdHlwZT0iYnV0dG9uIj653MDtPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii8iIGNsYXNzPSJidG4gYnRuLWluZm8iIHR5cGU9ImJ1dHRvbiI+ytfSszwvYT4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIiB0eXBlPSJidXR0b24iPrWxx7DTw7unOiB7eyB1c2VyLnVzZXJuYW1lIH19PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
