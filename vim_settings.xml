@@ -129,7 +129,7 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1468479025771">
+      <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1468481165775">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="13" column="8" />
         <mark key="^" line="13" column="8" />
@@ -285,13 +285,12 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1468481114649">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="6" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="34" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="130" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="165" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="146" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="209" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="222" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="146" column="57" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="148" column="68" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
@@ -387,6 +386,11 @@
       <jump line="35" column="14" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="98" column="26" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="166" column="0" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
+      <jump line="98" column="25" filename="D:/PythonProjects/one4one/wb_ltv.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/wb_ltv.py" />
+      <jump line="109" column="4" filename="D:/PythonProjects/one4one/wb_ltv.py" />
+      <jump line="107" column="4" filename="D:/PythonProjects/one4one/wb_ltv.py" />
+      <jump line="34" column="0" filename="D:/PythonProjects/one4one/wb_ltv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
