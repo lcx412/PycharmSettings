@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1467603733459">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_content.html" timestamp="1468313488460">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="52" column="43" />
@@ -18,14 +15,11 @@
         <mark key="^" line="68" column="5" />
         <mark key="." line="72" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1468289621783">
-        <mark key="[" line="99" column="48" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1466684537591">
-        <mark key="[" line="10" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1468479785774">
+        <mark key="'" line="88" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1468307704877">
         <mark key="[" line="5" column="44" />
@@ -33,15 +27,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="D:/PythonProjects/matrix/admin/sites.py" timestamp="1468389770494">
-        <mark key="'" line="232" column="38" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468231808960">
-        <mark key="'" line="139" column="34" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468479858496">
+        <mark key="'" line="130" column="34" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/xadmin/plugins/passwords.py" timestamp="1468395839824">
         <mark key="[" line="25" column="43" />
@@ -55,18 +45,12 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="65" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1468231685774">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468314212296">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="167" column="17" />
-        <mark key="]" line="167" column="17" />
-        <mark key="." line="167" column="17" />
-        <mark key="^" line="202" column="33" />
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468479974854">
+        <mark key="'" line="210" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="193" column="33" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1468401826165">
         <mark key="[" line="79" column="60" />
@@ -74,32 +58,29 @@
         <mark key="." line="79" column="61" />
         <mark key="^" line="79" column="61" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468232083433">
-        <mark key="'" line="244" column="334" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1468479907922">
+        <mark key="'" line="235" column="334" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1468231479955">
+      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1468480123173">
         <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1468479888397">
+        <mark key="'" line="143" column="388" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1468480441581">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1468232104217">
-        <mark key="'" line="165" column="68" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-      </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1468231431044">
-        <mark key="'" line="135" column="91" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="26" column="17" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1468057063870">
         <mark key="[" line="51" column="28" />
@@ -114,11 +95,10 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1468231563119">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-        <mark key="." line="18" column="16" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1468480100251">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1468299599261">
         <mark key="[" line="2" column="224" />
@@ -126,20 +106,15 @@
         <mark key="^" line="2" column="342" />
         <mark key="." line="2" column="342" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468231966166">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+      <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468479965183">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/xadmin/sites.py" timestamp="1468398137891">
-        <mark key="'" line="85" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1468232146359">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1468479834199">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1468232626695">
         <mark key="'" line="423" column="47" />
@@ -154,6 +129,12 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
+      <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1468479025771">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards.html" timestamp="1468315041759">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="7" />
@@ -161,46 +142,39 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1468231758160">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="C:/Python2/Lib/site-packages/mysql_pool.py" timestamp="1466684343611">
-        <mark key="[" line="180" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1468289653459">
-        <mark key="'" line="274" column="22" />
-        <mark key="[" line="280" column="45" />
-        <mark key="]" line="280" column="65" />
-        <mark key="^" line="280" column="65" />
-        <mark key="." line="281" column="46" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1468289770996">
-        <mark key="'" line="141" column="8" />
-        <mark key="[" line="124" column="76" />
-        <mark key="]" line="124" column="76" />
-        <mark key="." line="124" column="76" />
-        <mark key="^" line="124" column="76" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1468289704981">
-        <mark key="[" line="1003" column="41" />
-        <mark key="]" line="1003" column="62" />
-        <mark key="." line="1005" column="93" />
-        <mark key="^" line="1003" column="62" />
-      </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1468290077189">
-        <mark key="'" line="49" column="6" />
+      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1468479411579">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1467444688079">
-        <mark key="[" line="41" column="50" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1468479761397">
+        <mark key="'" line="204" column="31" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="271" column="65" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1468229458715">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1468479553770">
+        <mark key="'" line="132" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="115" column="76" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1468479710422">
+        <mark key="'" line="812" column="19" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="994" column="62" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1468480201788">
+        <mark key="'" line="88" column="26" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1468479354104">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="26" />
@@ -213,29 +187,26 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1468231650257">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1468479509156">
+        <mark key="'" line="54" column="18" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1468404002394">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1468479615626">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="279" column="65" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1468289721496">
-        <mark key="[" line="288" column="44" />
-        <mark key="]" line="288" column="65" />
-        <mark key="^" line="288" column="65" />
-        <mark key="." line="291" column="41" />
+      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468480003963">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="90" column="394" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Cost.py" timestamp="1468313286429">
-        <mark key="'" line="128" column="62" />
-        <mark key="[" line="147" column="37" />
-        <mark key="]" line="147" column="38" />
-        <mark key="." line="147" column="38" />
-        <mark key="^" line="99" column="394" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468289606281">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468479583824">
         <mark key="'" line="228" column="35" />
         <mark key="[" line="205" column="70" />
         <mark key="]" line="203" column="69" />
@@ -272,13 +243,6 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1468232940977">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
       <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1468404411252">
         <mark key="'" line="7" column="27" />
         <mark key="[" line="9" column="38" />
@@ -286,18 +250,18 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1468289669482">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="152" column="69" />
-        <mark key="]" line="153" column="44" />
-        <mark key="^" line="153" column="44" />
-        <mark key="." line="153" column="44" />
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1468479737959">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="144" column="44" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1468232123028">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1468480035402">
+        <mark key="'" line="118" column="23" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/func.sh" timestamp="1468466965358">
         <mark key="[" line="4" column="13" />
@@ -310,11 +274,10 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1468232160227">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="29" column="45" />
-        <mark key="." line="29" column="45" />
-        <mark key="^" line="29" column="45" />
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1468479932146">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_finance.html" timestamp="1468315080212">
         <mark key="[" line="5" column="54" />
@@ -322,26 +285,8 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1468231723818">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="57" column="30" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="61" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="58" column="6" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="46" column="40" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="37" column="202" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="292" column="10" filename="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" />
-      <jump line="65" column="78" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="693" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="190" column="14" filename="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" />
-      <jump line="167" column="66" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="191" column="213" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="180" column="34" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="130" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="165" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
@@ -422,7 +367,6 @@
       <jump line="167" column="11" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="103" column="30" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="168" column="4" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
-      <jump line="0" column="4" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="27" column="31" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="227" column="35" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="128" column="62" filename="D:/PythonProjects/one4one/Card_Cost.py" />
@@ -430,10 +374,23 @@
       <jump line="324" column="33" filename="D:/PythonProjects/matrix/xadmin/sites.py" />
       <jump line="85" column="0" filename="D:/PythonProjects/matrix/xadmin/sites.py" />
       <jump line="82" column="25" filename="D:/PythonProjects/matrix/templates/base.html" />
+      <jump line="63" column="18" filename="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" />
+      <jump line="783" column="42" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="821" column="19" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="155" column="78" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
+      <jump line="213" column="31" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="97" column="32" filename="D:/PythonProjects/one4one/tutor_comment.py" />
+      <jump line="152" column="388" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="54" column="15" filename="D:/PythonProjects/one4one/Card_Cost.py" />
+      <jump line="118" column="23" filename="D:/PythonProjects/one4one/tutor_card_users.py" />
+      <jump line="35" column="14" filename="D:/PythonProjects/one4one/wb_teachers.py" />
+      <jump line="98" column="26" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="166" column="0" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGFydGl0aW9uOiBsb2dfZGF0ZS0+ZGF5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGV0Y2QK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cGFydGl0aW9uOiBsb2dfZGF0ZS0+ZGF5</text>
@@ -445,31 +402,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LnRvX3RpbWV8cHJpbnRfdGltZXN0YW1wIH19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV0Y2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iy4vdGFzay5zaCAuLi8uLi90YXNrLnR4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2NkIC9jbGllbnQvaGl2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Iy4vdGFzay5zaCAuLi8uLi90YXNrLnR4dAo=</text>
+      <register name="4" type="4">
+        <text>def m.connection(db_name):
+    etcd_client = etcd.Client(host='100.98.222.226', port=2379,
+                              allow_redirect=False)
+    db_config = eval(etcd_client.read('/db/' + db_name).value)
+    db_conn = MySQLdb.connect(**db_config)
+    return db_conn</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2NkIC9jbGllbnQvaGl2ZQo=</text>
+        <text encoding="base64">aW1wb3J0IGV0Y2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
+      <register name="7" type="4">
+        <text>def m.connection(db_name):
+    etcd_client = etcd.Client(host='100.98.222.226', port=2379,
+                              allow_redirect=False)
+    db_config = eval(etcd_client.read('/db/' + db_name).value)
+    db_conn = MySQLdb.connect(**db_config)
+    return db_conn</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text>def m.connection(db_name):
+    etcd_client = etcd.Client(host='100.98.222.226', port=2379,
+                              allow_redirect=False)
+    db_config = eval(etcd_client.read('/db/' + db_name).value)
+    db_conn = MySQLdb.connect(**db_config)
+    return db_conn</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
