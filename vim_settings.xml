@@ -89,7 +89,7 @@
         <mark key="." line="33" column="47" />
         <mark key="^" line="33" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1468808321872">
+      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1468825897983">
         <mark key="'" line="164" column="45" />
       </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1468511997449">
@@ -155,8 +155,8 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468824380591">
-        <mark key="'" line="198" column="26" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468826414228">
+        <mark key="'" line="554" column="39" />
         <mark key="[" line="205" column="70" />
         <mark key="]" line="203" column="69" />
         <mark key="." line="203" column="69" />
@@ -173,12 +173,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468822066526">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468826791690">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="259" column="33" />
-        <mark key="]" line="258" column="51" />
-        <mark key="." line="258" column="51" />
-        <mark key="^" line="258" column="51" />
+        <mark key="[" line="259" column="43" />
+        <mark key="]" line="259" column="43" />
+        <mark key="." line="259" column="43" />
+        <mark key="^" line="259" column="44" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1467698934836">
         <mark key="[" line="33" column="62" />
@@ -227,7 +227,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
-      <jump line="111" column="136" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="119" column="275" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="126" column="81" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="110" column="40" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -327,13 +326,14 @@
       <jump line="56" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="410" column="33" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="198" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="554" column="39" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
@@ -345,15 +345,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGRhdGU9ZCwgY2FyZF90eXBlPTQpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQogICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAo=</text>
+        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGRhdGU9ZCwgY2FyZF90eXBlPTQpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQogICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLPk1rXVxcr9J10gPSBhdGU9ZCwgY2FyZF90eXBlPTgpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>[
         statistics_list.filter(date=d, card_type=1).count() for d in xaxis_labels]
     echarts_data[u'包季卡充值张数'] = [
@@ -367,17 +370,14 @@
     echarts_data[u'卓越卡充值张数'] = [
         statistics_list.filter(d</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IG1lbWJlcl90eXBlX2xpc3QK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnNvci5mZXRjaGFsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvci5mZXRjaGFsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
