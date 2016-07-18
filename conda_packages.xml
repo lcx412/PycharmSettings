@@ -48,7 +48,7 @@
         <entry key="boost" value="1.60.0" />
         <entry key="boto" value="2.40.0" />
         <entry key="boto3" value="1.3.1" />
-        <entry key="botocore" value="1.4.28" />
+        <entry key="botocore" value="1.4.37" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.1.0" />
         <entry key="bsdiff4" value="1.1.4" />
@@ -97,13 +97,13 @@
         <entry key="cryptography" value="1.4" />
         <entry key="cssselect" value="0.9.1" />
         <entry key="csvkit" value="0.9.1" />
-        <entry key="cubes" value="1.0.1" />
+        <entry key="cubes" value="1.1" />
         <entry key="cudatoolkit" value="7.5" />
         <entry key="curl" value="7.49.0" />
         <entry key="cvxcanon" value="0.0.23.3" />
         <entry key="cx_oracle" value="5.2" />
         <entry key="cycler" value="0.10.0" />
-        <entry key="cython" value="0.24" />
+        <entry key="cython" value="0.24.1" />
         <entry key="cytoolz" value="0.8.0" />
         <entry key="dask" value="0.10.1" />
         <entry key="datashader" value="0.3.0" />
@@ -131,6 +131,7 @@
         <entry key="essbasepy" value="11.1.2012.0514" />
         <entry key="et_xmlfile" value="1.0.1" />
         <entry key="execnet" value="1.3.0" />
+        <entry key="expressions" value="0.2.3" />
         <entry key="fabric" value="1.11.1" />
         <entry key="fastcache" value="1.0.2" />
         <entry key="faulthandler" value="2.4" />
@@ -163,6 +164,7 @@
         <entry key="glueviz" value="0.7.2" />
         <entry key="gnuwin32" value="2015.08.18" />
         <entry key="googlecl" value="0.9.12" />
+        <entry key="grako" value="3.10.0" />
         <entry key="graphviz" value="2.38.0" />
         <entry key="greenlet" value="0.4.10" />
         <entry key="grin" value="1.2.1" />
@@ -321,7 +323,7 @@
         <entry key="pep381client" value="1.5" />
         <entry key="pep8" value="1.7.0" />
         <entry key="perl" value="5.20.3.1" />
-        <entry key="persistent" value="4.1.1" />
+        <entry key="persistent" value="4.2.1" />
         <entry key="phantomjs" value="2.1.1" />
         <entry key="pickleshare" value="0.7.2" />
         <entry key="pil" value="1.1.7" />
@@ -381,7 +383,7 @@
         <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-memcached" value="1.57" />
         <entry key="python-ntlm" value="1.1.0" />
-        <entry key="pytz" value="2016.4" />
+        <entry key="pytz" value="2016.6.1" />
         <entry key="pywget" value="2.2" />
         <entry key="pywin32" value="220" />
         <entry key="pyyaml" value="3.11" />
@@ -421,7 +423,7 @@
         <entry key="simplegeneric" value="0.8.1" />
         <entry key="simplejson" value="3.8.2" />
         <entry key="singledispatch" value="3.4.0.3" />
-        <entry key="sip" value="4.16.9" />
+        <entry key="sip" value="4.18" />
         <entry key="six" value="1.10.0" />
         <entry key="smart_open" value="1.3.3" />
         <entry key="snakeviz" value="0.4.0" />
@@ -499,9 +501,10 @@
         <entry key="yt" value="3.2.1" />
         <entry key="zeromq" value="4.1.3" />
         <entry key="zlib" value="1.2.8" />
+        <entry key="zope" value="1.0" />
         <entry key="zope.deprecation" value="4.1.2" />
         <entry key="zope.interface" value="4.2.0" />
-        <entry key="zope.sqlalchemy" value="0.7.6" />
+        <entry key="zope.sqlalchemy" value="0.7.7" />
       </map>
     </option>
     <option name="PACKAGES_TO_RELEASES">
@@ -1104,6 +1107,7 @@
               <option value="1.4.19" />
               <option value="1.4.26" />
               <option value="1.4.28" />
+              <option value="1.4.37" />
             </list>
           </value>
         </entry>
@@ -1725,6 +1729,7 @@
               <option value="1.0" />
               <option value="0.10.1" />
               <option value="0.10" />
+              <option value="1.1" />
             </list>
           </value>
         </entry>
@@ -1799,6 +1804,7 @@
               <option value="0.23" />
               <option value="0.20" />
               <option value="0.23.1" />
+              <option value="0.24.1" />
             </list>
           </value>
         </entry>
@@ -2097,6 +2103,13 @@
             </list>
           </value>
         </entry>
+        <entry key="expressions">
+          <value>
+            <list>
+              <option value="0.2.3" />
+            </list>
+          </value>
+        </entry>
         <entry key="fabric">
           <value>
             <list>
@@ -2384,6 +2397,13 @@
           <value>
             <list>
               <option value="0.9.12" />
+            </list>
+          </value>
+        </entry>
+        <entry key="grako">
+          <value>
+            <list>
+              <option value="3.10.0" />
             </list>
           </value>
         </entry>
@@ -4038,6 +4058,7 @@
             <list>
               <option value="4.1.1" />
               <option value="4.1.0" />
+              <option value="4.2.1" />
             </list>
           </value>
         </entry>
@@ -4679,6 +4700,7 @@
               <option value="2014.9" />
               <option value="2016.1" />
               <option value="2016.4" />
+              <option value="2016.6.1" />
             </list>
           </value>
         </entry>
@@ -5121,6 +5143,7 @@
             <list>
               <option value="4.16.9" />
               <option value="4.16.5" />
+              <option value="4.18" />
             </list>
           </value>
         </entry>
@@ -5911,6 +5934,13 @@
             </list>
           </value>
         </entry>
+        <entry key="zope">
+          <value>
+            <list>
+              <option value="1.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="zope.deprecation">
           <value>
             <list>
@@ -5934,6 +5964,7 @@
           <value>
             <list>
               <option value="0.7.6" />
+              <option value="0.7.7" />
             </list>
           </value>
         </entry>
@@ -5942,6 +5973,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1468511703586" />
+    <option name="LAST_TIME_CHECKED" value="1468806877306" />
   </component>
 </application>
