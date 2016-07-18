@@ -155,7 +155,7 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468479583824">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468817749508">
         <mark key="'" line="228" column="35" />
         <mark key="[" line="205" column="70" />
         <mark key="]" line="203" column="69" />
@@ -173,12 +173,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468816181727">
-        <mark key="'" line="315" column="31" />
-        <mark key="[" line="258" column="38" />
-        <mark key="]" line="260" column="49" />
-        <mark key="." line="260" column="49" />
-        <mark key="^" line="260" column="49" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468819086368">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="259" column="33" />
+        <mark key="]" line="259" column="33" />
+        <mark key="." line="259" column="33" />
+        <mark key="^" line="258" column="36" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/urls.py" timestamp="1467698934836">
         <mark key="[" line="33" column="62" />
@@ -186,7 +186,7 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1468808416665">
+      <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1468818091324">
         <mark key="'" line="167" column="50" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_chart.js" timestamp="1468815276326">
@@ -224,15 +224,9 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1468481114649">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="6" column="24" />
-      </file>
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
-      <jump line="67" column="35" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
-      <jump line="46" column="33" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="93" column="53" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="140" column="85" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="111" column="136" filename="D:/PythonProjects/one4one/wb_students.py" />
@@ -331,19 +325,21 @@
       <jump line="92" column="24" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="167" column="50" filename="D:/PythonProjects/matrix/statistics/views.py" />
       <jump line="164" column="45" filename="D:/PythonProjects/matrix/Matrix/settings.py" />
+      <jump line="276" column="51" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="56" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>无权限查看页面的返回按钮改为返回上一页，而不是主页</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>无权限查看页面的返回按钮改为返回上一页，而不是主页</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdtZXNzYWdlX2lkPTAnIGluIGxpbmUgYW5kICdhY3Rpdml0eV9pZD0xMzEyJyBpbiBsaW5lIGFuZCAndHlwZT00JyBpbiBsaW5lIGFuZCAncGxhdGZvcm09JyBpbiBsaW5lOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpc2luc3RhbmNlKHJvd1sxXSwgc3RyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
