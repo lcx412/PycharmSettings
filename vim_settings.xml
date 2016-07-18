@@ -52,7 +52,7 @@
         <mark key="^" line="76" column="32" />
         <mark key="." line="208" column="49" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1468401826165">
+      <file name="D:/PythonProjects/matrix/templates/nav.html" timestamp="1468810889591">
         <mark key="[" line="79" column="60" />
         <mark key="]" line="79" column="61" />
         <mark key="." line="79" column="61" />
@@ -95,23 +95,18 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1468480100251">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1468299599261">
         <mark key="[" line="2" column="224" />
         <mark key="]" line="2" column="342" />
         <mark key="^" line="2" column="342" />
         <mark key="." line="2" column="342" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468479965183">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/PythonProjects/matrix/templates/message.html" timestamp="1468813064643">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1468232626695">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1468813305095">
         <mark key="'" line="423" column="47" />
         <mark key="[" line="574" column="59" />
         <mark key="]" line="574" column="59" />
@@ -139,11 +134,6 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1468479411579">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1468479761397">
         <mark key="'" line="204" column="31" />
@@ -220,7 +210,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="15" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468809859250">
+      <file name="/Dummy.txt" timestamp="1468813081494">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468809975787">
         <mark key="'" line="312" column="31" />
         <mark key="[" line="303" column="0" />
         <mark key="]" line="303" column="12" />
@@ -239,11 +234,11 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_chart.js" timestamp="1468809600911">
         <mark key="[" line="44" column="20" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468400833596">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="20" column="22" />
+      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468812556690">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1468487206473">
         <mark key="'" line="7" column="27" />
@@ -271,11 +266,6 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1468479932146">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/sidebar_finance.html" timestamp="1468315080212">
         <mark key="[" line="5" column="54" />
         <mark key="]" line="5" column="55" />
@@ -286,6 +276,7 @@
         <mark key="'" line="34" column="0" />
         <mark key="[" line="6" column="24" />
       </file>
+      <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
       <jump line="67" column="35" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
@@ -390,11 +381,11 @@
       <jump line="164" column="45" filename="D:/PythonProjects/matrix/Matrix/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>去掉了登录后首页的Banner</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>去掉了登录后首页的Banner</text>
       </register>
       <register name="/" type="4">
         <text>server</text>
@@ -403,15 +394,18 @@
         <text encoding="base64">ICAgIGlmICdtZXNzYWdlX2lkPTAnIGluIGxpbmUgYW5kICdhY3Rpdml0eV9pZD0xMzEyJyBpbiBsaW5lIGFuZCAndHlwZT00JyBpbiBsaW5lIGFuZCAncGxhdGZvcm09JyBpbiBsaW5lOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGRhdGU9ZCwgY2FyZF90eXBlPTQpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQogICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAo=</text>
+        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGRhdGU9ZCwgY2FyZF90eXBlPTQpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQogICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLPk1rXVxcr9J10gPSBhdGU9ZCwgY2FyZF90eXBlPTgpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[
         statistics_list.filter(date=d, card_type=1).count() for d in xaxis_labels]
     echarts_data[u'包季卡充值张数'] = [
@@ -425,20 +419,17 @@
     echarts_data[u'卓越卡充值张数'] = [
         statistics_list.filter(d</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IG1lbWJlcl90eXBlX2xpc3QK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1cnNvci5mZXRjaGFsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvci5mZXRjaGFsbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJpbnRmb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
