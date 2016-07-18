@@ -155,8 +155,8 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468817749508">
-        <mark key="'" line="228" column="35" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1468824380591">
+        <mark key="'" line="198" column="26" />
         <mark key="[" line="205" column="70" />
         <mark key="]" line="203" column="69" />
         <mark key="." line="203" column="69" />
@@ -227,8 +227,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
-      <jump line="93" column="53" filename="D:/PythonProjects/one4one/wb_students.py" />
-      <jump line="140" column="85" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="111" column="136" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="119" column="275" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="126" column="81" filename="D:/PythonProjects/one4one/wb_students.py" />
@@ -327,6 +325,8 @@
       <jump line="164" column="45" filename="D:/PythonProjects/matrix/Matrix/settings.py" />
       <jump line="276" column="51" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="56" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="410" column="33" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="198" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
