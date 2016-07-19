@@ -16,12 +16,11 @@
         <mark key="." line="557" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468915296784">
-        <mark key="'" line="128" column="26" />
-        <mark key="[" line="251" column="17" />
-        <mark key="]" line="251" column="26" />
-        <mark key="." line="251" column="26" />
-        <mark key="^" line="251" column="26" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468918494077">
+        <mark key="[" line="254" column="95" />
+        <mark key="]" line="254" column="168" />
+        <mark key="^" line="254" column="23" />
+        <mark key="." line="254" column="168" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468807839868">
         <mark key="'" line="92" column="24" />
@@ -66,6 +65,11 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1468916574380">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="65" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="/Django Console" timestamp="1468808704623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,12 +92,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468913767242">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468916521594">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="260" column="20" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="189" column="65" />
+        <mark key="]" line="189" column="67" />
+        <mark key="^" line="177" column="65" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1468818091324">
         <mark key="'" line="167" column="50" />
@@ -110,10 +114,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
-      <jump line="151" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
-      <jump line="61" column="0" filename="D:/PythonProjects/one4one/wb_remain.py" />
-      <jump line="91" column="11" filename="D:/PythonProjects/one4one/wb_teachers.py" />
-      <jump line="49" column="88" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="51" column="30" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="6" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="245" column="28" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -210,46 +210,55 @@
       <jump line="128" column="26" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="407" column="42" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="515" column="4" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="252" column="44" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="290" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="253" column="39" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>天</text>
+        <text>.format(
+                20160101)</text>
       </register>
       <register name="-" type="4">
-        <text>天</text>
+        <text>wage_answer_plus_date</text>
       </register>
       <register name="/" type="4">
         <text>Ft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdhZ2VfYW5zd2VyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LndhZ2VfYW5zd2VyfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaWlkCg==</text>
+      <register name="1" type="4">
+        <text>.format(
+                20160101)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWlkID0gcm93W3UnaWlkJ10K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="4">
+        <text>cur_matrix.execute(
+                &quot;select wage_answer from ft_teachers where date={0}&quot;.format(wage_answer_plus_date))
+            wage_answer_that_date = cur_matrix.fetchone()[0]
+            wage_answer_plus = int(wage_answer - wage_answer_that_date)</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcl90eXBlX2xpc3QucmVtb3ZlKCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZmlsdGVyKGRhdGU9ZCwgY2FyZF90eXBlPTQpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQogICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaGFydHNfZGF0YVt1J7D81MK/qLPk1rXVxcr9J10gPSBhdGU9ZCwgY2FyZF90eXBlPTgpLmNvdW50KCkgZm9yIGQgaW4geGF4aXNfbGFiZWxzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
