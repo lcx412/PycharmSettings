@@ -16,11 +16,11 @@
         <mark key="." line="557" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468918494077">
-        <mark key="[" line="254" column="95" />
-        <mark key="]" line="254" column="168" />
-        <mark key="^" line="254" column="23" />
-        <mark key="." line="254" column="168" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468919906057">
+        <mark key="[" line="236" column="118" />
+        <mark key="]" line="236" column="118" />
+        <mark key="^" line="236" column="11" />
+        <mark key="." line="236" column="118" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468807839868">
         <mark key="'" line="92" column="24" />
@@ -217,11 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.format(
-                20160101)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>wage_answer_plus_date</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Ft</text>
@@ -229,36 +228,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LndhZ2VfYW5zd2VyfGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
       </register>
-      <register name="1" type="4">
-        <text>.format(
-                20160101)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsYXN0X21vbnRoX2VuZF90cyA9IHNlbGYubGFzdF9tb250aF9lbmRfdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X21vbnRoX3N0YXJ0X3RzID0gc2VsZi5sYXN0X21vbnRoX3N0YXJ0X3RzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>cur_matrix.execute(
-                &quot;select wage_answer from ft_teachers where date={0}&quot;.format(wage_answer_plus_date))
-            wage_answer_that_date = cur_matrix.fetchone()[0]
-            wage_answer_plus = int(wage_answer - wage_answer_that_date)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAjICMguKi1vL3Myqa5pNfKzrTM4c/W0+C27gogICAgICAgICMgY3VyLmV4ZWN1dGUoCiAgICAgICAgIyAgICAgInNlbGVjdCBzdW0od2FnZV9iYWxhbmNlKSBmcm9tIGZhcV91c2VyIGpvaW4gdXNlcl9vbmxpbmUgdXNpbmcodXNlcl9pZCkgd2hlcmUgdGVhY2hlcl90eXBlIGluICgxLDIpIGFuZCB0eXBlIT0xMiIpCiAgICAgICAgIyByZXMgPSBjdXIuZmV0Y2hvbmUoKQogICAgICAgICMgd2FnZV9yZW1haW4gPSBpbnQocmVzWzBdKQogICAgICAgICMKICAgICAgICAjICMgtPDM4r3Myqa5pNfKzrTM4c/W0+C27gogICAgICAgICMgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAjICAgICAic2VsZWN0IHJvdW5kKHN1bShhY2NvdW50X2JhbGFuY2UpLzIwLDIpIGZyb20gYW5zd2VyX3VzZXIgam9pbiB1c2VyX29ubGluZSB1c2luZyh1c2VyX2lkKSB3aGVyZSBjaGVja19zdGF0dXM9MiBhbmQgdHlwZSE9MTIiKQogICAgICAgICMgcmVzID0gY3VyX3N0YXQuZmV0Y2hvbmUoKQogICAgICAgICMgd2FnZV9yZW1haW4gKz0gaW50KHJlc1swXSAqIDEwMCkKICAgICAgICAjCiAgICAgICAgIyBjb25uLmNvbW1pdCgpCiAgICAgICAgIyBjb25uX3N0YXQuY29tbWl0KCkKICAgICAgICAjIHRpbWUyLnNsZWVwKDQyMDAp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FnZV9hbnN3ZXJfbmV3ID0gaW50KHJlc1swXSAqIDEwMCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>.format(
+                20160101)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIG5vdCBOb25lOgo=</text>
+      <register name="9" type="4">
+        <text>cur_matrix.execute(
+                &quot;select wage_answer from ft_teachers where date={0}&quot;.format(wage_answer_plus_date))
+            wage_answer_that_date = cur_matrix.fetchone()[0]
+            wage_answer_plus = int(wage_answer - wage_answer_that_date)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
