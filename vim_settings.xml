@@ -9,7 +9,19 @@
         <mark key="." line="52" column="43" />
         <mark key="^" line="52" column="43" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1468914025310">
+        <mark key="'" line="515" column="4" />
+        <mark key="[" line="557" column="15" />
+        <mark key="]" line="557" column="39" />
+        <mark key="." line="557" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468913612660">
+        <mark key="'" line="128" column="26" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468807839868">
         <mark key="'" line="92" column="24" />
         <mark key="[" line="208" column="48" />
@@ -75,12 +87,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468910776753">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1468913767242">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="260" column="20" />
-        <mark key="]" line="260" column="18" />
-        <mark key="^" line="260" column="18" />
-        <mark key="." line="260" column="18" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/views.py" timestamp="1468818091324">
         <mark key="'" line="167" column="50" />
@@ -97,9 +109,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
     </filemarks>
     <jumps>
-      <jump line="119" column="275" filename="D:/PythonProjects/one4one/wb_students.py" />
-      <jump line="126" column="81" filename="D:/PythonProjects/one4one/wb_students.py" />
-      <jump line="110" column="40" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="151" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="61" column="0" filename="D:/PythonProjects/one4one/wb_remain.py" />
       <jump line="91" column="11" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -197,19 +206,22 @@
       <jump line="410" column="33" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="198" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="554" column="39" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="128" column="26" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="407" column="42" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="515" column="4" filename="D:/PythonProjects/matrix/statistics/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaWlkCg==</text>
+        <text encoding="base64">ICAgIHdhZ2VfYW5zd2VyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>iid</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text>Ft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpc2luc3RhbmNlKHJvd1sxXSwgc3RyKQo=</text>
+        <text encoding="base64">ICAgIHdhZ2VfYW5zd2VyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaWlkCg==</text>
@@ -243,9 +255,9 @@
       </register>
     </registers>
     <search>
-      <last-search>server</last-search>
+      <last-search>Ft</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern>Ft</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -253,7 +265,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timed</entry>
         <entry>question</entry>
         <entry>remain</entry>
         <entry>wage_tutor</entry>
@@ -273,6 +284,7 @@
         <entry>joyo</entry>
         <entry>q</entry>
         <entry>server</entry>
+        <entry>Ft</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
