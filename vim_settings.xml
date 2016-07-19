@@ -16,11 +16,12 @@
         <mark key="." line="557" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468913612660">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468915296784">
         <mark key="'" line="128" column="26" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="251" column="17" />
+        <mark key="]" line="251" column="26" />
+        <mark key="." line="251" column="26" />
+        <mark key="^" line="251" column="26" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468807839868">
         <mark key="'" line="92" column="24" />
@@ -211,11 +212,11 @@
       <jump line="515" column="4" filename="D:/PythonProjects/matrix/statistics/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdhZ2VfYW5zd2VyID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>天</text>
       </register>
       <register name="-" type="4">
-        <text>iid</text>
+        <text>天</text>
       </register>
       <register name="/" type="4">
         <text>Ft</text>
