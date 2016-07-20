@@ -47,7 +47,7 @@
         <mark key="." line="79" column="61" />
         <mark key="^" line="79" column="61" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1468996464059">
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1468998554090">
         <mark key="'" line="82" column="25" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -106,7 +106,7 @@
         <mark key="[" line="1" column="62" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_android_bug_overall_content.html" timestamp="1468996213172" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/echarts_base.html" timestamp="1468987435230" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/echarts_base.html" timestamp="1468998974520" />
       <file name="D:/PythonProjects/Stat/Zerong.py" timestamp="1468837129518">
         <mark key="[" line="77" column="70" />
         <mark key="]" line="79" column="38" />
@@ -134,7 +134,7 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1468997105666">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1468998593819">
         <mark key="[" line="44" column="10" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="45" column="0" />
@@ -153,7 +153,7 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468997483395">
+      <file name="/Dummy.txt" timestamp="1468998949226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -177,9 +177,10 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_students_chart.js" timestamp="1468987320568">
         <mark key="[" line="2" column="62" />
       </file>
-      <file name="/a.regexp" timestamp="1468997457434">
+      <file name="/a.regexp" timestamp="1468998919367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/grades.html" timestamp="1468998324410" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers.html" timestamp="1468923444009" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers_chart.js" timestamp="1468987325258">
         <mark key="[" line="2" column="62" />
@@ -200,7 +201,9 @@
         <mark key="]" line="63" column="4" />
         <mark key="." line="63" column="4" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/search_hours.html" timestamp="1468998387733" />
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
+      <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1468998740042" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -306,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>清理和优化部分js的导入</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>清理和优化部分js的导入</text>
       </register>
       <register name="/" type="4">
         <text>Ft</text>
