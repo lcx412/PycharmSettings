@@ -14,6 +14,13 @@
       </file>
       <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
       <file name="D:/PythonProjects/matrix/statistics/templates/overall_content.html" timestamp="1468988018491" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/callback.js" timestamp="1469001201105">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="64" column="37" />
+        <mark key="." line="64" column="37" />
+        <mark key="^" line="64" column="37" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468919906057">
         <mark key="[" line="236" column="118" />
         <mark key="]" line="236" column="118" />
@@ -33,6 +40,12 @@
         <mark key="]" line="65" column="18" />
         <mark key="." line="65" column="18" />
         <mark key="^" line="65" column="67" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one.js" timestamp="1469000370488">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1468807839868">
         <mark key="'" line="92" column="24" />
@@ -54,7 +67,7 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1468990978312">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1469001386042">
         <mark key="[" line="176" column="54" />
         <mark key="]" line="176" column="55" />
         <mark key="." line="176" column="55" />
@@ -86,6 +99,7 @@
         <mark key="^" line="2" column="71" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/shine.js" timestamp="1468986399315" />
+      <file name="D:/PythonProjects/matrix/static/js/daterangepicker.js" timestamp="1468999992161" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_chart.js" timestamp="1468987292323">
         <mark key="[" line="3" column="62" />
       </file>
@@ -106,7 +120,7 @@
         <mark key="[" line="1" column="62" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_android_bug_overall_content.html" timestamp="1468996213172" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/echarts_base.html" timestamp="1468998974520" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/echarts_base.html" timestamp="1468999145025" />
       <file name="D:/PythonProjects/Stat/Zerong.py" timestamp="1468837129518">
         <mark key="[" line="77" column="70" />
         <mark key="]" line="79" column="38" />
@@ -153,7 +167,7 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468998949226">
+      <file name="/Dummy.txt" timestamp="1468999030262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -177,7 +191,7 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_students_chart.js" timestamp="1468987320568">
         <mark key="[" line="2" column="62" />
       </file>
-      <file name="/a.regexp" timestamp="1468998919367">
+      <file name="/a.regexp" timestamp="1469000217824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/grades.html" timestamp="1468998324410" />
@@ -206,7 +220,6 @@
       <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1468998740042" />
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="245" column="28" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="183" column="0" filename="D:/PythonProjects/one4one/wb_teachers.py" />
       <jump line="111" column="154" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
@@ -306,16 +319,17 @@
       <jump line="290" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="253" column="39" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="22" column="0" filename="D:/PythonProjects/matrix/Matrix/models.py" />
+      <jump line="16" column="2" filename="D:/PythonProjects/matrix/statistics/templates/callback.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>清理和优化部分js的导入</text>
+        <text>Yesterday</text>
       </register>
       <register name="-" type="4">
-        <text>清理和优化部分js的导入</text>
+        <text>Yesterday</text>
       </register>
       <register name="/" type="4">
-        <text>Ft</text>
+        <text>Yest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9lY2hhcnRzLmpzIj48L3NjcmlwdD4K</text>
@@ -352,9 +366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Ft</last-search>
+      <last-search>Yest</last-search>
       <last-offset />
-      <last-pattern>Ft</last-pattern>
+      <last-pattern>Yest</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDwnXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -362,7 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>question</entry>
         <entry>remain</entry>
         <entry>wage_tutor</entry>
         <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
@@ -382,6 +395,7 @@
         <entry>q</entry>
         <entry>server</entry>
         <entry>Ft</entry>
+        <entry>Yest</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
