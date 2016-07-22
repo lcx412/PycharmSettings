@@ -9,11 +9,28 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/overall_content.html" timestamp="1468988018491" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1469007005681">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/callback.js" timestamp="1469001201105">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="64" column="37" />
+        <mark key="." line="64" column="37" />
+        <mark key="^" line="64" column="37" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/chart_hour.js" timestamp="1468987260712">
         <mark key="[" line="1" column="62" />
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="4" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468919906057">
+        <mark key="[" line="236" column="118" />
+        <mark key="]" line="236" column="118" />
+        <mark key="^" line="236" column="11" />
+        <mark key="." line="236" column="118" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_status_chart.js" timestamp="1468987313320">
         <mark key="[" line="2" column="62" />
@@ -33,17 +50,35 @@
         <mark key="." line="79" column="61" />
         <mark key="^" line="79" column="61" />
       </file>
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1469003987898">
+        <mark key="'" line="92" column="24" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="209" column="49" />
+        <mark key="^" line="76" column="32" />
+        <mark key="." line="209" column="49" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain_content.html" timestamp="1469007222907">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469007156605" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1469006746747">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="31" />
         <mark key="." line="53" column="31" />
         <mark key="^" line="53" column="31" />
+      </file>
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1468998554090">
+        <mark key="'" line="82" column="25" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="7" column="87" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1469159323587">
+        <mark key="[" line="176" column="33" />
+        <mark key="]" line="176" column="34" />
+        <mark key="." line="176" column="34" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/network_charts.js" timestamp="1468987363596">
         <mark key="[" line="1" column="62" />
@@ -61,101 +96,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/callback_android_bug.js" timestamp="1469003236813" />
-      <file name="D:/PythonProjects/matrix/dbrouter/router.py" timestamp="1468920888618" />
       <file name="D:/PythonProjects/matrix/templates/message.html" timestamp="1468813064643">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
-      </file>
-      <file name="D:/PythonProjects/matrix/static/js/shine.js" timestamp="1468986399315" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1468813947919">
-        <mark key="'" line="423" column="47" />
-        <mark key="[" line="574" column="59" />
-        <mark key="]" line="574" column="59" />
-        <mark key="^" line="574" column="98" />
-        <mark key="." line="574" column="59" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1468479411579">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_android_bug_overall_content.html" timestamp="1468996213172" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/echarts_base.html" timestamp="1468999145025" />
-      <file name="D:/PythonProjects/Stat/Zerong.py" timestamp="1468837129518">
-        <mark key="[" line="77" column="70" />
-        <mark key="]" line="79" column="38" />
-        <mark key="." line="79" column="38" />
-        <mark key="^" line="79" column="38" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/daily_hours.html" timestamp="1468986654296" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/android_bug_charts.js" timestamp="1468986230089">
-        <mark key="[" line="1" column="62" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_chart.js" timestamp="1468987264501">
-        <mark key="[" line="2" column="62" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468814773726">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers.html" timestamp="1469007108609" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_chart.js" timestamp="1468986202075">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1469006564650">
-        <mark key="[" line="24" column="113" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="83" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu_content.html" timestamp="1469007005681">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-      </file>
-      <file name="D:/PythonProjects/matrix/conf/afanti.ini" timestamp="1468828921900" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/callback.js" timestamp="1469001201105">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-        <mark key="^" line="64" column="37" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468919906057">
-        <mark key="[" line="236" column="118" />
-        <mark key="]" line="236" column="118" />
-        <mark key="^" line="236" column="11" />
-        <mark key="." line="236" column="118" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1469003987898">
-        <mark key="'" line="92" column="24" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="209" column="49" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="209" column="49" />
-      </file>
-      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1468998554090">
-        <mark key="'" line="82" column="25" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="7" column="87" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1469007312889">
-        <mark key="[" line="177" column="24" />
-        <mark key="]" line="177" column="24" />
-        <mark key="." line="177" column="24" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit_chart.js" timestamp="1468987278674">
         <mark key="[" line="2" column="62" />
@@ -163,19 +107,35 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/static/js/daterangepicker.js" timestamp="1468999992161" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1468813947919">
+        <mark key="'" line="423" column="47" />
+        <mark key="[" line="574" column="59" />
+        <mark key="]" line="574" column="59" />
+        <mark key="^" line="574" column="98" />
+        <mark key="." line="574" column="59" />
+      </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1468828249336">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="8" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="18" column="8" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1468479411579">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/PythonProjects/Stat/Zerong.py" timestamp="1468837129518">
+        <mark key="[" line="77" column="70" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="38" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_students_content.html" timestamp="1469007180579">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_ltvppu.html" timestamp="1469005752324" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration.html" timestamp="1469004320251">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="46" />
@@ -221,17 +181,50 @@
         <mark key="." line="203" column="69" />
         <mark key="^" line="203" column="69" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1469159247015">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="53" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/android_bug_charts.js" timestamp="1468986230089">
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1469007536869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_member_cards_chart.js" timestamp="1468987264501">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1468814773726">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/chart.js" timestamp="1468986182900">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/grades.html" timestamp="1468998324410" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_chart.js" timestamp="1468986202075">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1469006564650">
+        <mark key="[" line="24" column="113" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="83" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1468479932146">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -251,9 +244,6 @@
         <mark key="]" line="63" column="4" />
         <mark key="." line="63" column="4" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/search_hours.html" timestamp="1468998387733" />
-      <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1468812749954" />
-      <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1468998740042" />
     </filemarks>
     <jumps>
       <jump line="245" column="28" filename="D:/PythonProjects/one4one/wb_teachers.py" />
@@ -359,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(datetime.today() - timedelta(2)).strftime('%Y-%m-%d')</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>(datetime.today() - timedelta(2)).strftime('%Y-%m-%d')</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>Yest</text>
