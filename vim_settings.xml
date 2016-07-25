@@ -58,6 +58,9 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
+      <file name="D:/PythonProjects/matrix/conf/new_post_template" timestamp="1469416541760">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/grade_chart.js" timestamp="1468987367904">
         <mark key="[" line="1" column="62" />
         <mark key="]" line="112" column="4" />
@@ -112,7 +115,7 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469415821188">
+      <file name="/Dummy.txt" timestamp="1469416056558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -151,7 +154,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1469415168763">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1469416209614">
         <mark key="[" line="181" column="28" />
         <mark key="]" line="181" column="29" />
         <mark key="." line="181" column="29" />
@@ -172,7 +175,7 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1469415331339">
+      <file name="/a.regexp" timestamp="1469416339660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Merge.py" timestamp="1468479965183">
@@ -227,11 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="492" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="357" column="80" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="355" column="80" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="71" column="32" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="91" column="12" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="133" column="0" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="191" column="51" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -327,6 +325,11 @@
       <jump line="20" column="6" filename="D:/PythonProjects/matrix/templates/base.html" />
       <jump line="30" column="37" filename="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" />
       <jump line="21" column="0" filename="D:/PythonProjects/matrix/Matrix/models.py" />
+      <jump line="20" column="0" filename="D:/PythonProjects/matrix/conf/new_post_template" />
+      <jump line="56" column="0" filename="D:/PythonProjects/matrix/conf/new_post_template" />
+      <jump line="50" column="0" filename="D:/PythonProjects/matrix/conf/new_post_template" />
+      <jump line="44" column="0" filename="D:/PythonProjects/matrix/conf/new_post_template" />
+      <jump line="10" column="0" filename="D:/PythonProjects/matrix/conf/new_post_template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
