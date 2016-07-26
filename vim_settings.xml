@@ -45,7 +45,7 @@
         <mark key="." line="53" column="31" />
         <mark key="^" line="53" column="31" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1469430223356">
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1469514164005">
         <mark key="'" line="14" column="6" />
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
@@ -65,12 +65,6 @@
         <mark key="]" line="13" column="40" />
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_chart.js" timestamp="1469182670448">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="36" column="27" />
       </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_tk_question_hit_chart.js" timestamp="1468987278674">
@@ -103,7 +97,8 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_city_chart.js" timestamp="1469506228691">
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_city_chart.js" timestamp="1469513617257">
+        <mark key="'" line="124" column="24" />
         <mark key="[" line="156" column="33" />
         <mark key="]" line="156" column="33" />
         <mark key="." line="156" column="33" />
@@ -170,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="20" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
       <jump line="136" column="8" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="252" column="4" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="233" column="334" filename="D:/PythonProjects/one4one/ft_students.py" />
@@ -270,6 +264,7 @@
       <jump line="280" column="53" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="33" column="0" filename="D:/PythonProjects/one4one/sql.sh" />
       <jump line="154" column="41" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="124" column="24" filename="D:/PythonProjects/matrix/statistics/templates/statistics_city_chart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
