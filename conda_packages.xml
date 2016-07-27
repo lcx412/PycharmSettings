@@ -79,7 +79,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.1.9" />
+        <entry key="conda" value="4.1.11" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.21.7" />
         <entry key="conda-env" value="2.5.2" />
@@ -92,6 +92,7 @@
         <entry key="constructor" value="1.3.1" />
         <entry key="contextlib2" value="0.5.3" />
         <entry key="continuum-docs" value="2.0.0" />
+        <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.1" />
         <entry key="cryptacular" value="1.4.1" />
@@ -234,7 +235,7 @@
         <entry key="lockfile" value="0.12.2" />
         <entry key="logilab-common" value="1.0.2" />
         <entry key="luigi" value="1.2.1" />
-        <entry key="lxml" value="3.6.0" />
+        <entry key="lxml" value="3.6.1" />
         <entry key="lz4" value="0.8.2" />
         <entry key="make" value="3.82" />
         <entry key="mako" value="1.0.4" />
@@ -363,7 +364,7 @@
         <entry key="pyodbc" value="3.0.10" />
         <entry key="pyopengl" value="3.1.1a1" />
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
-        <entry key="pyopenssl" value="0.16.0" />
+        <entry key="pyopenssl" value="16.0.0" />
         <entry key="pyparsing" value="2.1.4" />
         <entry key="pyproj" value="1.9.5.1" />
         <entry key="pyqt" value="4.11.4" />
@@ -406,6 +407,7 @@
         <entry key="requests" value="2.10.0" />
         <entry key="requests-file" value="1.4" />
         <entry key="requests-kerberos" value="0.8.0" />
+        <entry key="responses" value="0.5.1" />
         <entry key="rope" value="0.10.3" />
         <entry key="routes" value="2.2" />
         <entry key="ruamel_yaml" value="0.11.7" />
@@ -455,7 +457,7 @@
         <entry key="teradata" value="15.10.0.11" />
         <entry key="tk" value="8.5.18" />
         <entry key="toolz" value="0.8.0" />
-        <entry key="tornado" value="4.3" />
+        <entry key="tornado" value="4.4.1" />
         <entry key="traitlets" value="4.2.2" />
         <entry key="traits" value="4.5.0" />
         <entry key="traitsui" value="4.5.1" />
@@ -481,11 +483,11 @@
         <entry key="vs2015_runtime" value="14.0.25123" />
         <entry key="vtk" value="6.3.0" />
         <entry key="w3lib" value="1.14.3" />
-        <entry key="waitress" value="0.8.9" />
+        <entry key="waitress" value="0.9.0" />
         <entry key="wcwidth" value="0.1.7" />
-        <entry key="webob" value="1.6.0" />
+        <entry key="webob" value="1.6.1" />
         <entry key="websocket" value="0.2.1" />
-        <entry key="webtest" value="2.0.18" />
+        <entry key="webtest" value="2.0.23" />
         <entry key="werkzeug" value="0.11.10" />
         <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
@@ -1511,6 +1513,7 @@
               <option value="4.1.8" />
               <option value="4.0.11" />
               <option value="4.1.9" />
+              <option value="4.1.11" />
             </list>
           </value>
         </entry>
@@ -1678,6 +1681,13 @@
           <value>
             <list>
               <option value="2.0.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="cookies">
+          <value>
+            <list>
+              <option value="2.2.1" />
             </list>
           </value>
         </entry>
@@ -3143,6 +3153,7 @@
               <option value="3.2.3" />
               <option value="3.0.2" />
               <option value="3.2.1" />
+              <option value="3.6.1" />
             </list>
           </value>
         </entry>
@@ -4499,6 +4510,7 @@
               <option value="0.15.1" />
               <option value="0.14" />
               <option value="0.16.0" />
+              <option value="16.0.0" />
             </list>
           </value>
         </entry>
@@ -4942,6 +4954,13 @@
           <value>
             <list>
               <option value="0.8.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="responses">
+          <value>
+            <list>
+              <option value="0.5.1" />
             </list>
           </value>
         </entry>
@@ -5515,6 +5534,7 @@
               <option value="3.1" />
               <option value="4.1" />
               <option value="2.3" />
+              <option value="4.4.1" />
             </list>
           </value>
         </entry>
@@ -5741,6 +5761,7 @@
           <value>
             <list>
               <option value="0.8.9" />
+              <option value="0.9.0" />
             </list>
           </value>
         </entry>
@@ -5757,6 +5778,7 @@
               <option value="1.4.1" />
               <option value="1.6.0" />
               <option value="1.4" />
+              <option value="1.6.1" />
             </list>
           </value>
         </entry>
@@ -5771,6 +5793,7 @@
           <value>
             <list>
               <option value="2.0.18" />
+              <option value="2.0.23" />
             </list>
           </value>
         </entry>
@@ -6051,6 +6074,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1469411856202" />
+    <option name="LAST_TIME_CHECKED" value="1469586146503" />
   </component>
 </application>
