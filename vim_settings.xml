@@ -11,7 +11,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1469417289518" />
       <file name="D:/PythonProjects/matrix/statistics/templates/callback.js" timestamp="1469417691211" />
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1468919906057">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1469594983739">
         <mark key="[" line="236" column="118" />
         <mark key="]" line="236" column="118" />
         <mark key="^" line="236" column="11" />
@@ -39,8 +39,11 @@
         <mark key="." line="73" column="61" />
         <mark key="^" line="73" column="61" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1469588480910">
-        <mark key="[" line="169" column="94" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1469594834578">
+        <mark key="[" line="220" column="36" />
+        <mark key="]" line="220" column="33" />
+        <mark key="^" line="221" column="34" />
+        <mark key="." line="220" column="33" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1469006746747">
         <mark key="[" line="53" column="28" />
@@ -265,11 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max_v
-          o</text>
+        <text encoding="base64">IGFuZCBjb25zdW1lX3RpbWUgYmV0d2VlbiB7MX0gYW5kezJ9</text>
       </register>
       <register name="-" type="4">
-        <text>辅导时长统计页面的echart option改为json传输</text>
+        <text encoding="base64">IGFuZCBjb25zdW1lX3RpbWUgYmV0d2VlbiB7MX0gYW5kezJ9</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
