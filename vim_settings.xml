@@ -119,12 +119,12 @@
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_index_content.html" timestamp="1469431213789" />
       <file name="C:/Python2/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html" timestamp="1469413096953" />
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1469626191365">
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1469639774447">
         <mark key="'" line="88" column="8" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="19" />
+        <mark key="[" line="66" column="52" />
+        <mark key="]" line="66" column="52" />
         <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="31" />
+        <mark key="." line="66" column="52" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469415172979">
         <mark key="'" line="30" column="37" />
@@ -296,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>datetime.strptime(self.tod, '%Y-%m-%d')</text>
+        <text>日</text>
       </register>
       <register name="-" type="4">
-        <text>datetime.strptime(self.tod, '%Y-%m-%d')</text>
+        <text>日</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
