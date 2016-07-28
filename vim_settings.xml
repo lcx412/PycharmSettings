@@ -130,7 +130,8 @@
       </file>
       <file name="C:/Python2/Lib/site-packages/MySQLdb/connections.py" timestamp="1469689227013" />
       <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1469677744839" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469700725415">
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469705059214">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="110" column="34" />
         <mark key="]" line="110" column="39" />
         <mark key="." line="110" column="39" />
@@ -138,9 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="19" filename="D:/PythonProjects/one4one/tutor_sum.py" />
-      <jump line="155" column="78" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="213" column="31" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="97" column="32" filename="D:/PythonProjects/one4one/tutor_comment.py" />
       <jump line="152" column="388" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
@@ -238,6 +236,9 @@
       <jump line="80" column="17" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
       <jump line="340" column="33" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="186" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="78" column="14" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
+      <jump line="40" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
+      <jump line="59" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
