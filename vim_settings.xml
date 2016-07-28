@@ -41,14 +41,14 @@
         <mark key="'" line="21" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469688878632">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469693669050">
         <mark key="'" line="341" column="33" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="341" column="34" />
-        <mark key="^" line="341" column="34" />
-        <mark key="." line="341" column="34" />
+        <mark key="[" line="353" column="53" />
+        <mark key="]" line="325" column="38" />
+        <mark key="^" line="325" column="38" />
+        <mark key="." line="325" column="38" />
       </file>
-      <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1469440870556">
+      <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1469692207867">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="8" />
         <mark key="^" line="17" column="11" />
@@ -83,7 +83,13 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1469689319703" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1469693150526">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/user_route_views.py" timestamp="1469687937923">
         <mark key="'" line="85" column="17" />
       </file>
@@ -124,15 +130,14 @@
       </file>
       <file name="C:/Python2/Lib/site-packages/MySQLdb/connections.py" timestamp="1469689227013" />
       <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1469677744839" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469688788887">
-        <mark key="[" line="116" column="46" />
-        <mark key="]" line="105" column="17" />
-        <mark key="." line="105" column="17" />
-        <mark key="^" line="105" column="17" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469693294536">
+        <mark key="[" line="110" column="33" />
+        <mark key="]" line="110" column="35" />
+        <mark key="." line="110" column="35" />
+        <mark key="^" line="110" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="783" column="42" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="821" column="19" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="155" column="78" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
@@ -232,13 +237,14 @@
       <jump line="353" column="22" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="80" column="17" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
       <jump line="340" column="33" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="186" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setOption(option);</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>setOption(option);</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
