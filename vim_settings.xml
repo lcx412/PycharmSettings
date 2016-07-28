@@ -41,12 +41,12 @@
         <mark key="'" line="21" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469693669050">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469695049373">
         <mark key="'" line="341" column="33" />
-        <mark key="[" line="353" column="53" />
-        <mark key="]" line="325" column="38" />
-        <mark key="^" line="325" column="38" />
-        <mark key="." line="325" column="38" />
+        <mark key="[" line="345" column="44" />
+        <mark key="]" line="345" column="47" />
+        <mark key="^" line="345" column="47" />
+        <mark key="." line="345" column="47" />
       </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1469692207867">
         <mark key="[" line="18" column="0" />
@@ -130,11 +130,11 @@
       </file>
       <file name="C:/Python2/Lib/site-packages/MySQLdb/connections.py" timestamp="1469689227013" />
       <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1469677744839" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469693294536">
-        <mark key="[" line="110" column="33" />
-        <mark key="]" line="110" column="35" />
-        <mark key="." line="110" column="35" />
-        <mark key="^" line="110" column="35" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469695063616">
+        <mark key="[" line="103" column="36" />
+        <mark key="]" line="103" column="39" />
+        <mark key="." line="103" column="39" />
+        <mark key="^" line="103" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>echarts</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>echarts</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
