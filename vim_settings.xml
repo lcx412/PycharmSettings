@@ -41,12 +41,12 @@
         <mark key="'" line="21" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469700085760">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469764607429">
         <mark key="'" line="341" column="33" />
-        <mark key="[" line="353" column="79" />
-        <mark key="]" line="353" column="25" />
-        <mark key="." line="353" column="25" />
-        <mark key="^" line="353" column="25" />
+        <mark key="[" line="356" column="0" />
+        <mark key="]" line="356" column="0" />
+        <mark key="." line="356" column="0" />
+        <mark key="^" line="344" column="75" />
       </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1469692207867">
         <mark key="[" line="18" column="0" />
@@ -145,12 +145,12 @@
       </file>
       <file name="C:/Python2/Lib/site-packages/MySQLdb/connections.py" timestamp="1469689227013" />
       <file name="D:/PythonProjects/matrix/statistics/stat_views.py" timestamp="1469677744839" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469705059214">
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469764198707">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="110" column="39" />
-        <mark key="." line="110" column="39" />
-        <mark key="^" line="110" column="39" />
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="115" column="40" />
+        <mark key="." line="115" column="40" />
+        <mark key="^" line="116" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -257,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -269,31 +269,31 @@
         <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShjcmVkaXQpKjUgZnJvbSBkYXRlX2Fuc3dlcl9yZWNvcmQgd2hlcmUgcmVjb3JkX2RhdGU9ezB9IGFuZCB1c2VyX2lkIGluIChzZWxlY3QgdXNlcl9pZCBmcm9tIGFuc3dlcl91c2VyIHdoZXJlIGNoZWNrX3N0YXR1cz0yKSIuZm9ybWF0KAogICAgICAgICAgICAgICAgeWVzX2RhdGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAic2VsZWN0IHN1bShjcmVkaXQpKjUgZnJvbSBkYXRlX2Fuc3dlcl9yZWNvcmQgd2hlcmUgcmVjb3JkX2RhdGU9ezB9Ii5mb3JtYXQoeWVzX2RhdGUpKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGN1cl9zdGF0LmV4ZWN1dGUK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAic2VsZWN0IHN1bShjcmVkaXQpKjUgZnJvbSBkYXRlX2Fuc3dlcl9yZWNvcmQgd2hlcmUgcmVjb3JkX2RhdGU9ezB9Ii5mb3JtYXQoeWVzX2RhdGUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGN1cl9zdGF0LmV4ZWN1dGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">SlNPTi5wYXJzZSh7eyBwYWdlX2RhdGEgfX0pOwog</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
