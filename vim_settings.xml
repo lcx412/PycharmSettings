@@ -11,6 +11,7 @@
         <mark key="^" line="12" column="9" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1469417289518" />
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/add.sh" timestamp="1469874446564" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1469869922942">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -88,7 +89,7 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1469873940490">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1469874505895">
         <mark key="[" line="2" column="157" />
         <mark key="]" line="2" column="157" />
         <mark key="^" line="2" column="145" />
@@ -147,9 +148,6 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_channel_city.html" timestamp="1469677523818" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_index_content.html" timestamp="1469431213789" />
       <file name="C:/Python2/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html" timestamp="1469413096953" />
-      <file name="D:/PythonProjects/matrix/templates/pageination_post2.html" timestamp="1469848023419">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration.html" timestamp="1469860965429">
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
@@ -200,10 +198,10 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469870213860">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1469873982604">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1469427329934">
         <mark key="[" line="16" column="74" />
@@ -230,7 +228,7 @@
         <mark key="." line="20" column="24" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_status.html" timestamp="1469866534709" />
-      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469873952580">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469874524630">
         <mark key="'" line="64" column="67" />
         <mark key="[" line="76" column="47" />
         <mark key="]" line="76" column="41" />
@@ -273,6 +271,7 @@
         <mark key="^" line="122" column="60" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_channel_city_content.html" timestamp="1469777014683" />
+      <file name="D:/PythonProjects/hive_log_preprocess/dir.sh" timestamp="1469874133171" />
     </filemarks>
     <jumps>
       <jump line="19" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -378,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else 0</text>
+        <text>issue</text>
       </register>
       <register name="-" type="4">
-        <text>else 0</text>
+        <text>issue</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
