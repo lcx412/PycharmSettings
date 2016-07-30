@@ -47,9 +47,24 @@
         <mark key="^" line="180" column="34" />
       </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469856208913">
-        <mark key="'" line="353" column="36" />
-        <mark key="^" line="304" column="22" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1469863581022">
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+        <mark key="^" line="54" column="38" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.js" timestamp="1469863207662">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="15" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469863410297">
+        <mark key="'" line="352" column="36" />
+        <mark key="[" line="315" column="29" />
+        <mark key="]" line="315" column="38" />
+        <mark key="^" line="315" column="38" />
+        <mark key="." line="315" column="38" />
       </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1469692207867">
         <mark key="[" line="18" column="0" />
@@ -74,9 +89,10 @@
       <file name="D:/PythonProjects/matrix/templates/pageination_post2.html" timestamp="1469848023419">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration.html" timestamp="1469790032756">
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration.html" timestamp="1469860965429">
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1469639774447">
         <mark key="'" line="88" column="8" />
@@ -96,12 +112,11 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" timestamp="1469856144149">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="54" column="70" />
-        <mark key="]" line="54" column="70" />
-        <mark key="^" line="54" column="51" />
-        <mark key="." line="54" column="70" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" timestamp="1469860847303">
+        <mark key="[" line="133" column="67" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1469763592450">
         <mark key="'" line="183" column="0" />
@@ -173,10 +188,6 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_channel_city_content.html" timestamp="1469777014683" />
     </filemarks>
     <jumps>
-      <jump line="252" column="44" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="290" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="253" column="39" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="22" column="0" filename="D:/PythonProjects/matrix/Matrix/models.py" />
       <jump line="16" column="2" filename="D:/PythonProjects/matrix/statistics/templates/callback.js" />
       <jump line="15" column="9" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_chart.js" />
@@ -273,14 +284,17 @@
       <jump line="200" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="169" column="4" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="193" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
+      <jump line="75" column="56" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
+      <jump line="30" column="6" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration.js" />
+      <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" />
+      <jump line="127" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,start_time: picker.startDate.format('YYYYMMDD'),
-        end_time: picker.endDate.format('YYYYMMDD')</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -288,21 +302,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCIjcGFnaW5hdGlvbiIpWzBdLmh0bWwocGFnaW5hdGlvbl9odG1sKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,start_time: picker.startDate.format('YYYYMMDD'),
-        end_time: picker.endDate.format('YYYYMMDD')</text>
+      <register name="1" type="2">
+        <text encoding="base64">PCEtLSDI1cba0aHIoaGit9bSs7XIIC0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9hbGVydCgiQ2FsbGJhY2sgaGFzIGZpcmVkOiBbIiArIHN0YXJ0LmZvcm1hdCgnTU1NTSBELCBZWVlZJykgKyAiIHRvICIgKyBlbmQuZm9ybWF0KCdNTU1NIEQsIFlZWVknKSArICIsIGxhYmVsID0gIiArIGxhYmVsICsgIl0iKTsK</text>
+        <text encoding="base64">ICB2YXIgY2IgPSBmdW5jdGlvbihzdGFydCwgZW5kLCBsYWJlbCkgewogIGNvbnNvbGUubG9nKHN0YXJ0LnRvSVNPU3RyaW5nKCksIGVuZC50b0lTT1N0cmluZygpLCBsYWJlbCk7CiAgJCgnI3JlcG9ydHJhbmdlIHNwYW4nKS5odG1sKHN0YXJ0LmZvcm1hdCgnTU0vREQsIFlZWVknKSArICcgLSAnICsgZW5kLmZvcm1hdCgnTU0vREQsIFlZWVknKSk7CiAgLy8kKCcjcmVwb3J0cmFuZ2Ugc3BhbicpLmh0bWwoJ3t7c3RhcnRfdGltZX19IC0ge3tlbmRfdGltZX19Jyk7CiAgLy9hbGVydCgiQ2FsbGJhY2sgaGFzIGZpcmVkOiBbIiArIHN0YXJ0LmZvcm1hdCgnTU1NTSBELCBZWVlZJykgKyAiIHRvICIgKyBlbmQuZm9ybWF0KCdNTU1NIEQsIFlZWVknKSArICIsIGxhYmVsID0gIiArIGxhYmVsICsgIl0iKTsKICB9CgogIHZhciBvcHRpb25TZXQxID0gewogIHN0YXJ0RGF0ZTogbW9tZW50KCkuc3VidHJhY3QoMTAsICdkYXlzJykudG9EYXRlKCksCiAgZW5kRGF0ZTogbW9tZW50KCkudG9EYXRlKCksCiAgbWluRGF0ZTogJzAxLzAxLzIwMTInLAogIG1heERhdGU6IG1vbWVudCgpLAogIGRhdGVMaW1pdDogeyBkYXlzOiA2MCB9LAogIHNob3dEcm9wZG93bnM6IHRydWUsCiAgc2hvd1dlZWtOdW1iZXJzOiB0cnVlLAogIHRpbWVQaWNrZXI6IGZhbHNlLAogIHRpbWVQaWNrZXJJbmNyZW1lbnQ6IDEsCiAgdGltZVBpY2tlcjEySG91cjogdHJ1ZSwKICByYW5nZXM6IHsKICAnWWVzdGVyZGF5JzogW21vbWVudCgpLnN1YnRyYWN0KDEsICdkYXlzJyksIG1vbWVudCgpLnN1YnRyYWN0KDEsICdkYXlzJyldLAogICdMYXN0IDcgRGF5cyc6IFttb21lbnQoKS5zdWJ0cmFjdCg2LCAnZGF5cycpLCBtb21lbnQoKV0sCiAgJ0xhc3QgMzAgRGF5cyc6IFttb21lbnQoKS5zdWJ0cmFjdCgyOSwgJ2RheXMnKSwgbW9tZW50KCldLAogICdUaGlzIE1vbnRoJzogW21vbWVudCgpLnN0YXJ0T2YoJ21vbnRoJyksIG1vbWVudCgpLmVuZE9mKCdtb250aCcpXSwKICAnTGFzdCBNb250aCc6IFttb21lbnQoKS5zdWJ0cmFjdCgxLCAnbW9udGgnKS5zdGFydE9mKCdtb250aCcpLCBtb21lbnQoKS5zdWJ0cmFjdCgxLCAnbW9udGgnKS5lbmRPZignbW9udGgnKV0KICB9LAogIG9wZW5zOiAnbGVmdCcsCiAgYnV0dG9uQ2xhc3NlczogWydidG4gYnRuLWRlZmF1bHQnXSwKICBhcHBseUNsYXNzOiAnYnRuLXNtYWxsIGJ0bi1wcmltYXJ5JywKICBjYW5jZWxDbGFzczogJ2J0bi1zbWFsbCcsCiAgZm9ybWF0OiAnTU0vREQvWVlZWScsCiAgc2VwYXJhdG9yOiAnIHRvICcsCiAgbG9jYWxlOiB7CiAgYXBwbHlMYWJlbDogJ1N1Ym1pdCcsCiAgY2FuY2VsTGFiZWw6ICdDbGVhcicsCiAgZnJvbUxhYmVsOiAnRnJvbScsCiAgdG9MYWJlbDogJ1RvJywKICBjdXN0b21SYW5nZUxhYmVsOiAnQ3VzdG9tJywKICBkYXlzT2ZXZWVrOiBbJ1N1JywgJ01vJywgJ1R1JywgJ1dlJywgJ1RoJywgJ0ZyJywnU2EnXSwKICBtb250aE5hbWVzOiBbJ9K71MInLCAntv7UwicsICfI/dTCJywgJ8vE1MInLCAnzuXUwicsICfB+dTCJywgJ8bf1MInLCAnsMvUwicsICe+xdTCJywgJ8qu1MInLCAnyq7Su9TCJywgJ8qutv7UwiddLAogIGZpcnN0RGF5OiAxCiAgfQogIH07CgogICQoJyNyZXBvcnRyYW5nZSBzcGFuJykuaHRtbChtb21lbnQoKS5zdWJ0cmFjdCgyOSwgJ2RheXMnKS5mb3JtYXQoJ01NL0RELCBZWVlZJykgKyAnIC0gJyArIG1vbWVudCgpLmZvcm1hdCgnTU0vREQsIFlZWVknKSk7CgogICQoJyNyZXBvcnRyYW5nZScpLmRhdGVyYW5nZXBpY2tlcihvcHRpb25TZXQxLCBjYik7CgogICQoJyNyZXBvcnRyYW5nZScpLm9uKCdzaG93LmRhdGVyYW5nZXBpY2tlcicsIGZ1bmN0aW9uKCkgeyBjb25zb2xlLmxvZygic2hvdyBldmVudCBmaXJlZCIpOyB9KTsKICAkKCcjcmVwb3J0cmFuZ2UnKS5vbignaGlkZS5kYXRlcmFuZ2VwaWNrZXInLCBmdW5jdGlvbigpIHsgY29uc29sZS5sb2coImhpZGUgZXZlbnQgZmlyZWQiKTsgfSk7CiAgJCgnI3JlcG9ydHJhbmdlJykub24oJ2FwcGx5LmRhdGVyYW5nZXBpY2tlcicsIGZ1bmN0aW9uKGV2LCBwaWNrZXIpIHsKICBjb25zb2xlLmxvZygiYXBwbHkgZXZlbnQgZmlyZWQsIHN0YXJ0L2VuZCBkYXRlcyBhcmUgIgogICsgcGlja2VyLnN0YXJ0RGF0ZS5mb3JtYXQoJ01NL0REL1lZWVknKQogICsgIiB0byAiCiAgKyBwaWNrZXIuZW5kRGF0ZS5mb3JtYXQoJ01NL0REL1lZWVknKQogICk7CgogIC8vYWxlcnQoInt7Y3VycmVudF9jaGFubmVsfX0iKQogIAogICB2YXIgdmlld19ieSA9ICQoJyN2aWV3X2J5JykudmFsKCk7CgogICQucG9zdCgie3twYXRofX0iLCB7dmlld19ieTp2aWV3X2J5LGZpbHRlcl9kb3dubG9hZGNoYW5uZWw6ICJ7e2N1cnJlbnRfY2hhbm5lbH19IiwgZmlsdGVyX2NsaWVudHZlcnNpb246ICJ7e2N1cnJlbnRfdmVyc2lvbn19IiwgZmlsdGVyX2FwaToie3tjdXJyZW50X2FwaX19Iiwgc3RhcnRfdGltZTogcGlja2VyLnN0YXJ0RGF0ZS5mb3JtYXQoJ1lZWVlNTUREJyksIGVuZF90aW1lOiBwaWNrZXIuZW5kRGF0ZS5mb3JtYXQoJ1lZWVlNTUREJyl9LCBmdW5jdGlvbihkYXRhKSB7CiAgJCgnI3N0YXRpc3RpY3NfY29udGVudCcpLmh0bWwoZGF0YSk7CiAgfSk7CiAgfSk7CgogIH0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8kKCcjcmVwb3J0cmFuZ2Ugc3BhbicpLmh0bWwoJ3t7IHN0YXJ0X3RpbWUgfX0gLSB7eyBlbmRfdGltZSB9fScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8guPfW1kpTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -310,11 +323,12 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>,start_time: picker.startDate.format('YYYYMMDD'),
+        end_time: picker.endDate.format('YYYYMMDD')</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vINbY0MK809TYt9bSs7C0xaUK</text>
+        <text encoding="base64">Ly9hbGVydCgiQ2FsbGJhY2sgaGFzIGZpcmVkOiBbIiArIHN0YXJ0LmZvcm1hdCgnTU1NTSBELCBZWVlZJykgKyAiIHRvICIgKyBlbmQuZm9ybWF0KCdNTU1NIEQsIFlZWVknKSArICIsIGxhYmVsID0gIiArIGxhYmVsICsgIl0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
