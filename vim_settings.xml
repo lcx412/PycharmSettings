@@ -88,6 +88,12 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/django/hive/table.sql" timestamp="1469873940490">
+        <mark key="[" line="2" column="157" />
+        <mark key="]" line="2" column="157" />
+        <mark key="^" line="2" column="145" />
+        <mark key="." line="2" column="157" />
+      </file>
       <file name="D:/PythonProjects/matrix/admin/templates/index.html" timestamp="1469413081242" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1469869958591">
         <mark key="'" line="47" column="23" />
@@ -123,7 +129,7 @@
       <file name="D:/PythonProjects/matrix/lib/tool.py" timestamp="1469864448627" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_user_route_content.html" timestamp="1469774154081" />
       <file name="D:/PythonProjects/matrix/templates/pageination_post.html" timestamp="1469785810167" />
-      <file name="/Python Console" timestamp="1469846507518">
+      <file name="/Python Console" timestamp="1469873530877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1469759899841">
@@ -224,12 +230,12 @@
         <mark key="." line="20" column="24" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_status.html" timestamp="1469866534709" />
-      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469847833686">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469873952580">
         <mark key="'" line="64" column="67" />
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="50" column="5" />
-        <mark key="." line="34" column="31" />
+        <mark key="[" line="76" column="47" />
+        <mark key="]" line="76" column="41" />
+        <mark key="^" line="76" column="39" />
+        <mark key="." line="76" column="41" />
       </file>
       <file name="D:/PythonProjects/one4one/sql.sh" timestamp="1469609089297">
         <mark key="[" line="23" column="3" />
@@ -371,11 +377,11 @@
       <jump line="290" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>else 0</text>
       </register>
       <register name="-" type="4">
-        <text>.sort(function (a, b) { return a.value - b.value})</text>
+        <text>else 0</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
