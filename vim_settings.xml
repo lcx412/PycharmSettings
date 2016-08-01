@@ -46,12 +46,12 @@
         <mark key="^" line="249" column="32" />
         <mark key="." line="249" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470046520297">
-        <mark key="'" line="138" column="274" />
-        <mark key="[" line="127" column="12" />
-        <mark key="]" line="127" column="12" />
-        <mark key="^" line="186" column="247" />
-        <mark key="." line="127" column="12" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470050392572">
+        <mark key="'" line="147" column="274" />
+        <mark key="[" line="128" column="189" />
+        <mark key="]" line="128" column="76" />
+        <mark key="^" line="128" column="76" />
+        <mark key="." line="128" column="76" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469780149391">
         <mark key="[" line="6" column="0" />
@@ -354,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;select sum(actual_consume_a</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;select sum(actual_consume_a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
