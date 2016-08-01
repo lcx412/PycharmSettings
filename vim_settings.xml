@@ -40,18 +40,19 @@
         <mark key="." line="73" column="61" />
         <mark key="^" line="73" column="61" />
       </file>
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470061361693" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1469674859244">
         <mark key="[" line="249" column="31" />
         <mark key="]" line="249" column="32" />
         <mark key="^" line="249" column="32" />
         <mark key="." line="249" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470057590974">
-        <mark key="'" line="147" column="274" />
-        <mark key="[" line="128" column="189" />
-        <mark key="]" line="128" column="76" />
-        <mark key="^" line="128" column="76" />
-        <mark key="." line="128" column="76" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470061407488">
+        <mark key="'" line="148" column="154" />
+        <mark key="[" line="156" column="166" />
+        <mark key="]" line="156" column="170" />
+        <mark key="^" line="156" column="170" />
+        <mark key="." line="156" column="170" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469780149391">
         <mark key="[" line="6" column="0" />
@@ -146,9 +147,6 @@
         <mark key="]" line="66" column="52" />
         <mark key="^" line="26" column="19" />
         <mark key="." line="66" column="52" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" timestamp="1469849149641">
-        <mark key="^" line="18" column="62" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469774557901">
         <mark key="'" line="27" column="37" />
@@ -251,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="83" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="390" column="73" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="27" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="68" column="83" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -351,13 +348,14 @@
       <jump line="267" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="290" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="143" column="274" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="148" column="154" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
