@@ -40,11 +40,12 @@
         <mark key="." line="73" column="61" />
         <mark key="^" line="73" column="61" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470110911998">
-        <mark key="[" line="180" column="78" />
-        <mark key="]" line="182" column="45" />
-        <mark key="^" line="182" column="45" />
-        <mark key="." line="182" column="45" />
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470120052587">
+        <mark key="'" line="162" column="16" />
+        <mark key="[" line="184" column="47" />
+        <mark key="]" line="203" column="137" />
+        <mark key="." line="203" column="137" />
+        <mark key="^" line="203" column="137" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1469674859244">
         <mark key="[" line="249" column="31" />
@@ -52,7 +53,7 @@
         <mark key="^" line="249" column="32" />
         <mark key="." line="249" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470110144760">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470119578993">
         <mark key="'" line="148" column="154" />
         <mark key="[" line="148" column="385" />
         <mark key="]" line="148" column="392" />
@@ -141,11 +142,6 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration.html" timestamp="1469860965429">
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1469639774447">
         <mark key="'" line="88" column="8" />
         <mark key="[" line="66" column="52" />
@@ -190,6 +186,11 @@
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1470120254988">
+        <mark key="[" line="284" column="44" />
+        <mark key="]" line="284" column="44" />
+        <mark key="." line="284" column="44" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/main.html" timestamp="1469427329934">
         <mark key="[" line="16" column="74" />
@@ -261,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="73" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="27" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="68" column="83" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="69" column="90" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="13" column="33" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_chart.js" />
@@ -361,13 +360,15 @@
       <jump line="290" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="143" column="274" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="148" column="154" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="181" column="57" filename="D:/PythonProjects/one4one/Card_Duration.py" />
+      <jump line="162" column="16" filename="D:/PythonProjects/one4one/Card_Duration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -376,31 +377,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29sdW1uX25hbWVzJzogY29sdW1uX25hbWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgdHV0b3JfZHVyYXRpb24sIHR1dG9yX2Nvc3QsIHBvc3RfY291bnQsIHBvc3RfY29zdCwgY2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjICdwb3N0X2Nvc3QnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAidXBkYXRlIG1lbWJlcl9jYXJkX2R1cmF0aW9uIHNldCB0dXRvcl9kdXJhdGlvbj17MH0sdHV0b3JfY29zdD17MX0scG9zdF9jb3VudD17Mn0scG9zdF9jb3N0PXszfSB3aGVyZSBjYXJkX2lkPXs0fSIuZm9ybWF0KAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICAgICBmdHMsIHR0cywgdWlkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgdHV0b3JfZHVyYXRpb24sIHR1dG9yX2Nvc3QsIHBvc3RfY291bnQsIHBvc3RfY29zdCwgY2lkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyKHP+7jDsrmzpbv6b25zdW1lX3JlY29yZCBqb2luIHR1dG9yX3JlY29yZCB1c2luZyh0dXRvcl9yZWNvcmRfaWQpIHdoZXJlIG1lbWJlcl90eXBlPTIgYW5kIGNvbnN1bWVfcmVjb3JkLnVzZV93aGl0ZWJvYXJkX3BhY2thZ2U9MSBhbmQgY29uc3VtZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIHVzZXJfaWQgPSB7Mn0iLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAidXBkYXRlIG1lbWJlcl9jYXJkX2R1cmF0aW9uIHNldCB0dXRvcl9kdXJhdGlvbj17MH0sdHV0b3JfY29zdD17MX0scG9zdF9jb3VudD17Mn0scG9zdF9jb3N0PXszfSB3aGVyZSBjYXJkX2lkPXs0fSIuZm9ybWF0KAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">1sYKICAgICAgICAgICAgICAgICMgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAjICAgICAic2VsZWN0IHN1bShpZihzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUsaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPD1tYXhfZHVyYXRpb24sZW5kX3RpbWUtc3RhcnRfdGltZSxtYXhfZHVyYXRpb24pLDApKSxzdW0oYWN0dWFsX2NvbnN1bWVfYW1vdW50KSowLjkgZnJvbSBj</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICAgICBmdHMsIHR0cywgdWlkKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICJzZWxlY3Qgc3VtKGlmKHN0YXJ0X3RpbWU+MCBhbmQgZW5kX3RpbWU+c3RhcnRfdGltZSxpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8PW1heF9kdXJhdGlvbixlbmRfdGltZS1zdGFydF90aW1lLG1heF9kdXJhdGlvbiksMCkpLHN1bShhY3R1YWxfY29uc3VtZV9hbW91bnQpKjAuOSBmcm9tIGNvbnN1bWVfcmVjb3JkIGpvaW4gdHV0b3JfcmVjb3JkIHVzaW5nKHR1dG9yX3JlY29yZF9pZCkgd2hlcmUgbWVtYmVyX3R5cGU9MSBhbmQgY29uc3VtZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIHVzZXJfaWQgPSB7Mn0iLmZvcm1hdCgK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyKHP+7jDsrmzpbv6b25zdW1lX3JlY29yZCBqb2luIHR1dG9yX3JlY29yZCB1c2luZyh0dXRvcl9yZWNvcmRfaWQpIHdoZXJlIG1lbWJlcl90eXBlPTIgYW5kIGNvbnN1bWVfcmVjb3JkLnVzZV93aGl0ZWJvYXJkX3BhY2thZ2U9MSBhbmQgY29uc3VtZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIHVzZXJfaWQgPSB7Mn0iLmZvcm1hdCgK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">1sYKICAgICAgICAgICAgICAgICMgY3VyLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAjICAgICAic2VsZWN0IHN1bShpZihzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUsaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPD1tYXhfZHVyYXRpb24sZW5kX3RpbWUtc3RhcnRfdGltZSxtYXhfZHVyYXRpb24pLDApKSxzdW0oYWN0dWFsX2NvbnN1bWVfYW1vdW50KSowLjkgZnJvbSBj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY3VyLmV4ZWN1dGUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICAgICBmdHMsIHR0cywgdWlkKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgyKHP+7jDsrmzpbv61sYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICJzZWxlY3Qgc3VtKGlmKHN0YXJ0X3RpbWU+MCBhbmQgZW5kX3RpbWU+c3RhcnRfdGltZSxpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8PW1heF9kdXJhdGlvbixlbmRfdGltZS1zdGFydF90aW1lLG1heF9kdXJhdGlvbiksMCkpLHN1bShhY3R1YWxfY29uc3VtZV9hbW91bnQpKjAuOSBmcm9tIGNvbnN1bWVfcmVjb3JkIGpvaW4gdHV0b3JfcmVjb3JkIHVzaW5nKHR1dG9yX3JlY29yZF9pZCkgd2hlcmUgbWVtYmVyX3R5cGU9MSBhbmQgY29uc3VtZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIHVzZXJfaWQgPSB7Mn0iLmZvcm1hdCgK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
