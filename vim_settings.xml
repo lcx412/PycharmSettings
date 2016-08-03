@@ -124,11 +124,11 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1469869416699">
-        <mark key="[" line="278" column="9" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="37" />
-        <mark key="^" line="69" column="37" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470212082815">
+        <mark key="[" line="286" column="70" />
+        <mark key="]" line="286" column="70" />
+        <mark key="." line="286" column="70" />
+        <mark key="^" line="278" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1470144134733">
         <mark key="[" line="18" column="0" />
@@ -191,14 +191,14 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469873982604">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1470212596332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1470131127787">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1470212555387">
         <mark key="'" line="315" column="31" />
-        <mark key="[" line="284" column="44" />
+        <mark key="[" line="263" column="64" />
         <mark key="]" line="284" column="44" />
         <mark key="." line="284" column="44" />
       </file>
@@ -207,21 +207,6 @@
         <mark key="]" line="21" column="40" />
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/chart.js" timestamp="1469417043189">
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="64" />
-        <mark key="." line="1" column="64" />
-      </file>
-      <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1469673839394">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_teachers.html" timestamp="1469678046536">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469874524630">
         <mark key="'" line="64" column="67" />
@@ -255,11 +240,11 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="2" column="64" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_status.js" timestamp="1469869813666">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="35" />
-        <mark key="^" line="45" column="35" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_status.js" timestamp="1470212360437">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
@@ -373,43 +358,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>时长和状态统计页面全部数据改为异步传输</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>时长和状态统计页面全部数据改为异步传输</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVhY2hlcl9wcmljZSA9IGN1cl9zdGF0LmZldGNob25lKClbMF0K</text>
+      <register name="0" type="4">
+        <text>{'name': u'横版状态', 'value':0 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
+        <text encoding="base64">ICAgIGVjaGFydHNfZGF0YSA9IFt7J25hbWUnOiB1J7rhsObXtMysJywgJ3ZhbHVlJzowIH0seyduYW1lJzogdSe64bDm17TMrCcsICd2YWx1ZSc6MH0gXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaGFydHNfZGF0YSA9IFt7J25hbWUnOiB1J7rhsObXtMysJywgJ3ZhbHVlJzowIH0seyduYW1lJzogdSe64bDm17TMrCcsICd2YWx1ZSc6MH0gXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{value:335, name:'直达'},
+                {value:679, name:'营销广告'},
+                {value:1548, name:'搜索引擎'}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcm93WzFdIDwgNjA6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8IS0tIGNlbnRlciA6IFsnNTAlJywgJzM4JSddLCAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhZ2VfdHV0b3JfbWVtYmVyICs9Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZW1iZXJfdHV0b3JfY29uc3VtZSBpcyBOb25lOgogICAgICAgICAgICBtZW1iZXJfdHV0b3JfY29uc3VtZSwgdHV0b3JfZHVyYXRpb25fbWVtYmVyLCB0dXRvcl9kdXJhdGlvbl9tZW1iZXJfZm9yX3dhZ2UsIHdhZ2VfdHV0b3JfbWVtYmVyID0gMCwgMCwgMCwgMCwgMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
