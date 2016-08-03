@@ -50,18 +50,19 @@
         <mark key="." line="191" column="228" />
         <mark key="^" line="191" column="228" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470212780010">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470212917427">
         <mark key="'" line="138" column="42" />
         <mark key="[" line="250" column="34" />
         <mark key="]" line="250" column="34" />
         <mark key="^" line="249" column="35" />
         <mark key="." line="250" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470208447249">
-        <mark key="[" line="229" column="35" />
-        <mark key="]" line="229" column="36" />
-        <mark key="." line="229" column="36" />
-        <mark key="^" line="229" column="31" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470215269006">
+        <mark key="'" line="209" column="0" />
+        <mark key="[" line="210" column="35" />
+        <mark key="]" line="210" column="35" />
+        <mark key="." line="210" column="35" />
+        <mark key="^" line="210" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469780149391">
         <mark key="[" line="6" column="0" />
@@ -179,7 +180,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1469159247015">
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470215507434">
         <mark key="[" line="54" column="8" />
         <mark key="]" line="54" column="9" />
         <mark key="." line="54" column="9" />
@@ -255,9 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="10" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
-      <jump line="109" column="40" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="18" column="68" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="25" column="57" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="65" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
@@ -355,13 +353,16 @@
       <jump line="107" column="4" filename="D:/PythonProjects/one4one/tutor_cards.py" />
       <jump line="136" column="46" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="138" column="42" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="199" column="28" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="136" column="33" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="228" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>时长和状态统计页面全部数据改为异步传输</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>时长和状态统计页面全部数据改为异步传输</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
