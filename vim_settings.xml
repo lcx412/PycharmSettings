@@ -50,19 +50,19 @@
         <mark key="." line="191" column="228" />
         <mark key="^" line="191" column="228" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470212917427">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470219490486">
         <mark key="'" line="138" column="42" />
-        <mark key="[" line="250" column="34" />
-        <mark key="]" line="250" column="34" />
-        <mark key="^" line="249" column="35" />
-        <mark key="." line="250" column="34" />
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="60" column="48" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470216373190">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="210" column="35" />
-        <mark key="]" line="195" column="45" />
-        <mark key="." line="195" column="45" />
-        <mark key="^" line="195" column="45" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470219309449">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="148" column="215" />
+        <mark key="]" line="148" column="218" />
+        <mark key="." line="148" column="218" />
+        <mark key="^" line="148" column="218" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469780149391">
         <mark key="[" line="6" column="0" />
@@ -137,7 +137,9 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" timestamp="1470216699838" />
+      <file name="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" timestamp="1470217562472">
+        <mark key="'" line="46" column="23" />
+      </file>
       <file name="/Python Console" timestamp="1470191063091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -256,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="57" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="65" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="79" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="50" column="50" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
@@ -356,19 +356,21 @@
       <jump line="199" column="28" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="136" column="33" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="228" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="46" column="23" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
+      <jump line="144" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
       </register>
       <register name="0" type="4">
-        <text>{'name': u'横版状态', 'value':0 }</text>
+        <text encoding="base64">ICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAgICAgInNlbGVjdCBzdW0oYWN0dWFsX2NvbnN1bWVfYW1vdW50KSxzdW0oZW5kX3RpbWUtc3RhcnRfdGltZSksc3VtKGFjdHVhbF9wYXlfYW1vdW50KSxzdW0oaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPj02MCxmbG9vcigoZW5kX3RpbWUtc3RhcnRfdGltZSkvNjApKnByaWNlLDApKSxzdW0oaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPDYwLHByaWNlLDApKSBmcm9tIChzZWxlY3QgKiBmcm9tIHR1dG9yX3JlY29yZCB3aGVyZSBpc19tZW1iZXJfdXNlcj0wIGFuZCB1c2Vfd2hpdGVib2FyZF9wYWNrYWdlPTAgYW5kIHN0YXJ0X3RpbWU+MCBhbmQgZW5kX3RpbWUgYmV0d2VlbiB7MX0gYW5kIHsyfSBhbmQgZW5kX3RpbWU+PXN0YXJ0X3RpbWUgYW5kIHN0dWRlbnRfdXNlcl9pZD17MH0pdCBqb2luIChzZWxlY3QgdGVhY2hlcl91c2VyX2lkLHR1dG9yX3dhZ2UqNjAvdmFsaWRfZHVyYXRpb24gYXMgcHJpY2UgZnJvbSBkYXRlX3R1dG9yX3JlY29yZCB3aGVyZSBkYXRlPXszfSlkIHVzaW5nKHRlYWNoZXJfdXNlcl9pZCkiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHVpZCwgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzLCB5ZXNfZGF0ZSkpCiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
