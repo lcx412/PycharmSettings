@@ -132,6 +132,7 @@
         <mark key="^" line="278" column="14" />
       </file>
       <file name="D:/PythonProjects/Terminator/conf/oss.conf" timestamp="1470295573979" />
+      <file name="D:/PythonProjects/Terminator/routine_stat_jobs/job_stat_daily_active.sh" timestamp="1470296413365" />
       <file name="D:/PythonProjects/one4one/mysql_pool.py" timestamp="1470144134733">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="8" />
@@ -156,7 +157,8 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
-      <file name="D:/PythonProjects/Terminator/common/func.sh" timestamp="1470295679090">
+      <file name="D:/PythonProjects/Terminator/common/func.sh" timestamp="1470295898074">
+        <mark key="'" line="35" column="26" />
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
@@ -276,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="50" column="50" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="362" column="18" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="21" column="31" filename="D:/PythonProjects/matrix/templates/base.html" />
@@ -376,6 +377,7 @@
       <jump line="144" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
       <jump line="46" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
+      <jump line="35" column="26" filename="D:/PythonProjects/Terminator/common/func.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
