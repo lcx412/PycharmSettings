@@ -57,12 +57,12 @@
         <mark key="^" line="60" column="48" />
         <mark key="." line="250" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470219309449">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470291149819">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="148" column="215" />
-        <mark key="]" line="148" column="218" />
-        <mark key="." line="148" column="218" />
-        <mark key="^" line="148" column="218" />
+        <mark key="[" line="218" column="30" />
+        <mark key="]" line="218" column="30" />
+        <mark key="." line="218" column="30" />
+        <mark key="^" line="218" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_one4one.js" timestamp="1469780149391">
         <mark key="[" line="6" column="0" />
@@ -163,11 +163,11 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="66" column="52" />
       </file>
-      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470290355944">
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="5" column="18" />
+      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470292735211">
+        <mark key="[" line="47" column="505" />
+        <mark key="]" line="47" column="506" />
+        <mark key="." line="47" column="506" />
+        <mark key="^" line="47" column="455" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469774557901">
         <mark key="'" line="27" column="37" />
@@ -182,7 +182,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1470283035159">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1470291020468">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="107" column="68" />
         <mark key="]" line="66" column="0" />
@@ -372,11 +372,11 @@
       <jump line="46" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaW1nID0gc2VsZi5jdXJfaW1nCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
