@@ -20,10 +20,11 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1470386817878">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1470391674110">
+        <mark key="[" line="78" column="36" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470383577619">
         <mark key="'" line="51" column="40" />
@@ -104,6 +105,7 @@
         <mark key="." line="219" column="32" />
         <mark key="^" line="199" column="49" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_students_chart.js" timestamp="1470392621401" />
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_students_content.html" timestamp="1470383771638">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -118,7 +120,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/tables.rnc" timestamp="1470389021047" />
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1470389014887">
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1470393138845">
         <mark key="[" line="51" column="41" />
         <mark key="]" line="51" column="41" />
         <mark key="." line="51" column="41" />
@@ -137,14 +139,18 @@
         <mark key="^" line="76" column="39" />
         <mark key="." line="76" column="41" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.js" timestamp="1470386385929">
-        <mark key="[" line="41" column="48" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.js" timestamp="1470391243253">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="29" />
+        <mark key="." line="41" column="4" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" timestamp="1470390348822">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="31" column="10" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_content.html" timestamp="1470391352320" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" timestamp="1470394482988">
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="41" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1470384088559">
         <mark key="'" line="105" column="4" />
@@ -160,9 +166,12 @@
         <mark key="." line="60" column="56" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/UserWageService.py" timestamp="1470368474038" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470390032457">
-        <mark key="'" line="690" column="8" />
-        <mark key="^" line="291" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470393597097">
+        <mark key="'" line="689" column="8" />
+        <mark key="[" line="681" column="46" />
+        <mark key="]" line="681" column="38" />
+        <mark key="^" line="681" column="38" />
+        <mark key="." line="681" column="38" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
@@ -173,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="8" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="98" column="34" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="86" column="60" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="42" column="66" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="87" column="8" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -273,13 +280,15 @@
       <jump line="672" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="342" column="47" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="686" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="280" column="68" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="690" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -288,24 +297,27 @@
         <text encoding="base64">ICAgIHNlcmllczEgPSBbeyduYW1lJzogY29sdW1uX2xhYmVsX25hbWVfZGljdFtyb3dbJ3N0YXR1cyddXSwgJ3ZhbHVlJzogcm93WydzdW1fY291bnQnXX0gZm9yIHJvdyBpbiBlY2hhcnRzX2RhdGFfaF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb2x1bW5fZGF0YVtzdGF0WzBdXSA9IFtyb3VuZChmbG9hdCh4KSwgMikgZm9yIHggaW4gc3RhdFsyOl1dICsgWyctJ10gKiAoMTEgLSBsZW4oc3RhdCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">eyUgZm9yIHN0YXQgaW4gcmVzdWx0c19saXN0ICV9CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGZvciBpIGluIHN0YXQgJX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{% for column_name in column_names %}
     {
         name: '{{ column_name|safe }}',
@@ -314,11 +326,8 @@
     },
     {% endfor %}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgInN0YXRpc3RpY3Nfb25lNG9uZS5qcyIgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
