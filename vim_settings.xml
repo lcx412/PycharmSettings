@@ -16,12 +16,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470280043828">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470367184496">
         <mark key="'" line="243" column="0" />
-        <mark key="[" line="78" column="110" />
-        <mark key="]" line="190" column="88" />
-        <mark key="^" line="190" column="25" />
-        <mark key="." line="190" column="88" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="85" column="80" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="85" column="80" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1470194388410">
         <mark key="'" line="88" column="8" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>音</text>
+        <text encoding="base64">IGFuZCB0eXBlIT0xMg==</text>
       </register>
       <register name="-" type="4">
-        <text>音</text>
+        <text encoding="base64">IGFuZCB0eXBlIT0xMg==</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
