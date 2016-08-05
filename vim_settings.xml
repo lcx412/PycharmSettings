@@ -41,6 +41,15 @@
         <mark key="." line="66" column="52" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/UserWageView.py" timestamp="1470368230043" />
+      <file name="/Django Console" timestamp="1470387431466">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470365448083">
+        <mark key="[" line="47" column="278" />
+        <mark key="]" line="47" column="278" />
+        <mark key="." line="47" column="278" />
+        <mark key="^" line="46" column="27" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469774557901">
         <mark key="'" line="27" column="37" />
         <mark key="[" line="42" column="0" />
@@ -105,17 +114,21 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1470387240572">
-        <mark key="[" line="44" column="58" />
-        <mark key="]" line="44" column="58" />
-        <mark key="." line="44" column="58" />
+      <file name="/a.regexp" timestamp="1470368521663">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1470387190053">
+      <file name="$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/tables.rnc" timestamp="1470389021047" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1470389014887">
+        <mark key="[" line="51" column="41" />
+        <mark key="]" line="51" column="41" />
+        <mark key="." line="51" column="41" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1470389006727">
         <mark key="'" line="47" column="23" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="24" />
         <mark key="^" line="32" column="61" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="49" column="24" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469874524630">
         <mark key="'" line="64" column="67" />
@@ -127,12 +140,11 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.js" timestamp="1470386385929">
         <mark key="[" line="41" column="48" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" timestamp="1470387112581">
-        <mark key="'" line="65" column="3" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="65" column="15" />
-        <mark key="." line="89" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" timestamp="1470390348822">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="31" column="10" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1470384088559">
         <mark key="'" line="105" column="4" />
@@ -148,12 +160,9 @@
         <mark key="." line="60" column="56" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/UserWageService.py" timestamp="1470368474038" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470386446763">
-        <mark key="'" line="656" column="0" />
-        <mark key="[" line="349" column="15" />
-        <mark key="]" line="349" column="16" />
-        <mark key="^" line="350" column="33" />
-        <mark key="." line="349" column="16" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470390032457">
+        <mark key="'" line="690" column="8" />
+        <mark key="^" line="291" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
@@ -164,17 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="41" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
-      <jump line="124" column="24" filename="D:/PythonProjects/matrix/statistics/templates/statistics_city_chart.js" />
-      <jump line="241" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="103" column="58" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
-      <jump line="65" column="0" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
-      <jump line="105" column="31" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
-      <jump line="29" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="81" column="73" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="107" column="4" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="105" column="24" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="54" column="34" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="99" column="8" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="98" column="34" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="86" column="60" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -264,46 +262,63 @@
       <jump line="655" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="89" column="16" filename="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" />
       <jump line="65" column="3" filename="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" />
+      <jump line="349" column="46" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="682" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="676" column="69" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="351" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="673" column="14" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="292" column="106" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="684" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="671" column="34" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="672" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="342" column="47" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="686" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVycy5hcHBlbmQod2FnZV9yZW1haW4gaWYgd2FnZV9yZW1haW4gaXMgbm90IE5vbmUgZWxzZSAtMSkK</text>
+        <text encoding="base64">ICAgIHNlcmllczEgPSBbeyduYW1lJzogY29sdW1uX2xhYmVsX25hbWVfZGljdFtyb3dbJ3N0YXR1cyddXSwgJ3ZhbHVlJzogcm93WydzdW1fY291bnQnXX0gZm9yIHJvdyBpbiBlY2hhcnRzX2RhdGFfaF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgInN0YXRpc3RpY3Nfb25lNG9uZS5qcyIgJX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgt7W72EVjaGFydHO6zbHtuPG1xLfW0rPK/b7dCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgRUNoYXJ0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjILe1u9hFeGNlbAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">eyUgZm9yIHN0YXQgaW4gcmVzdWx0c19saXN0ICV9CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGZvciBpIGluIHN0YXQgJX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0=</text>
+      </register>
+      <register name="7" type="4">
+        <text>{% for column_name in column_names %}
+    {
+        name: '{{ column_name|safe }}',
+        type: 'line',
+        data: {{ column_data|get_value_from_the_map:column_name|safe }}
+    },
+    {% endfor %}</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgt7W72EV4Y2VsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgt7W72EV4Y2VsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgInN0YXRpc3RpY3Nfb25lNG9uZS5qcyIgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
