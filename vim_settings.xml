@@ -16,12 +16,12 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470367184496">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470369360490">
         <mark key="'" line="243" column="0" />
         <mark key="[" line="78" column="51" />
-        <mark key="]" line="85" column="80" />
-        <mark key="^" line="77" column="15" />
-        <mark key="." line="85" column="80" />
+        <mark key="]" line="78" column="51" />
+        <mark key="^" line="85" column="89" />
+        <mark key="." line="78" column="51" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1470194388410">
         <mark key="'" line="88" column="8" />
@@ -30,14 +30,12 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="66" column="52" />
       </file>
+      <file name="D:/Afanti/business/trunk/afanti/answer/UserWageView.py" timestamp="1470368230043" />
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470365448083">
         <mark key="[" line="47" column="278" />
         <mark key="]" line="47" column="278" />
         <mark key="." line="47" column="278" />
         <mark key="^" line="46" column="27" />
-      </file>
-      <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1470196561801">
-        <mark key="." line="164" column="197" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469774557901">
         <mark key="'" line="27" column="37" />
@@ -66,12 +64,12 @@
         <mark key="." line="191" column="228" />
         <mark key="^" line="191" column="228" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470365845251">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470369587537">
         <mark key="'" line="138" column="42" />
-        <mark key="[" line="249" column="33" />
-        <mark key="]" line="249" column="34" />
+        <mark key="[" line="250" column="31" />
+        <mark key="]" line="250" column="31" />
         <mark key="^" line="60" column="48" />
-        <mark key="." line="249" column="34" />
+        <mark key="." line="250" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1470212596332">
         <mark key="[" line="0" column="0" />
@@ -84,7 +82,8 @@
         <mark key="]" line="284" column="44" />
         <mark key="." line="284" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470317061100">
+      <file name="D:/Afanti/websys/trunk/answer/views.py" timestamp="1470368606135" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470369574354">
         <mark key="'" line="144" column="428" />
         <mark key="[" line="144" column="12" />
         <mark key="]" line="219" column="32" />
@@ -95,6 +94,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="/a.regexp" timestamp="1470368521663">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1469869958591">
         <mark key="'" line="47" column="23" />
@@ -123,6 +125,7 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="35" column="27" />
       </file>
+      <file name="D:/Afanti/business/trunk/afanti/answer/UserWageService.py" timestamp="1470368474038" />
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470212082815">
         <mark key="[" line="286" column="70" />
         <mark key="]" line="286" column="70" />
@@ -241,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCB0eXBlIT0xMg==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCB0eXBlIT0xMg==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
