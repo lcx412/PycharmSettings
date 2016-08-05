@@ -3,52 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470280043828">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="78" column="110" />
-        <mark key="]" line="190" column="88" />
-        <mark key="^" line="190" column="25" />
-        <mark key="." line="190" column="88" />
-      </file>
-      <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1470196561801">
-        <mark key="." line="164" column="197" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470144539052">
-        <mark key="'" line="221" column="28" />
-        <mark key="[" line="191" column="263" />
-        <mark key="]" line="191" column="228" />
-        <mark key="." line="191" column="228" />
-        <mark key="^" line="191" column="228" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470279874467">
-        <mark key="'" line="138" column="42" />
-        <mark key="[" line="250" column="31" />
-        <mark key="]" line="250" column="32" />
-        <mark key="^" line="60" column="48" />
-        <mark key="." line="250" column="32" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470317061100">
-        <mark key="'" line="144" column="428" />
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="219" column="32" />
-        <mark key="." line="219" column="32" />
-        <mark key="^" line="199" column="49" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1469869958591">
-        <mark key="'" line="47" column="23" />
-        <mark key="[" line="57" column="65" />
-        <mark key="]" line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-      </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470212082815">
-        <mark key="[" line="286" column="70" />
-        <mark key="]" line="286" column="70" />
-        <mark key="." line="286" column="70" />
-        <mark key="^" line="278" column="14" />
-      </file>
-      <file name="D:/PythonProjects/Terminator/conf/oss.conf" timestamp="1470295573979" />
-      <file name="D:/PythonProjects/Terminator/routine_stat_jobs/job_stat_daily_active.sh" timestamp="1470296413365" />
       <file name="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" timestamp="1470278871631">
         <mark key="'" line="46" column="0" />
       </file>
@@ -62,6 +16,13 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470280043828">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="78" column="110" />
+        <mark key="]" line="190" column="88" />
+        <mark key="^" line="190" column="25" />
+        <mark key="." line="190" column="88" />
+      </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1470194388410">
         <mark key="'" line="88" column="8" />
         <mark key="[" line="66" column="52" />
@@ -69,12 +30,14 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="66" column="52" />
       </file>
-      <file name="D:/PythonProjects/Terminator/event_log_jobs/event_etl.py" timestamp="1470298209826" />
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470292735211">
         <mark key="[" line="47" column="505" />
         <mark key="]" line="47" column="506" />
         <mark key="." line="47" column="506" />
         <mark key="^" line="47" column="455" />
+      </file>
+      <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1470196561801">
+        <mark key="." line="164" column="197" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_base.html" timestamp="1469774557901">
         <mark key="'" line="27" column="37" />
@@ -96,6 +59,20 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="53" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470144539052">
+        <mark key="'" line="221" column="28" />
+        <mark key="[" line="191" column="263" />
+        <mark key="]" line="191" column="228" />
+        <mark key="." line="191" column="228" />
+        <mark key="^" line="191" column="228" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1470362196292">
+        <mark key="'" line="138" column="42" />
+        <mark key="[" line="250" column="31" />
+        <mark key="]" line="250" column="32" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="250" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1470212596332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -107,10 +84,24 @@
         <mark key="]" line="284" column="44" />
         <mark key="." line="284" column="44" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470317061100">
+        <mark key="'" line="144" column="428" />
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="219" column="32" />
+        <mark key="." line="219" column="32" />
+        <mark key="^" line="199" column="49" />
+      </file>
       <file name="D:/PythonProjects/Streaming/XuyuM.py" timestamp="1470280763239">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" timestamp="1469869958591">
+        <mark key="'" line="47" column="23" />
+        <mark key="[" line="57" column="65" />
+        <mark key="]" line="32" column="61" />
+        <mark key="^" line="32" column="61" />
+        <mark key="." line="32" column="61" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1469874524630">
         <mark key="'" line="64" column="67" />
@@ -131,6 +122,12 @@
         <mark key="]" line="35" column="27" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="35" column="27" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470212082815">
+        <mark key="[" line="286" column="70" />
+        <mark key="]" line="286" column="70" />
+        <mark key="." line="286" column="70" />
+        <mark key="^" line="278" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
