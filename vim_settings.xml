@@ -30,11 +30,11 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="66" column="52" />
       </file>
-      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470292735211">
-        <mark key="[" line="47" column="505" />
-        <mark key="]" line="47" column="506" />
-        <mark key="." line="47" column="506" />
-        <mark key="^" line="47" column="455" />
+      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470363875368">
+        <mark key="[" line="47" column="278" />
+        <mark key="]" line="47" column="278" />
+        <mark key="." line="47" column="278" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/update_tutor_info.py" timestamp="1470196561801">
         <mark key="." line="164" column="197" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>音</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>音</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
