@@ -166,12 +166,13 @@
         <mark key="." line="60" column="56" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/UserWageService.py" timestamp="1470368474038" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470455589816">
-        <mark key="'" line="675" column="8" />
-        <mark key="[" line="477" column="20" />
-        <mark key="]" line="477" column="20" />
-        <mark key="^" line="505" column="76" />
-        <mark key="." line="477" column="20" />
+      <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_privileged_conversion_chart.js" timestamp="1470456451857" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470456427599">
+        <mark key="'" line="663" column="8" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="^" line="570" column="32" />
+        <mark key="." line="571" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
@@ -284,23 +285,23 @@
       <jump line="690" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>[stat['date']]</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcmllczEgPSBbeyduYW1lJzogY29sdW1uX2xhYmVsX25hbWVfZGljdFtyb3dbJ3N0YXR1cyddXSwgJ3ZhbHVlJzogcm93WydzdW1fY291bnQnXX0gZm9yIHJvdyBpbiBlY2hhcnRzX2RhdGFfaF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeGF4aXNfbGFiZWxzICs9IFtzdGF0WydkYXRlJ11dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBleGNlbF9wcmVfZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9wZXJpb2RfbmV3ID0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,19 +310,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAocmVzdWx0c19saXN0LCBwYWdlX3JhbmdlKSA9IGRvX3BhZ2VfcG9zdChyZXF1ZXN0LCBzdGF0aXN0aWNzX2xpc3QsIDQyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb2x1bW5fZGF0YVtzdGF0WzBdXSA9IFtyb3VuZChmbG9hdCh4KSwgMikgZm9yIHggaW4gc3RhdFsyOl1dICsgWyctJ10gKiAoMTEgLSBsZW4oc3RhdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVfZGF0YS5wb3AoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9wZXJpb2RfbmV3ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBleGNlbF9wcmVfZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
