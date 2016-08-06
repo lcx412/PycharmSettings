@@ -166,12 +166,12 @@
         <mark key="." line="60" column="56" />
       </file>
       <file name="D:/Afanti/business/trunk/afanti/answer/UserWageService.py" timestamp="1470368474038" />
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470393597097">
-        <mark key="'" line="689" column="8" />
-        <mark key="[" line="681" column="46" />
-        <mark key="]" line="681" column="38" />
-        <mark key="^" line="681" column="38" />
-        <mark key="." line="681" column="38" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1470455589816">
+        <mark key="'" line="675" column="8" />
+        <mark key="[" line="477" column="20" />
+        <mark key="]" line="477" column="20" />
+        <mark key="^" line="505" column="76" />
+        <mark key="." line="477" column="20" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" timestamp="1469770074529">
         <mark key="'" line="59" column="0" />
@@ -285,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -297,13 +297,13 @@
         <text encoding="base64">ICAgIHNlcmllczEgPSBbeyduYW1lJzogY29sdW1uX2xhYmVsX25hbWVfZGljdFtyb3dbJ3N0YXR1cyddXSwgJ3ZhbHVlJzogcm93WydzdW1fY291bnQnXX0gZm9yIHJvdyBpbiBlY2hhcnRzX2RhdGFfaF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb2x1bW5fZGF0YVtzdGF0WzBdXSA9IFtyb3VuZChmbG9hdCh4KSwgMikgZm9yIHggaW4gc3RhdFsyOl1dICsgWyctJ10gKiAoMTEgLSBsZW4oc3RhdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBleGNlbF9wcmVfZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -312,19 +312,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb2x1bW5fZGF0YVtzdGF0WzBdXSA9IFtyb3VuZChmbG9hdCh4KSwgMikgZm9yIHggaW4gc3RhdFsyOl1dICsgWyctJ10gKiAoMTEgLSBsZW4oc3RhdCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">eyUgZm9yIHN0YXQgaW4gcmVzdWx0c19saXN0ICV9CiAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGZvciBpIGluIHN0YXQgJX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{% for column_name in column_names %}
-    {
-        name: '{{ column_name|safe }}',
-        type: 'line',
-        data: {{ column_data|get_value_from_the_map:column_name|safe }}
-    },
-    {% endfor %}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFt7J25hbWUnOiBjb2x1bW5fbGFiZWxfbmFtZV9kaWN0W3Jvd1snc3RhdHVzJ11dLCAndmFsdWUnOiByb3dbJ3N1bV9jb3VudCddfSBmb3Igcm93IGluIGVjaGFydHNfZGF0YV9oXQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
