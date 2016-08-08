@@ -8,11 +8,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1470378913189">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1470478394131">
         <mark key="[" line="1" column="31" />
       </file>
@@ -87,6 +82,12 @@
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="4" />
+      </file>
+      <file name="D:/PythonProjects/Streaming/Nginx.py" timestamp="1470648570420">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="14" column="69" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.js" timestamp="1470472229393">
         <mark key="[" line="56" column="37" />
@@ -205,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>权限用户转化页面的数据传输改为json异步</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>权限用户转化页面的数据传输改为json异步</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>utf</text>
@@ -217,31 +218,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgZGV0YWlsZWQgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsaW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChqID0gMDsgaiA8IHRhYmxlX2hlYWRbaV0ubGVuZ3RoOyBqKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAnL3N0YXRpYy9xdWFsaXR5X2NvdXJzZS9odG1sL3RlYWNoZXJfbGlzdC5odG1sPycgaW4gZFsnSHR0cFJlcXVlc3RVcmknXToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHByaW50ICclc1x0JXMnICUgKHNoYXJlX3RvLCAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsb2FkX3BhZ2luYXRpb24ocGFnZV9kYXRhLmhhc19wcmV2aW91cywgcGFnZV9kYXRhLmhhc19uZXh0LCBwYWdlX2RhdGEucGFnZV9yYW5nZSwgcGFnZV9kYXRhLmN1cl9wYWdlX251bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVfdG8gPSByZS5zZWFyY2gocidzaGFyZV90bz0oXGQpXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
