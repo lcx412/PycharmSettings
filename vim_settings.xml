@@ -37,9 +37,14 @@
         <mark key="." line="47" column="278" />
         <mark key="^" line="46" column="27" />
       </file>
-      <file name="D:/PythonProjects/Streaming/nginx.sh" timestamp="1470651012791">
-        <mark key="[" line="0" column="19" />
+      <file name="D:/PythonProjects/Streaming/nginx.sh" timestamp="1470651786688">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="8" column="159" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470651106268" />
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1470454456546">
         <mark key="'" line="221" column="28" />
         <mark key="[" line="191" column="263" />
@@ -72,6 +77,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="D:/PythonProjects/Streaming/Zhanglei2.py" timestamp="1470651545914" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1470393138845">
         <mark key="[" line="51" column="41" />
         <mark key="]" line="51" column="41" />
@@ -106,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="60" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
       <jump line="49" column="5" filename="D:/PythonProjects/matrix/conf/new_post_template" />
       <jump line="353" column="22" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="80" column="17" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
@@ -206,16 +211,17 @@
       <jump line="570" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="102" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="614" column="59" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="6" column="24" filename="D:/PythonProjects/Streaming/nginx.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>utf</text>
+        <text encoding="base64">XDxOZ2lueFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZGV0YWlsZWQgPSAwOwo=</text>
@@ -252,17 +258,16 @@
       </register>
     </registers>
     <search>
-      <last-search>utf</last-search>
+      <last-search encoding="base64">XDxOZ2lueFw+</last-search>
       <last-offset />
-      <last-pattern>utf</last-pattern>
+      <last-pattern encoding="base64">XDxOZ2lueFw+</last-pattern>
       <last-replace />
       <last-substitute>utf</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDzRp8n61NpcPg==</entry>
         <entry>redpacket</entry>
         <entry>red</entry>
@@ -282,6 +287,7 @@
         <entry>duration</entry>
         <entry>wb_dura</entry>
         <entry>utf</entry>
+        <entry encoding="base64">XDxOZ2lueFw+</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
