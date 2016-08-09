@@ -65,12 +65,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470719029989">
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470723974023">
         <mark key="'" line="106" column="16" />
-        <mark key="[" line="122" column="34" />
-        <mark key="]" line="122" column="35" />
-        <mark key="." line="122" column="35" />
-        <mark key="^" line="97" column="45" />
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="20" />
+        <mark key="." line="69" column="20" />
+        <mark key="^" line="82" column="85" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470627877074">
         <mark key="'" line="144" column="428" />
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>数</text>
+        <text>external</text>
       </register>
       <register name="-" type="4">
-        <text>数</text>
+        <text>external</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZ2lueFw+</text>
