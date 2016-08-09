@@ -65,12 +65,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470712140293">
-        <mark key="'" line="62" column="34" />
-        <mark key="[" line="62" column="105" />
-        <mark key="]" line="62" column="70" />
-        <mark key="^" line="62" column="70" />
-        <mark key="." line="62" column="70" />
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470719029989">
+        <mark key="'" line="106" column="16" />
+        <mark key="[" line="122" column="34" />
+        <mark key="]" line="122" column="35" />
+        <mark key="." line="122" column="35" />
+        <mark key="^" line="97" column="45" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470627877074">
         <mark key="'" line="144" column="428" />
@@ -125,12 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="17" filename="D:/PythonProjects/matrix/statistics/user_route_views.py" />
-      <jump line="340" column="33" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="186" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="78" column="14" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
-      <jump line="40" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
-      <jump line="59" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration_content.html" />
       <jump line="350" column="36" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="114" column="43" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="2" column="0" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
@@ -225,46 +219,53 @@
       <jump line="6" column="24" filename="D:/PythonProjects/Streaming/nginx.sh" />
       <jump line="32" column="21" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="62" column="34" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="73" column="49" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="74" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="105" column="44" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="112" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="95" column="16" filename="D:/PythonProjects/one4one/mall_stat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9tYXRyaXggPSBzZWxmLmNvbm5fbWF0cml4LmN1cnNvcigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>数</text>
       </register>
       <register name="-" type="4">
-        <text>matrix</text>
+        <text>数</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZ2lueFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGV0YWlsZWQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZS5leGVjdXRlKCJzZWxlY3QgdXNlcl9pZCBmcm9tIGxjeF9oaXZlLm1hbGxfdXNlcnMgd2hlcmUgZGF5PXswfSIuZm9ybWF0KHllc19kYXRlKSkKICAgICAgICBhY2Nlc3NfdXNlcnMgPSBzZXQobGlzdChjdXJfaGl2ZS5mZXRjaCgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9tYXRyaXggPSBzZWxmLmNvbm5fbWF0cml4LmN1cnNvcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fbWF0cml4ID0gbS5jb25uZWN0aW9uKCdzdGF0aXN0aWNfZGF0YV9kYicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB5ZXNfZGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl8xb24xID0gc2VsZi5jb25uXzFvbjEuY3Vyc29yKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fMW9uMSA9IG0uY29ubmVjdGlvbignMW9uMV9zbGF2ZV9kYicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9pbWcgPSBzZWxmLmNvbm5faW1nLmN1cnNvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHJzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5faW1nID0gbS5jb25uZWN0aW9uKCdpbWFnZV9zZWFyY2hfc2xhdmVfZGInKQo=</text>
+        <text encoding="base64">ICAgICAgICBycyA9Y3VyX2hpdmUuZmV0Y2goKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9wb3N0ID0gc2VsZi5jb25uX3Bvc3QuY3Vyc29yKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fcG9zdCA9IG0uY29ubmVjdGlvbigncG9zdF9zdGF0X2RiJykK</text>
+      <register name="8" type="4">
+        <text>.format(
+                yes_date)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMSA9IHNlbGYuY3VyXzFvbjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
