@@ -65,12 +65,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470723974023">
-        <mark key="'" line="106" column="16" />
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
-        <mark key="^" line="82" column="85" />
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470726433805">
+        <mark key="'" line="118" column="12" />
+        <mark key="[" line="107" column="69" />
+        <mark key="]" line="108" column="19" />
+        <mark key="." line="108" column="19" />
+        <mark key="^" line="108" column="19" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1470627877074">
         <mark key="'" line="144" column="428" />
@@ -125,8 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="36" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="114" column="43" filename="D:/PythonProjects/matrix/statistics/templates/statistics_wb_duration_content.html" />
       <jump line="2" column="0" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
       <jump line="29" column="8" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
       <jump line="31" column="0" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
@@ -225,13 +223,15 @@
       <jump line="1" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="112" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="95" column="16" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="102" column="11" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="117" column="12" filename="D:/PythonProjects/one4one/mall_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>external</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>external</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZ2lueFw+</text>
