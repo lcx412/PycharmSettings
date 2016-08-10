@@ -11,6 +11,13 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1470478394131">
         <mark key="[" line="1" column="31" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470800956200">
+        <mark key="'" line="51" column="40" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="^" line="235" column="130" />
+        <mark key="." line="251" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1470656666050" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1470477875135">
         <mark key="[" line="156" column="31" />
@@ -31,7 +38,11 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470651106268" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470799945024">
+        <mark key="[" line="55" column="6" />
+        <mark key="]" line="55" column="6" />
+        <mark key="." line="55" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1470478628228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -52,10 +63,12 @@
         <mark key="." line="130" column="330" />
         <mark key="^" line="130" column="330" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1470798093680">
-        <mark key="[" line="174" column="34" />
-        <mark key="]" line="174" column="33" />
-        <mark key="." line="174" column="33" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1470800834466">
+        <mark key="'" line="185" column="4" />
+        <mark key="[" line="175" column="33" />
+        <mark key="]" line="175" column="34" />
+        <mark key="." line="175" column="34" />
+        <mark key="^" line="175" column="34" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" timestamp="1470478088608">
         <mark key="[" line="9" column="18" />
@@ -81,6 +94,12 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1470800898274">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="D:/PythonProjects/Streaming/Nginx.py" timestamp="1470650994823">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="31" />
@@ -105,9 +124,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470731821454" />
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
-      <jump line="31" column="0" filename="D:/PythonProjects/matrix/templates/pageination_post2.html" />
-      <jump line="1" column="21" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="52" column="34" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
       <jump line="45" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
       <jump line="64" column="67" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
@@ -205,13 +221,16 @@
       <jump line="102" column="11" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="117" column="12" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="151" column="24" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="95" column="12" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="146" column="32" filename="D:/PythonProjects/one4one/wb_remain.py" />
+      <jump line="184" column="4" filename="D:/PythonProjects/one4one/wb_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>tutor_cards</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZXNfc3RhcnRfdHNcPg==</text>
@@ -223,26 +242,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNweWhzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">MgogICAgICAgICAgICAgICAgY3VyLmV4ZWN1dGUoInNwYXJrLXNxbCAtZSAnc2VsZWN0IGNvdW50KGRpc3RpbmN0IGkudXNlcl9pZCkgZnJvbSBsY3hfaGl2ZS50dXRvcmVkX3N0dWRlbnRzX25ldyB0IGpvaW4gYWZhbnRpX2hpdmUuaW1hZ2Vfc2VhcmNoIGkgb24odC51c2VyX2lkPWkudXNlcl9pZCkgd2hlcmUgaS51cGxvYWRfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCBpLnVzZXJfaWQ+MCBhbmQgdC5zdGF0X2RhdGU9ezJ9JyIuZm9ybWF0KHllc19zdGFydF90cywgeWVzX2VuZF90cywgZGF5X3N0cikpCiAgICAgICAgICAgICAgICBkYXlfc2VhcmNoX3JlbWFpbiA9IGN1ci5mZXRjaCgpWzBdWzA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNweWhzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ci5leGVjdXRlKCJzZWxlY3QgY291bnQoZGlzdGluY3QgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>a.install_id) from lcx_hive.tutored_students_new t join afanti_hive.user_offline u on(t.user_id=u.user_id) join afanti_hive.active_install a on(u.register_install_id=a.install_id) where a.active_date={0} and t.stat_date={1}&quot;.format(yes_date, day_str))
-                day_active_remain = cur.fetch()[0][0</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB5ZXNfZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
