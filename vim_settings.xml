@@ -24,12 +24,12 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="D:/PythonProjects/Stat/ChargeStrategy.py" timestamp="1470845207158">
-        <mark key="'" line="137" column="4" />
-        <mark key="[" line="89" column="81" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
-        <mark key="^" line="90" column="38" />
+      <file name="D:/PythonProjects/Stat/ChargeStrategy.py" timestamp="1470881784292">
+        <mark key="'" line="143" column="4" />
+        <mark key="[" line="88" column="71" />
+        <mark key="]" line="88" column="70" />
+        <mark key="^" line="88" column="70" />
+        <mark key="." line="88" column="70" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470799945024">
         <mark key="[" line="55" column="6" />
@@ -58,7 +58,12 @@
         <mark key="." line="175" column="34" />
         <mark key="^" line="175" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1470850264143" />
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1470882391789">
+        <mark key="[" line="170" column="62" />
+        <mark key="]" line="160" column="51" />
+        <mark key="^" line="160" column="51" />
+        <mark key="." line="160" column="51" />
+      </file>
       <file name="D:/PythonProjects/Streaming/Zhanglei2.py" timestamp="1470651545914" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1470712133208">
         <mark key="[" line="66" column="40" />
@@ -81,7 +86,6 @@
       <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1470709325842" />
       <file name="C:/Python2/Lib/ConfigParser.py" timestamp="1470735478890" />
       <file name="D:/PythonProjects/matrix/manage.py" timestamp="1470731719115" />
-      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470808588914" />
     </filemarks>
     <jumps>
       <jump line="41" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
@@ -186,8 +190,8 @@
       <jump line="135" column="4" filename="D:/PythonProjects/Stat/ChargeStrategy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -195,35 +199,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDx5ZXNfc3RhcnRfdHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICJ1bml4X3RpbWVzdGFtcCgnMjAxNi0wNC0zMCcpIiwgInVuaXhfdGltZXN0YW1wKCcyMDE2LTA1LTE1JyktMSI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZjEgPSBwYW5kYXMuRGF0YUZyYW1lKHRlYWNoZXJzMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sdW1ucz1bdSdJRCcsIHUn08O7p8P7JywgdSe157uwJywgdSfRp7bOJywgdSfRp7/GJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSc0LjMwLTUuMTTW3MbatcS1yLy2JywgdSfW3MbaxNq1xMnPz9/Ksbzko6i31qOpJywgdSfW3MbaxNq1xLiotbzKsbzko6i31qOpJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSfW3MbaxNq4trfRtcS4qLW8taXBvycsIHUn1tzG2sTaw+K30bXEuKi1vLWlwb8nLCB1J9bcxtrE2rrDxsC4qLW8taXBvycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnNS4xNS01LjMw1tzG2rXEtci8ticsIHUn1tzG2sTatcTJz8/fyrG85KOot9ajqScsIHUn1tzG2sTatcS4qLW8yrG85KOot9ajqScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn1tzG2sTauLa30bXEuKi1vLWlwb8nLCB1J9bcxtrE2sPit9G1xLiotby1pcG/JywgdSfW3MbaxNq6w8bAuKi1vLWlwb8nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwMiBpcyBOb25lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn1tzG2sTauLa30bXEuKi1vLWlwb8nLCB1J9bcxtrE2sPit9G1xLiotby1pcG/JywgdSfW3MbaxNq6w8bAuKi1vLWlwb8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZXZlbCBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnNC4zMC01LjE01tzG2rXEtci8ticsIHUn1tzG2sTatcTJz8/fyrG85KOot9ajqScsIHUn1tzG2sTatcS4qLW8yrG85KOot9ajqScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSfW3MbaxNq4trfRtcS4qLW8taXBvycsIHUn1tzG2sTaw+K30bXEuKi1vLWlwb8nLCB1J9bcxtrE2rrDxsC4qLW8taXBvycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZXZlbCBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSc1LjE1LTUuMzDW3MbatcS1yLy2JywgdSfW3MbaxNq1xMnPz9/Ksbzko6i31qOpJywgdSfW3MbaxNq1xLiotbzKsbzko6i31qOpJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBwMiA9IHNlbGYuZ2V0X3BlcmlvZF9zdGF0KHVpZCwgInVuaXhfdGltZXN0YW1wKCcyMDE2LTA1LTE1JykiLCAidW5peF90aW1lc3RhbXAoJzIwMTYtMDYtMDEnKS0xIikK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
