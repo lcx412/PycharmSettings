@@ -83,12 +83,13 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="14" column="69" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1470709325842" />
+      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1470883359701">
+        <mark key="'" line="82" column="206" />
+      </file>
       <file name="C:/Python2/Lib/ConfigParser.py" timestamp="1470735478890" />
       <file name="D:/PythonProjects/matrix/manage.py" timestamp="1470731719115" />
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="25" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="167" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
       <jump line="11" column="0" filename="D:/PythonProjects/matrix/statistics/templates/callback_one4one2.js" />
@@ -188,6 +189,7 @@
       <jump line="105" column="12" filename="D:/PythonProjects/Stat/ChargeStrategy.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/Stat/ChargeStrategy.py" />
       <jump line="135" column="4" filename="D:/PythonProjects/Stat/ChargeStrategy.py" />
+      <jump line="82" column="206" filename="D:/PythonProjects/one4one/tutor_cards.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
