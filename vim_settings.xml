@@ -78,12 +78,12 @@
         <mark key="^" line="123" column="46" />
         <mark key="." line="124" column="65" />
       </file>
-      <file name="D:/PythonProjects/Stat/online_duration.py" timestamp="1470891755543">
+      <file name="D:/PythonProjects/Stat/online_duration.py" timestamp="1470892660231">
         <mark key="'" line="106" column="4" />
-        <mark key="[" line="89" column="39" />
-        <mark key="]" line="92" column="31" />
-        <mark key="." line="92" column="31" />
-        <mark key="^" line="92" column="31" />
+        <mark key="[" line="85" column="270" />
+        <mark key="]" line="85" column="270" />
+        <mark key="." line="85" column="270" />
+        <mark key="^" line="85" column="332" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1470883659150" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1470884269056" />
@@ -236,11 +236,11 @@
       <jump line="93" column="4" filename="D:/PythonProjects/Stat/online_duration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+      <register name="&quot;" type="4">
+        <text>student</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>student</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWFjaGVyc1w+</text>
