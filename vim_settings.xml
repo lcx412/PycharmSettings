@@ -66,12 +66,12 @@
       <file name="/a.regexp" timestamp="1470983781822">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470986919594">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470988925952">
         <mark key="'" line="51" column="40" />
-        <mark key="[" line="198" column="216" />
-        <mark key="]" line="197" column="207" />
-        <mark key="^" line="197" column="207" />
-        <mark key="." line="197" column="207" />
+        <mark key="[" line="191" column="124" />
+        <mark key="]" line="191" column="124" />
+        <mark key="^" line="192" column="41" />
+        <mark key="." line="191" column="124" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1470712133208">
         <mark key="[" line="66" column="40" />
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unix_timestamp('2016-08-01')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>unix_timestamp('2016-08-01')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWFjaGVyc1w+</text>
