@@ -31,12 +31,12 @@
         <mark key="." line="85" column="270" />
         <mark key="^" line="85" column="332" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470800956200">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1470985296291">
         <mark key="'" line="51" column="40" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="^" line="235" column="130" />
-        <mark key="." line="251" column="0" />
+        <mark key="[" line="183" column="81" />
+        <mark key="]" line="183" column="93" />
+        <mark key="^" line="183" column="93" />
+        <mark key="." line="183" column="93" />
       </file>
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1470902792063">
         <mark key="[" line="44" column="33" />
@@ -238,43 +238,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q0hLX1JFVCA=</text>
+        <text>on (a.user_id=t.user_id)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q0hLX1JFVCA=</text>
+        <text>on (a.user_id=t.user_id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWFjaGVyc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHUn1tzG2sTaw+K30bXEuKi1vLWlwb8nLA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjILTwzOLAz8qmzai5/crWtq+y2df3u/G1w7XEvbHA+Ao=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB1aWQsY29uc3VtZV9hbW91bnRfdHV0b3IsIHBheV9hbW91bnRfdHV0b3IK</text>
+        <text encoding="base64">ICAgICAgICAjILTwzOLAz8qmyta2r9T2vPUK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZnRfc3R1ZGVudHMgZmFpbGVkIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">wazQ+LGjvLa1w7W9tcS9scD4CiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdhZ2VfYW5zd2VyID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGN1cl9tYXRyaXguZXhlY3V0ZSgic2VsZWN0IHdhZ2VfYW5zd2VyIGZyb20gZnRfdGVhY2hlcnMgd2hlcmUgZGF0ZT17MH0iLmZvcm1hdCh5ZXNfZGF0ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZnRfc3R1ZGVudHNfZGV0YWlsIGZhaWxlZCIK</text>
+        <text encoding="base64">ICAgICAgICAjIGN1cl9tYXRyaXguZXhlY3V0ZSgiZGVsZXRlIGZyb20gZnRfdGVhY2hlcnMgd2hlcmUgZGF0ZT17MH0iLmZvcm1hdCh5ZXNfZGF0ZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAjIGN1cl9tYXRyaXguZXhlY3V0ZSgiZGVsZXRlIGZyb20gZnRfdGVhY2hlcnMgd2hlcmUgZGF0ZT17MH0iLmZvcm1hdCh5ZXNfZGF0ZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGRmMS5tZXJnZShkZjIsIGhvdz0nbGVmdCcsIG9uPVt1J0lEJywgdSfTw7unw/snLCB1J7Xnu7AnLCB1J9Gnts4nLCB1J9Gnv8YnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB1aWQsY29uc3VtZV9hbW91bnRfdHV0b3IsIHBheV9hbW91bnRfdHV0b3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn1tzG2sTauLa30bXEuKi1vLWlwb8nLCB1J9bcxtrE2sPit9G1xLiotby1pcG/JywgdSfW3MbaxNq6w8bAuKi1vLWlwb8nCg==</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZnRfc3R1ZGVudHMgZmFpbGVkIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbiA9IGN1cl8xb24xLmZldGNob25lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
