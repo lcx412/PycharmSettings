@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471002713038" />
+      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471053933528">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1470888152268">
         <mark key="[" line="99" column="40" />
         <mark key="]" line="83" column="67" />
@@ -85,11 +90,11 @@
         <mark key="^" line="190" column="68" />
         <mark key="." line="190" column="68" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1470982344703">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1471054153673">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470966543570">
         <mark key="'" line="118" column="12" />
@@ -273,11 +278,11 @@
       <jump line="316" column="40" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LndhZ2VfcmVtYWlufGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
+      <register name="&quot;" type="4">
+        <text>StringIO</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHV0b3JfYm9udXMg</text>
+        <text>StringIO</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
