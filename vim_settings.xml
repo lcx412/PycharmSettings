@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471053933528">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
+      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471057113024">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1470888152268">
         <mark key="[" line="99" column="40" />
@@ -106,7 +107,7 @@
       <file name="/Dummy.txt" timestamp="1470993063705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1471002236818">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1471054862681">
         <mark key="[" line="185" column="66" />
         <mark key="]" line="185" column="66" />
         <mark key="^" line="185" column="66" />
@@ -176,11 +177,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" />
-      <jump line="47" column="23" filename="D:/PythonProjects/matrix/statistics/templates/wb_duration.html" />
-      <jump line="267" column="4" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="290" column="31" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="143" column="274" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="148" column="154" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="181" column="57" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="162" column="16" filename="D:/PythonProjects/one4one/Card_Duration.py" />
@@ -276,46 +272,51 @@
       <jump line="68" column="90" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="192" column="30" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="316" column="40" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="38" column="5" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="48" column="13" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="51" column="3" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="56" column="4" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringIO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>StringIO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdhZ2VfdHV0b3JfYm9udXMgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gSHR0cFJlc3BvbnNlKGNvbnRlbnRfdHlwZT0nYXBwbGljYXRpb24vdm5kLm1zLWV4Y2VsJykKICAgIHJlc3BvbnNlWydDb250ZW50LURpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9JyArIGZpbGVfbmFtZSArICcueGxzeCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBzdGF0LndhZ2VfcmVtYWlufGRpdmlkZV9ieV9udW06MTAwIH19PC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnd2FnZV9yZW1haW4nCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLndyaXRlKGNvZGVjcy5CT01fVVRGOCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmVzcG9uc2Uud3JpdGUoeGxzeF9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmVzcG9uc2UgPSBIdHRwUmVzcG9uc2UoY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi92bmQubXMtZXhjZWwnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgeGxzeF9kYXRhID0gb3V0cHV0LmdldHZhbHVlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAjILTwzOLAz8qmwazQ+LGjvLa1w7W9tcS9scD4CiAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgInNlbGVjdCBzdW0oaWYoYm9udXNfdHlwZT0xMCxib251c19udW0sMCkpLHN1bShpZihib251c190eXBlPTEyLGJvbnVzX251bSwwKSkgZnJvbSBhbnN3ZXJfdXNlciBhIGpvaW4gdXNlcl9ib251cyBiIHVzaW5nIHVzZXJfaWQgd2hlcmUgY2hlY2tfc3RhdHVzPTIgYW5kIGJvbnVzX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSBhbmQgYm9udXNfdHlwZSBpbigxMCwxMSwxMikgYW5kIGJvbnVzX251bT4wIi5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIHJlcyA9IGN1cl9zdGF0LmZldGNob25lKCkKICAgICAgICB3YWdlX3F1YW50aXR5LCB3YWdlX2ludml0ZSwgd2FnZV9sZXZlbCA9IHJlcwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgcmVzcG9uc2VbJ0NvbnRlbnQtRGlzcG9zaXRpb24nXSA9ICdhdHRhY2htZW50OyBmaWxlbmFtZT0nICsgZmlsZV9uYW1lICsgJy54bHN4Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjILTwzOLAz8qmwazQ+LGjvLa1w7W9tcS9scD4Cg==</text>
+        <text encoding="base64">ICAgICMgcmVzcG9uc2UgPSBIdHRwUmVzcG9uc2UoY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi92bmQubXMtZXhjZWwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
