@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471058697032">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="46" column="65" />
-        <mark key="]" line="46" column="65" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="46" column="65" />
+      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471061079799">
+        <mark key="'" line="54" column="4" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="45" column="34" />
+        <mark key="." line="45" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1470888152268">
         <mark key="[" line="99" column="40" />
@@ -174,6 +173,7 @@
         <mark key="^" line="292" column="110" />
         <mark key="." line="292" column="110" />
       </file>
+      <file name="C:/Python2/Lib/site-packages/xlsxwriter/workbook.py" timestamp="1471060332325" />
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
@@ -280,16 +280,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gSHR0cFJlc3BvbnNlKGNvbnRlbnRfdHlwZT0nYXBwbGljYXRpb24vdm5kLm1zLWV4Y2VsJykKICAgIHJlc3BvbnNlWydDb250ZW50LURpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9JyArIGZpbGVfbmFtZSArICcueGxzeCcK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlID0gSHR0cFJlc3BvbnNlKG91dHB1dC5yZWFkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50X3R5cGU9ImFwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnNoZWV0O2NoYXJzZXQ9dXRmLTgiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
