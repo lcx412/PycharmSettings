@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471065140178">
-        <mark key="'" line="54" column="4" />
+      <file name="D:/PythonProjects/matrix/statistics/excel_response.py" timestamp="1471072237024">
+        <mark key="'" line="38" column="58" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1470888152268">
         <mark key="[" line="99" column="40" />
@@ -103,7 +106,8 @@
       <file name="/Dummy.txt" timestamp="1470993063705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1471054862681">
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1471071551603">
+        <mark key="'" line="192" column="35" />
         <mark key="[" line="185" column="66" />
         <mark key="]" line="185" column="66" />
         <mark key="^" line="185" column="66" />
@@ -163,8 +167,8 @@
         <mark key="^" line="81" column="19" />
         <mark key="." line="81" column="19" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471001427543">
-        <mark key="'" line="316" column="40" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471071571085">
+        <mark key="'" line="68" column="51" />
         <mark key="[" line="292" column="110" />
         <mark key="]" line="292" column="110" />
         <mark key="^" line="292" column="110" />
@@ -174,9 +178,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
-      <jump line="148" column="154" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="181" column="57" filename="D:/PythonProjects/one4one/Card_Duration.py" />
-      <jump line="162" column="16" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="260" column="51" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="53" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="315" column="31" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
@@ -266,14 +267,17 @@
       <jump line="117" column="21" filename="D:/PythonProjects/one4one/tutor_cards.py" />
       <jump line="425" column="20" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="67" column="83" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="68" column="90" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="192" column="30" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="316" column="40" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="38" column="5" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
       <jump line="48" column="13" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
       <jump line="51" column="3" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
       <jump line="56" column="4" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="54" column="0" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="192" column="35" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="68" column="51" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="30" column="33" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
+      <jump line="38" column="58" filename="D:/PythonProjects/matrix/statistics/excel_response.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
