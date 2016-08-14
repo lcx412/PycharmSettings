@@ -90,11 +90,11 @@
         <mark key="^" line="190" column="68" />
         <mark key="." line="190" column="68" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1471054153673">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="11" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1471143512653">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="2" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1470966543570">
         <mark key="'" line="118" column="12" />
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>餐</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>餐</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
