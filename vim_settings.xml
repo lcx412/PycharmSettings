@@ -53,8 +53,11 @@
         <mark key="." line="85" column="270" />
         <mark key="^" line="85" column="332" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471313537195">
-        <mark key="'" line="236" column="0" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471314419324">
+        <mark key="'" line="287" column="4" />
+        <mark key="[" line="280" column="27" />
+        <mark key="]" line="280" column="28" />
+        <mark key="." line="280" column="28" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1471002259957">
         <mark key="[" line="52" column="0" />
@@ -180,9 +183,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
-      <jump line="136" column="46" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="138" column="42" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="199" column="28" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="136" column="33" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="228" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
@@ -278,8 +278,11 @@
       <jump line="217" column="36" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="126" column="28" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="25" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="287" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="236" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="39" column="48" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="102" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="110" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="287" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
