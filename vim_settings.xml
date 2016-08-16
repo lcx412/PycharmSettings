@@ -173,12 +173,12 @@
         <mark key="^" line="96" column="73" />
         <mark key="." line="96" column="73" />
       </file>
-      <file name="D:/PythonProjects/Stat/ChargeStrategy2.py" timestamp="1471337867347">
-        <mark key="'" line="127" column="27" />
-        <mark key="[" line="135" column="51" />
-        <mark key="]" line="135" column="51" />
-        <mark key="^" line="128" column="19" />
-        <mark key="." line="135" column="51" />
+      <file name="D:/PythonProjects/Stat/ChargeStrategy2.py" timestamp="1471338491529">
+        <mark key="'" line="128" column="27" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="12" />
+        <mark key="^" line="115" column="12" />
+        <mark key="." line="116" column="12" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471071571085">
         <mark key="'" line="68" column="51" />
@@ -293,11 +293,11 @@
       <jump line="128" column="27" filename="D:/PythonProjects/Stat/ChargeStrategy2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWwgPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">bGV2ZWwg</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">Y291bnQoaWYoc3Rhcj49NCwxLE5VTEwpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHAgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWwgPSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXZlbCBpcyBOb25lOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXMgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHAgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXMgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXMgaXMgTm9uZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeCA9IHNlbGYuY29ubl9tYXRyaXgK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXMgaXMgTm9uZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZSA9IHNlbGYuY3VyX2hpdmUK</text>
+        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyczIgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeCA9IHNlbGYuY29ubl9tYXRyaXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGRmMS5tZXJnZShkZjIsIGhvdz0nbGVmdCcsIG9uPVt1J0lEJywgdSfTw7unw/snLCB1J7Xnu7AnLCB1J9Gnts4nLCB1J9Gnv8YnXSkK</text>
+        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZSA9IHNlbGYuY3VyX2hpdmUK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
