@@ -53,12 +53,12 @@
         <mark key="." line="85" column="270" />
         <mark key="^" line="85" column="332" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471317937985">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471318874172">
         <mark key="'" line="285" column="32" />
-        <mark key="[" line="123" column="18" />
-        <mark key="]" line="123" column="21" />
-        <mark key="." line="123" column="21" />
-        <mark key="^" line="123" column="21" />
+        <mark key="[" line="296" column="32" />
+        <mark key="]" line="296" column="33" />
+        <mark key="." line="296" column="33" />
+        <mark key="^" line="296" column="28" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1471002259957">
         <mark key="[" line="52" column="0" />
@@ -287,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
