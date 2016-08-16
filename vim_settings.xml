@@ -53,11 +53,12 @@
         <mark key="." line="85" column="270" />
         <mark key="^" line="85" column="332" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471314419324">
-        <mark key="'" line="287" column="4" />
-        <mark key="[" line="280" column="27" />
-        <mark key="]" line="280" column="28" />
-        <mark key="." line="280" column="28" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471317937985">
+        <mark key="'" line="285" column="32" />
+        <mark key="[" line="123" column="18" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_ft_teachers_content.html" timestamp="1471002259957">
         <mark key="[" line="52" column="0" />
@@ -183,8 +184,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
-      <jump line="136" column="33" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="228" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
       <jump line="46" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
       <jump line="35" column="26" filename="D:/PythonProjects/Terminator/common/func.sh" />
@@ -282,47 +281,49 @@
       <jump line="39" column="48" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="102" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="110" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="287" column="4" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="47" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="287" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="270" column="32" filename="D:/PythonProjects/one4one/ft_teachers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmkK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>duration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgbGFzdF9zdW4uc3RyZnRpbWUoJyVZJW0lZCcpKSkK</text>
+        <text encoding="base64">ICAgICAgICB3YWdlX3JlbWFpbiwgdHV0b3Jfd2FnZV9yZW1haW4sIGFuc3dlcl93YWdlX3JlbWFpbiA9IC0xLC0xLC0xCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBjdXJfc3RhdC5mZXRjaG9uZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB3YWdlX3JlbWFpbiwgdHV0b3Jfd2FnZV9yZW1haW4sIGFuc3dlcl93YWdlX3JlbWFpbiA9IC0xLC0xLC0xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2lmIFsgJHJldCAtbmUgMCBdO3RoZW4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3JldD0kPwo=</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXJfd2FnZV9yZW1haW4gPSByZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5zd2VyX3dhZ2VfcmVtYWluID0gLTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3YWdlX3R1dG9yX2JvbnVzID0gLTEK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbnN3ZXJfd2FnZV9yZW1haW4gaXMgTm9uZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIMSsyM/W3L2xwPjOqjCjrNDo0qq0ztbcvMbL4wo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHV0b3Jfd2FnZV9yZW1haW4gPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRlYWNoZXJzLmFwcGVuZCh3YWdlX3R1dG9yX2JvbnVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0dXRvcl93YWdlX3JlbWFpbiBpcyBOb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3YWdlX3R1dG9yX2JvbnVzID0gLTEK</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXJfd2FnZV9yZW1haW4gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
