@@ -84,7 +84,9 @@
         <mark key="^" line="210" column="87" />
         <mark key="." line="209" column="33" />
       </file>
-      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1471339220498" />
+      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1471417953830">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1470882391789">
         <mark key="[" line="170" column="62" />
         <mark key="]" line="160" column="51" />
@@ -143,8 +145,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="D:/PythonProjects/Terminator/event_log_jobs/do_split_ios_log.sh" />
-      <jump line="35" column="26" filename="D:/PythonProjects/Terminator/common/func.sh" />
       <jump line="144" column="428" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="51" column="40" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="78" column="23" filename="D:/PythonProjects/one4one/tutor_cards.py" />
@@ -243,6 +243,8 @@
       <jump line="287" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="270" column="32" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="128" column="27" filename="D:/PythonProjects/Stat/ChargeStrategy2.py" />
+      <jump line="34" column="65" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
+      <jump line="25" column="0" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
