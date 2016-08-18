@@ -52,12 +52,12 @@
         <mark key="'" line="25" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_students.html" timestamp="1471487189978" />
-      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1471494146218">
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1471496212443">
         <mark key="'" line="247" column="12" />
-        <mark key="[" line="119" column="23" />
-        <mark key="]" line="119" column="24" />
-        <mark key="." line="119" column="24" />
-        <mark key="^" line="119" column="24" />
+        <mark key="[" line="123" column="22" />
+        <mark key="]" line="123" column="22" />
+        <mark key="." line="123" column="22" />
+        <mark key="^" line="120" column="18" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" timestamp="1471431363462" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1471425390121" />
@@ -68,12 +68,12 @@
         <mark key="^" line="117" column="15" />
         <mark key="." line="117" column="15" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471493595281">
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471496140164">
         <mark key="'" line="457" column="19" />
-        <mark key="[" line="396" column="66" />
-        <mark key="]" line="396" column="66" />
-        <mark key="^" line="397" column="105" />
-        <mark key="." line="396" column="66" />
+        <mark key="[" line="379" column="55" />
+        <mark key="]" line="379" column="55" />
+        <mark key="^" line="377" column="73" />
+        <mark key="." line="379" column="55" />
       </file>
       <file name="C:/Python2/Lib/site-packages/xlsxwriter/workbook.py" timestamp="1471060332325" />
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
@@ -237,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'actual_paied_records',</text>
+        <text>(不含会员)</text>
       </register>
       <register name="-" type="4">
-        <text>'actual_paied_records',</text>
+        <text>(不含会员)</text>
       </register>
       <register name="/" type="4">
         <text>会员</text>
