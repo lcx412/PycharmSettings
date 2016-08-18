@@ -52,6 +52,13 @@
         <mark key="'" line="25" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_students.html" timestamp="1471487189978" />
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1471488591472">
+        <mark key="'" line="243" column="12" />
+        <mark key="[" line="119" column="20" />
+        <mark key="]" line="202" column="16" />
+        <mark key="^" line="202" column="16" />
+        <mark key="." line="202" column="16" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" timestamp="1471431363462" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1471425390121" />
       <file name="D:/PythonProjects/Stat/ChargeStrategy2.py" timestamp="1471344688933">
@@ -127,8 +134,6 @@
       <file name="D:/PythonProjects/matrix/statistics/mailsend.py" timestamp="1471422072001" />
     </filemarks>
     <jumps>
-      <jump line="88" column="8" filename="D:/PythonProjects/one4one/answer_consume.py" />
-      <jump line="548" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="354" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="679" column="3" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="359" column="11" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -227,16 +232,18 @@
       <jump line="423" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="435" column="37" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="117" column="37" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
+      <jump line="177" column="16" filename="D:/PythonProjects/one4one/wb_students.py" />
+      <jump line="243" column="12" filename="D:/PythonProjects/one4one/wb_students.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>直接支付单量（不含会员）</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>直接支付单量（不含会员）</text>
       </register>
       <register name="/" type="4">
-        <text>remain</text>
+        <text>会员</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXJpZXMgPSBbeyduYW1lJzogbGVnZW5kX25hbWVzWzBdLCAndHlwZSc6ICdiYXInLCAnZGF0YSc6IFtyb3dbMV0gZm9yIHJvdyBpbiB0YWJsZV9wcmVfZGF0YV19LAo=</text>
@@ -273,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remain</last-search>
+      <last-search>会员</last-search>
       <last-offset />
-      <last-pattern>remain</last-pattern>
+      <last-pattern>会员</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx5ZXNfc3RhcnRfdHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>w</entry>
         <entry>date_t</entry>
         <entry>wb_remain</entry>
         <entry>付款</entry>
@@ -303,6 +309,7 @@
         <entry encoding="base64">XDx0ZWFjaGVyc1w+</entry>
         <entry>duration</entry>
         <entry>remain</entry>
+        <entry>会员</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
