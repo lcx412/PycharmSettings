@@ -72,12 +72,12 @@
         <mark key="^" line="117" column="15" />
         <mark key="." line="117" column="15" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471512932144">
-        <mark key="'" line="432" column="0" />
-        <mark key="[" line="140" column="65" />
-        <mark key="]" line="57" column="3" />
-        <mark key="." line="57" column="3" />
-        <mark key="^" line="57" column="3" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1471513828728">
+        <mark key="'" line="426" column="0" />
+        <mark key="[" line="91" column="54" />
+        <mark key="]" line="91" column="54" />
+        <mark key="." line="91" column="54" />
+        <mark key="^" line="90" column="50" />
       </file>
       <file name="C:/Python2/Lib/site-packages/xlsxwriter/workbook.py" timestamp="1471060332325" />
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1470992191126" />
@@ -262,11 +262,11 @@
       <jump line="430" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>会员</text>
@@ -275,28 +275,28 @@
         <text encoding="base64">ICAgICAgICBsYXN0X3dlZWtfc3RhcnRfdHMgPSBzZWxmLmxhc3Rfd2Vla19zdGFydF90cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4YXhpc19sYWJlbHMgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgImNhbGxiYWNrX29uZTRvbmUuanMiICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFydF9kYXRhX2RpY3QgPSB7J29ubGluZV9yYXRpbyc6IFtdLCAndGVhY2hlcl9pZGxlX3JhdGlvJzogW10sICdyZWplY3RlZF9yYXRpbyc6IFtdfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgInN0YXRpc3RpY3Nfb25lNG9uZS5qcyIgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogbGVnZW5kX25hbWVzWzNdLCAndHlwZSc6ICdsaW5lJywgJ3lBeGlzSW5kZXgnOiAxLCAnZGF0YSc6IFtyb3dbMTVdIGZvciByb3cgaW4gdGFibGVfZGF0YV19LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZWdlbmRfbmFtZXMgPSBbdSfJz8/fwsonLCB1J7/Vz9DCyicsIHUnvty1pcLKJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgInN0YXRpc3RpY3Nfd2JfdGVhY2hlcnNfY2hhcnQuanMiICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAocmVzdWx0c19saXN0LCBwYWdlX3JhbmdlKSA9IGRvX3BhZ2VfcG9zdChyZXF1ZXN0LCBzdGF0aXN0aWNzX2xpc3QsIDMwKQogICAgICAgIGVjaGFydHNfZGF0YSA9IHsneGF4aXNfbGFiZWxzJzogeGF4aXNfbGFiZWxzLCAnc2VyaWVzJzogc2VyaWVzLCAnbGVnZW5kX25hbWVzJzogbGVnZW5kX25hbWVzfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IFt1J8jVxtonLCB1J82zvMbA4LHwJywgdSe9zMqm19zBvycsIHUnyc/P38jLyv0nLCB1J8nPz9/CyicsIHUns8m5priotby9zMqmwb8nLCB1J7/Vz9C9zMqmwb8nLAogICAgICAgICAgICAgICAgICAgICB1J7/Vz9DCyicsIHUnyMu++dTaz9/KsbOkKLfWKScsIHUnyMu++biotbzKsbOkKLfWKScsIHUntaW++biotbzKsbOkKLfWKScsIHUnvty1pcG/JywgdSezybmmtaXBvycsIHUnvty1pcLKJywKICAgICAgICAgICAgICAgICAgICAgdSfX3Lmk18oo1KopJywgdSfIy775uaTXyijUqiknXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sID0gJ3N0YXRpc3RpY3Nfd2JfdGVhY2hlcnMuaHRtbCcK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbHVtbl9uYW1lc19kaWN0ID0geycnOiB1J8nPz9/CyicsICd0ZWFjaGVyX2lkbGVfcmF0aW8nOiB1J7/Vz9DCyicsICdyZWplY3RlZF9yYXRpbyc6IHUnvty1pcLKJ30K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
