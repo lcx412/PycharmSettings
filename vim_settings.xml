@@ -65,6 +65,13 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_ltvppu.js" timestamp="1471679985169" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1471688615777">
+        <mark key="'" line="185" column="4" />
+        <mark key="[" line="175" column="33" />
+        <mark key="]" line="175" column="34" />
+        <mark key="." line="175" column="34" />
+        <mark key="^" line="175" column="34" />
+      </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_ft_base.js" timestamp="1471685308491">
         <mark key="[" line="144" column="42" />
         <mark key="]" line="126" column="40" />
@@ -81,6 +88,12 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" timestamp="1471431363462" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ltvppu.html" timestamp="1471425390121" />
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1471609496708" />
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1471688604889">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="16" />
+        <mark key="^" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+      </file>
       <file name="D:/PythonProjects/Stat/ChargeStrategy2.py" timestamp="1471344688933">
         <mark key="'" line="128" column="27" />
         <mark key="[" line="138" column="62" />
@@ -102,12 +115,14 @@
         <mark key="^" line="38" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/requirements.txt" timestamp="1470991105182" />
-      <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1471685972516">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="66" column="7" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1471688674061">
+        <mark key="a" line="61" column="7" />
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="m" line="64" column="7" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="65" column="51" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.html" timestamp="1471664001758" />
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_teachers2.html" timestamp="1471607610527">
@@ -122,7 +137,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1471507802475" />
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1471687365792" />
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1471343488818">
         <mark key="[" line="44" column="33" />
         <mark key="]" line="44" column="33" />
@@ -203,13 +218,6 @@
       <file name="D:/PythonProjects/matrix/statistics/mailsend.py" timestamp="1471422072001" />
     </filemarks>
     <jumps>
-      <jump line="686" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="280" column="68" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="690" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
-      <jump line="149" column="43" filename="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.html" />
-      <jump line="50" column="14" filename="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" />
-      <jump line="136" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" />
-      <jump line="91" column="12" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" />
       <jump line="51" column="18" filename="D:/PythonProjects/matrix/statistics/templates/wb_privileged_conversion.js" />
       <jump line="525" column="22" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="570" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
@@ -303,46 +311,53 @@
       <jump line="75" column="7" filename="D:/PythonProjects/one4one/goods_stat.py" />
       <jump line="40" column="0" filename="D:/PythonProjects/one4one/goods_stat.py" />
       <jump line="84" column="4" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="59" column="7" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="79" column="0" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="74" column="33" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="19" column="0" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="92" column="4" filename="D:/PythonProjects/one4one/goods_stat.py" />
+      <jump line="62" column="4" filename="D:/PythonProjects/one4one/goods_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>会员</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7eDonMzUlJyx5OicxMCUnLHgyOicxMDAlJyx5MjonOTAlJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICBkZi50b19leGNlbChleGNlbF93cml0ZXIsaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGdzLmNvbm4uY2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMSA9IHNlbGYuY3VyXzFvbjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3dlZWtfc3RhcnRfdHMgPSBzZWxmLmxhc3Rfd2Vla19zdGFydF90cwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIGN1ci5mZXRjaCgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3dlZWtfc3RhcnRfdHMgPSBzZWxmLmxhc3Rfd2Vla19zdGFydF90cwogICAgICAgIGV4Y2VsX3dyaXRlciA9IHBhbmRhcy5FeGNlbFdyaXRlcih1Ii9kYXRhL2hvbWUvbHVjaGVuZ3hpYW5nL29uZTRvbmUv0MLJzLPHUFbDv8jVsaix7V8iICsgc2VsZi55ZXNfZGF0ZSArICIueGxzIiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3dlZWtfc3RhcnRfZGF0ZSA9IHNlbGYubGFzdF93ZWVrX3N0YXJ0X2RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfcHJlID0gdSIvZGF0YS9ob21lL2x1Y2hlbmd4aWFuZy9vbmU0b25lL73Myqa2y8O/yNWxqLHtXyIgKyBzZWxmLnllc19wcmVfZGF0ZSArICIueGxzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRiPSdvbmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
