@@ -32,12 +32,12 @@
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.js" timestamp="1471604277156">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471661255022">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1471666044515">
         <mark key="'" line="285" column="32" />
-        <mark key="[" line="296" column="32" />
-        <mark key="]" line="296" column="33" />
-        <mark key="." line="296" column="33" />
-        <mark key="^" line="296" column="28" />
+        <mark key="[" line="224" column="41" />
+        <mark key="]" line="224" column="41" />
+        <mark key="." line="224" column="41" />
+        <mark key="^" line="224" column="23" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain_chart.js" timestamp="1471425626456" />
       <file name="D:/PythonProjects/matrix/README.md" timestamp="1470990481605" />
@@ -322,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>）</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>）</text>
       </register>
       <register name="/" type="4">
         <text>会员</text>
