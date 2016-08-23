@@ -10,6 +10,9 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="3" />
       </file>
+      <file name="/start_script.py" timestamp="1471922504586">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/statistics_wb_remain.html" timestamp="1471424554161">
         <mark key="[" line="84" column="27" />
         <mark key="]" line="84" column="32" />
@@ -173,6 +176,9 @@
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1471687365792" />
       <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1471847442694" />
+      <file name="/Django Console" timestamp="1471921207604">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1471343488818">
         <mark key="[" line="44" column="33" />
         <mark key="]" line="44" column="33" />
@@ -200,12 +206,12 @@
         <mark key="^" line="190" column="68" />
         <mark key="." line="190" column="68" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1471920031841">
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1471922263237">
         <mark key="'" line="140" column="4" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="40" />
-        <mark key="." line="108" column="40" />
-        <mark key="^" line="108" column="40" />
+        <mark key="[" line="105" column="49" />
+        <mark key="]" line="105" column="48" />
+        <mark key="." line="105" column="48" />
+        <mark key="^" line="105" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1471846033925">
         <mark key="[" line="0" column="0" />
@@ -269,9 +275,6 @@
       <file name="D:/PythonProjects/matrix/statistics/mailsend.py" timestamp="1471422072001" />
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="D:/PythonProjects/one4one/mall_stat.py" />
-      <jump line="62" column="34" filename="D:/PythonProjects/one4one/mall_stat.py" />
-      <jump line="73" column="49" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="74" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="105" column="44" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
@@ -369,6 +372,9 @@
       <jump line="104" column="52" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="137" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="126" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="140" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
