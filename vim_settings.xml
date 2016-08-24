@@ -80,12 +80,9 @@
         <mark key="^" line="117" column="15" />
         <mark key="." line="117" column="15" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1472021020696">
-        <mark key="'" line="437" column="0" />
-        <mark key="[" line="118" column="54" />
-        <mark key="]" line="118" column="55" />
-        <mark key="." line="118" column="55" />
-        <mark key="^" line="230" column="45" />
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1472023856175">
+        <mark key="'" line="23" column="0" />
+        <mark key="^" line="87" column="38" />
       </file>
       <file name="/Python Console" timestamp="1471924338308">
         <mark key="[" line="0" column="0" />
@@ -136,12 +133,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472021036570">
-        <mark key="'" line="196" column="35" />
-        <mark key="[" line="170" column="49" />
-        <mark key="]" line="170" column="50" />
-        <mark key="^" line="170" column="50" />
-        <mark key="." line="170" column="50" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472023846199">
+        <mark key="'" line="215" column="41" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1470983781822">
         <mark key="[" line="0" column="0" />
@@ -172,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="44" filename="D:/PythonProjects/one4one/mall_stat.py" />
-      <jump line="1" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="112" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="95" column="16" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="102" column="11" filename="D:/PythonProjects/one4one/mall_stat.py" />
@@ -272,13 +267,15 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="140" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="105" column="74" filename="D:/PythonProjects/one4one/Card_Duration.py" />
+      <jump line="215" column="41" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
+      <jump line="23" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>'show_detail': show_detail,</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -286,32 +283,38 @@
       <register name="0" type="2">
         <text encoding="base64">CWVjaG8gImFsdGVyIHRhYmxlIGRqYW5nbyBhZGQgUEFSVElUSU9OIChkYXk9JHApIGxvY2F0aW9uICcvb3V0cHV0LyR7VVNFUn0vZGphbmdvLyRwJzsiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IFt1J8jVxtonLCB1J7iotby9zMqmyv0nLCB1J7TwzOK9zMqmyv0nLCB1J7zGyrG4qLW819zBvycsIHUntPDM4tfcwb8nLAogICAgICAgICAgICAgICAgICAgICB1J7iotby5pNfKJywgdSe4qLW81ty9scD4JywgdSe08MziuaTXyicsIHUntbHM7LrzssnEybXEtPDM4rmk18onLAogICAgICAgICAgICAgICAgICAgICB1J7TwzOLW3LGjvLa9scD4JywgdSe08Mziw7/I1cjOzvG9scD4JywgdSfOtMzhz9a94dPgKMO/yNUwteMpJywgdSe1sdTCuKi1vLmk18rM4c/Wo6jS0cnzo6knLCB1J7Wx1MK08MziuaTXyszhz9Yo0tHJ8yknXQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY29sdW1uX25hbWUgaW4gY29sdW1uX25hbWVzd2VyJ10gKyBzdGF0Wyd3YWdlX2Fuc3dlcl9wbHVzJ10gKyBzdGF0Wyd3YWdlX3Rhc2snXSkgLyAxMDAsIDIpXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sID0gJ3N0YXRpc3RpY3NfZnRfdGVhY2hlcnMuaHRtbCcK</text>
+      <register name="3" type="4">
+        <text>:
+            echarts_data[column_name] = []
+        for stat in statistics_list:
+            xaxis_labels += [stat['date']]
+            echarts_data[u'辅导工资'] += [round(float(stat['wage_tutor']) / 100, 2)]
+            echarts_data[u'答题工资+每日任务'] += [
+                round(float(stat['wage_ans</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyduYW1lJzogbGVnZW5kX25hbWVzWzJdLCAndHlwZSc6ICdsaW5lJywgJ2RhdGEnOiBbcm93WzEzXSBmb3Igcm93IGluIHRhYmxlX3ByZV9kYXRhIGlmIHJvd1sxXSA9PSAwXX0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sID0gJ3N0YXRpc3RpY3NfZnRfdGVhY2hlcnMuaHRtbCcK</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5fbmFtZXMgPSBbdSe4qLW8uaTXyicsIHUntPDM4rmk18orw7/I1cjOzvEnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QuUE9TVC5nZXQoJ3BhZ2UnLCAwKSAhPSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEVjaGFydHPW0Na7z9TKvtX7zOW9zMqmtcTWuLHqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMg09C3rdKzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZ29vZHNfc3RhdCBmYWlsZWQiCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIHJlbmRlcl90b19yZXNwb25zZShodG1sLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyd1c2VyJzogdXNlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGF0aCc6IHJlcXVlc3QucGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGFnZV9yYW5nZSc6IHBhZ2VfcmFuZ2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Jlc3VsdHNfbGlzdCc6IHJlc3VsdHNfbGlzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29sdW1uX25hbWVzJzogY29sdW1uX25hbWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb2x1bW5fbmFtZXMyJzogY29sdW1uX25hbWVzMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZWNoYXJ0c19kYXRhJzogZWNoYXJ0c19kYXRhLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3hheGlzX2xhYmVscyc6IHhheGlzX2xhYmVscywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzdGFydF90aW1lX3N0cic6IHN0YXJ0X3RpbWVfc3RyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2VuZF90aW1lX3N0cic6IGVuZF90aW1lX3N0cn0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
