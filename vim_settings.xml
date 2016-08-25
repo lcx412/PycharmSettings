@@ -48,11 +48,11 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1472115712745">
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="74" column="33" />
-        <mark key="^" line="74" column="33" />
-        <mark key="." line="74" column="33" />
+      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1472117546803">
+        <mark key="[" line="73" column="33" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="28" column="13" />
+        <mark key="." line="73" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1472035637347">
         <mark key="[" line="252" column="32" />
@@ -145,7 +145,7 @@
         <mark key="^" line="92" column="5" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/1473657777/_socket.py" timestamp="1472112035851" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1472020750988">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1472117865004">
         <mark key="[" line="104" column="44" />
         <mark key="]" line="104" column="43" />
         <mark key="^" line="104" column="43" />
@@ -291,11 +291,11 @@
       <jump line="47" column="24" filename="D:/PythonProjects/one4one/mail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
