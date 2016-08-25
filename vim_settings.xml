@@ -92,12 +92,12 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1472096067634">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="11" />
-        <mark key="^" line="72" column="20" />
-        <mark key="." line="73" column="11" />
+      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1472097456559">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1472020750988">
         <mark key="[" line="104" column="44" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -297,28 +297,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB5ZXNfZGF0ZQo=</text>
+        <text encoding="base64">c29ja2V0LnNvY2tldCA9IHNvY2tzLnNvY2tzb2NrZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmNsb3NlKCkK</text>
+        <text encoding="base64">ZnJvbSBodHRwbGliMiBpbXBvcnQgc29ja3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgkKGxvY2F0aW9uKS5hdHRyKCdocmVmJykuaW5kZXhPZigiL3diX3ByaXZpbGVnZWRfY29udmVyc2lvbi8iKSAhPSAtMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpZXMgPSBbCiAgICAgICAgICAgIHsnbmFtZSc6IGxlZ2VuZF9uYW1lc1swXSwgJ3R5cGUnOiAnYmFyJywgJ2RhdGEnOiBbcm93WzVdIGZvciByb3cgaW4gdGFibGVfZGF0YV19LAogICAgICAgICAgICB7J25hbWUnOiBsZWdlbmRfbmFtZXNbMV0sICd0eXBlJzogJ2JhcicsICdkYXRhJzogW3Jvd1s3XSArIHJvd1s4XSArIHJvd1sxMF0gZm9yIHJvdyBpbiB0YWJsZV9kYXRhXX0sCiAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4YXhpc19sYWJlbHMgPSBbeFswXSBmb3IgeCBpbiBzdGF0aXN0aWNzX2xpc3QudmFsdWVzX2xpc3QoJ2RhdGUnKS5kaXN0aW5jdCgpLm9yZGVyX2J5KCdkYXRlJyldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5fbmFtZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB5ZXNfZGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hhcnRzX2RhdGEgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmNsb3NlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
