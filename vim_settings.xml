@@ -88,12 +88,12 @@
         <mark key="." line="92" column="5" />
         <mark key="^" line="92" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472208723957">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472215293366">
         <mark key="'" line="236" column="8" />
-        <mark key="[" line="169" column="1490" />
-        <mark key="]" line="169" column="1494" />
-        <mark key="." line="169" column="1494" />
-        <mark key="^" line="169" column="1494" />
+        <mark key="[" line="169" column="569" />
+        <mark key="]" line="169" column="569" />
+        <mark key="." line="169" column="569" />
+        <mark key="^" line="169" column="568" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_status.js" timestamp="1471917622189">
         <mark key="[" line="10" column="12" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wage_tutor</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wage_tutor</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
