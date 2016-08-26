@@ -91,11 +91,11 @@
         <mark key="." line="92" column="5" />
         <mark key="^" line="92" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472194420710">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="99" />
-        <mark key="^" line="106" column="42" />
-        <mark key="." line="108" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472196208012">
+        <mark key="[" line="129" column="61" />
+        <mark key="]" line="129" column="65" />
+        <mark key="." line="129" column="65" />
+        <mark key="^" line="129" column="65" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_status.js" timestamp="1471917622189">
         <mark key="[" line="10" column="12" />
@@ -291,44 +291,44 @@
       <jump line="90" column="35" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiArPSBbdSclcyUlJyAlIHJvdW5kKGZsb2F0KHR1dG9yX3RvdGFsX2R1cmF0aW9uKSAvIDYwIC8gdHV0b3JfdGltZWRfcmVjb3JkcywgMildCg==</text>
+      <register name="&quot;" type="4">
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>tutor_timed_records</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiArPSBbdSclcyUlJyAlIHJvdW5kKGZsb2F0KHR1dG9yX3RvdGFsX2R1cmF0aW9uKSAvIDYwIC8gdHV0b3JfdGltZWRfcmVjb3JkcywgMildCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjyMu++bmk18oKICAgICAgICAgICAgICAgICAgICB1JyVzJyAlIHJvdW5kKGZsb2F0KHR1dG9yX3RvdGFsX3dhZ2UpLzEwMC9vbmxpbmVfY291bnQsMiksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiA9IHBhbmRhcy5EYXRhRnJhbWUoc3VtX3N0YXRfZGYsIGluZGV4PU5vbmUsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHUn1NrWsL3MyqbJz8/fwsonLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7Tz0afJ+snPz9/Cyics</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiA9IFtzdW1fc3RhdF9kZl0K</text>
+        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiA9IHBhbmRhcy5EYXRhRnJhbWUoc3VtX3N0YXRfZGYsIGluZGV4PU5vbmUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiA9IFtzdW1fc3RhdF9kZl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpLCAnJScpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1ZGFvX3N0dWRlbnRfY291bnRfaGFvcGluZykgKiAxMDAgLyBmdWRhb19zdHVkZW50X2NvdW50X3lpcGluZywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyVzJXMnICUgKHJvdW5kKGZsb2F0KAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiArPSBbCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpLCAnJScpXQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1ZGFvX3N0dWRlbnRfY291bnRfaGFvcGluZykgKiAxMDAgLyBmdWRhb19zdHVkZW50X2NvdW50X3lpcGluZywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJyVzJXMnICUgKHJvdW5kKGZsb2F0KAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdW1fc3RhdF9kZiArPSBbCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1ZGFvX3RlYWNoZXJfY291bnRfaGFvcGluZykgKiAxMDAgLyBmdWRhb190ZWFjaGVyX2NvdW50X3lpcGluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpLCAnJScpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
