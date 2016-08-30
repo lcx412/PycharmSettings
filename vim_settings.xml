@@ -36,6 +36,9 @@
         <mark key="." line="522" column="9" />
         <mark key="^" line="522" column="9" />
       </file>
+      <file name="D:/PythonProjects/Stat/online_duration.py" timestamp="1472540542323">
+        <mark key="'" line="106" column="4" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/templates/wb_teachers2.html" timestamp="1471607610527">
         <mark key="[" line="56" column="59" />
         <mark key="]" line="56" column="67" />
@@ -166,11 +169,15 @@
       <file name="C:/Python2/Lib/smtplib.py" timestamp="1472111179508">
         <mark key="'" line="576" column="0" />
       </file>
+      <file name="D:/PythonProjects/Stat/card_lookup.py" timestamp="1472541206046">
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="59" column="20" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+      </file>
       <file name="D:/PythonProjects/matrix/statistics/mailsend.py" timestamp="1472200937410" />
     </filemarks>
     <jumps>
-      <jump line="160" column="27" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="186" column="16" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="217" column="36" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="126" column="28" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="25" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
@@ -269,6 +276,8 @@
       <jump line="233" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="245" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="10" column="0" filename="D:/PythonProjects/Stat/online_duration.py" />
+      <jump line="106" column="4" filename="D:/PythonProjects/Stat/online_duration.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
