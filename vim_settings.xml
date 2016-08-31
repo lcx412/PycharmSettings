@@ -40,7 +40,9 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="4" column="54" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472553718848" />
+      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472610728419">
+        <mark key="'" line="93" column="27" />
+      </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_status.js" timestamp="1471917622189">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="12" />
@@ -82,7 +84,9 @@
       <file name="D:/PythonProjects/next/next-thrift/next_types.thrift" timestamp="1472552094232" />
       <file name="D:/PythonProjects/next/next-web/next/plan/forms.py" timestamp="1472552336950" />
       <file name="D:/PythonProjects/next/next-web/next/__init__.py" timestamp="1472546756462" />
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472608544023" />
+      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
+        <mark key="'" line="401" column="23" />
+      </file>
       <file name="D:/PythonProjects/Streaming/Nginx.py" timestamp="1471835277076">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="31" />
@@ -185,8 +189,6 @@
       <file name="D:/PythonProjects/next/next-server/manage.py" timestamp="1472553754409" />
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="236" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="39" column="48" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="102" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="110" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
@@ -285,6 +287,8 @@
       <jump line="106" column="4" filename="D:/PythonProjects/Stat/online_duration.py" />
       <jump line="242" column="26" filename="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" />
       <jump line="679" column="4" filename="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" />
+      <jump line="401" column="23" filename="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" />
+      <jump line="93" column="27" filename="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
