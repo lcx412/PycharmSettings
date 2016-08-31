@@ -31,12 +31,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472635770822">
-        <mark key="'" line="204" column="39" />
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="56" column="21" />
-        <mark key="." line="56" column="21" />
-        <mark key="^" line="56" column="21" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472637404111">
+        <mark key="'" line="269" column="8" />
+        <mark key="[" line="203" column="24" />
+        <mark key="]" line="203" column="22" />
+        <mark key="^" line="203" column="22" />
+        <mark key="." line="203" column="22" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472615151782">
         <mark key="'" line="294" column="8" />
@@ -53,8 +53,6 @@
       <file name="D:/PythonProjects/next/next-web/next/job/static/js/jobspline.js" timestamp="1472615047267" />
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="110" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="47" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="287" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="270" column="32" filename="D:/PythonProjects/one4one/ft_teachers.py" />
@@ -153,46 +151,48 @@
       <jump line="401" column="23" filename="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" />
       <jump line="93" column="27" filename="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" />
       <jump line="196" column="39" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="68" column="31" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="264" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yes_busy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>yes_busy</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgc2VsZi55ZXNfYnVzeV9zdHMgPSBpbnQoCiAgICAgICAgICAgIHRpbWUyLm1rdGltZShkYXRldGltZS5zdHJwdGltZShzZWxmLnllcyArICcgMTc6MDA6MDAnLCAnJVktJW0tJWQgJUg6JU06JVMnKS50aW1ldHVwbGUoKSkpCiAgICAgICAgc2VsZi55ZXNfYnVzeV9ldHMgPSBpbnQodGltZTIubWt0aW1lKAogICAgICAgICAgICBkYXRldGltZS5zdHJwdGltZShzZWxmLnllcyArICcgMjI6MDA6MDAnLCAnJVktJW0tJWQgJUg6JU06JVMnKS50aW1ldHVwbGUoKSkpIC0gMQogICAgICAgIAogICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19zdHMgPSBpbnQoCiAgICAgICAgICAgIHRpbWUyLm1rdGltZSgoZGF0ZXRpbWUuc3RycHRpbWUoc2VsZi50b2QsICclWS0lbS0lZCcpLXRpbWVkZWx0YShzZWxmLndlZWsrNykpLnRpbWV0dXBsZSgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1J82zPGJyPicgKwo=</text>
+        <text encoding="base64">ICAgICAgICAnJyfAz8qmtci8trfWsrwnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0dXRvcl90aW1lZF90ZWFjaGVyX2NvdW50LCB0dXRvcl90b3RhbF9kdXJhdGlvbiwgdHV0b3JfdG90YWxfd2FnZSA9IGN1cl9zdGF0LmZldGNob25lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuc3RycHRpbWUoc2VsZi55ZXMgKyAnIDIyOjAwOjAwJywgJyVZLSVtLSVkICVIOiVNOiVTJykudGltZXR1cGxlKCkpKSAtIDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1J6GwtaXOu9ChyrHK1cjrobE9obC5pNfKobEvobDJz8/fyrGzpKGxPGJyPicgKwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19ldHMgPSBpbnQodGltZTIubWt0aW1lKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0dXRvcl9yZXF1ZXN0ZWRfcmVjb3JkcywgdHV0b3JfdGltZWRfcmVjb3JkcyA9IGludCh0dXRvcl9yZXF1ZXN0ZWRfcmVjb3JkcyksIGludCh0dXRvcl90aW1lZF9yZWNvcmRzKSxpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndlZWsgPSBzZWxmLndlZWtzWwogICAgICAgICAgICBkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykud2Vla2RheSgpXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0dXRvcl9jb25uZWN0ZWRfcmVjb3JkcywgdHV0b3JfYnVzeV9yZWNvcmRzLCB0dXRvcl9yZWZ1c2VkX3JlY29yZHMgPSBjdXJfMW9uMS5mZXRjaG9uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cywgZXRzKSkK</text>
+        <text encoding="base64">ICAgICAgICB1J82zPGJyPicgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCBjb3VudChpZih0dXRvcl9zdGF0dXMgYmV0d2VlbiA3IGFuZCAxMSwxLE5VTEwpKSxjb3VudChpZih0dXRvcl9zdGF0dXMgaW4gKDEsMTA2KSwxLE5VTEwpKSxjb3VudChpZih0dXRvcl9zdGF0dXMgaW4gKDUsNiksMSxOVUxMKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgYXBwbHlfdGltZS8xMDAwIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICB0dXRvcl90aW1lZF90ZWFjaGVyX2NvdW50LCB0dXRvcl90b3RhbF9kdXJhdGlvbiwgdHV0b3JfdG90YWxfd2FnZSA9IGN1cl9zdGF0LmZldGNob25lKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAo=</text>
+        <text encoding="base64">ICAgICAgICB1J6GwtaXOu9ChyrHK1cjrobE9obC5pNfKobEvobDJz8/fyrGzpKGxPGJyPicgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
