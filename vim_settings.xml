@@ -24,12 +24,11 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472714834161">
-        <mark key="'" line="323" column="8" />
-        <mark key="[" line="266" column="54" />
-        <mark key="]" line="266" column="57" />
-        <mark key="^" line="266" column="57" />
-        <mark key="." line="266" column="57" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472718797594">
+        <mark key="'" line="330" column="8" />
+        <mark key="[" line="251" column="37" />
+        <mark key="]" line="251" column="38" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
@@ -159,44 +158,47 @@
       <jump line="264" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdWplY3RzX2RlcyA9IFt1J9PvJyx1J8r9Jyx1J9OiJ10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>grades</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzHW3MnPz98nLCB1JysxuKi1vDG1pby0wfS05icsIHUnKzHW3LiotbwztaW8tMH0tOYnLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWplY3RzX2RlcyA9IFt1J9PvJyx1J8r9Jyx1J9OiJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzXW3MnPz98nLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWplY3RzX2RlcyA9IFt1J9PvJyx1J8r9Jyx1J9OiJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzTW3MnPz98nLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWplY3RzX2RlcyA9IFt1J9PvJyx1J8r9Jyx1J9OiJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzPW3MnPz98nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7P10++43ycsIHUns/XK/bjfJywgdSez9dOiuN8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzLW3MnPz98nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7P10++43ycsIHUns/XK/bjfJywgdSez9dOiuN8nLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzHW3MnPz98nLAo=</text>
+      <register name="5" type="4">
+        <text>u'小语高', u'小数高', u'小英高',
+                                               u'初语高', u'初数高', u'初英高',
+                                               u'初语高', u'初数高', u'初英高',
+                                               u'初语高', u'初数高', u'初英高',</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUntbHW3MnPz98nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzXW3MnPz98nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzTW3MnPz98nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nLCAnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzPW3MnPz98nLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y3VycmVudF9kZiA9IHBhbmRhcy5EYXRhRnJhbWUoW2N1cnJlbnRfd2Vla19zdGF0c10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9W3Un0MfG2icsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUntbHW3MnzusvNqLn9KLKix9LEv8ewyNTT0Mioz961xCm1xLiotbzAz8qmJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe1sdbcyc/P3ycsIHUnKzHW3MnPz98nLCB1Jysy1tzJz8/fJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdScrM9bcyc/P3ycsIHUnKzTW3MnPz98nLCB1Jys11tzJz8/fJ10pCiAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzLW3MnPz98nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
