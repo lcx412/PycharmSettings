@@ -6,38 +6,6 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/constants.py" timestamp="1472553300007" />
-      <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
-        <mark key="'" line="693" column="4" />
-      </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472610728419">
-        <mark key="'" line="93" column="27" />
-      </file>
-      <file name="D:/PythonProjects/next/next-web/next/plan/apps.py" timestamp="1472552544795" />
-      <file name="D:/PythonProjects/next/next.schema.sql" timestamp="1472552972854" />
-      <file name="D:/PythonProjects/next/next-thrift/next_types.thrift" timestamp="1472552094232" />
-      <file name="D:/PythonProjects/next/next-web/next/plan/forms.py" timestamp="1472552336950" />
-      <file name="D:/PythonProjects/next/next-web/next/__init__.py" timestamp="1472546756462" />
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
-        <mark key="'" line="401" column="23" />
-      </file>
-      <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1472615422267" />
-      <file name="/Python Console" timestamp="1472553685667">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/next/next-web/manage.py" timestamp="1472552621094" />
-      <file name="D:/PythonProjects/next/next-web/next/urls.py" timestamp="1472550475996" />
-      <file name="D:/PythonProjects/next/next-thrift/next.thrift" timestamp="1472552074407" />
-      <file name="/Django Console" timestamp="1472200558649">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472638845649">
-        <mark key="'" line="269" column="8" />
-        <mark key="[" line="212" column="120" />
-        <mark key="]" line="212" column="118" />
-        <mark key="^" line="212" column="118" />
-        <mark key="." line="212" column="118" />
-      </file>
       <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472615151782">
         <mark key="'" line="294" column="8" />
         <mark key="[" line="195" column="74" />
@@ -45,12 +13,31 @@
         <mark key="^" line="166" column="55" />
         <mark key="." line="195" column="75" />
       </file>
+      <file name="/Python Console" timestamp="1472553685667">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.regexp" timestamp="1470983781822">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/next/next-web/next/plan/admin.py" timestamp="1472552311192" />
-      <file name="D:/PythonProjects/next/next-server/manage.py" timestamp="1472615221681" />
-      <file name="D:/PythonProjects/next/next-web/next/job/static/js/jobspline.js" timestamp="1472615047267" />
+      <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
+        <mark key="'" line="693" column="4" />
+      </file>
+      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
+        <mark key="'" line="401" column="23" />
+      </file>
+      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472610728419">
+        <mark key="'" line="93" column="27" />
+      </file>
+      <file name="/Django Console" timestamp="1472200558649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472696231957">
+        <mark key="'" line="272" column="8" />
+        <mark key="[" line="215" column="139" />
+        <mark key="]" line="215" column="140" />
+        <mark key="^" line="215" column="145" />
+        <mark key="." line="215" column="140" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="0" filename="D:/PythonProjects/one4one/ft_teachers.py" />
