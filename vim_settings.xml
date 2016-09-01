@@ -19,7 +19,12 @@
       <file name="/a.regexp" timestamp="1470983781822">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1472713470451" />
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1472714759699">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="126" column="322" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
         <mark key="'" line="693" column="4" />
       </file>
@@ -32,12 +37,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472713242037">
-        <mark key="'" line="324" column="8" />
-        <mark key="[" line="264" column="38" />
-        <mark key="]" line="208" column="17" />
-        <mark key="^" line="208" column="17" />
-        <mark key="." line="208" column="17" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472714834161">
+        <mark key="'" line="323" column="8" />
+        <mark key="[" line="266" column="54" />
+        <mark key="]" line="266" column="57" />
+        <mark key="^" line="266" column="57" />
+        <mark key="." line="266" column="57" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
@@ -148,11 +153,12 @@
       <jump line="264" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9idXN5X3JlY29yZHMpLCBpbnQodHV0b3JfcmVmdXNlZF9yZWNvcmRzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>周上线人数', u'周上线率', u'周计时单量', u'周成本', u'平均小时收益（元）',
+                                               u'周空闲率', u'周占线率', u'周拒单率', u'周好评率', u'周差评率'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50KG9ubGluZV9jb3VudCksIA==</text>
+        <text>_range</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -160,32 +166,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19zdGFydF9kYXRlID0gZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChzZWxmLmxhc3Rfd2Vla19zdHMpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9idXN5X3JlY29yZHMpLCBpbnQodHV0b3JfcmVmdXNlZF9yZWNvcmRzKQo=</text>
+      <register name="1" type="4">
+        <text>周上线人数', u'周上线率', u'周计时单量', u'周成本', u'平均小时收益（元）',
+                                               u'周空闲率', u'周占线率', u'周拒单率', u'周好评率', u'周差评率'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9yZXF1ZXN0ZWRfcmVjb3JkcyksIGludCh0dXRvcl90aW1lZF9yZWNvcmRzKSwgaW50KHR1dG9yX2Nvbm5lY3RlZF9yZWNvcmRzKSwgaW50KAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBtLmNvbm5lY3Rpb24oJ2FmYW50aV9zdGF0X2RiJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR1dG9yX3JlcXVlc3RlZF9yZWNvcmRzLCB0dXRvcl90aW1lZF9yZWNvcmRzLCB0dXRvcl9jb25uZWN0ZWRfcmVjb3JkcywgdHV0b3JfYnVzeV9yZWNvcmRzLCB0dXRvcl9yZWZ1c2VkX3JlY29yZHMgPSBpbnQoCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9idXN5X3JlY29yZHMpLCBpbnQodHV0b3JfcmVmdXNlZF9yZWNvcmRzKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBvbmxpbmVfZHVyYXRpb24gPSBpbnQob25saW5lX2NvdW50KSwgaW50KG9ubGluZV9kdXJhdGlvbikK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9yZXF1ZXN0ZWRfcmVjb3JkcyksIGludCh0dXRvcl90aW1lZF9yZWNvcmRzKSwgaW50KHR1dG9yX2Nvbm5lY3RlZF9yZWNvcmRzKSwgaW50KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIMnPz9+9zMqmyv0K</text>
+        <text encoding="base64">ICAgICAgICAjIHR1dG9yX3JlcXVlc3RlZF9yZWNvcmRzLCB0dXRvcl90aW1lZF9yZWNvcmRzLCB0dXRvcl9jb25uZWN0ZWRfcmVjb3JkcywgdHV0b3JfYnVzeV9yZWNvcmRzLCB0dXRvcl9yZWZ1c2VkX3JlY29yZHMgPSBpbnQoCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBvbmxpbmVfZHVyYXRpb24gPSBpbnQob25saW5lX2NvdW50KSwgaW50KG9ubGluZV9kdXJhdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmxpbmVfY291bnQgPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIMnPz9+9zMqmyv0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3Rfd2Vla19zdHMsIGxhc3Rfd2Vla19ldHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCBjb3VudChkaXN0aW5jdCB1c2VyX2lkKSBmcm9tIHVzZXJfbG9naW5faW5mbyB3aGVyZSB1c2VyX2lkIGluIChzZWxlY3QgdXNlcl9pZCBmcm9tIGZhcV91c2VyIHdoZXJlIHRlYWNoZXJfdHlwZSBpbigxLDIpKSBhbmQgbG9naW5fdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmxpbmVfY291bnQgPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
