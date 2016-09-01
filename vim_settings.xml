@@ -31,11 +31,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472701777889">
-        <mark key="'" line="282" column="8" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472702151068">
+        <mark key="'" line="284" column="8" />
+        <mark key="[" line="219" column="36" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="216" column="38" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
@@ -147,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>cur_stat.fetchall()</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -159,31 +160,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19zdHMgPSBpbnQoCiAgICAgICAgICAgIHRpbWUyLm1rdGltZSgoZGF0ZXRpbWUuc3RycHRpbWUoc2VsZi50b2QsICclWS0lbS0lZCcpLXRpbWVkZWx0YShzZWxmLndlZWsrNykpLnRpbWV0dXBsZSgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZXNfc3ViamVjdHMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBncmFkZXNfc3ViamVjdHMgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnJyfAz8qmtci8trfWsrwnJycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuc3RycHRpbWUoc2VsZi55ZXMgKyAnIDIyOjAwOjAwJywgJyVZLSVtLSVkICVIOiVNOiVTJykudGltZXR1cGxlKCkpKSAtIDEK</text>
+        <text encoding="base64">ICAgICAgICAnJyfAz8qmtci8trfWsrwnJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19ldHMgPSBpbnQodGltZTIubWt0aW1lKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuc3RycHRpbWUoc2VsZi55ZXMgKyAnIDIyOjAwOjAwJywgJyVZLSVtLSVkICVIOiVNOiVTJykudGltZXR1cGxlKCkpKSAtIDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlZWsgPSBzZWxmLndlZWtzWwogICAgICAgICAgICBkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykud2Vla2RheSgpXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19ldHMgPSBpbnQodGltZTIubWt0aW1lKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndlZWsgPSBzZWxmLndlZWtzWwogICAgICAgICAgICBkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykud2Vla2RheSgpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1J82zPGJyPicgKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
