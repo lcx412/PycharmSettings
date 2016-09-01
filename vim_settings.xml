@@ -6,30 +6,17 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472615151782">
-        <mark key="'" line="294" column="8" />
-        <mark key="[" line="195" column="74" />
-        <mark key="]" line="195" column="75" />
-        <mark key="^" line="166" column="55" />
-        <mark key="." line="195" column="75" />
-      </file>
       <file name="/Python Console" timestamp="1472701693989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1470983781822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1472714759699">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="126" column="322" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1472717828161">
+        <mark key="[" line="126" column="47" />
+        <mark key="]" line="108" column="47" />
+        <mark key="^" line="103" column="74" />
+        <mark key="." line="108" column="47" />
       </file>
       <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
         <mark key="'" line="693" column="4" />
-      </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
-        <mark key="'" line="401" column="23" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472610728419">
         <mark key="'" line="93" column="27" />
@@ -48,6 +35,25 @@
         <mark key="[" line="210" column="47" />
         <mark key="]" line="210" column="48" />
         <mark key="." line="210" column="48" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1472615151782">
+        <mark key="'" line="294" column="8" />
+        <mark key="[" line="195" column="74" />
+        <mark key="]" line="195" column="75" />
+        <mark key="^" line="166" column="55" />
+        <mark key="." line="195" column="75" />
+      </file>
+      <file name="/a.regexp" timestamp="1470983781822">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1472714759699">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="126" column="322" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
+        <mark key="'" line="401" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -154,45 +160,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>周上线人数', u'周上线率', u'周计时单量', u'周成本', u'平均小时收益（元）',
-                                               u'周空闲率', u'周占线率', u'周拒单率', u'周好评率', u'周差评率'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_range</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3Rfd2Vla19zdGFydF9kYXRlID0gZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChzZWxmLmxhc3Rfd2Vla19zdHMpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzHW3MnPz98nLCB1JysxuKi1vDG1pby0wfS05icsIHUnKzHW3LiotbwztaW8tMH0tOYnLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>周上线人数', u'周上线率', u'周计时单量', u'周成本', u'平均小时收益（元）',
-                                               u'周空闲率', u'周占线率', u'周拒单率', u'周好评率', u'周差评率'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzXW3MnPz98nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBtLmNvbm5lY3Rpb24oJ2FmYW50aV9zdGF0X2RiJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzTW3MnPz98nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9idXN5X3JlY29yZHMpLCBpbnQodHV0b3JfcmVmdXNlZF9yZWNvcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzPW3MnPz98nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICB0dXRvcl9yZXF1ZXN0ZWRfcmVjb3JkcyksIGludCh0dXRvcl90aW1lZF9yZWNvcmRzKSwgaW50KHR1dG9yX2Nvbm5lY3RlZF9yZWNvcmRzKSwgaW50KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzLW3MnPz98nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR1dG9yX3JlcXVlc3RlZF9yZWNvcmRzLCB0dXRvcl90aW1lZF9yZWNvcmRzLCB0dXRvcl9jb25uZWN0ZWRfcmVjb3JkcywgdHV0b3JfYnVzeV9yZWNvcmRzLCB0dXRvcl9yZWZ1c2VkX3JlY29yZHMgPSBpbnQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnKzHW3MnPz98nLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBvbmxpbmVfZHVyYXRpb24gPSBpbnQob25saW5lX2NvdW50KSwgaW50KG9ubGluZV9kdXJhdGlvbikK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUntbHW3MnPz98nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIMnPz9+9zMqmyv0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbmxpbmVfY291bnQgPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nLCAnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Y3VycmVudF9kZiA9IHBhbmRhcy5EYXRhRnJhbWUoW2N1cnJlbnRfd2Vla19zdGF0c10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9W3Un0MfG2icsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUntbHW3MnzusvNqLn9KLKix9LEv8ewyNTT0Mioz961xCm1xLiotbzAz8qmJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSe1sdbcyc/P3ycsIHUnKzHW3MnPz98nLCB1Jysy1tzJz8/fJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdScrM9bcyc/P3ycsIHUnKzTW3MnPz98nLCB1Jys11tzJz8/fJ10pCiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
