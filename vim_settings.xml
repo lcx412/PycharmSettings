@@ -24,12 +24,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472719787419">
-        <mark key="'" line="321" column="8" />
-        <mark key="[" line="279" column="13" />
-        <mark key="]" line="282" column="7" />
-        <mark key="^" line="282" column="7" />
-        <mark key="." line="282" column="7" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472721308916">
+        <mark key="'" line="330" column="8" />
+        <mark key="[" line="291" column="8" />
+        <mark key="]" line="291" column="14" />
+        <mark key="^" line="291" column="14" />
+        <mark key="." line="291" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
@@ -160,16 +160,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZV9zdWJqZWN0X2xldmVscyA9IFtncyArIFtsXSBmb3IgZ3MgaW4gZ3JhZGVfc3ViamVjdHMgZm9yIGwgaW4gbGV2ZWxzXQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGF2ZyhjbnQpIGZyb20oc2VsZWN0IGZyb21fdW5peHRpbWUoc3RhcnRfdGltZSwnJVklbSVkJyksY291bnQoZGlzdGluY3QgdGVhY2hlcl91c2VyX2lkKWFzIGNudCBmcm9tIHR1dG9yX3JlY29yZCB3aGVyZSBzdGFydF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gZ3JvdXAgYnkgZnJvbV91bml4dGltZShzdGFydF90aW1lLCclWSVtJWQnKSkiLmZvcm1hdCgKICAgICAgICAgICAgICAgIGxhc3Rfd2Vla19zdHMsIGxhc3Rfd2Vla19ldHMpKQogICAgICAgIGRheV9vbmxpbmVfY291bnRfYXZnID0gY3VyXzFvbjEuZmV0Y2hvbmUoKVswXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
