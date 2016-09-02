@@ -6,11 +6,12 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472788490140">
-        <mark key="[" line="74" column="465" />
-        <mark key="]" line="74" column="124" />
-        <mark key="^" line="74" column="124" />
-        <mark key="." line="74" column="124" />
+      <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472800029872">
+        <mark key="'" line="77" column="119" />
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="49" />
+        <mark key="." line="93" column="49" />
+        <mark key="^" line="93" column="49" />
       </file>
       <file name="/Python Console" timestamp="1472701693989">
         <mark key="[" line="0" column="0" />
@@ -48,6 +49,7 @@
         <mark key="^" line="286" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1472788752016" />
+      <file name="D:/PythonProjects/Stat/hongbo.csv" timestamp="1472800163064" />
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
         <mark key="]" line="210" column="48" />
@@ -75,7 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="8" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="435" column="37" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="117" column="37" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="177" column="16" filename="D:/PythonProjects/one4one/wb_students.py" />
@@ -175,46 +176,47 @@
       <jump line="325" column="32" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="362" column="0" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="368" column="7" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="77" column="119" filename="D:/PythonProjects/Stat/mall_users.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 'huicong.liang@lejent.com',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsICdcdCcsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, 'huicong.liang@lejent.com',</text>
+        <text>导</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX3dyaXRlciA9IHBhbmRhcy5FeGNlbFdyaXRlcihzZWxmLmZpbGUsIGVuZ2luZT0neGx3dCcsIGVuY29kaW5nPSd1dGYtOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IGRmLm1lcmdlKHNlYXJjaF9kZixob3c9J2xlZnQnLG9uPVt1J9PDu6dJRCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTUwMDAxNiwgMTIzNDU1MDAwMTcsIDEyMzQ1NTAwMDE4LCAxMjM0NTUwMDAxOV0K</text>
+        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsICdcdCcsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTUwMDAxMywgMTIzNDU1MDAwMTQsIDEyMzQ1NTAwMDE1LAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTUwMDAwOCwgMTIzNDU1MDAwMDksIDEyMzQ1NTAwMDEwLCAxMjM0NTUwMDAxMSwgMTIzNDU1MDAwMTIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsJ1x0JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTUwMDAwNSwgMTIzNDU1MDAwMDYsIDEyMzQ1NTAwMDA3LAo=</text>
+        <text encoding="base64">ICAgICAgICBkZi4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFsxMjM0NTUwMDAwMCwgMTIzNDU1MDAwMDEsIDEyMzQ1NTAwMDAyLCAxMjM0NTUwMDAwMywgMTIzNDU1MDAwMDQsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKCJzZWxlY3QgdXNlcl9pZCxjaXR5LGdyYWRlLGZyb21fdW5peHRpbWUocmVnaXN0ZXJfdGltZSksZXhjaGFuZ2VfY291bnQsYnV5X2NvdW50LGJ1eV9hbW91bnQsYnV5X2xpc3QsZHVvYmFvX2NvdW50LGR1b2Jhb19hbW91bnQgZnJvbSAoc2VsZWN0IHVzZXJfaWQsY291bnQoaWYoY3JlZGl0cz4wLDEsTlVMTCkpYXMgZXhjaGFuZ2VfY291bnQsY291bnQoaWYobW9uZXk+MCwxLE5VTEwpKWFzIGJ1eV9jb3VudCxyb3VuZChzdW0obW9uZXkpLzEwMCwyKWFzIGJ1eV9hbW91bnQsZ3JvdXBfY29uY2F0KGdvb2RzX25hbWUpYXMgYnV5X2xpc3QgZnJvbSBuZXdfZ29vZHNfcmVjb3JkIGpvaW4gbmV3X21hbGxfZ29vZHMgdXNpbmcoZ29vZHNfaWQpIHdoZXJlIHN0YXR1cz4wIGdyb3VwIGJ5IHVzZXJfaWQpZyBqb2luIHVzZXJfb25saW5lIHUgdXNpbmcodXNlcl9pZCkgam9pbmcgdXNlcl9vZmZsaW5lIHUyIHVzaW5nKHVzZXJfaWQpIGxlZnQgam9pbihzZWxlY3QgdXNlcl9pZCxjb3VudCgqKWFzIGR1b2Jhb19jb3VudCxzdW0oYnV5X251bSlhcyBkdW9iYW9fYW1vdW50IGZyb20gZHVvYmFvX2V4Y2hhbmdlX3JlY29yZCB3aGVyZSAgZ3JvdXAgYnkgdXNlcl9pZClkIHVzaW5nKHVzZXJfaWQpIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTYwMDAwOCwgMTIzNDU2MDAwMDldLAo=</text>
+        <text encoding="base64">ICAgICAxMjM0NTUwMDAxNiwgMTIzNDU1MDAwMTcsIDEyMzQ1NTAwMDE4LCAxMjM0NTUwMDAxOV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAxMjM0NTYwMDAwNSwgMTIzNDU2MDAwMDYsIDEyMzQ1NjAwMDA3LAo=</text>
+        <text encoding="base64">ICAgICAxMjM0NTUwMDAxMywgMTIzNDU1MDAwMTQsIDEyMzQ1NTAwMDE1LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFsxMjM0NTYwMDAwMCwgMTIzNDU2MDAwMDEsIDEyMzQ1NjAwMDAyLCAxMjM0NTYwMDAwMywgMTIzNDU2MDAwMDQsCg==</text>
+        <text encoding="base64">ICAgICAxMjM0NTUwMDAwOCwgMTIzNDU1MDAwMDksIDEyMzQ1NTAwMDEwLCAxMjM0NTUwMDAxMSwgMTIzNDU1MDAwMTIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
+        <text encoding="base64">ICAgICAxMjM0NTUwMDAwNSwgMTIzNDU1MDAwMDYsIDEyMzQ1NTAwMDA3LAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
