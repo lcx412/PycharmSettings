@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472806750704">
+      <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472894012529">
         <mark key="'" line="98" column="4" />
-        <mark key="[" line="75" column="160" />
-        <mark key="]" line="91" column="56" />
-        <mark key="." line="91" column="56" />
-        <mark key="^" line="91" column="56" />
+        <mark key="[" line="75" column="132" />
+        <mark key="]" line="75" column="136" />
+        <mark key="." line="75" column="136" />
+        <mark key="^" line="75" column="136" />
       </file>
       <file name="/Python Console" timestamp="1472891585335">
         <mark key="[" line="0" column="0" />
@@ -25,6 +25,12 @@
         <mark key="]" line="88" column="96" />
         <mark key="^" line="88" column="96" />
         <mark key="." line="88" column="96" />
+      </file>
+      <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1472896024150">
+        <mark key="[" line="78" column="85" />
+        <mark key="]" line="78" column="86" />
+        <mark key="." line="78" column="86" />
+        <mark key="^" line="78" column="86" />
       </file>
       <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
         <mark key="'" line="693" column="4" />
@@ -182,44 +188,44 @@
       <jump line="135" column="35" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlYWNoZXJfcmVtYWluID0gVGVhY2hlcl9SZW1haW4oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>次</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>次</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlYWNoZXJfcmVtYWluID0gVGVhY2hlcl9SZW1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IGRmLm1lcmdlKHR1dG9yX2RmLCBob3c9J2xlZnQnLCBvbj1bdSfTw7unSUQnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGlvX3VybCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGlvX3VybCA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmRbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhdWRpb191cmwgPSAiaHR0cDovL3doaXRlYm9hcmQuYWZhbnRpMTAwLmNvbS9hdWRpby8lcy8lcy53YXYiLmZvcm1hdCh5ZXN0ZXJkYXlfdGltZS5zdHJmdGltZSgnJVklbSVkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmRbMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgemh1X2RmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhdWRpb191cmwgPSAiaHR0cDovL3doaXRlYm9hcmQuYWZhbnRpMTAwLmNvbS9hdWRpby8lcy8lcy53YXYiLmZvcm1hdCh5ZXN0ZXJkYXlfdGltZS5zdHJmdGltZSgnJVklbSVkJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsICdcdCcsKQo=</text>
+        <text encoding="base64">cHJpbnQgemh1X2RmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsICdcdCcsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZi50b19jc3YoIi4vaG9uZ2JvLmNzdiIsJ1x0JykK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
