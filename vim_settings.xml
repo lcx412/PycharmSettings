@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1472785983077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1472722978319">
-        <mark key="'" line="136" column="8" />
-        <mark key="[" line="65" column="49" />
-        <mark key="]" line="65" column="49" />
-        <mark key="^" line="135" column="36" />
-        <mark key="." line="65" column="34" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1472883145956">
+        <mark key="'" line="135" column="35" />
+        <mark key="[" line="101" column="52" />
+        <mark key="]" line="88" column="96" />
+        <mark key="^" line="88" column="96" />
+        <mark key="." line="88" column="96" />
       </file>
       <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
         <mark key="'" line="693" column="4" />
@@ -42,11 +42,11 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472801575068">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1472882435018">
         <mark key="'" line="382" column="7" />
-        <mark key="[" line="286" column="22" />
-        <mark key="]" line="286" column="25" />
-        <mark key="." line="286" column="25" />
+        <mark key="[" line="380" column="26" />
+        <mark key="]" line="380" column="26" />
+        <mark key="." line="380" column="26" />
         <mark key="^" line="286" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1472788752016" />
@@ -79,8 +79,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="12" filename="D:/PythonProjects/one4one/wb_students.py" />
-      <jump line="457" column="19" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="245" column="18" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="54" column="0" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="107" column="37" filename="D:/PythonProjects/one4one/tutor_cards.py" />
@@ -179,19 +177,21 @@
       <jump line="23" column="0" filename="D:/PythonProjects/Stat/mall_users.py" />
       <jump line="98" column="4" filename="D:/PythonProjects/Stat/mall_users.py" />
       <jump line="78" column="46" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="35" column="61" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
+      <jump line="135" column="35" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlYWNoZXJfcmVtYWluID0gVGVhY2hlcl9SZW1haW4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGRmLm1lcmdlKHNlYXJjaF9kZixob3c9J2xlZnQnLG9uPVt1J9PDu6dJRCddKQo=</text>
+        <text encoding="base64">ICAgIHRlYWNoZXJfcmVtYWluID0gVGVhY2hlcl9SZW1haW4oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGlvX3VybCA9ICcnCg==</text>
