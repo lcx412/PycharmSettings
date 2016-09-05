@@ -13,13 +13,10 @@
         <mark key="." line="75" column="136" />
         <mark key="^" line="75" column="136" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473045280169">
-        <mark key="'" line="3" column="8" />
-      </file>
       <file name="/Python Console" timestamp="1473046525837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1472785983077">
+      <file name="/a.dummy" timestamp="1473063118465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1473057582737">
@@ -29,28 +26,11 @@
         <mark key="." line="43" column="51" />
         <mark key="^" line="120" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1473045830773">
-        <mark key="[" line="250" column="44" />
-        <mark key="]" line="250" column="45" />
-        <mark key="." line="250" column="45" />
-      </file>
-      <file name="/a.regexp" timestamp="1470983781822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1473057468936">
-        <mark key="[" line="134" column="47" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="126" column="322" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1472896848291">
         <mark key="[" line="78" column="85" />
         <mark key="]" line="78" column="86" />
         <mark key="." line="78" column="86" />
         <mark key="^" line="78" column="86" />
-      </file>
-      <file name="D:/PythonProjects/next/next-thrift/gen-py/aft_thrift/next/next_service/Next.py" timestamp="1472553195344">
-        <mark key="'" line="693" column="4" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1472870360956">
         <mark key="'" line="78" column="46" />
@@ -59,21 +39,16 @@
         <mark key="^" line="83" column="52" />
         <mark key="." line="83" column="52" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next.py" timestamp="1472610723892">
-        <mark key="'" line="401" column="23" />
-      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1473045596473">
         <mark key="[" line="292" column="44" />
         <mark key="]" line="292" column="45" />
         <mark key="." line="292" column="45" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" timestamp="1472610728419">
-        <mark key="'" line="93" column="27" />
-      </file>
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1473060234208" />
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1473058146265">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1473060052713">
         <mark key="'" line="387" column="8" />
         <mark key="[" line="296" column="14" />
         <mark key="]" line="296" column="16" />
@@ -84,6 +59,36 @@
         <mark key="[" line="210" column="47" />
         <mark key="]" line="210" column="48" />
         <mark key="." line="210" column="48" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473045280169">
+        <mark key="'" line="3" column="8" />
+      </file>
+      <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1473045830773">
+        <mark key="[" line="250" column="44" />
+        <mark key="]" line="250" column="45" />
+        <mark key="." line="250" column="45" />
+      </file>
+      <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1473063371594">
+        <mark key="[" line="132" column="57" />
+        <mark key="]" line="132" column="57" />
+        <mark key="." line="132" column="57" />
+        <mark key="^" line="143" column="7" />
+      </file>
+      <file name="/a.regexp" timestamp="1470983781822">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1473057468936">
+        <mark key="[" line="134" column="47" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="126" column="322" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1473063233452" />
+      <file name="D:/PythonProjects/one4one/ft_chunyan.py" timestamp="1473063079731">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="4" />
+        <mark key="." line="142" column="4" />
+        <mark key="^" line="140" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -190,16 +195,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'chen.xu@lejent.com',</text>
+        <text>;以前数据未剔除退款。</text>
       </register>
       <register name="-" type="4">
-        <text>, 'chen.xu@lejent.com',</text>
+        <text>;以前数据未剔除退款。</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyCxvtbc06rK1QogICAgICAgICAgICBjaHVueWFuLmFwcGVuZChyb3VuZChmbG9hdChtb25leV9pbmNvbWUpIC8gMTAwLCAyKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
