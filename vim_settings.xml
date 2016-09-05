@@ -68,10 +68,10 @@
         <mark key="]" line="250" column="45" />
         <mark key="." line="250" column="45" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1473063371594">
-        <mark key="[" line="132" column="57" />
-        <mark key="]" line="132" column="57" />
-        <mark key="." line="132" column="57" />
+      <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1473067051606">
+        <mark key="[" line="132" column="31" />
+        <mark key="]" line="132" column="31" />
+        <mark key="." line="132" column="31" />
         <mark key="^" line="143" column="7" />
       </file>
       <file name="/a.regexp" timestamp="1470983781822">
@@ -195,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;以前数据未剔除退款。</text>
+        <text>本周开始，</text>
       </register>
       <register name="-" type="4">
-        <text>;以前数据未剔除退款。</text>
+        <text>本周开始，</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
