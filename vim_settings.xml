@@ -48,12 +48,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1473060052713">
-        <mark key="'" line="387" column="8" />
-        <mark key="[" line="296" column="14" />
-        <mark key="]" line="296" column="16" />
-        <mark key="." line="296" column="16" />
-        <mark key="^" line="296" column="16" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1473130610828">
+        <mark key="'" line="318" column="39" />
+        <mark key="[" line="358" column="47" />
+        <mark key="]" line="359" column="14" />
+        <mark key="^" line="359" column="14" />
+        <mark key="." line="359" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1472699265515">
         <mark key="[" line="210" column="47" />
@@ -96,8 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="235" filename="D:/PythonProjects/one4one/tutor_cards.py" />
-      <jump line="122" column="33" filename="D:/PythonProjects/one4one/tutor_cards.py" />
       <jump line="430" column="0" filename="D:/PythonProjects/matrix/statistics/wb_views.py" />
       <jump line="8" column="21" filename="D:/PythonProjects/matrix/statistics/templates/wb_teachers.html" />
       <jump line="13" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_teachers.html" />
@@ -196,10 +194,12 @@
       <jump line="184" column="42" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="343" column="40" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="385" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="97" column="12" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="318" column="39" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>本周开始，</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>本周开始，</text>
@@ -211,31 +211,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIyCxvtbc06rK1QogICAgICAgICAgICBjaHVueWFuLmFwcGVuZChyb3VuZChmbG9hdChtb25leV9pbmNvbWUpIC8gMTAwLCAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
+        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgamlhb3NoaS5leGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1ZGlvX3VybCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICMgamlhb3NoaS5leGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
