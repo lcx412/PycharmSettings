@@ -72,11 +72,11 @@
         <mark key="]" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473153700809">
-        <mark key="[" line="91" column="84" />
-        <mark key="]" line="86" column="85" />
-        <mark key="^" line="86" column="85" />
-        <mark key="." line="86" column="85" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473157003516">
+        <mark key="[" line="235" column="81" />
+        <mark key="]" line="236" column="15" />
+        <mark key="." line="236" column="15" />
+        <mark key="^" line="236" column="15" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1473135135156">
         <mark key="[" line="250" column="44" />
@@ -212,8 +212,8 @@
       <jump line="318" column="39" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mall</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="-" type="4">
         <text>mall</text>
@@ -225,7 +225,7 @@
         <text>.union(uids5)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -237,16 +237,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
