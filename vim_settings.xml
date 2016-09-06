@@ -39,10 +39,11 @@
         <mark key="^" line="83" column="52" />
         <mark key="." line="83" column="52" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1473045596473">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1473133354788">
         <mark key="[" line="292" column="44" />
         <mark key="]" line="292" column="45" />
         <mark key="." line="292" column="45" />
+        <mark key="^" line="287" column="3" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1473070230765" />
       <file name="/Django Console" timestamp="1472200558649">
@@ -60,10 +61,27 @@
         <mark key="]" line="210" column="48" />
         <mark key="." line="210" column="48" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473045280169">
-        <mark key="'" line="3" column="8" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1473133947059">
+        <mark key="[" line="248" column="44" />
+        <mark key="]" line="248" column="45" />
+        <mark key="." line="248" column="45" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473070044012" />
+      <file name="/Dummy.txt" timestamp="1473133513412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473133153898">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473133922536">
+        <mark key="[" line="220" column="33" />
+        <mark key="]" line="220" column="33" />
+        <mark key="." line="220" column="33" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1473045830773">
         <mark key="[" line="250" column="44" />
         <mark key="]" line="250" column="45" />
@@ -198,11 +216,11 @@
       <jump line="318" column="39" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>增加暑期卡统计；优化Echarts tooltips展示</text>
       </register>
       <register name="-" type="4">
-        <text>本周开始，</text>
+        <text>增加暑期卡统计；优化Echarts tooltips展示</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -217,25 +235,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRvX2FkZHJlc3NlcyA9IFsneXUuaGFuQGxlamVudC5jb20nXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIgPSBwYW5kYXMuRXhjZWxXcml0ZXIoCiAgICAgICAgICAgIHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqmwfS05tbcsahfJyArIHNlbGYudG9kLnJlcGxhY2UoJy0nLCAnJykgKyAnLnhsc3gnLCBlbmdpbmU9J3hsc3h3cml0ZXInKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgamlhb3NoaS5leGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgamlhb3NoaS5leGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
