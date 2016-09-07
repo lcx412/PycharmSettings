@@ -19,12 +19,12 @@
         <mark key="." line="43" column="51" />
         <mark key="^" line="120" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473231702986">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473233793362">
         <mark key="'" line="43" column="28" />
-        <mark key="[" line="69" column="66" />
-        <mark key="]" line="74" column="81" />
-        <mark key="." line="74" column="81" />
-        <mark key="^" line="74" column="17" />
+        <mark key="[" line="118" column="46" />
+        <mark key="]" line="118" column="44" />
+        <mark key="." line="118" column="44" />
+        <mark key="^" line="118" column="44" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1473220487987">
         <mark key="'" line="78" column="46" />
@@ -213,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
