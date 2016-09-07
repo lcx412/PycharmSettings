@@ -19,12 +19,12 @@
         <mark key="." line="43" column="51" />
         <mark key="^" line="120" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473241956589">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473245917672">
         <mark key="'" line="43" column="28" />
-        <mark key="[" line="141" column="79" />
-        <mark key="]" line="141" column="59" />
-        <mark key="." line="141" column="59" />
-        <mark key="^" line="141" column="59" />
+        <mark key="[" line="112" column="58" />
+        <mark key="]" line="112" column="58" />
+        <mark key="^" line="112" column="58" />
+        <mark key="." line="112" column="58" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1473220487987">
         <mark key="'" line="78" column="46" />
@@ -55,7 +55,7 @@
         <mark key="]" line="248" column="45" />
         <mark key="." line="248" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473133513412">
+      <file name="/Dummy.txt" timestamp="1473244340977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,9 +66,11 @@
         <mark key="]" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1473237731055">
-        <mark key="[" line="70" column="102" />
-        <mark key="." line="70" column="78" />
+      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1473243536629">
+        <mark key="[" line="94" column="31" />
+        <mark key="]" line="94" column="32" />
+        <mark key="." line="94" column="32" />
+        <mark key="^" line="94" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473164410780">
         <mark key="[" line="248" column="33" />
@@ -111,6 +113,12 @@
         <mark key="]" line="142" column="4" />
         <mark key="." line="142" column="4" />
         <mark key="^" line="140" column="7" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/wb_views.py" timestamp="1473244442550">
+        <mark key="[" line="287" column="102" />
+        <mark key="]" line="313" column="24" />
+        <mark key="^" line="313" column="24" />
+        <mark key="." line="313" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -217,16 +225,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>批</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>批</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnJye9zMqmytfF+s/qx+knJycKICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gW10K</text>
+      <register name="0" type="4">
+        <text>,count(if(subject=1,1,NULL))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgdHV0b3JfYXBwbHlfY291bnQsIHR1dG9yX3RpbWVkX2NvdW50LCB0dXRvcl9kdXJhdGlvbiAK</text>
