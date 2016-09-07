@@ -71,8 +71,11 @@
         <mark key="." line="248" column="34" />
         <mark key="^" line="236" column="15" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1473216295945">
-        <mark key="." line="48" column="91" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1473218795501">
+        <mark key="[" line="144" column="75" />
+        <mark key="]" line="145" column="23" />
+        <mark key="." line="145" column="49" />
+        <mark key="^" line="145" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1473135135156">
         <mark key="[" line="250" column="44" />
@@ -209,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>老师每日上下线和辅导等情况监控</text>
+        <text>'weinan.yang@lejent.com','yuanfan.yang@lejent.com',</text>
       </register>
       <register name="-" type="4">
-        <text>老师每日上下线和辅导等情况监控</text>
+        <text>'weinan.yang@lejent.com','yuanfan.yang@lejent.com',</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
