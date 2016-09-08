@@ -68,17 +68,17 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473304219287">
+      <file name="/Dummy.txt" timestamp="1473314315027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473305811616">
-        <mark key="'" line="3" column="8" />
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1473315028867">
+        <mark key="'" line="42" column="27" />
         <mark key="[" line="142" column="24" />
-        <mark key="]" line="202" column="55" />
-        <mark key="." line="202" column="55" />
-        <mark key="^" line="186" column="7" />
+        <mark key="]" line="53" column="67" />
+        <mark key="." line="53" column="67" />
+        <mark key="^" line="53" column="67" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1473243536629">
         <mark key="[" line="94" column="31" />
@@ -86,7 +86,7 @@
         <mark key="." line="94" column="32" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473311154892">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473314841035">
         <mark key="[" line="132" column="13" />
         <mark key="]" line="132" column="13" />
         <mark key="." line="132" column="13" />
@@ -142,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="4" filename="D:/PythonProjects/one4one/goods_stat.py" />
       <jump line="59" column="7" filename="D:/PythonProjects/one4one/goods_stat.py" />
       <jump line="79" column="0" filename="D:/PythonProjects/one4one/goods_stat.py" />
       <jump line="74" column="33" filename="D:/PythonProjects/one4one/goods_stat.py" />
@@ -242,13 +241,14 @@
       <jump line="44" column="28" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="101" column="41" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="43" column="28" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
+      <jump line="42" column="27" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>insert</text>
+        <text>fix a data error in ft_students</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>fix a data error in ft_students</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
