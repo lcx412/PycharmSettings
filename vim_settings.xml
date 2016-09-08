@@ -56,11 +56,11 @@
         <mark key="^" line="359" column="14" />
         <mark key="." line="359" column="14" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1473321781408">
-        <mark key="[" line="60" column="54" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="43" />
-        <mark key="^" line="60" column="43" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1473325625616">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="62" column="130" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1473316608508">
         <mark key="[" line="0" column="0" />
@@ -80,11 +80,11 @@
         <mark key="." line="94" column="32" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473320698672">
-        <mark key="[" line="132" column="13" />
-        <mark key="]" line="132" column="13" />
-        <mark key="." line="132" column="13" />
-        <mark key="^" line="118" column="19" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1473326031923">
+        <mark key="[" line="117" column="194" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="117" column="40" />
+        <mark key="." line="117" column="267" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1473316898227">
         <mark key="[" line="152" column="47" />
@@ -238,11 +238,11 @@
       <jump line="42" column="27" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u'首批总次数',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2Ftb3VudCA9IGNoYXJnZV9wYXlfYW1vdW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>改</text>
+        <text>, charge_pay_amount</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -251,31 +251,31 @@
         <text>u'首批总次数',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX3NlY29uZCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2Ftb3VudCA9IGNoYXJnZV9wYXlfYW1vdW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX3NlY29uZCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dhbmNlX2Ftb3VudCArPSAoY2hhcmdlX2Ftb3VudCAtIGNoYXJnZV9wYXlfYW1vdW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gbGlzdChjdXJfc3RhdC5mZXRjaGFsbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfcGF5X2Ftb3VudCAhPSAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX3BheV9hbW91bnQgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfcGF5X2Ftb3VudCBpcyBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfYW1vdW50X2FsbG93YW5jZSA9IGN1cl9zdGF0LmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2Ftb3VudF9hbGxvd2FuY2UgKz0gKGNoYXJnZV9hbW91bnRfbm9uX2FsbG93YW5jZSAtIGNoYXJnZV9wYXlfYW1vdW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfcGF5X2Ftb3VudCAhPSAwOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCBzdW0oY2hhcmdlX2Ftb3VudCkgZnJvbSBjaGFyZ2VfcmVjb3JkIHdoZXJlIHN0YXR1cz0xIGFuZCBjaGFyZ2VfdHlwZT02IGFuZCBlbmRfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX3BheV9hbW91bnQgPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfcGF5X2Ftb3VudCBpcyBOb25lOgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
