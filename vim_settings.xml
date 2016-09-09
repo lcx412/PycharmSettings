@@ -6,8 +6,10 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1473389170883">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1473392054049">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1473063118465">
         <mark key="[" line="0" column="0" />
@@ -246,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>完</text>
+        <text>to_excel()</text>
       </register>
       <register name="-" type="4">
-        <text>完</text>
+        <text>to_excel()</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
