@@ -29,10 +29,11 @@
         <mark key="^" line="109" column="73" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1473322617745" />
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1473660972665">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1473672956292">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1473305243628">
         <mark key="[" line="535" column="0" />
@@ -65,6 +66,7 @@
         <mark key="^" line="287" column="3" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1473651299261" />
+      <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1473673072994" />
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -288,7 +290,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubiA9IE15U1FMZGIuY29ubmVjdChob3N0PScxMC40NC41NC41MycsIHBvcnQ9MzMxMCwgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
+        <text encoding="base64">aGFkb29wIGZzIC1ybSAtciAvb3V0cHV0L2x1Y2hlbmd4aWFuZy93YXJlaG91c2UvdXNlcl9sb2dpbgo=</text>
       </register>
       <register name="-" type="4">
         <text>, uids</text>
@@ -300,33 +302,33 @@
         <text encoding="base64">ICAgICAgICB0ZWFjaGVyX3N1bXNfZGYgPSBwYW5kYXMuRGF0YUZyYW1lKFt0ZWFjaGVyX3N1bXNdLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aGFkb29wIGZzIC1ybSAtciAvb3V0cHV0L2x1Y2hlbmd4aWFuZy93YXJlaG91c2UvdXNlcl9sb2dpbgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubiA9IE15U1FMZGIuY29ubmVjdChob3N0PScxMC40NC41NC41MycsIHBvcnQ9MzMxMCwgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>,
                    [132500567, 132500586, 132500605, 132500624, 132500643, 132500662, 132500681, 132500700, 132500719,
                     132500738]</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBqaWFvc2hpID0gSmlhb3NoaSgpCiAgICAgICAgIyBqaWFvc2hpID0gSmlhb3NoaSh5ZXM9JzIwMTYtMDktMDUnKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBqaWFvc2hpID0gSmlhb3NoaSgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGppYW9zaGkgPSBKaWFvc2hpKCkKICAgICMgamlhb3NoaSA9IEppYW9zaGkoeWVzPScyMDE2LTA5LTA1JykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICclc1x0MScgJSBsaW5lCg==</text>
+        <text encoding="base64">ICAgIGppYW9zaGkgPSBKaWFvc2hpKCkKICAgICMgamlhb3NoaSA9IEppYW9zaGkoeWVzPScyMDE2LTA5LTA1JykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
