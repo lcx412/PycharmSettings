@@ -40,12 +40,12 @@
         <mark key="]" line="535" column="37" />
         <mark key="." line="535" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473743674411">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473744598385">
         <mark key="'" line="86" column="50" />
-        <mark key="[" line="120" column="53" />
-        <mark key="]" line="120" column="79" />
-        <mark key="^" line="120" column="79" />
-        <mark key="." line="120" column="79" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="123" column="57" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/builtins.py" timestamp="1473497992399" />
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1473497908315">
@@ -294,11 +294,11 @@
       <jump line="156" column="213" filename="D:/PythonProjects/one4one/wb_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlYWNoZXJfc3Vtc19kZj1wYW5kYXMuRGF0YUZyYW1lKFtdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -307,33 +307,33 @@
         <text encoding="base64">Y2guc3RhdHVzPD4yIGFuZCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlYWNoZXJfc3Vtc19kZj1wYW5kYXMuRGF0YUZyYW1lKFtdLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aGFkb29wIGZzIC1ybSAtciAvb3V0cHV0L2x1Y2hlbmd4aWFuZy93YXJlaG91c2UvdXNlcl9sb2dpbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHUnytfF+tPvzsTT0M7ztM7K/ScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J8rXxfrK/dGn09DO87TOyv0nLCB1J8rXxfrTotPv09DO87TOyv0nLA==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2hvbWV3b3JrX2ZpcnN0ID0gW10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aGFkb29wIGZzIC1ybSAtciAvb3V0cHV0L2x1Y2hlbmd4aWFuZy93YXJlaG91c2UvdXNlcl9sb2dpbgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubiA9IE15U1FMZGIuY29ubmVjdChob3N0PScxMC40NC41NC41MycsIHBvcnQ9MzMxMCwgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>,
                    [132500567, 132500586, 132500605, 132500624, 132500643, 132500662, 132500681, 132500700, 132500719,
                     132500738]</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqaWFvc2hpID0gSmlhb3NoaSgpCiAgICAgICAgIyBqaWFvc2hpID0gSmlhb3NoaSh5ZXM9JzIwMTYtMDktMDUnKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqaWFvc2hpID0gSmlhb3NoaSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqaWFvc2hpID0gSmlhb3NoaSgpCiAgICAgICAgIyBqaWFvc2hpID0gSmlhb3NoaSh5ZXM9JzIwMTYtMDktMDUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
