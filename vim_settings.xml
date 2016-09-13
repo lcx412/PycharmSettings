@@ -141,12 +141,12 @@
         <mark key="." line="109" column="78" />
         <mark key="^" line="109" column="73" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473768717365">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1473773195745">
         <mark key="'" line="86" column="50" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="12" />
-        <mark key="." line="177" column="12" />
-        <mark key="^" line="177" column="7" />
+        <mark key="[" line="197" column="101" />
+        <mark key="]" line="197" column="101" />
+        <mark key="." line="197" column="101" />
+        <mark key="^" line="164" column="33" />
       </file>
       <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1472896848291">
         <mark key="[" line="78" column="85" />
@@ -324,10 +324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>inner</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>inner</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
