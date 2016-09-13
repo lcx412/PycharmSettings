@@ -116,6 +116,12 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="D:/PythonProjects/Stat/Sitao.py" timestamp="1473763412019">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+      </file>
       <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472894012529">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="75" column="132" />
@@ -123,7 +129,7 @@
         <mark key="." line="75" column="136" />
         <mark key="^" line="75" column="136" />
       </file>
-      <file name="/Python Console" timestamp="1473493383245">
+      <file name="/Python Console" timestamp="1473762988435">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -142,8 +148,11 @@
         <mark key="." line="184" column="36" />
         <mark key="^" line="127" column="38" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1473497908315">
-        <mark key="[" line="6" column="12" />
+      <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1472896848291">
+        <mark key="[" line="78" column="85" />
+        <mark key="]" line="78" column="86" />
+        <mark key="." line="78" column="86" />
+        <mark key="^" line="78" column="86" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1473662071186">
         <mark key="'" line="79" column="46" />
@@ -315,10 +324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIG8gPSBbXQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -327,31 +336,31 @@
         <text>u'教师账号',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIG8gPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJyVzXHQxJyAlIHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciA9IHJlLnNlYXJjaChyJ1xbaGFzX3Jlc3VsdD0oXGQpXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJyVzXHQxJyAlIHIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gbGluZS5yc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9IHJlLnNlYXJjaChyJ1xbaGFzX3Jlc3VsdD0oXGQpXF0nLCBsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAtcmVkdWNlciAiY2F0IiBcCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gbGluZS5yc3RyaXAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J9PvzsTF+rjEtM7K/ScsIHUnyv3Rp8X6uMS0zsr9JywgdSfTotPvxfq4xLTOyv0nXSkK</text>
+        <text encoding="base64">IyAgICAtcmVkdWNlciAiY2F0IiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
