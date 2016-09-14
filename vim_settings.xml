@@ -21,6 +21,12 @@
       <file name="/a.dummy" timestamp="1473063118465">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1473837428434">
+        <mark key="[" line="140" column="151" />
+        <mark key="]" line="140" column="153" />
+        <mark key="^" line="140" column="153" />
+        <mark key="." line="140" column="153" />
+      </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1473673916519">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -322,16 +328,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
       </register>
       <register name="0" type="4">
-        <text>'[wx prepare pay]'</text>
+        <text>round(c.charge_amount/100,2),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBsaW5lLnN0cmlwKCkK</text>
