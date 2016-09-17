@@ -13,7 +13,7 @@
         <mark key="." line="75" column="136" />
         <mark key="^" line="75" column="136" />
       </file>
-      <file name="/a.dummy" timestamp="1473063118465">
+      <file name="/a.dummy" timestamp="1474078034312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1473838790548">
@@ -60,11 +60,11 @@
         <mark key="^" line="86" column="40" />
         <mark key="." line="86" column="40" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1473135122363">
-        <mark key="[" line="292" column="44" />
-        <mark key="]" line="292" column="45" />
-        <mark key="." line="292" column="45" />
-        <mark key="^" line="287" column="3" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1474078452426">
+        <mark key="[" line="287" column="29" />
+        <mark key="]" line="287" column="0" />
+        <mark key="^" line="90" column="32" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/task.sh" timestamp="1473752588340">
         <mark key="'" line="10" column="0" />
@@ -72,23 +72,24 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1473650806166">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="9" />
-        <mark key="." line="55" column="9" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1474078734986">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="26" column="35" />
       </file>
-      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1473912638656">
+      <file name="D:/PythonProjects/one4one/Card_Duration.py" timestamp="1474077986530">
         <mark key="'" line="222" column="4" />
         <mark key="[" line="160" column="63" />
         <mark key="]" line="161" column="60" />
         <mark key="." line="161" column="60" />
         <mark key="^" line="161" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1473767864676">
-        <mark key="[" line="245" column="35" />
-        <mark key="]" line="245" column="35" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1474078596256">
+        <mark key="[" line="246" column="32" />
+        <mark key="]" line="246" column="33" />
         <mark key="^" line="246" column="34" />
-        <mark key="." line="245" column="35" />
+        <mark key="." line="246" column="33" />
       </file>
       <file name="D:/PythonProjects/Streaming/Sitao.py" timestamp="1473824979018">
         <mark key="[" line="8" column="14" />
@@ -176,12 +177,13 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1474078123881" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1473753346229">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1473387904122">
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1474078941473">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
@@ -318,11 +320,11 @@
       <jump line="221" column="4" filename="D:/PythonProjects/one4one/Card_Duration.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sys.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sys.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -331,31 +333,31 @@
         <text>round(c.charge_amount/100,2),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBsaW5lLnN0cmlwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uX3N0YXQuY29tbWl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwaWRzOgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsaW5lLnN0cmlwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHVkZW50X2RldGFpbF9kZi5maWxsbmEoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG8gPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwaWRzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
