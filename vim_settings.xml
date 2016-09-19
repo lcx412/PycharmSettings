@@ -110,7 +110,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1474251624618" />
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1474256911160">
+        <mark key="'" line="144" column="26" />
+        <mark key="[" line="138" column="33" />
+        <mark key="]" line="138" column="33" />
+        <mark key="." line="138" column="33" />
+        <mark key="^" line="71" column="194" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1473243536629">
         <mark key="[" line="94" column="31" />
         <mark key="]" line="94" column="32" />
@@ -153,12 +159,12 @@
         <mark key="^" line="142" column="60" />
         <mark key="." line="142" column="4" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1474250199933">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1474255432362">
         <mark key="'" line="144" column="213" />
-        <mark key="[" line="162" column="34" />
-        <mark key="]" line="162" column="35" />
-        <mark key="." line="162" column="35" />
-        <mark key="^" line="37" column="67" />
+        <mark key="[" line="162" column="24" />
+        <mark key="]" line="163" column="3" />
+        <mark key="." line="163" column="3" />
+        <mark key="^" line="163" column="3" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1473069809576">
         <mark key="[" line="132" column="31" />
@@ -191,7 +197,8 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1474252673636">
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1474257523859">
+        <mark key="'" line="71" column="0" />
         <mark key="[" line="17" column="59" />
         <mark key="]" line="17" column="69" />
         <mark key="." line="17" column="69" />
@@ -232,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/mall_stat.py" />
-      <jump line="140" column="4" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="105" column="74" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="215" column="41" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="16" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
@@ -332,46 +337,48 @@
       <jump line="73" column="32" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="46" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="75" column="8" filename="D:/PythonProjects/one4one/page_views.py" />
+      <jump line="144" column="26" filename="D:/PythonProjects/one4one/mall_stat.py" />
+      <jump line="71" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
       </register>
       <register name="0" type="4">
-        <text>page_views</text>
+        <text encoding="base64">IGFuZCBvdGhlclsnaG9zdCddPScn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
+        <text encoding="base64">ICAgIHJlbWFpbiA9IFJlbWFpbih5ZXM9KGRhdGV0aW1lLnRvZGF5KCkgLSB0aW1lZGVsdGEoMikpLnN0cmZ0aW1lKCclWS0lbS0lZCcpKQogICAgcmVtYWluLnJlbWFpbl9zdGF0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZSA9IHNlbGYuY3VyX2hpdmUK</text>
+        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZSA9IHNlbGYuY3VyX2hpdmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nTGVqZW50MTY4JywgZGI9J29uZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG0uY29ubmVjdGlvbignYWZhbnRpX3N0YXRfZGInKQogICAgICAgIHNlbGYuY3VyX3N0YXQgPSBzZWxmLmNvbm5fc3RhdC5jdXJzb3IoKQogICAgICAgIHNlbGYuY29ubl9wb3N0ID0gbS5jb25uZWN0aW9uKCdwb3N0X3N0YXRfZGInKQogICAgICAgIHNlbGYuY3VyX3Bvc3QgPSBzZWxmLmNvbm5fcG9zdC5jdXJzb3IoKQogICAgICAgIHNlbGYuY29ubl8xb24xID0gbS5jb25uZWN0aW9uKCcxb24xX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl8xb24xID0gc2VsZi5jb25uXzFvbjEuY3Vyc29yKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nTGVqZW50MTY4JywgZGI9J29uZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMSA9IHNlbGYuY3VyXzFvbjEK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fc3RhdCA9IG0uY29ubmVjdGlvbignYWZhbnRpX3N0YXRfZGInKQogICAgICAgIHNlbGYuY3VyX3N0YXQgPSBzZWxmLmNvbm5fc3RhdC5jdXJzb3IoKQogICAgICAgIHNlbGYuY29ubl9wb3N0ID0gbS5jb25uZWN0aW9uKCdwb3N0X3N0YXRfZGInKQogICAgICAgIHNlbGYuY3VyX3Bvc3QgPSBzZWxmLmNvbm5fcG9zdC5jdXJzb3IoKQogICAgICAgIHNlbGYuY29ubl8xb24xID0gbS5jb25uZWN0aW9uKCcxb24xX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl8xb24xID0gc2VsZi5jb25uXzFvbjEuY3Vyc29yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
