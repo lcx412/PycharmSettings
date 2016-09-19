@@ -14,7 +14,7 @@
         <mark key="^" line="75" column="136" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1474171894224" />
-      <file name="/Python Console" timestamp="1474170941808">
+      <file name="/Python Console" timestamp="1474261521555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1474078034312">
@@ -197,12 +197,12 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1474257523859">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="69" />
-        <mark key="." line="17" column="69" />
-        <mark key="^" line="17" column="69" />
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1474261675652">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1474078941473">
         <mark key="[" line="17" column="15" />
@@ -225,11 +225,11 @@
         <mark key="^" line="313" column="24" />
         <mark key="." line="313" column="24" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1473754146244">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1474261085737">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="D:/PythonProjects/Stat/Sitao.py" timestamp="1473763412019">
         <mark key="[" line="9" column="28" />
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>-eq</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>-eq</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
