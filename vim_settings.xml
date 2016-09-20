@@ -94,11 +94,12 @@
       <file name="/Django Console" timestamp="1472200558649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Stat/Images_Extract.py" timestamp="1474363912013">
-        <mark key="[" line="89" column="53" />
-        <mark key="]" line="89" column="68" />
-        <mark key="^" line="89" column="68" />
-        <mark key="." line="89" column="68" />
+      <file name="D:/PythonProjects/Stat/Images_Extract.py" timestamp="1474365727242">
+        <mark key="'" line="122" column="16" />
+        <mark key="[" line="122" column="102" />
+        <mark key="]" line="97" column="42" />
+        <mark key="^" line="97" column="42" />
+        <mark key="." line="97" column="42" />
       </file>
       <file name="D:/PythonProjects/next/next-server/tests/test_creater.py" timestamp="1474285753908" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1474363891067" />
@@ -154,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="14" filename="D:/PythonProjects/matrix/static/js/finance/ft_teachers.js" />
       <jump line="53" column="21" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.html" />
       <jump line="59" column="0" filename="D:/PythonProjects/matrix/statistics/templates/wb_ft_base.html" />
       <jump line="226" column="22" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
@@ -254,19 +254,20 @@
       <jump line="14" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
       <jump line="0" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
       <jump line="63" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
+      <jump line="91" column="16" filename="D:/PythonProjects/Stat/Images_Extract.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_photo_store_path</text>
+        <text>stat</text>
       </register>
       <register name="-" type="4">
-        <text>user_photo_store_path</text>
+        <text>stat</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcCA9IHJlLnNlYXJjaChyJ1xbZW50cnlfcG9pbnQ9KFxkKylcXSAnLGxpbmUpCiAgICAgICAgaWYgZXA6CiAgICAgICAgICAgIGVwID0gZXAuZ3JvdXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBpZF9nb29kc19kaWN0Cg==</text>
