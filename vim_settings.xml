@@ -24,12 +24,18 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="61" column="16" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1474426205885">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1474429132292">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="232" column="16" />
+        <mark key="^" line="231" column="119" />
+        <mark key="." line="232" column="16" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1474429110628">
         <mark key="'" line="267" column="4" />
-        <mark key="[" line="232" column="72" />
-        <mark key="]" line="232" column="72" />
-        <mark key="." line="232" column="72" />
-        <mark key="^" line="232" column="71" />
+        <mark key="[" line="232" column="141" />
+        <mark key="]" line="232" column="137" />
+        <mark key="." line="232" column="137" />
+        <mark key="^" line="232" column="137" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1474265765746">
         <mark key="'" line="144" column="213" />
@@ -266,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">dWlkLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">dWlkLCA=</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
@@ -278,31 +284,31 @@
         <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShtb25leSpidXlfbnVtKSBmcm9tIGR1b2Jhb19leGNoYW5nZV9yZWNvcmQgd2hlcmUgdXNlcl9pZD17MH0gYW5kIHBheV90eXBlPD4wIGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9IGFuZCBzdGF0dXM+MCIuZm9ybWF0KAogICAgICAgICAgICAgICAgdWlkLCB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfc3RhdC5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfZHVvYmFvID0gc2VsZi5jdXJfZHVvYmFvCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXJfZHVvYmFvLnJvd2NvdW50ID4gMDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWlkID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfZHVvYmFvID0gc2VsZi5jdXJfZHVvYmFvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICclc1x0JXMnICUgKGltYWdlLCBzdWIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWlkID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWIgPSBxdWVzdGlvbl9zdWJqZWN0X2RpY3RbY3VyX3F1ZXN0aW9uLmZldGNob25lKClbMF1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICclc1x0JXMnICUgKGltYWdlLCBzdWIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJfcXVlc3Rpb24uZXhlY3V0ZSgic2VsZWN0IHN1YmplY3QgZnJvbSBxdWVzdGlvbiB3aGVyZSBxdWVzdGlvbl9pZD17MH0iLmZvcm1hdChxaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHFpZCAhPSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWIgPSBxdWVzdGlvbl9zdWJqZWN0X2RpY3RbY3VyX3F1ZXN0aW9uLmZldGNob25lKClbMF1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
