@@ -3,7 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1471924663227">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1474449319312" />
+      <file name="/a.dummy" timestamp="1474363054189">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1474528947956">
+        <mark key="[" line="576" column="24" />
+        <mark key="]" line="576" column="27" />
+        <mark key="." line="576" column="27" />
+        <mark key="^" line="576" column="27" />
+      </file>
       <file name="D:/PythonProjects/next/next-server/conf/logging.conf" timestamp="1474452845185" />
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474448708494" />
       <file name="D:/PythonProjects/next/next-server/bin/nextserver" timestamp="1474452021331" />
@@ -51,11 +63,21 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1474531073601">
+        <mark key="'" line="253" column="4" />
+        <mark key="[" line="228" column="84" />
+        <mark key="]" line="241" column="54" />
+        <mark key="^" line="225" column="187" />
+        <mark key="." line="241" column="54" />
+      </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1474342995801">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
+      </file>
+      <file name="/a.txt" timestamp="1473150710955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1474261085737">
         <mark key="[" line="7" column="13" />
@@ -74,7 +96,7 @@
       <file name="D:/PythonProjects/next/next-server/lib/next_handler.py" timestamp="1474453079723">
         <mark key="'" line="24" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1474448002730">
+      <file name="/Python Console" timestamp="1474526534684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -97,6 +119,9 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/logs/nextserver.log" timestamp="1474450199202" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1474343386330" />
+      <file name="/Django Console" timestamp="1474529615714">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/Stat/Images_Extract.py" timestamp="1474369272598">
         <mark key="'" line="202" column="4" />
         <mark key="[" line="168" column="0" />
@@ -104,11 +129,12 @@
         <mark key="^" line="168" column="15" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="D:/PythonProjects/next/next-server/tests/test_creater.py" timestamp="1474446131698">
-        <mark key="[" line="11" column="169" />
-        <mark key="." line="11" column="174" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1474533145702">
+        <mark key="'" line="696" column="47" />
+        <mark key="[" line="687" column="43" />
+        <mark key="]" line="687" column="43" />
+        <mark key="." line="687" column="43" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1474363891067" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1474173337538">
         <mark key="[" line="61" column="7" />
         <mark key="]" line="61" column="8" />
@@ -122,12 +148,24 @@
         <mark key="^" line="75" column="17" />
         <mark key="." line="74" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1474530361188">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1474358176288">
         <mark key="'" line="149" column="26" />
         <mark key="[" line="112" column="19" />
         <mark key="]" line="112" column="16" />
         <mark key="." line="112" column="16" />
         <mark key="^" line="112" column="16" />
+      </file>
+      <file name="D:/PythonProjects/matrix/statistics/ft_views.py" timestamp="1474530349331">
+        <mark key="'" line="42" column="27" />
+        <mark key="[" line="117" column="19" />
+        <mark key="]" line="293" column="45" />
+        <mark key="." line="293" column="45" />
+        <mark key="^" line="293" column="45" />
       </file>
       <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1474438723554">
         <mark key="'" line="84" column="0" />
@@ -137,6 +175,9 @@
         <mark key="^" line="61" column="21" />
       </file>
       <file name="D:/PythonProjects/next/next-worker/bin/starter.py" timestamp="1474451784107" />
+      <file name="/a.regexp" timestamp="1474531334498">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1474351828678">
         <mark key="[" line="134" column="47" />
         <mark key="]" line="24" column="0" />
@@ -162,14 +203,6 @@
       <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1474452142553" />
     </filemarks>
     <jumps>
-      <jump line="22" column="10" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="40" column="0" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="19" column="16" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="576" column="0" filename="C:/Python2/Lib/smtplib.py" />
-      <jump line="43" column="38" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="44" column="84" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="47" column="24" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="129" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="175" column="0" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="294" column="8" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
       <jump line="120" column="24" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
@@ -262,46 +295,54 @@
       <jump line="250" column="56" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="269" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="285" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="487" column="63" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="28" column="46" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="237" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="547" column="65" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="23" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="50" column="14" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="700" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="699" column="47" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>yes_date</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>yes_date</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
       </register>
-      <register name="0" type="4">
-        <text>.union(uids6)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHR1dG9yX3RlYWNoZXJfZGV0YWlsID0gVHV0b3JfVGVhY2hlcl9EZXRhaWwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGEsIGlpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjYXJkX25vdGUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5zLmRhdGUgPSBvcmlnaW5zLmRhdGUuYXN0eXBlKHN0cikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjYXJkX25vdGUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5zID0gb3JpZ2luc1tbJ2RhdGUnLCAnaW5zdGFsbF9pZCddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5zID0gcGFuZGFzLnJlYWRfZXhjZWwodScuL8q2sfC87Mv3t9bK/S54bHN4JywgdSd4bbTmMS0zzOInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgsIGRhLCBpaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcm93Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGEsIGlpZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5zLmRhdGUgPSBvcmlnaW5zLmRhdGUuYXN0eXBlKHN0cikK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
