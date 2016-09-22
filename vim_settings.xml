@@ -15,18 +15,19 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="61" column="16" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1474429132292">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="232" column="16" />
-        <mark key="^" line="231" column="119" />
-        <mark key="." line="232" column="16" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1474515497937">
+        <mark key="'" line="194" column="25" />
+        <mark key="[" line="89" column="64" />
+        <mark key="]" line="42" column="59" />
+        <mark key="^" line="42" column="59" />
+        <mark key="." line="42" column="59" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1474429110628">
-        <mark key="'" line="267" column="4" />
-        <mark key="[" line="232" column="141" />
-        <mark key="]" line="232" column="137" />
-        <mark key="." line="232" column="137" />
-        <mark key="^" line="232" column="137" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1474515634490">
+        <mark key="'" line="285" column="4" />
+        <mark key="[" line="99" column="140" />
+        <mark key="]" line="99" column="140" />
+        <mark key="." line="99" column="140" />
+        <mark key="^" line="99" column="140" />
       </file>
       <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1474453936994" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1474441623784">
@@ -161,11 +162,6 @@
       <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1474452142553" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
-      <jump line="1015" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
-      <jump line="33" column="14" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="74" column="4" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="59" column="45" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="22" column="10" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="40" column="0" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="19" column="16" filename="D:/PythonProjects/one4one/mail.py" />
@@ -261,19 +257,24 @@
       <jump line="114" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="262" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="24" column="35" filename="D:/PythonProjects/next/next-server/lib/next_handler.py" />
+      <jump line="192" column="25" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="92" column="24" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="250" column="56" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="269" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="285" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IHN1bShtb25leSpidXlfbnVtKSBmcm9tIGR1b2Jhb19leGNoYW5nZV9yZWNvcmQgd2hlcmUgdXNlcl9pZD17MH0gYW5kIHBheV90eXBlPD4wIGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9IGFuZCBzdGF0dXM+MCIuZm9ybWF0KAogICAgICAgICAgICAgICAgdWlkLCB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
+      <register name="0" type="4">
+        <text>.union(uids6)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
