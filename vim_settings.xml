@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474699939979">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474701476614">
         <mark key="a" line="16" column="0" />
-        <mark key="[" line="16" column="90" />
-        <mark key="]" line="16" column="90" />
-        <mark key="^" line="16" column="52" />
-        <mark key="." line="16" column="90" />
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="16" column="56" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="56" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1474618899307" />
       <file name="/a.dummy" timestamp="1474697159695">
@@ -222,10 +222,10 @@
         <mark key="^" line="78" column="86" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1474284194061" />
-      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474700047097">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474701185358">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1474612809948">
         <mark key="'" line="78" column="46" />
@@ -443,11 +443,11 @@
       <jump line="59" column="8" filename="D:/PythonProjects/next/next-server/lib/creater.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>grep -v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L3Vzci9iaW4vZW52IA==</text>
+        <text>grep -v</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
