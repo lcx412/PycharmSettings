@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474701476614">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474702236690">
         <mark key="a" line="16" column="0" />
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="56" />
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="69" />
+        <mark key="." line="16" column="61" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1474618899307" />
       <file name="/a.dummy" timestamp="1474697159695">
@@ -222,7 +222,7 @@
         <mark key="^" line="78" column="86" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1474284194061" />
-      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474701185358">
+      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474702335051">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
@@ -444,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grep -v</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>grep -v</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>wb_remain</text>
