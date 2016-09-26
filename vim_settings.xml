@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1471924663227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474860707027">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1474869448004">
         <mark key="a" line="16" column="0" />
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="61" />
@@ -209,7 +209,7 @@
         <mark key="." line="78" column="86" />
         <mark key="^" line="78" column="86" />
       </file>
-      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474702941175">
+      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1474869354517">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
@@ -264,11 +264,6 @@
         <mark key="^" line="75" column="17" />
         <mark key="." line="74" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474530361188">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1474358176288">
         <mark key="'" line="149" column="26" />
         <mark key="[" line="112" column="19" />
@@ -315,8 +310,8 @@
         <mark key="." line="142" column="4" />
         <mark key="^" line="140" column="7" />
       </file>
-      <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1474861859705">
-        <mark key="'" line="22" column="10" />
+      <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1474869565423">
+        <mark key="'" line="44" column="0" />
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="42" />
         <mark key="." line="34" column="42" />
@@ -324,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="27" filename="D:/PythonProjects/next/next-server/lib/thrift/aft_thrift/next/next_service/Next-remote" />
-      <jump line="196" column="39" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="68" column="31" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="264" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="98" column="48" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
@@ -424,6 +417,8 @@
       <jump line="325" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="46" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="701" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="42" column="19" filename="D:/PythonProjects/Flask/get_page_views.py" />
+      <jump line="44" column="0" filename="D:/PythonProjects/Flask/get_page_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
