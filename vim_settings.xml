@@ -63,11 +63,11 @@
         <mark key="." line="99" column="64" />
         <mark key="^" line="99" column="64" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1475117284143">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="61" />
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1475118132183">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_ft_base.js" timestamp="1475117120592">
         <mark key="[" line="142" column="0" />
@@ -105,12 +105,12 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="D:/PythonProjects/matrix/static/style/pace.css" timestamp="1475115782127">
+      <file name="D:/PythonProjects/matrix/static/style/pace.css" timestamp="1475118445782">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1472894012529">
         <mark key="'" line="98" column="4" />
@@ -319,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, &quot;eventLag&quot;:true</text>
+        <text encoding="base64">IGRhdGEtcGFjZS1vcHRpb25zPSd7ICJhamF4IjogdHJ1ZX0n</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;eventLag&quot;:true</text>
+        <text encoding="base64">IGRhdGEtcGFjZS1vcHRpb25zPSd7ICJhamF4IjogdHJ1ZX0n</text>
       </register>
       <register name="/" type="4">
         <text>strip</text>
