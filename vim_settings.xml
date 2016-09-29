@@ -23,6 +23,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1474878678447">
         <mark key="[" line="287" column="29" />
         <mark key="]" line="287" column="0" />
@@ -70,12 +73,8 @@
         <mark key="." line="99" column="64" />
         <mark key="^" line="99" column="64" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1475119286872">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
+      <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1475132708065">
+        <mark key="'" line="74" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/static/js/1on1/wb_ft_base.js" timestamp="1475117120592">
         <mark key="[" line="142" column="0" />
@@ -205,6 +204,9 @@
       <file name="/a.regexp" timestamp="1474531334498">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/next/next-server/lib/creater.py" timestamp="1474688066162">
+        <mark key="'" line="59" column="8" />
+      </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1474265461729">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="53" column="54" />
@@ -221,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="35" filename="D:/PythonProjects/one4one/tutor_teacher_remain.py" />
       <jump line="370" column="24" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="184" column="42" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="343" column="40" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
@@ -321,6 +322,7 @@
       <jump line="78" column="7" filename="D:/PythonProjects/one4one/mvp_stat.py" />
       <jump line="90" column="18" filename="D:/PythonProjects/one4one/mvp_stat.py" />
       <jump line="87" column="36" filename="D:/PythonProjects/one4one/mvp_stat.py" />
+      <jump line="74" column="35" filename="D:/PythonProjects/matrix/templates/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
