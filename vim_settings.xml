@@ -31,7 +31,9 @@
       <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1476174243950">
         <mark key="." line="0" column="131" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1476178242271" />
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1476179282728">
+        <mark key="'" line="25" column="24" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476082949626">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="140" column="196" />
@@ -93,7 +95,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1476069780196" />
     </filemarks>
     <jumps>
-      <jump line="206" column="16" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="235" column="29" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="158" column="23" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/Card_Duration.py" />
@@ -193,6 +194,7 @@
       <jump line="63" column="0" filename="D:/PythonProjects/matrix/api/overall_stat.py" />
       <jump line="24" column="20" filename="D:/PythonProjects/matrix/api/gen_table.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/gen_table.py" />
+      <jump line="25" column="24" filename="D:/PythonProjects/matrix/api/gen_table.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
