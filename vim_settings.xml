@@ -9,7 +9,9 @@
       <file name="D:/PythonProjects/next/next-server/lib/next_handler.py" timestamp="1476006713114">
         <mark key="'" line="84" column="6" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/package.json" timestamp="1476151423523" />
+      <file name="D:/PythonProjects/matrix/webapp/package.json" timestamp="1476152342241">
+        <mark key="'" line="49" column="3" />
+      </file>
       <file name="/Python Console" timestamp="1474944947493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -48,7 +50,7 @@
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476072242806">
         <mark key="'" line="49" column="33" />
       </file>
-      <file name="D:/PythonProjects/matrix/templates/index.html" timestamp="1476069813419" />
+      <file name="D:/PythonProjects/matrix/templates/index.html" timestamp="1476152926687" />
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476087745580">
         <mark key="'" line="22" column="0" />
       </file>
@@ -97,7 +99,7 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476071164315" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476152760455" />
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1475131644995">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="22" />
@@ -117,9 +119,14 @@
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476069099426" />
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1476069780196" />
       <file name="D:/PythonProjects/matrix/webapp/containers/Home.js" timestamp="1476097358923" />
+      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1476153024702">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="28" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="101" column="41" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="43" column="28" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="42" column="27" filename="D:/PythonProjects/matrix/statistics/ft_views.py" />
@@ -219,6 +226,7 @@
       <jump line="77" column="23" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="207" column="23" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="237" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="49" column="3" filename="D:/PythonProjects/matrix/webapp/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
