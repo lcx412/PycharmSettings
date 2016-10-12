@@ -135,7 +135,8 @@
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476251331679">
         <mark key="'" line="77" column="27" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476279617489">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476280380594">
+        <mark key="'" line="63" column="11" />
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
@@ -169,7 +170,6 @@
       <file name="D:/PythonProjects/matrix/webapp/components/PageNotFound.js" timestamp="1476278553616" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/next/next-server/lib/creater.py" />
       <jump line="59" column="8" filename="D:/PythonProjects/next/next-server/lib/creater.py" />
       <jump line="27" column="40" filename="D:/PythonProjects/next/next-server/lib/next_handler.py" />
       <jump line="37" column="17" filename="D:/PythonProjects/next/next-server/lib/next_handler.py" />
@@ -269,6 +269,7 @@
       <jump line="164" column="38" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="50" column="22" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="63" column="11" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
