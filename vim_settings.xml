@@ -14,14 +14,14 @@
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476261267681">
-        <mark key="'" line="271" column="11" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476263870225">
+        <mark key="'" line="103" column="19" />
         <mark key="[" line="65" column="49" />
         <mark key="]" line="82" column="55" />
         <mark key="^" line="82" column="55" />
         <mark key="." line="82" column="55" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476260906677">
+      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476263817348">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="83" />
@@ -153,8 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="12" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
-      <jump line="41" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
       <jump line="8" column="22" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
       <jump line="76" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
@@ -253,6 +251,8 @@
       <jump line="73" column="26" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="13" column="51" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="268" column="11" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="117" column="21" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="103" column="19" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
