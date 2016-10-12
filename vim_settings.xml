@@ -14,8 +14,8 @@
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476265268379">
-        <mark key="'" line="103" column="19" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476266740281">
+        <mark key="'" line="73" column="37" />
         <mark key="[" line="65" column="49" />
         <mark key="]" line="82" column="55" />
         <mark key="^" line="82" column="55" />
@@ -28,7 +28,7 @@
         <mark key="^" line="20" column="83" />
         <mark key="." line="20" column="83" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476255791413">
+      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476266738770">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="87" column="27" />
         <mark key="]" line="87" column="26" />
@@ -70,6 +70,9 @@
       </file>
       <file name="/a.txt" timestamp="1473150710955">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" timestamp="1476266610164">
+        <mark key="'" line="31" column="4" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476181520336" />
       <file name="D:/PythonProjects/matrix/webapp/containers/Home.js" timestamp="1476097358923" />
@@ -153,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
       <jump line="76" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
       <jump line="14" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme.css" />
@@ -248,11 +250,12 @@
       <jump line="72" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="89" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="73" column="26" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="13" column="51" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="268" column="11" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="117" column="21" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="103" column="19" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="73" column="37" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="31" column="4" filename="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
