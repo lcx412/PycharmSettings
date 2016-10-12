@@ -95,6 +95,9 @@
         <mark key="'" line="49" column="33" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/index.html" timestamp="1476175129738" />
+      <file name="D:/Program Files/Python/Lib/site-packages/django/views/decorators/csrf.py" timestamp="1476244063044">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476087745580">
         <mark key="'" line="22" column="0" />
       </file>
@@ -110,12 +113,11 @@
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/views/generic/base.py" timestamp="1476168536185" />
       <file name="D:/PythonProjects/matrix/static/style/antd.css" timestamp="1476068956259" />
+      <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1476243094203">
+        <mark key="'" line="80" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/Card_Duration.py" />
-      <jump line="221" column="4" filename="D:/PythonProjects/one4one/Card_Duration.py" />
-      <jump line="64" column="31" filename="D:/PythonProjects/one4one/page_views.py" />
-      <jump line="73" column="32" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="46" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="75" column="8" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="144" column="26" filename="D:/PythonProjects/one4one/mall_stat.py" />
@@ -212,6 +214,10 @@
       <jump line="25" column="24" filename="D:/PythonProjects/matrix/api/gen_table.py" />
       <jump line="97" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="138" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="54" column="35" filename="D:/PythonProjects/matrix/Matrix/views.py" />
+      <jump line="80" column="11" filename="D:/PythonProjects/matrix/Matrix/views.py" />
+      <jump line="59" column="64" filename="D:/Program Files/Python/Lib/site-packages/django/views/decorators/csrf.py" />
+      <jump line="40" column="0" filename="D:/Program Files/Python/Lib/site-packages/django/views/decorators/csrf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
