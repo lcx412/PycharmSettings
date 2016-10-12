@@ -11,8 +11,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/index.js" timestamp="1476206347131" />
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476238639290">
-        <mark key="'" line="237" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476241859869">
+        <mark key="'" line="138" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476174311496">
         <mark key="'" line="104" column="0" />
@@ -110,11 +110,8 @@
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/views/generic/base.py" timestamp="1476168536185" />
       <file name="D:/PythonProjects/matrix/static/style/antd.css" timestamp="1476068956259" />
-      <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1476069780196" />
     </filemarks>
     <jumps>
-      <jump line="235" column="29" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
-      <jump line="158" column="23" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="221" column="4" filename="D:/PythonProjects/one4one/Card_Duration.py" />
       <jump line="64" column="31" filename="D:/PythonProjects/one4one/page_views.py" />
@@ -213,6 +210,8 @@
       <jump line="24" column="20" filename="D:/PythonProjects/matrix/api/gen_table.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/gen_table.py" />
       <jump line="25" column="24" filename="D:/PythonProjects/matrix/api/gen_table.py" />
+      <jump line="97" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="138" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
