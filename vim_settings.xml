@@ -14,8 +14,8 @@
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476266740281">
-        <mark key="'" line="73" column="37" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476270800150">
+        <mark key="'" line="78" column="0" />
         <mark key="[" line="65" column="49" />
         <mark key="]" line="82" column="55" />
         <mark key="^" line="82" column="55" />
@@ -71,7 +71,7 @@
       <file name="/a.txt" timestamp="1473150710955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" timestamp="1476266610164">
+      <file name="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" timestamp="1476270594103">
         <mark key="'" line="31" column="4" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476181520336" />
@@ -140,6 +140,7 @@
       <file name="/Dummy.txt" timestamp="1475119637627">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/webapp/containers/HourPage.js" timestamp="1476270652269" />
       <file name="/a.regexp" timestamp="1476259080610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,9 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
-      <jump line="76" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
-      <jump line="14" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme.css" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/static/style/pace-theme.css" />
       <jump line="77" column="49" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="44" column="40" filename="D:/PythonProjects/next/next-server/lib/creater.py" />
@@ -256,6 +254,9 @@
       <jump line="103" column="19" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="73" column="37" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="31" column="4" filename="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" />
+      <jump line="121" column="47" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="291" column="21" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="78" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
