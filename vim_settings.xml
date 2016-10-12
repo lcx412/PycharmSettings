@@ -3,13 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1476071745367">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/build/webpack.config.js" timestamp="1476157728094" />
-      <file name="D:/PythonProjects/matrix/webapp/index.js" timestamp="1476245815372" />
+      <file name="/a.dummy" timestamp="1474697159695">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/index.js" timestamp="1476251404478" />
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476241859869">
-        <mark key="'" line="138" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476261267681">
+        <mark key="'" line="271" column="11" />
+        <mark key="[" line="65" column="49" />
+        <mark key="]" line="82" column="55" />
+        <mark key="^" line="82" column="55" />
+        <mark key="." line="82" column="55" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476260906677">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="83" />
+        <mark key="^" line="20" column="83" />
+        <mark key="." line="20" column="83" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476255791413">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="26" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476082935205">
+        <mark key="'" line="262" column="4" />
+        <mark key="[" line="76" column="88" />
+        <mark key="]" line="76" column="145" />
+        <mark key="^" line="76" column="165" />
+        <mark key="." line="76" column="145" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476082949626">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="140" column="196" />
+        <mark key="]" line="140" column="217" />
+        <mark key="." line="140" column="217" />
+        <mark key="^" line="140" column="217" />
       </file>
       <file name="D:/PythonProjects/matrix/templates/base.html" timestamp="1475132708065">
         <mark key="'" line="74" column="35" />
@@ -17,12 +55,21 @@
       <file name="D:/Program Files/Python/Lib/site-packages/kombu/entity.py" timestamp="1476153762053">
         <mark key="'" line="364" column="49" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476245698065" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476259939865">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+      </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476238872597">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
+      </file>
+      <file name="/a.txt" timestamp="1473150710955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476181520336" />
       <file name="D:/PythonProjects/matrix/webapp/containers/Home.js" timestamp="1476097358923" />
@@ -49,7 +96,7 @@
       <file name="D:/PythonProjects/matrix/control.sh" timestamp="1476068551458">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/App.js" timestamp="1476247231036">
+      <file name="D:/PythonProjects/matrix/webapp/containers/App.js" timestamp="1476251628035">
         <mark key="'" line="66" column="8" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476240285961">
@@ -58,6 +105,9 @@
         <mark key="." line="69" column="101" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1476240292358" />
+      <file name="/Django Console" timestamp="1476176499290">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476072242806">
         <mark key="'" line="49" column="33" />
       </file>
@@ -65,14 +115,31 @@
       <file name="D:/Program Files/Python/Lib/site-packages/django/views/decorators/csrf.py" timestamp="1476244702424">
         <mark key="'" line="7" column="25" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476246698798">
+      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476260000338">
         <mark key="'" line="47" column="15" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1476181750879">
+      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1476260113432">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476250127612" />
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1476068738286" />
+      <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476251331679">
+        <mark key="'" line="77" column="27" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1476259784962">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="74" column="55" />
+        <mark key="]" line="74" column="55" />
+        <mark key="^" line="74" column="55" />
+        <mark key="." line="74" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475119637627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1476259080610">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/views/generic/base.py" timestamp="1476168536185" />
       <file name="D:/PythonProjects/next/next-server/lib/creater.py" timestamp="1474688066162">
         <mark key="'" line="62" column="8" />
@@ -86,33 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper.py" />
-      <jump line="55" column="18" filename="D:/PythonProjects/Flask/templates/page_views.html" />
-      <jump line="14" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
-      <jump line="0" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
-      <jump line="63" column="0" filename="D:/PythonProjects/Flask/templates/page_views.html" />
-      <jump line="91" column="16" filename="D:/PythonProjects/Stat/Images_Extract.py" />
-      <jump line="122" column="70" filename="D:/PythonProjects/Stat/Images_Extract.py" />
-      <jump line="152" column="22" filename="D:/PythonProjects/Stat/Images_Extract.py" />
-      <jump line="193" column="4" filename="D:/PythonProjects/Stat/Images_Extract.py" />
-      <jump line="114" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="262" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="24" column="35" filename="D:/PythonProjects/next/next-server/lib/next_handler.py" />
-      <jump line="192" column="25" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="92" column="24" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="250" column="56" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="269" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="285" column="4" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="487" column="63" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="28" column="46" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
-      <jump line="237" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
-      <jump line="547" column="65" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="23" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="50" column="14" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="699" column="47" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="75" column="24" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="259" column="4" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="72" column="46" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="83" column="12" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="41" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
       <jump line="8" column="22" filename="D:/PythonProjects/matrix/static/style/pace-theme-flash.css" />
@@ -186,64 +226,93 @@
       <jump line="7" column="25" filename="D:/Program Files/Python/Lib/site-packages/django/views/decorators/csrf.py" />
       <jump line="42" column="61" filename="D:/PythonProjects/matrix/lib/global_conf.py" />
       <jump line="47" column="15" filename="D:/PythonProjects/matrix/webapp/routes.js" />
+      <jump line="65" column="20" filename="D:/PythonProjects/matrix/webapp/components/NavComponent.js" />
+      <jump line="34" column="27" filename="D:/PythonProjects/matrix/webapp/components/NavComponent.js" />
+      <jump line="36" column="0" filename="D:/PythonProjects/matrix/webapp/components/NavComponent.js" />
+      <jump line="54" column="0" filename="D:/PythonProjects/matrix/webapp/components/NavComponent.js" />
+      <jump line="77" column="27" filename="D:/PythonProjects/matrix/webapp/components/NavComponent.js" />
+      <jump line="10" column="23" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="58" column="27" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="57" column="23" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="49" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="48" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="47" column="51" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="82" column="59" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="27" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="78" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="37" column="29" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="57" column="22" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="149" column="59" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="19" column="11" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="66" column="18" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="52" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="48" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="72" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="89" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="74" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="73" column="26" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="13" column="51" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="268" column="11" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dailyoverall</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dailyoverall</text>
       </register>
       <register name="/" type="4">
-        <text>strip</text>
+        <text>u</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWF0cml4IC1lICJzZWxlY3QgKiBmcm9tIHBhZ2Vfdmlld3Mgd2hlcmUgZGF0ZT0ke3llc30iIHxhd2sgJ05SIT0xe3ByaW50ICQwfScgPiAvZGF0YS9ob21lL2x1Y2hlbmd4aWFuZy9GbGFzay9wdi50c3YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiY2hhbm5lbHN0YXRpc3RpY3MiOgogICAgICAgICAgICAgICAgdXJsID0gIi9hcGkvZ2V0X2NoYW5uZWxfZGF0YS8iOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZjJbW3UnzeKyv7aptaW6xSddXSA9IGRmMlt1J83isr+2qbWlusUnXS5hc3R5cGUoc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9ICIvYXBpL2dldF9vdmVyYWxsX21vbnRoLyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF9maWxlX3ByZSA9IHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS/P38/CTVZQv86zzNfJ0a+6zc/CtaXQxc+iXycgKyB5ZXNfcHJlX2RhdGUgKyAnLnhscycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHsidHlwZSI6ICd2YWx1ZScsICJuYW1lIjogJ9W8scgnLCAiYXhpc0xhYmVsIjogeyJmb3JtYXR0ZXIiOiAne3ZhbHVlfSAlJ319XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5faGl2ZSA9IHB5aHMyLmNvbm5lY3QoaG9zdD0nMTAuNTEuNTguMjI5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcnQ9MTIzNDUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRoTWVjaGFuaXNtPSJQTEFJTiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPSdsdWNoZW5neGlhbmcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhYmFzZT0nYWZhbnRpX2hpdmUnKQogICAgICAgIHNlbGYuY3VyX2hpdmUgPSBzZWxmLmNvbm5faGl2ZS5jdXJzb3IoKQo=</text>
+        <text encoding="base64">ZnJvbSBNYXRyaXggaW1wb3J0IGNlbGVyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZSA9IHNlbGYuY3VyX2hpdmUK</text>
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdF9zdHVkZW50cyA9IHN0YXRpc3RpY3NfbGlzdC5maWx0ZXIodGVhY2hlcl90eXBlX19leGFjdD0yKS5vcmRlcl9ieSgnZGF0ZScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdF90ZWFjaGVyID0gc3RhdGlzdGljc19saXN0LmZpbHRlcih0ZWFjaGVyX3R5cGVfX2V4YWN0PTEpLm9yZGVyX2J5KCdkYXRlJykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZS5leGVjdXRlKCAic2VsZWN0IGRheSxvdGhlclsnZ29vZHNfaWQnXSBhcyBnaWQsY291bnQoKiksY291bnQoZGlzdGluY3QgcnVxdWVzdF91c2VyX2lkKSBmcm9tIGRqYW5nbyB3aGVyZSB0YWc9J21hbGwgZ29vZHMgZGV0YWlsIGFwaSB2aWV3cycgYW5kIGRheT17MH0gZ3JvdXAgYnkgZGF5LG90aGVyWydnb29kc19pZCddIG9yZGVyIGJ5IGRheSxnaWQiLmZvcm1hdCggeWVzX2RhdGUpKQo=</text>
+      <register name="6" type="4">
+        <text>'DLU', '安装量', '注册量B', '日活量', '发帖量', '采纳量', '搜索量']
+    column_names = [u'日期', u'统计类别', u'
+    B</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IHBhbmRhcy5EYXRhRnJhbWUobGlzdChjdXJfaGl2ZS5mZXRjaCgpKSwgY29sdW1ucz1bdSfXydGvyrG85CcsIHUn0NXD+ycsIHUnyta7+rrFJywgdSe/zrPM0MXPoicsdSezx8rQJyx1J8qht90nLHUn0afQoycsdSfH/rXAJ10pCg==</text>
+      <register name="7" type="4">
+        <text>教师总量', u'上线人数', u'上线率', u'成功辅导教师量', u'空闲教师量',
+                    u'空闲率', u'人均在线时长(分)', u'人均辅导时长(分)', u'单均辅导时长(分)', u'拒单量', u'成功单量', u'拒单率',
+                    u'总工资(元)', u'人均工资(元)']</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfaGl2ZS5leGVjdXRlKCAic2VsZWN0IGRheSxvdGhlclsnZ29vZHNfaWQnXSBhcyBnaWQsY291bnQoKiksY291bnQoZGlzdGluY3QgcnVxdWVzdF91c2VyX2lkKSBmcm9tIGRqYW5nbyB3aGVyZSB0YWc9J21hbGwgZ29vZHMgZGV0YWlsIGFwaSB2aWV3cycgYW5kIGRheT17MH0gZ3JvdXAgYnkgZGF5LG90aGVyWydnb29kc19pZCddIG9yZGVyIGJ5IGRheSxnaWQiLmZvcm1hdCggeWVzX2RhdGUpKQo=</text>
+        <text encoding="base64">ZnJvbSBzdGF0aXN0aWNzLm1vZGVscyBpbXBvcnQgRGFpbHlPdmVyYWxsLCBEYWlseU92ZXJhbGxIb3VyLCBEYWlseU92ZXJhbGxNb250aAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc3RhdGljL2pzL3BhY2UubWluLmpzIj48L3NjcmlwdD4KICAgIDxsaW5rIGhyZWY9Ii9zdGF0aWMvc3R5bGUvcGFjZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CkBjc3JmX2V4ZW1wdApAbG9naW5fcmVxdWlyZWQobG9naW5fdXJsPScvbmVlZF9sb2dpbi8nKQpAcGVybWlzc2lvbl9yZXF1aXJlZCgnc3RhdGlzdGljcy52aWV3X2RhaWx5b3ZlcmFsbCcsIGxvZ2luX3VybD0nL3Blcm1pc3Npb25fZGVuaWVkLycpCmRlZiBnZXRfb3ZlcmFsbF9ob3VyKHJlcXVlc3QsIGRhdGUpOgogICAgIiIi0rvM7LXE0KHKsby2yv2+3dW5v6oiIiIKCiAgICBzdGF0aXN0aWNzX2xpc3QgPSBEYWlseU92ZXJhbGxIb3VyLm9iamVjdHMuZmlsdGVyKGRhdGU9ZGF0ZSkub3JkZXJfYnkoJ2hvdXInKQoKICAgIHhheGlzX2xhYmVscyA9IFsnJTAyZLXjJyAlaCBmb3IgaCBpbiByYW5nZSgyNCldCgogICAgbGFiZWxzID0gWydob3VyJywndG90YWxfaW5zdGFsbCcsJ2luc3RhbGxfbnVtJywndG90YWxfcmVnaXN0ZXInLCd0b3RhbF9zZWFyY2gnLCd0b3RhbF9wb3N0cycsJ3RvdGFsX2NvbW1lbnQnLCd0b3RhbF9hZG9wdGVkJywnc2VhcmNoX2ZvdW5kJywnc2VhcmNoX3VzZXJzJywncG9zdF91c2VycyddCiAgICBjb2x1bW5zID0gWyfQocqxJywn19ywstewwb8nLCfIpdbYsLLXsMG/Jywn16Ky4cG/Jywny9HL98G/Jywnt6LM+8G/Jywnu9i4tMG/JywnssnEycG/Jywny9G1vbTwsLjBvycsJ8vRy/fIy8r9Jywnt6LM+8jLyv0nXQogICAgaGlkZGVuX2NvbHVtbnMgPSBbXQogICAgdGFibGVfY29sdW1ucywgdGFibGVfZGF0YSA9IGdldF90YWJsZShzdGF0aXN0aWNzX2xpc3QsIGxhYmVscywgY29sdW1ucywgaGlkZGVuX2NvbHVtbnMsIDApCgogICAgcmV0dXJuIEh0dHBSZXNwb25zZShqc29uLmR1bXBzKHsib3B0aW9uIjogeyJzZXJpZXMiOiBbXX0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0YWJsZSI6eyJkYXRhIjogdGFibGVfZGF0YSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvbHVtbnMiOiB0YWJsZV9jb2x1bW5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGFnaW5hdGlvbiI6IEZhbHNlfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZpbHRlciI6eyJkYXRhIjogW119LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2hhcnQiOiJkYWlseW92ZXJhbGwifSksCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZT0iYXBwbGljYXRpb24vanNvbiIp</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>38,40 s/u//g</text>
       </register>
     </registers>
     <search>
-      <last-search>strip</last-search>
+      <last-search>u</last-search>
       <last-offset />
-      <last-pattern>strip</last-pattern>
+      <last-pattern>u</last-pattern>
       <last-replace />
-      <last-substitute>q</last-substitute>
+      <last-substitute>u</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>付款</entry>
-        <entry>actual_pay</entry>
         <entry>idle</entry>
         <entry>lcx_score</entry>
         <entry>privi</entry>
@@ -262,11 +331,15 @@
         <entry>q</entry>
         <entry>wb_remain</entry>
         <entry>strip</entry>
+        <entry>g</entry>
+        <entry>u</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>/u//g</entry>
+        <entry>38,40 s/u//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
