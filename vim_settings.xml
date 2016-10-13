@@ -21,12 +21,12 @@
         <mark key="^" line="88" column="17" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476331449611">
-        <mark key="'" line="111" column="6" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="135" column="11" />
-        <mark key="." line="138" column="0" />
+      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476339432037">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476327410338">
         <mark key="'" line="104" column="0" />
@@ -167,9 +167,6 @@
       <file name="D:/PythonProjects/matrix/webapp/components/PageNotFound.js" timestamp="1476278553616" />
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="701" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="42" column="19" filename="D:/PythonProjects/Flask/get_page_views.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/Flask/get_page_views.py" />
       <jump line="683" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="79" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
@@ -239,7 +236,6 @@
       <jump line="19" column="11" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="66" column="18" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="52" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
-      <jump line="48" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="72" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="89" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -267,6 +263,10 @@
       <jump line="85" column="15" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="131" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="111" column="6" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="118" column="20" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="69" column="28" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="48" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
+      <jump line="20" column="15" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
