@@ -14,19 +14,19 @@
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1474619102630">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476328842020">
-        <mark key="'" line="142" column="63" />
-        <mark key="[" line="215" column="61" />
-        <mark key="]" line="215" column="67" />
-        <mark key="^" line="215" column="67" />
-        <mark key="." line="215" column="67" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476330838674">
+        <mark key="'" line="131" column="4" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="88" column="17" />
+        <mark key="." line="219" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476328954466">
-        <mark key="'" line="43" column="40" />
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="34" column="92" />
+      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476331449611">
+        <mark key="'" line="111" column="6" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="135" column="11" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476327410338">
         <mark key="'" line="104" column="0" />
@@ -42,6 +42,7 @@
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1476331302777" />
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476082949626">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="140" column="196" />
@@ -55,8 +56,15 @@
       <file name="D:/Program Files/Python/Lib/site-packages/kombu/entity.py" timestamp="1476153762053">
         <mark key="'" line="364" column="49" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476329165117">
-        <mark key="'" line="61" column="59" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476330022351">
+        <mark key="'" line="255" column="4" />
+        <mark key="[" line="250" column="19" />
+        <mark key="]" line="247" column="34" />
+        <mark key="^" line="247" column="29" />
+        <mark key="." line="247" column="34" />
+      </file>
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476330551766">
+        <mark key="'" line="49" column="57" />
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="29" />
         <mark key="." line="61" column="29" />
@@ -159,10 +167,6 @@
       <file name="D:/PythonProjects/matrix/webapp/components/PageNotFound.js" timestamp="1476278553616" />
     </filemarks>
     <jumps>
-      <jump line="37" column="22" filename="D:/PythonProjects/Flask/get_page_views.py" />
-      <jump line="79" column="4" filename="D:/PythonProjects/Flask/templates/page_views.html" />
-      <jump line="22" column="10" filename="D:/PythonProjects/Flask/get_page_views.py" />
-      <jump line="325" column="26" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="46" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="701" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="42" column="19" filename="D:/PythonProjects/Flask/get_page_views.py" />
@@ -259,55 +263,78 @@
       <jump line="142" column="63" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="49" column="21" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="59" column="59" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="49" column="57" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="85" column="15" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="131" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="111" column="6" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgt7W72EVjaGFydHO6zbHtuPG1xLfW0rPK/b7dCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Teachers</text>
       </register>
       <register name="/" type="4">
-        <text>REQUEST</text>
+        <text>u</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhcGkudGtfdmlld3MgaW1wb3J0IHF1ZXN0aW9uX3N0YXRpc3RpY3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZV9jb2x1bW5zLmFwcGVuZChjb2xkYXRhKQogICAgICAgIHNlcmllc19pbmRleCArPSAxCg==</text>
+        <text encoding="base64">ICAgICMgt7W72EVjaGFydHO6zbHtuPG1xLfW0rPK/b7dCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>table_pre_data = statistics_list.values_list('date', 'student_count_privileged', 'student_count_applied',
+                                                 'student_count_tutored', 'consume_members',
+                                                 'student_count_actual_paied',
+                                                 'student_count_new_applied', 'student_count_new_tutored',
+                                                 'student_count_new_paied',
+                                                 'applied_records', 'tutored_records', 'consume_records_member',
+                                                 'actual_paied_records',
+                                                 'consume_amount', 'consume_amount_member', 'paied_amount')
+    table_data = [list(row[:13]) + [round(float(row[13]) / 100, 2), round(float(row[14]) / 100, 2),
+                                    round(float(row[15]) / 100, 2)]
+                  for row in table_pre_data]
+
+    # 返回Excel
+    if request.POST.get('export_to_excel', '0') == '1':
+        if start_time_str != end_time_str:
+            file_name = u'学生指标统计_' + start_time_str + '-' + end_time_str
+        else:
+            file_name = u'学生指标统计_' + start_time_str
+        return excel_response(column_names, table_data, file_name)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic29ydE9yZGVyIjogJ2FzY2VuZCcgaWYgbGFiZWwgPT0gImRhdGUiIGVsc2UgRmFsc2UK</text>
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdCA9IFdiX1N0dWRlbnRzLm9iamVjdHMuZmlsdGVyKGRhdGVfX3JhbmdlPShzdGFydF90aW1lLCBlbmRfdGltZSkpLm9yZGVyX2J5KCdkYXRlJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAicmVuZGVyIjogVHJ1ZSBpZiBsYWJlbCA9PSAiZGF0ZSIgYW5kIG5vdCBpc21vbnRoICBlbHNlIEZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAic29ydGVyIjogIihhLCBiKSA9PiBhLnswfSAtIGIuezB9Ii5mb3JtYXQobGFiZWwsIGxhYmVsKSwK</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QuUE9TVC5nZXQoJ2V4cG9ydF90b19leGNlbCcsICcwJykgIT0gJzEnIGFuZCByZXF1ZXN0LlBPU1QuZ2V0KCdnZXRfZGF0YScsICcwJykgIT0gJzEnOgogICAgICAgIHJldHVybiByZW5kZXJfdG9fcmVzcG9uc2UoaHRtbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsndXNlcic6IHVzZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3BhdGgnOiByZXF1ZXN0LnBhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3BhZ2VfdGl0bGUnOiBwYWdlX3RpdGxlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwYWdlX25hbWUnOiAnd2Jfc3R1ZGVudHMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb2x1bW5fbmFtZXMnOiBjb2x1bW5fbmFtZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVmYXVsdFNob3ciOiBGYWxzZSBpZiBsYWJlbCBpbiBoaWRkZW5fY29sdW1ucyBlbHNlIFRydWUsCg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbl9uYW1lcyA9IFt1J8jVxtonLCB1J8ioz97Tw7unyv0nLCB1J7eixvDTw7unyv0nLCB1J7zGt9HTw7unyv0nLCB1J7zGt9G74dSxyv0nLCB1J7i2t9HTw7unyv0nLAogICAgICAgICAgICAgICAgICAgIHUn0MLU9reixvDTw7unyv0nLCB1J9DC1Pa8xrfR08O7p8r9JywgdSfQwtT2uLa30dPDu6fK/ScsCiAgICAgICAgICAgICAgICAgICAgdSe3osbwtaXBvycsIHUnvMa30bWlwb8nLCB1J7vh1LG8xrfRtaXBvycsIHUnuLa30bWlwb8nLCB1J7zGt9HX3L3wtu4o1KopJywgdSe74dSxvMa30b3wtu4o1KopJywgdSe4trfR19y98LbuKNSqKSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZml4ZWQiOiAibGVmdCIgaWYgbGFiZWwgPT0gImRhdGUiICBlbHNlIEZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIHBhZ2VfdGl0bGUgPSB1J9K7ttTSu9GnyfrWuLHqzbO8xicK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAic2VyaWVzSW5kZXgiOiBzZXJpZXNfaW5kZXgsCg==</text>
+      <register name="8" type="4">
+        <text>.filter(
+    teacher_type=view_by - 1)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAid2lkdGgiOiAxMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>38,40 s/u//g</text>
+        <text>112,114 s/u//g</text>
       </register>
     </registers>
     <search>
-      <last-search>REQUEST</last-search>
+      <last-search>u</last-search>
       <last-offset />
-      <last-pattern>REQUEST</last-pattern>
+      <last-pattern>u</last-pattern>
       <last-replace />
       <last-substitute>u</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +360,8 @@
         <entry>wb_remain</entry>
         <entry>strip</entry>
         <entry>g</entry>
-        <entry>u</entry>
         <entry>REQUEST</entry>
+        <entry>u</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
@@ -342,6 +369,7 @@
         <entry>q</entry>
         <entry>/u//g</entry>
         <entry>38,40 s/u//g</entry>
+        <entry>112,114 s/u//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
