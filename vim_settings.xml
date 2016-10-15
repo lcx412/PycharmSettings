@@ -3,16 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Members.py" timestamp="1476507679073" />
-      <file name="D:/PythonProjects/matrix/webapp/actions/login.js" timestamp="1476531649078" />
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/DynamicChartComponent.js" timestamp="1476534581351" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476455579674">
         <mark key="'" line="360" column="21" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/App.js" timestamp="1476532233806" />
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476534147116">
         <mark key="'" line="335" column="40" />
         <mark key="[" line="290" column="11" />
@@ -20,10 +16,7 @@
         <mark key="^" line="290" column="10" />
         <mark key="." line="290" column="10" />
       </file>
-      <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1476508579588" />
-      <file name="D:/PythonProjects/matrix/webapp/components/LoginForm.js" timestamp="1476532320005" />
-      <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
-      <file name="/Django Console" timestamp="1476519032708">
+      <file name="/Django Console" timestamp="1476536564958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -32,8 +25,6 @@
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
         <mark key="'" line="14" column="42" />
       </file>
-      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1476510100121" />
-      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1476529107504" />
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476531512234">
         <mark key="'" line="192" column="51" />
         <mark key="[" line="168" column="60" />
@@ -53,7 +44,6 @@
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476534368043" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476513343746">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
@@ -67,21 +57,15 @@
         <mark key="." line="120" column="313" />
         <mark key="^" line="120" column="313" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1476531619604" />
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1476529054539">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="19" />
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1476500588142" />
       <file name="/a.regexp" timestamp="1476534311957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/geo_views.py" timestamp="1476529882751" />
-      <file name="D:/PythonProjects/matrix/api/version_views.py" timestamp="1476530369169" />
-      <file name="D:/PythonProjects/matrix/api/channel_stat.py" timestamp="1476529560202" />
-      <file name="D:/PythonProjects/matrix/webapp/components/TableModalComponent.js" timestamp="1476530458728" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476531214432">
         <mark key="'" line="378" column="63" />
         <mark key="[" line="263" column="60" />
@@ -89,8 +73,6 @@
         <mark key="^" line="263" column="63" />
         <mark key="." line="263" column="63" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/Footer.js" timestamp="1476532199515" />
-      <file name="D:/PythonProjects/matrix/webapp/components/TableComponent.js" timestamp="1476534306956" />
     </filemarks>
     <jumps>
       <jump line="118" column="20" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
