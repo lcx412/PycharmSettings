@@ -28,7 +28,8 @@
         <mark key="." line="187" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476497673741" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476515212935">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476515503691">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
@@ -44,8 +45,8 @@
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476515321154">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1476515369419">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -61,11 +62,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/version_views.py" timestamp="1476502070932" />
-      <file name="D:/PythonProjects/matrix/static/js/daterangepicker.js" timestamp="1476438594042">
-        <mark key="[" line="160" column="35" />
-        <mark key="]" line="160" column="35" />
-        <mark key="." line="160" column="35" />
-      </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476430985978">
         <mark key="[" line="18" column="20" />
       </file>
@@ -74,8 +70,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="164" column="38" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="50" column="22" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="63" column="11" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
@@ -174,6 +168,8 @@
       <jump line="32" column="14" filename="D:/PythonProjects/matrix/webapp/routes.js" />
       <jump line="78" column="44" filename="D:/PythonProjects/Stat/mall_users.py" />
       <jump line="389" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="41" column="17" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
+      <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
