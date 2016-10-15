@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="D:/PythonProjects/Stat/Members.py" timestamp="1476507679073" />
+      <file name="D:/PythonProjects/Stat/mall_users.py" timestamp="1476511395611">
+        <mark key="'" line="78" column="44" />
+      </file>
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,25 +14,9 @@
         <mark key="'" line="360" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476507751877" />
+      <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1476508579588" />
       <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
-      <file name="D:/PythonProjects/matrix/.gitignore" timestamp="1476456127602">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard_stat.py" timestamp="1476431796392">
-        <mark key="[" line="700" column="0" />
-        <mark key="]" line="700" column="0" />
-        <mark key="^" line="527" column="22" />
-        <mark key="." line="700" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1476451165046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
+      <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1476510100121" />
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476507997697">
         <mark key="'" line="32" column="14" />
         <mark key="[" line="16" column="0" />
@@ -49,7 +36,17 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1476509174323">
+        <mark key="'" line="389" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476505214175" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476511531065">
+        <mark key="'" line="262" column="4" />
+        <mark key="[" line="76" column="88" />
+        <mark key="]" line="76" column="145" />
+        <mark key="^" line="76" column="165" />
+        <mark key="." line="76" column="145" />
+      </file>
       <file name="/Dummy.txt" timestamp="1476507901973">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,28 +58,10 @@
         <mark key="." line="17" column="17" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1476500588142" />
-      <file name="/a.regexp" timestamp="1476503045302">
+      <file name="/a.regexp" timestamp="1476511536148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/version_views.py" timestamp="1476502070932" />
-      <file name="D:/PythonProjects/matrix/webapp/components/TabsComponent.js" timestamp="1476362178420">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="45" />
-      </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476238872597">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-      </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1476438519238">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-      </file>
       <file name="D:/PythonProjects/matrix/static/js/daterangepicker.js" timestamp="1476438594042">
         <mark key="[" line="160" column="35" />
         <mark key="]" line="160" column="35" />
@@ -94,16 +73,8 @@
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476507855579">
         <mark key="'" line="15" column="31" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1476453636774">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="34" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="47" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="291" column="21" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="78" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="164" column="38" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -202,6 +173,8 @@
       <jump line="34" column="0" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="15" column="31" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="32" column="14" filename="D:/PythonProjects/matrix/webapp/routes.js" />
+      <jump line="78" column="44" filename="D:/PythonProjects/Stat/mall_users.py" />
+      <jump line="389" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
