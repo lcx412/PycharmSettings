@@ -8,11 +8,12 @@
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/webapp/components/DynamicChartComponent.js" timestamp="1476534581351" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476455579674">
         <mark key="'" line="360" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/App.js" timestamp="1476532233806" />
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476532447942">
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476534147116">
         <mark key="'" line="335" column="40" />
         <mark key="[" line="290" column="11" />
         <mark key="]" line="290" column="10" />
@@ -46,24 +47,19 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476531470540">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476534111146">
         <mark key="'" line="97" column="48" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476530756937" />
+      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476534368043" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476513343746">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
         <mark key="]" line="76" column="145" />
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1476521368137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476524428306">
         <mark key="[" line="120" column="315" />
@@ -79,7 +75,7 @@
         <mark key="." line="17" column="19" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1476500588142" />
-      <file name="/a.regexp" timestamp="1476532181560">
+      <file name="/a.regexp" timestamp="1476534311957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/geo_views.py" timestamp="1476529882751" />
@@ -94,6 +90,7 @@
         <mark key="." line="263" column="63" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/Footer.js" timestamp="1476532199515" />
+      <file name="D:/PythonProjects/matrix/webapp/components/TableComponent.js" timestamp="1476534306956" />
     </filemarks>
     <jumps>
       <jump line="118" column="20" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
