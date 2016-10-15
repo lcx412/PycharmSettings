@@ -9,7 +9,7 @@
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476455579674">
         <mark key="'" line="360" column="21" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476499600326" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476504195883" />
       <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
       <file name="D:/PythonProjects/matrix/.gitignore" timestamp="1476456127602">
         <mark key="[" line="10" column="22" />
@@ -43,12 +43,11 @@
         <mark key="." line="187" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476497673741" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476502324303">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476504229579">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="34" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="36" column="34" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1476433658143">
         <mark key="'" line="7" column="4" />
@@ -75,7 +74,7 @@
         <mark key="." line="17" column="17" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1476500588142" />
-      <file name="/a.regexp" timestamp="1476438555345">
+      <file name="/a.regexp" timestamp="1476503045302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/version_views.py" timestamp="1476502070932" />
@@ -229,11 +228,11 @@
       <jump line="192" column="51" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>，同时也是echart-legend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>，同时也是echart-legend</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>会员计费</text>
@@ -242,31 +241,31 @@
         <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9jb3N0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9jb3N0J10vMTAwLDIpIGlmIHN0YXRbJ3R1dG9yX2Nvc3QnXT49MCBlbHNlICcgJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGFydCA9PT0gJ3NlYXJjaCcgfHwgY2hhcnQgPT09ICd0a19xdWVzdGlvbl9oaXQnIHx8IGNoYXJ0ID09PSAnZ2VvJyB8fCBjaGFydCA9PT0gJ3N0YXRfYW5kcm9pZF9idWdfdmVyc2lvbicpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZWNoYXJ0IM28wP0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGFydCA9PT0gJ3NlYXJjaCcgfHwgY2hhcnQgPT09ICd0a19xdWVzdGlvbl9oaXQnIHx8IGNoYXJ0ID09PSAnZ2VvJyB8fCBjaGFydCA9PT0gJ3N0YXRfYW5kcm9pZF9idWdfdmVyc2lvbicpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMg0qrP1Mq+tcR0YWJsZS10aXRsZaOszazKsdKyysdlY2hhcnQtbGVnZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICMgZWNoYXJ0IM28wP0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMg0qrP1Mq+tcR0YWJsZS10aXRsZaOszazKsdKyysdlY2hhcnQtbGVnZW5kCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZWNoYXJ0cyDNvMD9Cg==</text>
+        <text encoding="base64">ICAgICMgZWNoYXJ0IM28wP0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICMgZWNoYXJ0cyDNvMD9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
