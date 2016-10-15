@@ -18,10 +18,7 @@
       <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
       <file name="D:/PythonProjects/Stat/tutor_audio.py" timestamp="1476510100121" />
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476507997697">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="'" line="33" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476507607375">
         <mark key="'" line="192" column="51" />
@@ -31,10 +28,10 @@
         <mark key="." line="187" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476497673741" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476505920029">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476515212935">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="34" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1476509174323">
         <mark key="'" line="389" column="0" />
@@ -47,8 +44,10 @@
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476507901973">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1476515321154">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1476505388200" />
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1476501874161">
@@ -177,8 +176,8 @@
       <jump line="389" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CkNvbmZsaWN0czoKCXdlYmFwcC9yb3V0ZXMuanM=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -189,32 +188,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9jb3N0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9jb3N0J10vMTAwLDIpIGlmIHN0YXRbJ3R1dG9yX2Nvc3QnXT49MCBlbHNlICcgJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkNvbmZsaWN0czoKCXdlYmFwcC9yb3V0ZXMuanM=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgc3RhdGlzdGljc19saXN0LnVwZGF0ZShvbmxpbmVfcmF0aW89c3RyKEYoJ29ubGluZV9yYXRpbycpKSArICclJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICMgc3RhdGlzdGljc19saXN0LnVwZGF0ZShvbmxpbmVfcmF0aW89c3RyKEYoJ29ubGluZV9yYXRpbycpKSArICclJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGFydCA9PT0gJ3NlYXJjaCcgfHwgY2hhcnQgPT09ICd0a19xdWVzdGlvbl9oaXQnIHx8IGNoYXJ0ID09PSAnZ2VvJyB8fCBjaGFydCA9PT0gJ3N0YXRfYW5kcm9pZF9idWdfdmVyc2lvbicpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
