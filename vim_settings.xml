@@ -10,7 +10,12 @@
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476516398908" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476455579674">
+        <mark key="'" line="360" column="21" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476525233101">
+        <mark key="'" line="0" column="27" />
+      </file>
       <file name="D:/PythonProjects/Stat/duobao_users.py" timestamp="1476508579588" />
       <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
       <file name="/Django Console" timestamp="1476519032708">
@@ -100,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="40" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="142" column="63" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="49" column="21" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="59" column="59" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
@@ -200,6 +204,7 @@
       <jump line="478" column="0" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="101" column="32" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="110" column="8" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="22" column="27" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
