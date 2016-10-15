@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/PythonProjects/Stat/Members.py" timestamp="1476507679073" />
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476455579674">
         <mark key="'" line="360" column="21" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476505599378" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476507751877" />
       <file name="D:/PythonProjects/Flask/fetch_data.sh" timestamp="1476497349461" />
       <file name="D:/PythonProjects/matrix/.gitignore" timestamp="1476456127602">
         <mark key="[" line="10" column="22" />
@@ -29,13 +30,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476500815234">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476507997697">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476502250415">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476507607375">
         <mark key="'" line="192" column="51" />
         <mark key="[" line="187" column="21" />
         <mark key="]" line="187" column="21" />
@@ -43,14 +44,13 @@
         <mark key="." line="187" column="21" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476497673741" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476505388592">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476505920029">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1476505214175" />
-      <file name="/Dummy.txt" timestamp="1476451532132">
+      <file name="/Dummy.txt" timestamp="1476507901973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1476505388200" />
@@ -91,12 +91,8 @@
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1476430985978">
         <mark key="[" line="18" column="20" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476502700733">
-        <mark key="'" line="309" column="30" />
-        <mark key="[" line="118" column="32" />
-        <mark key="]" line="388" column="66" />
-        <mark key="^" line="388" column="66" />
-        <mark key="." line="388" column="66" />
+      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476507855579">
+        <mark key="'" line="15" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1476453636774">
         <mark key="[" line="18" column="35" />
@@ -106,9 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="19" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="73" column="37" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="31" column="4" filename="D:/PythonProjects/matrix/webapp/containers/LoginPage.js" />
       <jump line="121" column="47" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="291" column="21" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="78" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -206,10 +199,13 @@
       <jump line="244" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="309" column="30" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="192" column="51" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="34" column="0" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="15" column="31" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="32" column="14" filename="D:/PythonProjects/matrix/webapp/routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -221,31 +217,31 @@
         <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9jb3N0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9jb3N0J10vMTAwLDIpIGlmIHN0YXRbJ3R1dG9yX2Nvc3QnXT49MCBlbHNlICcgJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkKCg==</text>
+        <text encoding="base64">ICAgICMgc3RhdGlzdGljc19saXN0LnVwZGF0ZShvbmxpbmVfcmF0aW89c3RyKEYoJ29ubGluZV9yYXRpbycpKSArICclJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGFydCA9PT0gJ3NlYXJjaCcgfHwgY2hhcnQgPT09ICd0a19xdWVzdGlvbl9oaXQnIHx8IGNoYXJ0ID09PSAnZ2VvJyB8fCBjaGFydCA9PT0gJ3N0YXRfYW5kcm9pZF9idWdfdmVyc2lvbicpewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZWNoYXJ0IM28wP0K</text>
+        <text encoding="base64">CQkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMg0qrP1Mq+tcR0YWJsZS10aXRsZaOszazKsdKyysdlY2hhcnQtbGVnZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZWNoYXJ0IM28wP0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZWNoYXJ0cyDNvMD9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGFydCA9PT0gJ3NlYXJjaCcgfHwgY2hhcnQgPT09ICd0a19xdWVzdGlvbl9oaXQnIHx8IGNoYXJ0ID09PSAnZ2VvJyB8fCBjaGFydCA9PT0gJ3N0YXRfYW5kcm9pZF9idWdfdmVyc2lvbicpewo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
