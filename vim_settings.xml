@@ -36,7 +36,7 @@
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
         <mark key="'" line="14" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476698608747">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476701486821">
         <mark key="'" line="33" column="20" />
         <mark key="[" line="214" column="46" />
         <mark key="]" line="214" column="50" />
@@ -83,11 +83,12 @@
       <file name="/a.regexp" timestamp="1476534311957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476698451424">
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="79" column="28" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476702911795">
+        <mark key="'" line="98" column="37" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="27" />
+        <mark key="." line="274" column="0" />
+        <mark key="^" line="273" column="36" />
       </file>
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476684656117">
         <mark key="'" line="389" column="46" />
@@ -98,7 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="100" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="207" column="46" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="59" column="12" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
@@ -198,43 +198,44 @@
       <jump line="389" column="46" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="203" column="33" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="102" column="25" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="98" column="37" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'post_count'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBjX2JhbGFuY2UK</text>
       </register>
       <register name="-" type="4">
-        <text>'post_count'</text>
+        <text>yes_start_ts,</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGFiZWwgaW4gWydwb3N0X2NvdW50JywndmFsaWRfZHVyYXRpb24nLCd2YWxpZF9wb3N0cyddOgogICAgICAgICAgICBzdGF0Wydwb3N0X2NvdW50J10gPSBzdGF0Wydwb3N0X2NvdW50J10gaWYgc3RhdFsncG9zdF9jb3VudCddID49IDAgZWxzZSAnICcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY29tbWl0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGFiZWwgaW4gWydwb3N0X2NvdW50JywndmFsaWRfZHVyYXRpb24nLCd2YWxpZF9wb3N0cyddOgogICAgICAgIHN0YXRbJ3Bvc3RfY291bnQnXSA9IHN0YXRbJ3Bvc3RfY291bnQnXSBpZiBzdGF0Wydwb3N0X2NvdW50J10gPj0gMCBlbHNlICcgJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBjX2JhbGFuY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgic2VsZWN0ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX21hdHJpeC5leGVjdXRlKCJ1cGRhdGUgbWVtYmVyX2NhcmRfZHVyYXRpb24gc2V0IGNhcmRfYmFsYW5jZT0wIHdoZXJlIHRvX3RpbWU8PXswfSIuZm9ybWF0KHllc19lbmRfdHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInVwZGF0ZSBtZW1iZXJfY2FyZF9kdXJhdGlvbiBzZXQgY2FyZF9iYWxhbmNlPTAgd2hlcmUgdG9fdGltZTw9ezB9Ii5mb3JtYXQoeWVzX2VuZF90cykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheXMgPSBjX3ZhbGlkX2RheXMK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGFiZWwgaW4gWydwb3N0X2NvdW50JywndmFsaWRfZHVyYXRpb24nLCd2YWxpZF9wb3N0cyddOgogICAgICAgIHN0YXRbJ3Bvc3RfY291bnQnXSA9IHN0YXRbJ3Bvc3RfY291bnQnXSBpZiBzdGF0Wydwb3N0X2NvdW50J10gPj0gMCBlbHNlICcgJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9jb3N0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9jb3N0J10gLyAxMDAsIDIpIGlmIHN0YXRbJ3R1dG9yX2Nvc3QnXSA+PSAwIGVsc2UgJyAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgic2VsZWN0ICIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheXMgPSBjX3ZhbGlkX2RheXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9jb3N0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9jb3N0J10gLyAxMDAsIDIpIGlmIHN0YXRbJ3R1dG9yX2Nvc3QnXSA+PSAwIGVsc2UgJyAnCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
