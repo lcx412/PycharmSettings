@@ -25,8 +25,8 @@
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
         <mark key="'" line="14" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476531512234">
-        <mark key="'" line="192" column="51" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476669287328">
+        <mark key="'" line="33" column="20" />
         <mark key="[" line="168" column="60" />
         <mark key="]" line="168" column="60" />
         <mark key="^" line="147" column="43" />
@@ -75,8 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="20" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
-      <jump line="69" column="28" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="48" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="20" column="15" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="92" column="3" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
@@ -175,6 +173,8 @@
       <jump line="259" column="211" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="110" column="16" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="335" column="40" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="111" column="39" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="33" column="20" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
