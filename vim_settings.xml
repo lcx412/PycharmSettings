@@ -32,12 +32,12 @@
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
         <mark key="'" line="14" column="42" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476669287328">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476684688377">
         <mark key="'" line="33" column="20" />
-        <mark key="[" line="168" column="60" />
-        <mark key="]" line="168" column="60" />
-        <mark key="^" line="147" column="43" />
-        <mark key="." line="168" column="60" />
+        <mark key="[" line="107" column="73" />
+        <mark key="]" line="107" column="74" />
+        <mark key="^" line="107" column="74" />
+        <mark key="." line="107" column="74" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476521157320">
         <mark key="[" line="62" column="55" />
@@ -58,11 +58,11 @@
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476524428306">
-        <mark key="[" line="120" column="315" />
-        <mark key="]" line="120" column="313" />
-        <mark key="." line="120" column="313" />
-        <mark key="^" line="120" column="313" />
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476684073518">
+        <mark key="[" line="120" column="317" />
+        <mark key="]" line="120" column="339" />
+        <mark key="." line="120" column="339" />
+        <mark key="^" line="120" column="339" />
       </file>
       <file name="D:/PythonProjects/one4one/crontab178.bak" timestamp="1476673641494">
         <mark key="[" line="0" column="0" />
@@ -79,9 +79,14 @@
       <file name="/a.regexp" timestamp="1476534311957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476676148175" />
-      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476672409320">
-        <mark key="'" line="169" column="22" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476684282650">
+        <mark key="[" line="120" column="85" />
+        <mark key="]" line="120" column="86" />
+        <mark key="." line="120" column="86" />
+        <mark key="^" line="120" column="86" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476684656117">
+        <mark key="'" line="389" column="46" />
         <mark key="[" line="263" column="60" />
         <mark key="]" line="263" column="63" />
         <mark key="^" line="263" column="63" />
@@ -89,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="60" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="54" column="53" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="70" column="31" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="95" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
@@ -189,13 +193,14 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/crontab178.bak" />
       <jump line="49" column="17" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="55" column="21" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="389" column="46" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[cid]</text>
+        <text>期</text>
       </register>
       <register name="-" type="4">
-        <text>[cid]</text>
+        <text>期</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
