@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476674005437">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476676610473">
         <mark key="'" line="55" column="21" />
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="70" column="38" />
-        <mark key="." line="70" column="38" />
-        <mark key="^" line="70" column="38" />
+        <mark key="[" line="71" column="70" />
+        <mark key="]" line="71" column="70" />
+        <mark key="." line="71" column="70" />
+        <mark key="^" line="71" column="70" />
       </file>
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
@@ -79,6 +79,7 @@
       <file name="/a.regexp" timestamp="1476534311957">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476676148175" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476672409320">
         <mark key="'" line="169" column="22" />
         <mark key="[" line="263" column="60" />
@@ -191,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>[cid]</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>[cid]</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
