@@ -20,7 +20,7 @@
         <mark key="." line="84" column="101" />
         <mark key="^" line="84" column="101" />
       </file>
-      <file name="/a.dummy" timestamp="1476431943511">
+      <file name="/a.dummy" timestamp="1476775852628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476769679682">
@@ -44,22 +44,16 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
-        <mark key="'" line="74" column="26" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476775250004">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476776331292">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
         <mark key="]" line="76" column="145" />
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476775279538">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476777058259">
         <mark key="[" line="181" column="351" />
         <mark key="]" line="181" column="370" />
-      </file>
-      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1476768386636">
-        <mark key="'" line="74" column="45" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476757723919">
         <mark key="'" line="77" column="70" />
@@ -71,11 +65,19 @@
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476775229485">
-        <mark key="[" line="92" column="98" />
-        <mark key="]" line="92" column="98" />
-        <mark key="^" line="92" column="98" />
-        <mark key="." line="92" column="98" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1476779067816">
+        <mark key="'" line="103" column="18" />
+        <mark key="[" line="58" column="106" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="15" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476775840644">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="105" column="6" />
+        <mark key="]" line="105" column="11" />
+        <mark key="^" line="105" column="11" />
+        <mark key="." line="105" column="11" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1476768423759">
         <mark key="'" line="42" column="52" />
@@ -83,9 +85,6 @@
         <mark key="]" line="19" column="49" />
         <mark key="^" line="19" column="49" />
         <mark key="." line="35" column="32" />
-      </file>
-      <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1476768381365">
-        <mark key="." line="44" column="33" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476771797386">
         <mark key="[" line="175" column="293" />
@@ -99,12 +98,6 @@
         <mark key="]" line="30" column="23" />
         <mark key="^" line="30" column="23" />
         <mark key="." line="34" column="32" />
-      </file>
-      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1476768357998">
-        <mark key="'" line="41" column="580" />
-      </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
-        <mark key="'" line="14" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1476768443391">
         <mark key="'" line="384" column="22" />
@@ -152,10 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="12" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="485" column="9" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="522" column="9" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="523" column="10" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="524" column="12" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="525" column="9" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="526" column="10" filename="D:/PythonProjects/matrix/statistics/models.py" />
@@ -252,6 +241,10 @@
       <jump line="231" column="40" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="95" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="262" column="4" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="101" column="0" filename="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" />
+      <jump line="102" column="0" filename="D:/PythonProjects/one4one/zuoyeba_detail.py" />
+      <jump line="73" column="8" filename="D:/PythonProjects/one4one/zuoyeba_detail.py" />
+      <jump line="103" column="18" filename="D:/PythonProjects/one4one/zuoyeba_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,37 +257,34 @@
         <text>App</text>
       </register>
       <register name="0" type="4">
-        <text>zuoyeba_detail_df</text>
+        <text>report</text>
       </register>
-      <register name="1" type="4">
-        <text>, u'学生或老师正常退出次数',
-                                                  u'学生余额不足退出次数', u'学生端取消次数',
-                                                  u'学生余额不足或有未付费记录，不能进行辅导次数',
-                                                  u'老师占线或下线次数', u'老师超时或主动拒绝次数'</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHUnxcTL0cG/JywgdSe3osz7wb8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnt6LG8Liotby0zsr9Jyw=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtncm91cCwgc3RyKHRlbCksIGN1cl9zdGF0LmZldGNob25lKClbMF0sIGN1cl9wb3N0LmZldGNob25lKClbMF1dICsgbGlzdChjdXJfMW9uMS5mZXRjaG9uZSgpKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R1ZGVudF9kZXRhaWwuYXBwZW5kKAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3Bvc3QuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoKikgZnJvbSBwb3N0IHdoZXJlIHVzZXJfaWQ9ezB9IGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9Ii5mb3JtYXQodWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllc19lbmRfdHMpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9kZXRhaWwgPSBbXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB6dW95ZWJhX2RldGFpbC5hcHBlbmQodXNlcl9kZXRhaWwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gcHloczIuY29ubmVjdChob3N0PScxMC41MS41OC4yMjknLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcnQ9MTIzNDUsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE1lY2hhbmlzbT0iUExBSU4iLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2U9J2FmYW50aV9oaXZlJykKICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gaGl2ZS5jb25uZWN0KGhvc3Q9JzEwLjUxLjU4LjIyOScsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PTEyMzQ1LAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWU9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhYmFzZT0nYWZhbnRpX2hpdmUnKQogICAgICAgICMgc2VsZi5jdXJfaGl2ZSA9IHNlbGYuY29ubl9oaXZlLmN1cnNvcigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgW3p1b3llYmFfcmVwb3J0X3dyaXRlci5wYXRoLCBdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVsLCB1aWQgaW4gemlwKHRlbHMsIHVpZHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdSe4vbz+zqp7MH3I1df30rWwydK1zvG1xMr9vt2749fcoaMnLmZvcm1hdCh5ZXNfZGF0ZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
