@@ -13,11 +13,9 @@
       <file name="D:/PythonProjects/one4one/func.sh" timestamp="1476719991920">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1476752812257">
-        <mark key="'" line="83" column="32" />
-      </file>
-      <file name="/a.dummy" timestamp="1476431943511">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1476756422768">
+        <mark key="'" line="79" column="32" />
+        <mark key="." line="76" column="71" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1476711887745" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476694438029">
@@ -26,6 +24,13 @@
         <mark key="]" line="587" column="39" />
         <mark key="^" line="587" column="39" />
         <mark key="." line="587" column="39" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476534147116">
+        <mark key="'" line="335" column="40" />
+        <mark key="[" line="290" column="11" />
+        <mark key="]" line="290" column="10" />
+        <mark key="^" line="290" column="10" />
+        <mark key="." line="290" column="10" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1476717508715">
         <mark key="'" line="44" column="0" />
@@ -38,6 +43,13 @@
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1476531910012">
         <mark key="'" line="14" column="42" />
+      </file>
+      <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1476755788898">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476723038875">
         <mark key="'" line="33" column="20" />
@@ -56,6 +68,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476513343746">
+        <mark key="'" line="262" column="4" />
+        <mark key="[" line="76" column="88" />
+        <mark key="]" line="76" column="145" />
+        <mark key="^" line="76" column="165" />
+        <mark key="." line="76" column="145" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476684073518">
         <mark key="[" line="120" column="317" />
@@ -80,9 +99,6 @@
         <mark key="[" line="164" column="36" />
         <mark key="]" line="164" column="37" />
         <mark key="." line="164" column="37" />
-      </file>
-      <file name="/a.regexp" timestamp="1476534311957">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476723305683">
         <mark key="'" line="77" column="70" />
@@ -113,9 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
-      <jump line="591" column="4" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
-      <jump line="68" column="54" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="615" column="22" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="598" column="25" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="93" column="57" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
@@ -213,13 +226,16 @@
       <jump line="44" column="0" filename="D:/PythonProjects/one4one/one4one.sh" />
       <jump line="80" column="70" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="83" column="32" filename="D:/PythonProjects/one4one/tutor_comment.py" />
+      <jump line="9" column="0" filename="D:/PythonProjects/one4one/requirements.txt" />
+      <jump line="5" column="3" filename="D:/PythonProjects/one4one/requirements.txt" />
+      <jump line="10" column="4" filename="D:/PythonProjects/one4one/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(套餐卡)</text>
+        <text>==0.4.3</text>
       </register>
       <register name="-" type="4">
-        <text>(套餐卡)</text>
+        <text>==0.4.3</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
@@ -227,32 +243,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY29tbWl0KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfYmFsYW5jZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">RGphbmdvPT0xLjEwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNhbGVfcHJpY2UsIHR1dG9yX2R1cmF0aW9uLCBjX3ZhbGlkX3Bvc3RzIC0gcG9zdF9jb3VudCwgY192YWxpZF9kdXJhdGlvbiwgY192YWxpZF9wb3N0cwo=</text>
+        <text encoding="base64">Z3VuaWNvcm49PTE5LjYuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfdHlwZQo=</text>
+        <text encoding="base64">ZGotc3RhdGljPT0wLjAuNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c291cmNlIC9kYXRhL2hvbWUvbHVjaGVuZ3hpYW5nL0VOVjIvYmluL2FjdGl2YXRlCg==</text>
+        <text encoding="base64">ZGphbmdvLXJldmVyc2lvbj09Mi4wLjYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfYmFsYW5jZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNhbGVfcHJpY2UsIHR1dG9yX2R1cmF0aW9uLCBjX3ZhbGlkX3Bvc3RzIC0gcG9zdF9jb3VudCwgY192YWxpZF9kdXJhdGlvbiwgY192YWxpZF9wb3N0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWN0aXZhdGUyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfdHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c291cmNlIC9kYXRhL2hvbWUvbHVjaGVuZ3hpYW5nL0VOVjIvYmluL2FjdGl2YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWN0aXZhdGUyCg==</text>
+        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
