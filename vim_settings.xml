@@ -23,8 +23,9 @@
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476694438029">
-        <mark key="'" line="360" column="21" />
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1476711887745" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476769679682">
+        <mark key="'" line="480" column="14" />
         <mark key="[" line="586" column="37" />
         <mark key="]" line="587" column="39" />
         <mark key="^" line="587" column="39" />
@@ -47,13 +48,14 @@
       <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
         <mark key="'" line="74" column="26" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476513343746">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476771410268">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
         <mark key="]" line="76" column="145" />
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476769909256" />
       <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1476768362485">
         <mark key="'" line="56" column="36" />
         <mark key="[" line="22" column="66" />
@@ -81,6 +83,12 @@
       <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1476768381365">
         <mark key="." line="44" column="33" />
       </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476771797386">
+        <mark key="[" line="175" column="293" />
+        <mark key="]" line="175" column="293" />
+        <mark key="." line="175" column="293" />
+        <mark key="^" line="175" column="293" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1476768786698">
         <mark key="'" line="44" column="50" />
         <mark key="[" line="22" column="66" />
@@ -101,7 +109,7 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476757547218">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476769688155">
         <mark key="'" line="217" column="34" />
         <mark key="[" line="192" column="45" />
         <mark key="]" line="192" column="45" />
@@ -111,15 +119,12 @@
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1476768685385">
         <mark key="'" line="264" column="54" />
       </file>
-      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476768348951">
+      <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476771358647">
         <mark key="'" line="113" column="59" />
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="120" column="339" />
-        <mark key="." line="120" column="339" />
-        <mark key="^" line="120" column="339" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1476759141795">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="97" column="41" />
+        <mark key="]" line="97" column="43" />
+        <mark key="." line="97" column="43" />
+        <mark key="^" line="97" column="43" />
       </file>
       <file name="/a.regexp" timestamp="1476768461594">
         <mark key="[" line="0" column="0" />
@@ -134,6 +139,7 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
+      <file name="D:/PythonProjects/one4one/bak/crontab178.bak" timestamp="1476709631788" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476722499056">
         <mark key="'" line="389" column="46" />
         <mark key="[" line="263" column="60" />
@@ -143,10 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="19" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="477" column="24" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="478" column="23" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="483" column="10" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="484" column="12" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="485" column="9" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="522" column="9" filename="D:/PythonProjects/matrix/statistics/models.py" />
@@ -243,19 +245,23 @@
       <jump line="384" column="22" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="264" column="54" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="44" column="50" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="480" column="14" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="231" column="40" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="95" column="0" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="262" column="4" filename="D:/PythonProjects/one4one/ft_students.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lave</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>lave</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY29tbWl0KCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">aWZudWxsKHJvdW5kKHN1bShpZihzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lPj1zdGFydF90aW1lLGVuZF90aW1lLXN0YXJ0X3RpbWUsMCkpLzYwLDIpLDAp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBkZgo=</text>
