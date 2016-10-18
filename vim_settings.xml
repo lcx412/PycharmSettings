@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476757821343">
-        <mark key="'" line="105" column="11" />
-        <mark key="[" line="98" column="36" />
-        <mark key="]" line="98" column="37" />
-        <mark key="^" line="104" column="35" />
-        <mark key="." line="98" column="37" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476772659284">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="97" column="36" />
+        <mark key="]" line="97" column="37" />
+        <mark key="^" line="103" column="35" />
+        <mark key="." line="19" column="101" />
       </file>
       <file name="D:/PythonProjects/one4one/func.sh" timestamp="1476719991920">
         <mark key="'" line="14" column="0" />
@@ -48,18 +48,14 @@
       <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
         <mark key="'" line="74" column="26" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476771410268">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476774102273">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
         <mark key="]" line="76" column="145" />
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476769909256" />
-      <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1476768362485">
-        <mark key="'" line="56" column="36" />
-        <mark key="[" line="22" column="66" />
-      </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476774402239" />
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1476768386636">
         <mark key="'" line="74" column="45" />
       </file>
@@ -72,6 +68,12 @@
       </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476774369910">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="52" />
+        <mark key="^" line="82" column="52" />
+        <mark key="." line="82" column="52" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1476768423759">
         <mark key="'" line="42" column="52" />
@@ -252,43 +254,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ID0gW10=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ID0gW10=</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWZudWxsKHJvdW5kKHN1bShpZihzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lPj1zdGFydF90aW1lLGVuZF90aW1lLXN0YXJ0X3RpbWUsMCkpLzYwLDIpLDAp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB6dW95ZWJhX2RldGFpbCA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3Bvc3QuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoKikgZnJvbSBwb3N0IHdoZXJlIHVzZXJfaWQ9ezB9IGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9Ii5mb3JtYXQodWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllc19lbmRfdHMpKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">RGphbmdvPT0xLjEwCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3VuaWNvcm49PTE5LjYuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGotc3RhdGljPT0wLjAuNgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGphbmdvLXJldmVyc2lvbj09Mi4wLjYK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdGVsLCB1aWQgaW4gemlwKHRlbHMsIHVpZHMpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfYmFsYW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWlkcyArPSBbdWlkXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNhbGVfcHJpY2UsIHR1dG9yX2R1cmF0aW9uLCBjX3ZhbGlkX3Bvc3RzIC0gcG9zdF9jb3VudCwgY192YWxpZF9kdXJhdGlvbiwgY192YWxpZF9wb3N0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWlkID0gcmVzWzBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNfdHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c291cmNlIC9kYXRhL2hvbWUvbHVjaGVuZ3hpYW5nL0VOVjIvYmluL2FjdGl2YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRlbCBpbiB0ZWxzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
