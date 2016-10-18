@@ -23,7 +23,6 @@
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1476711887745" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476769679682">
         <mark key="'" line="480" column="14" />
         <mark key="[" line="586" column="37" />
@@ -48,14 +47,17 @@
       <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
         <mark key="'" line="74" column="26" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476774102273">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476775250004">
         <mark key="'" line="262" column="4" />
         <mark key="[" line="76" column="88" />
         <mark key="]" line="76" column="145" />
         <mark key="^" line="76" column="165" />
         <mark key="." line="76" column="145" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476774402239" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476775279538">
+        <mark key="[" line="181" column="351" />
+        <mark key="]" line="181" column="370" />
+      </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1476768386636">
         <mark key="'" line="74" column="45" />
       </file>
@@ -69,11 +71,11 @@
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476774369910">
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="82" column="52" />
-        <mark key="^" line="82" column="52" />
-        <mark key="." line="82" column="52" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476775229485">
+        <mark key="[" line="92" column="98" />
+        <mark key="]" line="92" column="98" />
+        <mark key="^" line="92" column="98" />
+        <mark key="." line="92" column="98" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1476768423759">
         <mark key="'" line="42" column="52" />
@@ -141,7 +143,6 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/one4one/bak/crontab178.bak" timestamp="1476709631788" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476722499056">
         <mark key="'" line="389" column="46" />
         <mark key="[" line="263" column="60" />
@@ -254,43 +255,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gW10=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gW10=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB6dW95ZWJhX2RldGFpbCA9IFtdCg==</text>
+      <register name="0" type="4">
+        <text>zuoyeba_detail_df</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3Bvc3QuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoKikgZnJvbSBwb3N0IHdoZXJlIHVzZXJfaWQ9ezB9IGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9Ii5mb3JtYXQodWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllc19lbmRfdHMpKQo=</text>
+      <register name="1" type="4">
+        <text>, u'学生或老师正常退出次数',
+                                                  u'学生余额不足退出次数', u'学生端取消次数',
+                                                  u'学生余额不足或有未付费记录，不能进行辅导次数',
+                                                  u'老师占线或下线次数', u'老师超时或主动拒绝次数'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHUnxcTL0cG/JywgdSe3osz7wb8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUnt6LG8Liotby0zsr9Jyw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtncm91cCwgc3RyKHRlbCksIGN1cl9zdGF0LmZldGNob25lKClbMF0sIGN1cl9wb3N0LmZldGNob25lKClbMF1dICsgbGlzdChjdXJfMW9uMS5mZXRjaG9uZSgpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R1ZGVudF9kZXRhaWwuYXBwZW5kKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVsLCB1aWQgaW4gemlwKHRlbHMsIHVpZHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3Bvc3QuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoKikgZnJvbSBwb3N0IHdoZXJlIHVzZXJfaWQ9ezB9IGFuZCBjcmVhdGVfdGltZSBiZXR3ZWVuIHsxfSBhbmQgezJ9Ii5mb3JtYXQodWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllc19lbmRfdHMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWlkcyArPSBbdWlkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWlkID0gcmVzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRlbCBpbiB0ZWxzOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdGVsLCB1aWQgaW4gemlwKHRlbHMsIHVpZHMpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
