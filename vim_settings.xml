@@ -13,6 +13,9 @@
       <file name="D:/PythonProjects/one4one/func.sh" timestamp="1476719991920">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1476752812257">
+        <mark key="'" line="83" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1476431943511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,7 +91,7 @@
         <mark key="^" line="283" column="45" />
         <mark key="." line="222" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476752174494">
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476752965186">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -110,7 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="591" column="4" filename="D:/PythonProjects/matrix/api/whiteboard_stat.py" />
       <jump line="68" column="54" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
@@ -210,6 +212,7 @@
       <jump line="179" column="11" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/one4one/one4one.sh" />
       <jump line="80" column="70" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="83" column="32" filename="D:/PythonProjects/one4one/tutor_comment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
