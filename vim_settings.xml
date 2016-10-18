@@ -28,6 +28,13 @@
         <mark key="^" line="587" column="39" />
         <mark key="." line="587" column="39" />
       </file>
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476801497083">
+        <mark key="'" line="341" column="40" />
+        <mark key="[" line="253" column="109" />
+        <mark key="]" line="253" column="109" />
+        <mark key="^" line="253" column="109" />
+        <mark key="." line="253" column="109" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1476789188068" />
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1476768828089">
         <mark key="'" line="11" column="4" />
@@ -108,6 +115,7 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1476801845608" />
       <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1476788866134">
         <mark key="[" line="19" column="45" />
         <mark key="]" line="19" column="56" />
@@ -140,12 +148,12 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476769688155">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476802100103">
         <mark key="'" line="217" column="34" />
-        <mark key="[" line="192" column="45" />
-        <mark key="]" line="192" column="45" />
-        <mark key="^" line="192" column="45" />
-        <mark key="." line="192" column="45" />
+        <mark key="[" line="258" column="63" />
+        <mark key="]" line="258" column="63" />
+        <mark key="^" line="223" column="17" />
+        <mark key="." line="258" column="63" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476788888715">
         <mark key="'" line="113" column="59" />
@@ -273,43 +281,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>statistic_data_db</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>statistic_data_db</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
-      <register name="0" type="4">
-        <text>report</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAid2JfcHJpdmlsZWdlZF9jb252ZXJzaW9uIjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWQobGlzdChzZXQoW3N0YXRbJ2NhcmRfaWQnXSBmb3Igc3RhdCBpbiBzdGF0aXN0aWNzX2xpc3RdKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIGNhcmRfaWRzID0gc29ydGVkKGxpc3Qoc2V0KFtzdGF0WydjYXJkX2lkJ10gZm9yIHN0YXQgaW4gc3RhdGlzdGljc19saXN0XSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9kZXRhaWwgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB6dW95ZWJhX2RldGFpbC5hcHBlbmQodXNlcl9kZXRhaWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9kZXRhaWwgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gcHloczIuY29ubmVjdChob3N0PScxMC41MS41OC4yMjknLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcnQ9MTIzNDUsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE1lY2hhbmlzbT0iUExBSU4iLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2U9J2FmYW50aV9oaXZlJykKICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gaGl2ZS5jb25uZWN0KGhvc3Q9JzEwLjUxLjU4LjIyOScsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PTEyMzQ1LAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWU9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhYmFzZT0nYWZhbnRpX2hpdmUnKQogICAgICAgICMgc2VsZi5jdXJfaGl2ZSA9IHNlbGYuY29ubl9oaXZlLmN1cnNvcigpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB6dW95ZWJhX2RldGFpbC5hcHBlbmQodXNlcl9kZXRhaWwpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgW3p1b3llYmFfcmVwb3J0X3dyaXRlci5wYXRoLCBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gcHloczIuY29ubmVjdChob3N0PScxMC41MS41OC4yMjknLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcnQ9MTIzNDUsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE1lY2hhbmlzbT0iUExBSU4iLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2U9J2FmYW50aV9oaXZlJykKICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gaGl2ZS5jb25uZWN0KGhvc3Q9JzEwLjUxLjU4LjIyOScsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3J0PTEyMzQ1LAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWU9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhYmFzZT0nYWZhbnRpX2hpdmUnKQogICAgICAgICMgc2VsZi5jdXJfaGl2ZSA9IHNlbGYuY29ubl9oaXZlLmN1cnNvcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdSe4vbz+zqp7MH3I1df30rWwydK1zvG1xMr9vt2749fcoaMnLmZvcm1hdCh5ZXNfZGF0ZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
