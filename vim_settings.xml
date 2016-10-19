@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476863358537">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476866921650">
         <mark key="'" line="128" column="16" />
         <mark key="[" line="116" column="17" />
         <mark key="]" line="128" column="11" />
@@ -90,12 +90,12 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476865922384">
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1476866960654">
         <mark key="'" line="254" column="32" />
-        <mark key="[" line="262" column="126" />
-        <mark key="]" line="262" column="144" />
-        <mark key="^" line="262" column="144" />
-        <mark key="." line="262" column="144" />
+        <mark key="[" line="272" column="113" />
+        <mark key="]" line="272" column="115" />
+        <mark key="^" line="272" column="115" />
+        <mark key="." line="272" column="115" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1476862320785">
         <mark key="[" line="39" column="53" />
@@ -171,7 +171,7 @@
         <mark key="^" line="18" column="192" />
         <mark key="." line="18" column="192" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476865615080">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476867008402">
         <mark key="'" line="302" column="33" />
         <mark key="[" line="225" column="71" />
         <mark key="]" line="145" column="0" />
@@ -314,16 +314,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICd2YWxpZF9kdXJhdGlvbicsICd2YWxpZF9wb3N0cyc=</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICd2YWxpZF9kdXJhdGlvbicsICd2YWxpZF9wb3N0cyc=</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGkvZ2V0X2Z0X21lbWJlcl9kYXRhLyQnLCBnZXRfZnRfbWVtYmVyX2RhdGEpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoInNlbGVjdCBjb3VudCgqKSBmcm9tIHdoaXRlX2JvYXJkX3BhY2thZ2Ugd2hlcmUgdXNlcl9pZD17MH0gYW5kIHN0YXJ0X3RpbWU+ezF9IGFuZCBzdGFydF90aW1lPHsyfSBhbmQgY2hhcmdlX2NvZGVfaWQhPXszfSIuZm9ybWF0KHVpZCxmdHMsdHRzLGNpZCkpCiAgICAgICAgICAgICAgICBvdGhlcl9jYXJkc19udW0gPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
