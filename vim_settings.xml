@@ -52,12 +52,12 @@
       <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
         <mark key="'" line="74" column="26" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476776331292">
-        <mark key="'" line="262" column="4" />
-        <mark key="[" line="76" column="88" />
-        <mark key="]" line="76" column="145" />
-        <mark key="^" line="76" column="165" />
-        <mark key="." line="76" column="145" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476849477881">
+        <mark key="'" line="264" column="4" />
+        <mark key="[" line="70" column="26" />
+        <mark key="]" line="70" column="28" />
+        <mark key="^" line="70" column="28" />
+        <mark key="." line="70" column="28" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476843489333">
         <mark key="[" line="181" column="351" />
@@ -152,9 +152,9 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476804822215">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476849246515">
         <mark key="'" line="191" column="35" />
-        <mark key="[" line="211" column="0" />
+        <mark key="[" line="106" column="47" />
         <mark key="]" line="211" column="0" />
         <mark key="^" line="223" column="17" />
         <mark key="." line="211" column="0" />
@@ -285,16 +285,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>insert</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>tutor_duration_all</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfYW1vdW50X2JhbmsgaXMgTm9uZToKICAgICAgICAgICAgY2hhcmdlX2Ftb3VudF9iYW5rID0gMAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgdHRzIDw9IHllc19lbmRfdHM6CiAgICAgICAgICAgICAgICAjILW9xtrHv9bGx+UwCiAgICAgICAgICAgICAgICBjYXJkX2JhbGFuY2UgPSAwCg==</text>
