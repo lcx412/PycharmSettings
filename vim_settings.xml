@@ -125,11 +125,12 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476771797386">
-        <mark key="[" line="175" column="293" />
-        <mark key="]" line="175" column="293" />
-        <mark key="." line="175" column="293" />
-        <mark key="^" line="175" column="293" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476842779680">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="175" column="292" />
+        <mark key="]" line="175" column="299" />
+        <mark key="." line="175" column="299" />
+        <mark key="^" line="175" column="299" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1476768786698">
         <mark key="'" line="44" column="50" />
@@ -181,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="591" column="20" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="309" column="20" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="314" column="20" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="319" column="20" filename="D:/PythonProjects/matrix/statistics/models.py" />
@@ -281,6 +281,7 @@
       <jump line="82" column="183" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="73" column="142" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="191" column="35" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="51" column="0" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
