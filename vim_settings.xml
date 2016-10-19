@@ -190,12 +190,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476880220919">
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476880904553">
         <mark key="'" line="23" column="55" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="31" column="76" />
+        <mark key="]" line="31" column="92" />
+        <mark key="." line="31" column="92" />
+        <mark key="^" line="31" column="92" />
       </file>
       <file name="D:/PythonProjects/one4one/bak/crontab178.bak" timestamp="1476709631788" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476869470589">
@@ -310,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9wZW5lciA9IHVybGxpYjIuYnVpbGRfb3BlbmVyKHVybGxpYjIuSFRUUENvb2tpZVByb2Nlc3Nvcihjb29raWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>#!board/Intern</text>
+        <text>cookies.keys()</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -322,31 +322,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoInNlbGVjdCBjb3VudCgqKSBmcm9tIHdoaXRlX2JvYXJkX3BhY2thZ2Ugd2hlcmUgdXNlcl9pZD17MH0gYW5kIHN0YXJ0X3RpbWU+ezF9IGFuZCBzdGFydF90aW1lPHsyfSBhbmQgY2hhcmdlX2NvZGVfaWQhPXszfSIuZm9ybWF0KHVpZCxmdHMsdHRzLGNpZCkpCiAgICAgICAgICAgICAgICBvdGhlcl9jYXJkc19udW0gPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9wZW5lciA9IHVybGxpYjIuYnVpbGRfb3BlbmVyKHVybGxpYjIuSFRUUENvb2tpZVByb2Nlc3Nvcihjb29raWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb29raWUgPSBjb29raWVsaWIuTW96aWxsYUNvb2tpZUphcignY29va2llLnR4dCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLmNvb2tpZXMua2V5cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QobG9naW5fcGFnZSxkYXRhPWxvZ2luX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLmNvb2tpZXMua2V5cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN2biA9IFNNVEgoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdm4uc3BpZGVJdChwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZXNwb25zZS50ZXh0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBwIGluIHByb2plY3RfbmFtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RfbmFtZXMgPSBbJ2F1dG9tYXRlJ10K</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgdXJsbGliMi5VUkxFcnJvciwgZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gdXJsbGliMi5SZXF1ZXN0KGxvZ2luX3BhZ2UsIGhlYWRlcnM9c2VsZi5oZWFkZXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYub3BlbmVyLm9wZW4ocmVxdWVzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcmVzcG9uc2UucmVhZCgpLmRlY29kZSgnR0JLJykK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
