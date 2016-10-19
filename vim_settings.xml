@@ -21,12 +21,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1476711887745" />
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476769679682">
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1476856091134">
         <mark key="'" line="480" column="14" />
-        <mark key="[" line="586" column="37" />
-        <mark key="]" line="587" column="39" />
-        <mark key="^" line="587" column="39" />
-        <mark key="." line="587" column="39" />
+        <mark key="[" line="512" column="18" />
+        <mark key="]" line="512" column="18" />
+        <mark key="^" line="588" column="39" />
+        <mark key="." line="512" column="18" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1476801497083">
         <mark key="'" line="341" column="40" />
@@ -52,12 +52,12 @@
       <file name="D:/PythonProjects/one4one/mvp_stat.py" timestamp="1476768344288">
         <mark key="'" line="74" column="26" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476849477881">
-        <mark key="'" line="264" column="4" />
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="70" column="28" />
-        <mark key="^" line="70" column="28" />
-        <mark key="." line="70" column="28" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1476855774448">
+        <mark key="'" line="267" column="4" />
+        <mark key="[" line="261" column="34" />
+        <mark key="]" line="261" column="35" />
+        <mark key="^" line="254" column="40" />
+        <mark key="." line="261" column="35" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1476843489333">
         <mark key="[" line="181" column="351" />
@@ -152,12 +152,12 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476849246515">
-        <mark key="'" line="191" column="35" />
-        <mark key="[" line="106" column="47" />
-        <mark key="]" line="211" column="0" />
-        <mark key="^" line="223" column="17" />
-        <mark key="." line="211" column="0" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476856893420">
+        <mark key="'" line="119" column="21" />
+        <mark key="[" line="145" column="32" />
+        <mark key="]" line="145" column="29" />
+        <mark key="^" line="145" column="29" />
+        <mark key="." line="145" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476788888715">
         <mark key="'" line="113" column="59" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="334" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="350" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="355" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
@@ -218,7 +217,6 @@
       <jump line="259" column="211" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="110" column="16" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="335" column="40" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="111" column="39" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="33" column="20" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="47" column="31" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="63" column="46" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
@@ -282,48 +280,48 @@
       <jump line="124" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="127" column="51" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="272" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="111" column="53" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="119" column="21" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>和</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>和</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfYW1vdW50X2JhbmsgaXMgTm9uZToKICAgICAgICAgICAgY2hhcmdlX2Ftb3VudF9iYW5rID0gMAo=</text>
+        <text encoding="base64">ICAgIGNoYXJnZV9hbW91bnRfYmFuayA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHRzIDw9IHllc19lbmRfdHM6CiAgICAgICAgICAgICAgICAjILW9xtrHv9bGx+UwCiAgICAgICAgICAgICAgICBjYXJkX2JhbGFuY2UgPSAwCg==</text>
+        <text encoding="base64">ICAgICMgZnRfc3R1ZGVudHMgPSBGdF9TdHVkZW50cyh5ZXM9JzIwMTYtMDktMjAnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfY29uc3VtZV9tYWxsJ10gPSByb3VuZCgoc3RhdFsnY2hhcmdlX2NvbnN1bWVfbWFsbCddICsgc3RhdFsnY2hhcmdlX2NvbnN1bWVfZHVvYmFvJ10pIC8gMTAwLCAyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHRzIDw9IHllc19lbmRfdHM6CiAgICAgICAgICAgICAgICAjILW9xtrHv9bGx+UwCiAgICAgICAgICAgICAgICBjYXJkX2JhbGFuY2UgPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgwO3C29Pgtu4ot9YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dXRvcl9kdXJhdGlvbiA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHR1dG9yX2R1cmF0aW9uIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgwO3C29Pgtu4ot9YpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0WydjYXJkX25vdGUnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0dXRvcl9kdXJhdGlvbiA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHR1dG9yX2R1cmF0aW9uIGlzIE5vbmU6Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>'
-                
-            cur_matrix</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0WydjYXJkX25vdGUnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
