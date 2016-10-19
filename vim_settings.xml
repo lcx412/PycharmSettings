@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476845810941">
-        <mark key="'" line="127" column="51" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476859554672">
+        <mark key="'" line="138" column="8" />
         <mark key="[" line="118" column="17" />
         <mark key="]" line="130" column="11" />
         <mark key="." line="130" column="11" />
@@ -152,12 +152,12 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476856893420">
-        <mark key="'" line="119" column="21" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1476860085039">
+        <mark key="'" line="259" column="24" />
         <mark key="[" line="145" column="32" />
-        <mark key="]" line="145" column="29" />
-        <mark key="^" line="145" column="29" />
-        <mark key="." line="145" column="29" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1476788888715">
         <mark key="'" line="113" column="59" />
@@ -182,11 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="350" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="355" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="360" column="21" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="50" column="12" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="43" column="0" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="48" column="56" filename="D:/PythonProjects/matrix/webapp/routes.js" />
       <jump line="18" column="31" filename="D:/PythonProjects/matrix/webapp/routes.js" />
@@ -282,6 +277,11 @@
       <jump line="272" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="111" column="53" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="119" column="21" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="34" column="35" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="138" column="8" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="140" column="29" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="259" column="24" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
