@@ -99,12 +99,6 @@
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476752965186">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -196,11 +190,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476885494270">
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476887277417">
         <mark key="'" line="23" column="55" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="32" column="59" />
       </file>
       <file name="D:/PythonProjects/one4one/bak/crontab178.bak" timestamp="1476709631788" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476869470589">
@@ -315,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>, timeout=5</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, timeout=5</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
