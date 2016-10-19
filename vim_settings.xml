@@ -74,7 +74,7 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="51" />
       </file>
-      <file name="D:/Afanti/sit" timestamp="1476879881911">
+      <file name="D:/Afanti/sit" timestamp="1476891937795">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -117,7 +117,7 @@
         <mark key="^" line="105" column="11" />
         <mark key="." line="105" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1476879098354">
+      <file name="/Python Console" timestamp="1476892003908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1476768423759">
@@ -190,12 +190,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476887277417">
-        <mark key="'" line="23" column="55" />
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="32" column="59" />
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476892115683">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="65" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="D:/PythonProjects/one4one/bak/crontab178.bak" timestamp="1476709631788" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476869470589">
@@ -207,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="44" filename="D:/PythonProjects/Stat/mall_users.py" />
-      <jump line="389" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="41" column="17" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="36" column="15" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="126" column="0" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
@@ -307,46 +304,58 @@
       <jump line="24" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="114" column="52" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="21" column="55" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="35" column="56" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="37" column="0" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="40" column="28" filename="D:/PythonProjects/Spider/smth.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, timeout=5</text>
+        <text>cookies=r.cookies,</text>
       </register>
       <register name="-" type="4">
-        <text>, timeout=5</text>
+        <text>cookies=r.cookies,</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoInNlbGVjdCBjb3VudCgqKSBmcm9tIHdoaXRlX2JvYXJkX3BhY2thZ2Ugd2hlcmUgdXNlcl9pZD17MH0gYW5kIHN0YXJ0X3RpbWU+ezF9IGFuZCBzdGFydF90aW1lPHsyfSBhbmQgY2hhcmdlX2NvZGVfaWQhPXszfSIuZm9ybWF0KHVpZCxmdHMsdHRzLGNpZCkpCiAgICAgICAgICAgICAgICBvdGhlcl9jYXJkc19udW0gPSBjdXJfMW9uMS5mZXRjaG9uZSgpWzBdCg==</text>
+        <text encoding="base64">aW1wb3J0IHVybGxpYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0cy5hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLmNvb2tpZXMua2V5cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbl9kYXRhID0gdXJsbGliLnVybGVuY29kZShsb2dpbl9kYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnN0YXR1c19jb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLmNvb2tpZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnN0YXR1c19jb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLmNvb2tpZXMua2V5cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAibWFpbltVVE1QTlVNXSI6IDg5MTIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAibWFpbltQQVNTV09SRF0iOiAiJTI1NDAlMjUxNCUyNTA0JTI1NUUlMjUxRkYlMjUxOSUyNTVCJTI1MDdCOG8lMjU2MCUyNTA0ZiUyNTQwYiUyNTAzJTI1MERLJTI1MTQlMjUwNiUyNTVCJTI1MEEiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KGluaXRpYWxfcGFnZSkK</text>
+      <register name="7" type="4">
+        <text>% 2540 % 2514 % 2504 % 255
+           E % 251
+               FF % 2519 % 255
+           B % 2507
+               B8o % 2560 % 2504
+           f % 2540
+               b % 2503 % 250
+           DK % 2514 % 2506 % 255
+               B % 250
+           A;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAiQ29va2llIjogCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvb2tpZXMgPSB7CiAgICAgICAgICAgIG1haW5bVVRNUFVTRVJJRF0gPSBndWVzdAogICAgICAgIG1haW5bVVRNUEtFWV0gPSA2NTAwNTA5OQogICAgICAgIG1haW5bVVRNUE5VTV0gPSAxNTU2MQogICAgICAgIEhtX2x2dF85YzdmNGQ5YjdjMDBjYjVhYmEyYzYzN2M2NGE0MTU2NyA9IDE0NzY4ODI3NDQKICAgICAgICBIbV9scHZ0XzljN2Y0ZDliN2MwMGNiNWFiYTJjNjM3YzY0YTQxNTY3ID0gMTQ3Njg4Mjc0NAoKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
