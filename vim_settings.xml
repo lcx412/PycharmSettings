@@ -274,12 +274,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476959370027">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="77" column="11" />
-        <mark key="]" line="77" column="11" />
-        <mark key="." line="77" column="11" />
-        <mark key="^" line="77" column="11" />
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476964077189">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="78" column="85" />
       </file>
       <file name="D:/PythonProjects/one4one/sql.sh" timestamp="1476718220677">
         <mark key="[" line="1" column="1" />
@@ -297,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="70" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="74" column="26" filename="D:/PythonProjects/one4one/mvp_stat.py" />
       <jump line="113" column="59" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="41" column="580" filename="D:/PythonProjects/one4one/answer_consume.py" />
@@ -391,19 +390,20 @@
       <jump line="72" column="46" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="67" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="79" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="55" column="34" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="77" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="36" column="115" filename="D:/PythonProjects/matrix/api/income_index.py" />
       <jump line="60" column="0" filename="D:/PythonProjects/matrix/api/income_index.py" />
+      <jump line="70" column="25" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="79" column="4" filename="D:/PythonProjects/Spider/smth.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -412,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ7PJuaa3osz7o7p7MH0nLmZvcm1hdCh0aXRsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCe1x8K9yqew3KOs1tjK1NbQLi4uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X3RpdGxlLmRlY29kZSgnR0JLJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCJ+L3BhdGgvc2VuZHNtcyB7MH0gJ7PJuaa3osz7OnsxfSciLmZvcm1hdCh0ZWwsIHRpdGxlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3RpdGxlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X3RpdGxlLmRlY29kZSgnR0JLJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3RpdGxlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cG9zdF9zdWJtaXRfcGFnZSA9ICdodHRwOi8vd3d3Lm5ld3NtdGgubmV0L25Gb3J1bS9hcnRpY2xlL3swfS9hamF4X3Bvc3QuanNvbicuZm9ybWF0KGJvYXJkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQgbG9naW5fZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcCA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQogICAgICAgIGNwLnJlYWQoJy4vY29uZi5pbmknKQogICAgICAgIGFjY291bnRfZGljdCA9IGRpY3QoY3AuaXRlbXMoJ3NtdGhfYWNjb3VudCcpKQogICAgICAgIGxvZ2luX2RhdGEgPSBkaWN0KGNvb2tpZURheXM9MiwgKiphY2NvdW50X2RpY3QpCiAgICAgICAgcHJpbnQgbG9naW5fZGF0YQo=</text>
+        <text encoding="base64">cG9zdF9zdWJtaXRfcGFnZSA9ICdodHRwOi8vd3d3Lm5ld3NtdGgubmV0L25Gb3J1bS9hcnRpY2xlL3swfS9hamF4X3Bvc3QuanNvbicuZm9ybWF0KGJvYXJkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
