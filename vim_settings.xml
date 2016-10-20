@@ -105,6 +105,12 @@
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1476752965186">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -176,17 +182,24 @@
         <mark key="." line="76" column="34" />
         <mark key="^" line="76" column="34" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476875973901">
+      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1476932305011">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="18" column="192" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476521157320">
+      <file name="D:/PythonProjects/matrix/webapp/components/NavComponent.js" timestamp="1476931709289">
         <mark key="[" line="62" column="55" />
         <mark key="]" line="62" column="24" />
         <mark key="^" line="62" column="24" />
         <mark key="." line="62" column="24" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1476930759836">
+        <mark key="'" line="97" column="48" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="34" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1476768685385">
         <mark key="'" line="264" column="54" />
@@ -196,11 +209,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" timestamp="1476897800432">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="1" />
+      <file name="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" timestamp="1476932527152">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1476862370947">
         <mark key="[" line="115" column="37" />
@@ -261,15 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="31" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
-      <jump line="63" column="46" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
-      <jump line="169" column="22" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
-      <jump line="58" column="31" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/crontab178.bak" />
-      <jump line="49" column="17" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
-      <jump line="55" column="21" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
-      <jump line="389" column="46" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
-      <jump line="203" column="33" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="102" column="25" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="98" column="37" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="159" column="25" filename="D:/PythonProjects/one4one/wb_remain.py" />
@@ -361,6 +366,15 @@
       <jump line="66" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="133" column="0" filename="D:/PythonProjects/matrix/Matrix/settings.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="47" column="16" filename="D:/PythonProjects/matrix/webapp/routes.js" />
+      <jump line="28" column="0" filename="D:/PythonProjects/matrix/webapp/routes.js" />
+      <jump line="84" column="0" filename="D:/PythonProjects/matrix/webapp/routes.js" />
+      <jump line="67" column="32" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
+      <jump line="22" column="43" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
+      <jump line="25" column="0" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
+      <jump line="58" column="21" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
+      <jump line="16" column="13" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
+      <jump line="80" column="0" filename="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
