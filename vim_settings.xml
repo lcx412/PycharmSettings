@@ -196,6 +196,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" timestamp="1476897800432">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1476862370947">
         <mark key="[" line="115" column="37" />
         <mark key="]" line="115" column="38" />
@@ -214,6 +220,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1476897803232">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="D:/PythonProjects/Spider/config.ini" timestamp="1476896991959">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="2" column="18" />
@@ -226,12 +238,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476897642294">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="32" column="47" />
-        <mark key="]" line="34" column="53" />
-        <mark key="." line="34" column="53" />
-        <mark key="^" line="34" column="38" />
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476897859691">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="38" />
+        <mark key="." line="70" column="38" />
+        <mark key="^" line="70" column="38" />
       </file>
       <file name="D:/PythonProjects/one4one/sql.sh" timestamp="1476718220677">
         <mark key="[" line="1" column="1" />
@@ -352,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -364,31 +376,31 @@
         <text>.split('.')[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3NtdGhfcGFzc3dkXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">oa2hrQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLmpzb24oKVsnYWpheF9tc2cnXSA9PSB1J7LZ1/ezybmmJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBhY2NvdW50X2RpY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50IHBvc3RfY29udGVudAo=</text>
+        <text encoding="base64">W3NtdGhfcGFzc3dkXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50IHBvc3RfdGl0bGUuc3BsaXQoJy4nKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAns8m5preizPujunswfScuZm9ybWF0KHBvc3RfdGl0bGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLmpzb24oKVsnYWpheF9tc2cnXSA9PSB1J7LZ1/ezybmmJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50IHBvc3RfY29udGVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
