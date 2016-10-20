@@ -274,12 +274,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476957402094">
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476959213882">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="14" />
-        <mark key="." line="64" column="14" />
-        <mark key="^" line="64" column="14" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="62" />
+        <mark key="." line="66" column="62" />
+        <mark key="^" line="66" column="62" />
       </file>
       <file name="D:/PythonProjects/one4one/sql.sh" timestamp="1476718220677">
         <mark key="[" line="1" column="1" />
@@ -399,8 +399,8 @@
       <jump line="60" column="0" filename="D:/PythonProjects/matrix/api/income_index.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -412,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ7PJuaa3osz7o7p7MH0nLmZvcm1hdCh0aXRsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X3RpdGxlLmRlY29kZSgnR0JLJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3RpdGxlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X3RpdGxlLmRlY29kZSgnR0JLJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3RpdGxlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9zdF9zdWJtaXRfcGFnZSA9ICdodHRwOi8vd3d3Lm5ld3NtdGgubmV0L25Gb3J1bS9hcnRpY2xlL3swfS9hamF4X3Bvc3QuanNvbicuZm9ybWF0KGJvYXJkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgbG9naW5fZGF0YQo=</text>
+        <text encoding="base64">cG9zdF9zdWJtaXRfcGFnZSA9ICdodHRwOi8vd3d3Lm5ld3NtdGgubmV0L25Gb3J1bS9hcnRpY2xlL3swfS9hamF4X3Bvc3QuanNvbicuZm9ybWF0KGJvYXJkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcCA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQogICAgICAgIGNwLnJlYWQoJy4vY29uZi5pbmknKQogICAgICAgIGFjY291bnRfZGljdCA9IGRpY3QoY3AuaXRlbXMoJ3NtdGhfYWNjb3VudCcpKQogICAgICAgIGxvZ2luX2RhdGEgPSBkaWN0KGNvb2tpZURheXM9MiwgKiphY2NvdW50X2RpY3QpCiAgICAgICAgcHJpbnQgbG9naW5fZGF0YQo=</text>
+        <text encoding="base64">cHJpbnQgbG9naW5fZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvYXJkID0gJ0ludGVybicK</text>
+        <text encoding="base64">ICAgICAgICBjcCA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQogICAgICAgIGNwLnJlYWQoJy4vY29uZi5pbmknKQogICAgICAgIGFjY291bnRfZGljdCA9IGRpY3QoY3AuaXRlbXMoJ3NtdGhfYWNjb3VudCcpKQogICAgICAgIGxvZ2luX2RhdGEgPSBkaWN0KGNvb2tpZURheXM9MiwgKiphY2NvdW50X2RpY3QpCiAgICAgICAgcHJpbnQgbG9naW5fZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
