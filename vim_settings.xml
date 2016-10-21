@@ -243,11 +243,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1476942868511">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="2" column="9" />
+      <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477016596045">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="D:/PythonProjects/Spider/config.ini" timestamp="1476896991959">
         <mark key="[" line="1" column="9" />
@@ -274,12 +274,12 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1476964077189">
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="78" column="85" />
+      <file name="D:/PythonProjects/Spider/smth.py" timestamp="1477016811177">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="77" column="48" />
+        <mark key="]" line="77" column="47" />
+        <mark key="^" line="77" column="47" />
+        <mark key="." line="77" column="47" />
       </file>
       <file name="D:/PythonProjects/one4one/sql.sh" timestamp="1476718220677">
         <mark key="[" line="1" column="1" />
@@ -400,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>'./posts'</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>'./posts'</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -412,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ7PJuaa3osz7o7p7MH0nLmZvcm1hdCh0aXRsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCe1x8K9yqew3KOs1tjK1NbQLi4uJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3Muc3lzdGVtKCJ+L3BhdGgvc2VuZHNtcyB7MH0gJ7PJuaa3osz7OnsxfSciLmZvcm1hdCh0ZWwsIHRpdGxlKSkK</text>
+        <text encoding="base64">Ym9hcmQgPSBJbnRlcm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoci50ZXh0KQo=</text>
+        <text encoding="base64">W3NtdGhfYm9hcmRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X3RpdGxlLmRlY29kZSgnR0JLJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KGxvZ2luX3BhZ2UsIGRhdGE9bG9naW5fZGF0YSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3RpdGxlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmdldChpbml0aWFsX3BhZ2UsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD01KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">ICAgICAgICB0cnlfdGltZXMgPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uZ2V0KGluaXRpYWxfcGFnZSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCiAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KGxvZ2luX3BhZ2UsIGRhdGE9bG9naW5fZGF0YSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cG9zdF9zdWJtaXRfcGFnZSA9ICdodHRwOi8vd3d3Lm5ld3NtdGgubmV0L25Gb3J1bS9hcnRpY2xlL3swfS9hamF4X3Bvc3QuanNvbicuZm9ybWF0KGJvYXJkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCe1x8K9yqew3KOs1tjK1NbQLi4uJykK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
