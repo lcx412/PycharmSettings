@@ -53,7 +53,8 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1477018141118">
+      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1477028837982">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="56" />
         <mark key="." line="23" column="56" />
@@ -298,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="26" filename="D:/PythonProjects/one4one/mvp_stat.py" />
       <jump line="113" column="59" filename="D:/PythonProjects/one4one/mall_stat.py" />
       <jump line="41" column="580" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="56" column="36" filename="D:/PythonProjects/one4one/answer_cost.py" />
@@ -398,6 +398,7 @@
       <jump line="60" column="0" filename="D:/PythonProjects/matrix/api/income_index.py" />
       <jump line="70" column="25" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="79" column="4" filename="D:/PythonProjects/Spider/smth.py" />
+      <jump line="48" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
