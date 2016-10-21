@@ -45,7 +45,7 @@
         <mark key="^" line="258" column="41" />
         <mark key="." line="289" column="373" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1476789188068" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1477042901474" />
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1476768828089">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="3" column="7" />
@@ -93,12 +93,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/PythonProjects/Stat/month_remain.py" timestamp="1477042873437">
-        <mark key="'" line="80" column="32" />
-        <mark key="[" line="83" column="26" />
-        <mark key="]" line="85" column="11" />
-        <mark key="^" line="85" column="11" />
-        <mark key="." line="85" column="11" />
+      <file name="D:/PythonProjects/Stat/month_remain.py" timestamp="1477043837900">
+        <mark key="'" line="78" column="78" />
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="112" column="32" />
+        <mark key="^" line="88" column="31" />
+        <mark key="." line="112" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1476788821376">
         <mark key="'" line="74" column="45" />
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="45" filename="D:/PythonProjects/one4one/Guaguale.py" />
-      <jump line="42" column="52" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="135" column="26" filename="D:/PythonProjects/one4one/tutor_overhead.py" />
       <jump line="120" column="39" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="384" column="22" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
@@ -406,13 +404,15 @@
       <jump line="0" column="0" filename="D:/PythonProjects/Stat/month_remain.py" />
       <jump line="76" column="4" filename="D:/PythonProjects/Stat/month_remain.py" />
       <jump line="80" column="32" filename="D:/PythonProjects/Stat/month_remain.py" />
+      <jump line="70" column="13" filename="D:/PythonProjects/Stat/month_remain.py" />
+      <jump line="78" column="78" filename="D:/PythonProjects/Stat/month_remain.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>10.51.58.229</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>10.51.58.229</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -421,31 +421,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ7PJuaa3osz7o7p7MH0nLmZvcm1hdCh0aXRsZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZ0X3RlYWNoZXJzLnJlbWFpbl9zdGF0KCkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9hcmQgPSBJbnRlcm4K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W3NtdGhfYm9hcmRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KGxvZ2luX3BhZ2UsIGRhdGE9bG9naW5fZGF0YSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCg==</text>
+        <text encoding="base64">Ym9hcmQgPSBJbnRlcm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmdldChpbml0aWFsX3BhZ2UsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD01KQo=</text>
+        <text encoding="base64">W3NtdGhfYm9hcmRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnlfdGltZXMgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KGxvZ2luX3BhZ2UsIGRhdGE9bG9naW5fZGF0YSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmdldChpbml0aWFsX3BhZ2UsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD01KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uZ2V0KGluaXRpYWxfcGFnZSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCiAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KGxvZ2luX3BhZ2UsIGRhdGE9bG9naW5fZGF0YSwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTUpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnlfdGltZXMgPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
