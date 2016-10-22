@@ -24,12 +24,12 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477138927943">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477140734662">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="51" column="55" />
-        <mark key="^" line="51" column="54" />
-        <mark key="." line="51" column="55" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="58" column="23" />
+        <mark key="." line="58" column="24" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477132539302">
         <mark key="'" line="480" column="14" />
@@ -318,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>bar</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>bar</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
