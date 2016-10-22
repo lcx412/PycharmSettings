@@ -24,12 +24,12 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477140734662">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477140994365">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="24" />
-        <mark key="^" line="58" column="23" />
-        <mark key="." line="58" column="24" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="110" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="17" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477132539302">
         <mark key="'" line="480" column="14" />
@@ -317,8 +317,8 @@
       <jump line="91" column="15" filename="D:/PythonProjects/one4one/income_index.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdCA9IEluY29tZUluZGV4Lm9iamVjdHMuZmlsdGVyKGRhdGVfX3JhbmdlPShzdGFydF90aW1lLCBlbmRfdGltZSkpLm9yZGVyX2J5KCdkYXRlJykudmFsdWVzKCkK</text>
       </register>
       <register name="-" type="4">
         <text>bar</text>
@@ -327,7 +327,7 @@
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGkvZ2V0X3diX2R1cmF0aW9uX2RhdGEvJCcsIGdldF93Yl9kdXJhdGlvbl9kYXRhKSwK</text>
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdCA9IEluY29tZUluZGV4Lm9iamVjdHMuZmlsdGVyKGRhdGVfX3JhbmdlPShzdGFydF90aW1lLCBlbmRfdGltZSkpLm9yZGVyX2J5KCdkYXRlJykudmFsdWVzKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxpdmVfbnVtID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
