@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1477139065343">
+      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1477143017598">
         <mark key="'" line="91" column="15" />
         <mark key="[" line="97" column="16" />
         <mark key="]" line="96" column="153" />
@@ -24,12 +24,12 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477140994365">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477143197597">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="110" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
+        <mark key="[" line="76" column="61" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="10" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477132539302">
         <mark key="'" line="480" column="14" />
@@ -72,7 +72,7 @@
         <mark key="^" line="254" column="40" />
         <mark key="." line="261" column="35" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1477123154015">
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1477143357961">
         <mark key="'" line="162" column="0" />
         <mark key="[" line="170" column="32" />
         <mark key="]" line="170" column="33" />
@@ -110,12 +110,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1477132839521">
         <mark key="[" line="41" column="66" />
       </file>
-      <file name="D:/PythonProjects/Poster/poster.sh" timestamp="1477116333761">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1476779067816">
         <mark key="'" line="103" column="18" />
         <mark key="[" line="58" column="106" />
@@ -123,6 +117,7 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1477143161991" />
       <file name="D:/PythonProjects/one4one/zuoyeba_charge_and_tutor.py" timestamp="1476775840644">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="105" column="6" />
@@ -167,10 +162,11 @@
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477127461915" />
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1477129910964">
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1477143286921">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="21" />
       </file>
       <file name="D:/PythonProjects/Spider/posts/高薪招聘程序猿鼓励师.txt" timestamp="1476941158379">
         <mark key="'" line="78" column="0" />
@@ -318,43 +314,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdCA9IEluY29tZUluZGV4Lm9iamVjdHMuZmlsdGVyKGRhdGVfX3JhbmdlPShzdGFydF90aW1lLCBlbmRfdGltZSkpLm9yZGVyX2J5KCdkYXRlJykudmFsdWVzKCkK</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAid2JfcmVtYWluIGZhaWxlZCIK</text>
       </register>
       <register name="-" type="4">
-        <text>bar</text>
+        <text>DEFAULT_TOOLBOX</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpc3RpY3NfbGlzdCA9IEluY29tZUluZGV4Lm9iamVjdHMuZmlsdGVyKGRhdGVfX3JhbmdlPShzdGFydF90aW1lLCBlbmRfdGltZSkpLm9yZGVyX2J5KCdkYXRlJykudmFsdWVzKCkK</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAid2JfcmVtYWluIGZhaWxlZCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpdmVfbnVtID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ID0ge30KICAgIERFRkFVTFRfVE9PTEJPWA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpdmVfbnVtID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICMjIM3q1fu1xGVjaGFydC5vcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhcmRfYmFsYW5jZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc3RfY29zdCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgICMgZWNoYXJ0zbyx7bXEeNbhserHqQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc3RfY291bnQgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICMg0qrP1Mq+tcR0YWJsZS10aXRsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR1dG9yX2Nvc3QgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICMgus3Jz8r2dGl0bGXSu9K7ttTTprXEse3B0MP7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR1dG9yX2R1cmF0aW9uID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICMgZWNoYXJ0zbyx7bXEeCx51uEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvX3RpbWUgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgICMgZWNoYXJ00OjSqrXEc2VyaWVzwdCx7Qo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb21fdGltZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgIGxlZ2VuZF9uYW1lcyA9IFsnyNXG2icsICdEQVUnLCAnxcTL0da4yv0nLCAnx/PW+ta4yv0nLCAns+TWtda4yv0nLCAntPDSyc/7t9HWuMr9JywgJ9K7ttTSu8/7t9HWuMr9JywgJ8nMs8fP+7fR1rjK/ScsICe24bGmz/u30da4yv0nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
