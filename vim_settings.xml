@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1477132234813">
+      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1477139065343">
         <mark key="'" line="91" column="15" />
-        <mark key="[" line="93" column="81" />
-        <mark key="]" line="93" column="82" />
-        <mark key="." line="93" column="82" />
-        <mark key="^" line="93" column="68" />
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="96" column="153" />
+        <mark key="." line="96" column="153" />
+        <mark key="^" line="96" column="102" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1476866921650">
         <mark key="'" line="128" column="16" />
@@ -24,12 +24,12 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477133351377">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477138927943">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+        <mark key="[" line="51" column="55" />
+        <mark key="]" line="51" column="55" />
+        <mark key="^" line="51" column="54" />
+        <mark key="." line="51" column="55" />
       </file>
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477132539302">
         <mark key="'" line="480" column="14" />
@@ -65,7 +65,7 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1477131816606">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1477139038235">
         <mark key="'" line="267" column="4" />
         <mark key="[" line="261" column="34" />
         <mark key="]" line="261" column="35" />
@@ -318,10 +318,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>辅导时长</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>辅导时长</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
