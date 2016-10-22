@@ -44,12 +44,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="85" column="11" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477145001500">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="98" column="10" />
-        <mark key="]" line="95" column="71" />
-        <mark key="^" line="94" column="15" />
-        <mark key="." line="95" column="71" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477149082521">
+        <mark key="'" line="100" column="46" />
+        <mark key="[" line="100" column="46" />
+        <mark key="]" line="91" column="4" />
+        <mark key="^" line="91" column="4" />
+        <mark key="." line="91" column="4" />
       </file>
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1476768828089">
         <mark key="'" line="11" column="4" />
@@ -65,7 +65,7 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1477144555287" />
+      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1477149254317" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1477139038235">
         <mark key="'" line="267" column="4" />
         <mark key="[" line="261" column="34" />
@@ -164,7 +164,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477127461915" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477144852551">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477149515649">
         <mark key="'" line="97" column="48" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
@@ -209,17 +209,16 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1476869470589">
+      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477148679952">
         <mark key="'" line="389" column="46" />
-        <mark key="[" line="386" column="42" />
-        <mark key="]" line="386" column="59" />
-        <mark key="^" line="386" column="59" />
-        <mark key="." line="386" column="59" />
+        <mark key="[" line="457" column="57" />
+        <mark key="]" line="457" column="57" />
+        <mark key="^" line="457" column="57" />
+        <mark key="." line="457" column="57" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="D:/PythonProjects/one4one/answer_consume.py" />
       <jump line="82" column="183" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="73" column="142" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="191" column="35" filename="D:/PythonProjects/matrix/api/financial_times.py" />
@@ -319,6 +318,7 @@
       <jump line="88" column="16" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="112" column="4" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="91" column="15" filename="D:/PythonProjects/one4one/income_index.py" />
+      <jump line="100" column="46" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
