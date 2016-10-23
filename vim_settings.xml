@@ -27,9 +27,6 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1476775852628">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477143197597">
         <mark key="'" line="26" column="8" />
         <mark key="[" line="76" column="61" />
@@ -132,9 +129,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
-        <mark key="[" line="25" column="66" />
-      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1476779067816">
         <mark key="'" line="103" column="18" />
         <mark key="[" line="58" column="106" />
@@ -157,11 +151,11 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477235340542">
-        <mark key="[" line="59" column="68" />
-      </file>
-      <file name="D:/PythonProjects/Spider/posts/《阿凡题招聘》Python系统工程师.txt" timestamp="1476941418256">
-        <mark key="[" line="24" column="14" />
+      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477236455019">
+        <mark key="[" line="48" column="74" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="58" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476843350156">
         <mark key="'" line="51" column="0" />
@@ -232,18 +226,12 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="/a.regexp" timestamp="1476897120180">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/Spider/posts/【阿凡题】Python系统工程师（全职or实习）.txt" timestamp="1476956788908">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="3" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
-        <mark key="[" line="21" column="81" />
       </file>
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477149960696">
         <mark key="'" line="389" column="46" />
@@ -354,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, timeout=5</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>, timeout=5</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Row</text>
