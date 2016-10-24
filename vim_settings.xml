@@ -104,10 +104,12 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477301300089">
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="4" />
-        <mark key="." line="337" column="4" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477301932943">
+        <mark key="'" line="364" column="36" />
+        <mark key="[" line="351" column="49" />
+        <mark key="]" line="351" column="51" />
+        <mark key="." line="351" column="51" />
+        <mark key="^" line="351" column="51" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477289748551">
         <mark key="'" line="205" column="27" />
@@ -152,8 +154,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
-      <jump line="138" column="8" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="140" column="29" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="178" column="40" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="259" column="24" filename="D:/PythonProjects/matrix/api/financial_times.py" />
@@ -252,13 +252,15 @@
       <jump line="348" column="29" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="706" column="24" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="705" column="24" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="338" column="87" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="364" column="36" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheV9kYXRlID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>Prepare for online</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
