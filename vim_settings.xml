@@ -115,7 +115,7 @@
         <mark key="^" line="272" column="115" />
         <mark key="." line="272" column="115" />
       </file>
-      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1477234360916">
+      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1477240030518">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="9" />
         <mark key="^" line="6" column="20" />
@@ -151,6 +151,12 @@
         <mark key="]" line="19" column="49" />
         <mark key="^" line="19" column="49" />
         <mark key="." line="35" column="32" />
+      </file>
+      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477242667387">
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="56" />
+        <mark key="." line="44" column="56" />
+        <mark key="^" line="44" column="56" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1476843350156">
         <mark key="'" line="51" column="0" />
@@ -337,43 +343,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SimpleCookie</text>
+        <text>lcx412</text>
       </register>
       <register name="-" type="4">
-        <text>SimpleCookie</text>
+        <text>lcx412</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNlc3Npb24uY29va2llcy5rZXlzKCkK</text>
+        <text encoding="base64">ICAgICduZm9ydW1bVVRNUFVTRVJJRF0nOnppeWluYW54dWFuLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNlc3Npb24uY29va2llcy52YWx1ZXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gaHR0cC5jb29raWVzIGltcG9ydCBTaW1wbGVDb29raWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNlc3Npb24uY29va2llcy5rZXlzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
+        <text encoding="base64">ICAgIGZyb20gaHR0cC5jb29raWVzIGltcG9ydCBTaW1wbGVDb29raWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcignLi8nICsgYm9hcmQpIG9yIGJvYXJkLnN0YXJ0c3dpdGgoJy4nKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBib2FyZCBpbiBvcy5saXN0ZGlyKCcuJyk6CiAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIoJy4vJyArIGJvYXJkKSBvciBib2FyZC5zdGFydHN3aXRoKCcuJyk6CiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c291cmNlIH4vRU5WMi9iaW4vYWN0aXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2RpcignLi8nICsgYm9hcmQpIG9yIGJvYXJkLnN0YXJ0c3dpdGgoJy4nKToK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
