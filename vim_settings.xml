@@ -58,9 +58,6 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1477152829080">
-        <mark key="[" line="91" column="45" />
-      </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1477139038235">
         <mark key="'" line="267" column="4" />
         <mark key="[" line="261" column="34" />
@@ -93,12 +90,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1477277714660">
         <mark key="[" line="41" column="66" />
       </file>
-      <file name="D:/PythonProjects/Poster/poster.sh" timestamp="1477230293981">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -113,7 +104,11 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477127461915" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477301300089">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="4" />
+        <mark key="." line="337" column="4" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477289748551">
         <mark key="'" line="205" column="27" />
         <mark key="[" line="37" column="33" />
@@ -151,15 +146,12 @@
         <mark key="[" line="21" column="81" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477289739739" />
-      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477300215627">
-        <mark key="'" line="389" column="46" />
+      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477300549488">
+        <mark key="'" line="705" column="24" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="111" column="53" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="119" column="21" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="34" column="35" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="138" column="8" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="140" column="29" filename="D:/PythonProjects/matrix/api/financial_times.py" />
@@ -257,10 +249,13 @@
       <jump line="205" column="27" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="97" column="55" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="377" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="348" column="29" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="706" column="24" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
+      <jump line="705" column="24" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Prepare for online</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b2RheV9kYXRlID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Prepare for online</text>
@@ -272,31 +267,31 @@
         <text>'日期', 'DLU',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvKiDV4rj2t723qNb30qq4+b7dtbHHsMK308m1xGNoYXJ0wLS+9raoz/LExLj2QVBJx+vH88r9vt0gKi8K</text>
+        <text encoding="base64">ICAgICAgICB0b2RheV9kYXRlID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiItXiuPa907/a0tRqc29utcS48cq9t7W72GVjaGFydLrNdGFibGXQ6NKqtcTK/b7dIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydwYWlkX3Bvc3RfdXNlcnMnXSA9IHN0YXRbJ3BhaWRfcG9zdF91c2VycyddICogMzAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfdXNlcnMnXSA9IHN0YXRbJ2NoYXJnZV91c2VycyddICogMTUwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
+        <text encoding="base64">ICAgICIiItXiuPa907/a0tRqc29utcS48cq9t7W72GVjaGFydLrNdGFibGXQ6NKqtcTK/b7dIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl91c2VycyddID0gc3RhdFsndHV0b3JfdXNlcnMnXSAqIDIwMDAwIC8gc3RhdFsnYWN0aXZlX251bSddCg==</text>
+        <text encoding="base64">ICAgIHRvZGF5X2RhdGUgPSBkYXRldGltZS5kYXRlLnRvZGF5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydkdW9iYW9fdXNlcnMnXSA9IHN0YXRbJ2R1b2Jhb191c2VycyddICogMjAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
+        <text encoding="base64">ICAgICAgICAvLyAvKiDV4rj2t723qNb30qq4+b7dtbHHsMK308m1xGNoYXJ0wLS+9raoz/LExLj2QVBJx+vH88r9vt0gKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydkdW9iYW9fdXNlcnMnXSA9IHN0YXRbJ2R1b2Jhb191c2VycyddICogMjAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfdXNlcnMnXSA9IHN0YXRbJ2NoYXJnZV91c2VycyddICogNTAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
+        <text encoding="base64">ICAgICIiItXiuPa907/a0tRqc29utcS48cq9t7W72GVjaGFydLrNdGFibGXQ6NKqtcTK/b7dIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
