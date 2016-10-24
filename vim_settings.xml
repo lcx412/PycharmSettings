@@ -104,14 +104,14 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477301932943">
-        <mark key="'" line="364" column="36" />
-        <mark key="[" line="351" column="49" />
-        <mark key="]" line="351" column="51" />
-        <mark key="." line="351" column="51" />
-        <mark key="^" line="351" column="51" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477303593241">
+        <mark key="'" line="358" column="36" />
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="^" line="354" column="34" />
+        <mark key="." line="353" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477289748551">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477303260029">
         <mark key="'" line="205" column="27" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
@@ -256,44 +256,45 @@
       <jump line="364" column="36" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>charge_types_dict</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
-      <register name="0" type="4">
-        <text>'日期', 'DLU',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gY2hhcmdlX3R5cGVzX2RpY3QudmFsdWVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheV9kYXRlID0gZGF0ZXRpbWUuZGF0ZS50b2RheSgpCg==</text>
+        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJnZV90eXBlcyA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9kYXRhLgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>append(list(set(charge_types)))
+    filter_data.append(list(set(pay_sources)))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiItXiuPa907/a0tRqc29utcS48cq9t7W72GVjaGFydLrNdGFibGXQ6NKqtcTK/b7dIiIiCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gW10KICAgIGZpbHRlcl9kYXRhLmFwcGVuZChsaXN0KHNldChjaGFyZ2VfdHlwZXMpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvZGF5X2RhdGUgPSBkYXRldGltZS5kYXRlLnRvZGF5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXlfc291cmNlcy5hcHBlbmQoaXRlbVsncGF5X3NvdXJjZSddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvKiDV4rj2t723qNb30qq4+b7dtbHHsMK308m1xGNoYXJ0wLS+9raoz/LExLj2QVBJx+vH88r9vt0gKi8K</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdHlwZXMuYXBwZW5kKGl0ZW1bJ2NoYXJnZV90eXBlJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIHRhYmxlX2RhdGE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiItXiuPa907/a0tRqc29utcS48cq9t7W72GVjaGFydLrNdGFibGXQ6NKqtcTK/b7dIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZGF0ZSA9IHN0YXRpc3RpY3NfbGlzdFtpXS5lbmRfdGltZS5zcGxpdCgpWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
