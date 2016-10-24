@@ -44,7 +44,7 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477300032313">
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477304967980">
         <mark key="'" line="376" column="0" />
         <mark key="[" line="98" column="24" />
         <mark key="]" line="98" column="24" />
@@ -104,12 +104,12 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477303593241">
-        <mark key="'" line="358" column="36" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="^" line="354" column="34" />
-        <mark key="." line="353" column="0" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477304939044">
+        <mark key="'" line="357" column="36" />
+        <mark key="[" line="359" column="72" />
+        <mark key="]" line="359" column="73" />
+        <mark key="^" line="359" column="73" />
+        <mark key="." line="359" column="73" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477303260029">
         <mark key="'" line="205" column="27" />
@@ -256,11 +256,11 @@
       <jump line="364" column="36" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>付</text>
       </register>
       <register name="-" type="4">
-        <text>charge_types_dict</text>
+        <text>付</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -269,32 +269,32 @@
         <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gY2hhcmdlX3R5cGVzX2RpY3QudmFsdWVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXJnZV90eXBlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNoYXJnZV90eXBlcyA9IFtdCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGZpbHRlcl9kYXRhLgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>append(list(set(charge_types)))
     filter_data.append(list(set(pay_sources)))</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gW10KICAgIGZpbHRlcl9kYXRhLmFwcGVuZChsaXN0KHNldChjaGFyZ2VfdHlwZXMpKSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXlfc291cmNlcy5hcHBlbmQoaXRlbVsncGF5X3NvdXJjZSddKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjaGFyZ2VfdHlwZXMuYXBwZW5kKGl0ZW1bJ2NoYXJnZV90eXBlJ10pCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIHRhYmxlX2RhdGE6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QuZGF0ZSA9IHN0YXRpc3RpY3NfbGlzdFtpXS5lbmRfdGltZS5zcGxpdCgpWzBdCg==</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIHRhYmxlX2RhdGE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
