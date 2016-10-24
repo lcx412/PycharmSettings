@@ -133,6 +133,11 @@
         <mark key="^" line="91" column="57" />
         <mark key="." line="92" column="36" />
       </file>
+      <file name="/Dummy.txt" timestamp="1477300414942">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477115472922">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="12" />
@@ -255,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LTVPPU (Lifetime Value Per Paied User)</text>
+        <text>Prepare for online</text>
       </register>
       <register name="-" type="4">
-        <text>LTVPPU (Lifetime Value Per Paied User)</text>
+        <text>Prepare for online</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
