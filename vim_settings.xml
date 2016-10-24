@@ -104,12 +104,12 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477304939044">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477315175300">
         <mark key="'" line="357" column="36" />
-        <mark key="[" line="359" column="72" />
-        <mark key="]" line="359" column="73" />
+        <mark key="[" line="339" column="30" />
+        <mark key="]" line="339" column="30" />
         <mark key="^" line="359" column="73" />
-        <mark key="." line="359" column="73" />
+        <mark key="." line="339" column="30" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477303260029">
         <mark key="'" line="205" column="27" />
@@ -257,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>付</text>
+        <text>值</text>
       </register>
       <register name="-" type="4">
-        <text>付</text>
+        <text>值</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
