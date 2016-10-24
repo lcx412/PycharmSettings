@@ -50,12 +50,12 @@
         <mark key="^" line="56" column="77" />
         <mark key="." line="55" column="54" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477282197556">
-        <mark key="'" line="110" column="4" />
-        <mark key="[" line="100" column="53" />
-        <mark key="]" line="100" column="53" />
-        <mark key="." line="100" column="53" />
-        <mark key="^" line="100" column="53" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477289775843">
+        <mark key="'" line="377" column="0" />
+        <mark key="[" line="97" column="78" />
+        <mark key="]" line="97" column="78" />
+        <mark key="^" line="97" column="78" />
+        <mark key="." line="97" column="78" />
       </file>
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1477280607227">
         <mark key="'" line="11" column="4" />
@@ -190,7 +190,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477127461915" />
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477281510206">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477289748551">
         <mark key="'" line="205" column="27" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
@@ -242,15 +242,13 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477281483744" />
+      <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477289739739" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477149960696">
         <mark key="'" line="389" column="46" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="127" column="51" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
-      <jump line="272" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="111" column="53" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="119" column="21" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="34" column="35" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
@@ -349,13 +347,15 @@
       <jump line="64" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="21" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.sh" />
       <jump line="205" column="27" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
+      <jump line="97" column="55" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="377" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmlsdGVyczogW10sIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogZW5kRGF0ZTs=</text>
+        <text encoding="base64">ZmlsdGVyczogW10sIA==</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -364,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0YXJ0RGF0ZSA9IG1vbWVudCh0aGlzLnByb3BzLmZpbHRlcnBhcmFtLmVuZERhdGUsICdZWVlZTU1ERCcpLnN1YnRyYWN0KHBlcmlvZCwgJ2RheXMnKS5mb3JtYXQoJ1lZWVlNTUREJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnREYXRlID0gdGhpcy5wcm9wcy5maWx0ZXJwYXJhbS5zdGFydERhdGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kID0gMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kRGF0ZSA9IHRoaXMucHJvcHMuZmlsdGVycGFyYW0uZW5kRGF0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnREYXRlID0gbW9tZW50KHRoaXMucHJvcHMuZmlsdGVycGFyYW0uZW5kRGF0ZSwgJ1lZWVlNTUREJykuc3VidHJhY3QocGVyaW9kLCAnZGF5cycpLmZvcm1hdCgnWVlZWU1NREQnKTsK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNlc3Npb24uY29va2llcy52YWx1ZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5kZWZpbmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnNlc3Npb24uY29va2llcy5rZXlzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKD09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kRGF0ZSA9IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gaHR0cC5jb29raWVzIGltcG9ydCBTaW1wbGVDb29raWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZERhdGUgPSBtb21lbnQoKS5mb3JtYXQoJ1lZWVlNTUREJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
