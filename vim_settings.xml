@@ -30,12 +30,12 @@
       <file name="/a.dummy" timestamp="1476775852628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477294213563">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477295637092">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="46" column="55" />
+        <mark key="^" line="41" column="54" />
+        <mark key="." line="46" column="55" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1477290862344" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477293774095">
@@ -351,11 +351,11 @@
       <jump line="377" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0WydkdW9iYW9fdXNlcnMnXSA9IHN0YXRbJ2R1b2Jhb191c2VycyddICogMjAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -364,31 +364,31 @@
         <text encoding="base64">ICAgIGxpdmVfbnVtID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0WydkdW9iYW9fdXNlcnMnXSA9IHN0YXRbJ2R1b2Jhb191c2VycyddICogMjAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IiwgdGhpcy5wcm9wcy5maWx0ZXJwYXJhbS5zdGFydERhdGUsIHN0YXJ0RGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0WydkdW9iYW9fdXNlcnMnXSA9IHN0YXRbJ2R1b2Jhb191c2VycyddICogMjAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixzdGFydERhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfdXNlcnMnXSA9IHN0YXRbJ2NoYXJnZV91c2VycyddICogNTAwMDAgLyBzdGF0WydhY3RpdmVfbnVtJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixwZXJpb2QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixzdGFydERhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IiwgdGhpcy5wcm9wcy5maWx0ZXJwYXJhbS5zdGFydERhdGUsIHN0YXJ0RGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6Iix1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixzdGFydERhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixwZXJpb2QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6IixzdGFydERhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiNTU1NTU6Iix1cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
