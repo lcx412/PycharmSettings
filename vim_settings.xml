@@ -10,6 +10,13 @@
         <mark key="." line="77" column="44" />
         <mark key="^" line="77" column="44" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1477383643898">
+        <mark key="'" line="128" column="16" />
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="36" />
+        <mark key="." line="130" column="36" />
+        <mark key="^" line="129" column="35" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1477124678453">
         <mark key="'" line="80" column="55" />
         <mark key="[" line="94" column="40" />
@@ -138,18 +145,12 @@
         <mark key="^" line="332" column="7" />
         <mark key="." line="332" column="18" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
-        <mark key="'" line="200" column="23" />
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-      </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1477299458226">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="60" column="21" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1477383681944">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1477381086721">
         <mark key="[" line="122" column="55" />
@@ -164,8 +165,10 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477381396946">
+      <file name="/Dummy.txt" timestamp="1477383344352">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477115472922">
         <mark key="[" line="2" column="19" />
@@ -281,17 +284,17 @@
       <jump line="870" column="4" filename="D:/PythonProjects/matrix/statistics/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHl0aG9uIGZ0X21lbWJlcl9jYXJkcy5weQpDSEtfUkVUIEZBVEFMICJmdF9tZW1iZXJfY2FyZHMgZmFpbGVkIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>充值详情和商城详情默认统计区间设为1天</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyJ3Yl9sdHZwcHUiLCA2MF0sCg==</text>
+        <text encoding="base64">cHl0aG9uIGZ0X21lbWJlcl9jYXJkcy5weQpDSEtfUkVUIEZBVEFMICJmdF9tZW1iZXJfY2FyZHMgZmFpbGVkIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzb3J0ZXIiOiAiKGEsIGIpID0+IGEuezB9IC0gYi57MH0iLmZvcm1hdChsYWJlbCwgbGFiZWwpLAo=</text>
