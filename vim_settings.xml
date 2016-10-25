@@ -44,7 +44,7 @@
         <mark key="^" line="60" column="18" />
         <mark key="." line="60" column="18" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477370880581">
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477374044298">
         <mark key="'" line="379" column="0" />
         <mark key="[" line="279" column="84" />
         <mark key="]" line="279" column="67" />
@@ -79,11 +79,11 @@
         <mark key="." line="261" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1477143668850" />
-      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477372928717">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477375917945">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="23" column="33" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1477299789645">
         <mark key="'" line="160" column="0" />
@@ -106,7 +106,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/channel_stat.py" timestamp="1477369344575" />
+      <file name="D:/PythonProjects/matrix/api/channel_stat.py" timestamp="1477375682366" />
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -137,7 +137,7 @@
         <mark key="^" line="349" column="47" />
         <mark key="." line="349" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477371736825">
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
         <mark key="'" line="212" column="23" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
@@ -180,6 +180,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/TabsComponent.js" timestamp="1477368781055" />
       <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477289739739" />
+      <file name="D:/PythonProjects/matrix/webapp/components/TableModalComponent.js" timestamp="1477374210376" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477369501351">
         <mark key="'" line="705" column="24" />
       </file>
@@ -289,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
