@@ -44,12 +44,12 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477319579400">
-        <mark key="'" line="376" column="0" />
-        <mark key="[" line="98" column="24" />
-        <mark key="]" line="98" column="24" />
-        <mark key="." line="98" column="24" />
-        <mark key="^" line="92" column="24" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477363583346">
+        <mark key="'" line="379" column="0" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="279" column="33" />
+        <mark key="^" line="279" column="33" />
+        <mark key="." line="279" column="33" />
       </file>
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1477280607227">
         <mark key="'" line="11" column="4" />
@@ -58,7 +58,9 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1477320673005" />
+      <file name="D:/PythonProjects/matrix/webapp/actions/action.js" timestamp="1477363398860">
+        <mark key="[" line="118" column="27" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1477139038235">
         <mark key="'" line="267" column="4" />
         <mark key="[" line="261" column="34" />
@@ -88,6 +90,9 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1477277714660">
+        <mark key="[" line="41" column="66" />
+      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -102,16 +107,19 @@
         <mark key="[" line="24" column="14" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477320653975" />
-      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477321469501">
-        <mark key="'" line="357" column="36" />
-        <mark key="[" line="339" column="30" />
-        <mark key="]" line="339" column="30" />
-        <mark key="^" line="359" column="73" />
-        <mark key="." line="339" column="30" />
+      <file name="/Django Console" timestamp="1477363889266">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477303260029">
-        <mark key="'" line="205" column="27" />
+      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477363946598">
+        <mark key="'" line="357" column="36" />
+        <mark key="[" line="355" column="50" />
+        <mark key="]" line="355" column="51" />
+        <mark key="^" line="355" column="24" />
+        <mark key="." line="355" column="50" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477363245794">
+        <mark key="'" line="41" column="15" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
@@ -126,8 +134,8 @@
         <mark key="." line="59" column="8" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1477133150191">
-        <mark key="[" line="92" column="36" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1477363992701">
+        <mark key="[" line="120" column="38" />
         <mark key="]" line="92" column="36" />
         <mark key="^" line="91" column="57" />
         <mark key="." line="92" column="36" />
@@ -156,7 +164,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="140" column="29" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="178" column="40" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="259" column="24" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="130" column="16" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
@@ -256,13 +263,14 @@
       <jump line="705" column="24" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
       <jump line="338" column="87" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="364" column="36" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="41" column="15" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>值</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>值</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
@@ -271,32 +279,32 @@
         <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gY2hhcmdlX3R5cGVzX2RpY3QudmFsdWVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF90aW1lLCBlbmRfdGltZSA9IGludChzdGFydF9kYXRlKSwgaW50KGVuZF9kYXRlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXJnZV90eXBlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHRvZGF5X2RhdGUgPSBkYXRldGltZS5kYXRlLnRvZGF5KCkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBheV9zb3VyY2VzX2RpY3QgPSBbXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNoYXJnZV90eXBlcyA9IFtdCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZpbHRlcl9kYXRhLgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>append(list(set(charge_types)))
     filter_data.append(list(set(pay_sources)))</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gW10KICAgIGZpbHRlcl9kYXRhLmFwcGVuZChsaXN0KHNldChjaGFyZ2VfdHlwZXMpKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlfc291cmNlcy5hcHBlbmQoaXRlbVsncGF5X3NvdXJjZSddKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdHlwZXMuYXBwZW5kKGl0ZW1bJ2NoYXJnZV90eXBlJ10pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIHRhYmxlX2RhdGE6Cg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9kYXRhID0gW10KICAgIGZpbHRlcl9kYXRhLmFwcGVuZChsaXN0KHNldChjaGFyZ2VfdHlwZXMpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
