@@ -31,8 +31,8 @@
         <mark key="." line="71" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1477290862344" />
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477293774095">
-        <mark key="'" line="480" column="14" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1477370549853">
+        <mark key="'" line="452" column="32" />
         <mark key="[" line="804" column="4" />
         <mark key="]" line="804" column="9" />
         <mark key="^" line="804" column="9" />
@@ -44,9 +44,9 @@
         <mark key="^" line="60" column="18" />
         <mark key="." line="60" column="18" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477369624704">
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477370880581">
         <mark key="'" line="379" column="0" />
-        <mark key="[" line="273" column="110" />
+        <mark key="[" line="279" column="84" />
         <mark key="]" line="279" column="67" />
         <mark key="^" line="279" column="67" />
         <mark key="." line="279" column="67" />
@@ -79,6 +79,12 @@
         <mark key="." line="261" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1477143668850" />
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477372928717">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1477299789645">
         <mark key="'" line="160" column="0" />
         <mark key="[" line="162" column="36" />
@@ -94,8 +100,8 @@
         <mark key="^" line="89" column="31" />
         <mark key="." line="113" column="32" />
       </file>
-      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1477240030518">
-        <mark key="[" line="6" column="9" />
+      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1477373089747">
+        <mark key="[" line="15" column="17" />
         <mark key="]" line="6" column="9" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="9" />
@@ -114,25 +120,25 @@
       <file name="D:/PythonProjects/Spider/posts/《阿凡题招聘》Python系统工程师.txt" timestamp="1476941418256">
         <mark key="[" line="24" column="14" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477366217466">
+      <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477371173113">
         <mark key="[" line="33" column="44" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="38" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="/Django Console" timestamp="1477363889266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477369673524">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477371092686">
         <mark key="'" line="357" column="36" />
-        <mark key="[" line="354" column="51" />
-        <mark key="]" line="354" column="51" />
-        <mark key="^" line="383" column="0" />
-        <mark key="." line="354" column="51" />
+        <mark key="[" line="349" column="47" />
+        <mark key="]" line="349" column="47" />
+        <mark key="^" line="349" column="47" />
+        <mark key="." line="349" column="47" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477368188294">
-        <mark key="'" line="41" column="15" />
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477371736825">
+        <mark key="'" line="212" column="23" />
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
@@ -160,11 +166,6 @@
         <mark key="." line="27" column="46" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477300414942">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477115472922">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="12" />
@@ -185,8 +186,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="178" column="40" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="259" column="24" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="130" column="16" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="241" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="16" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
@@ -285,6 +284,8 @@
       <jump line="338" column="87" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="364" column="36" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="41" column="15" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
+      <jump line="452" column="32" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="212" column="23" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
