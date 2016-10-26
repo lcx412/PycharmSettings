@@ -156,12 +156,8 @@
         <mark key="^" line="174" column="313" />
       </file>
       <file name="D:/PythonProjects/matrix/api/android_bug_views.py" timestamp="1477383131222" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477471552011">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="59" column="505" />
-        <mark key="]" line="59" column="505" />
-        <mark key="^" line="59" column="505" />
-        <mark key="." line="59" column="505" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477474752155">
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477371173113">
         <mark key="[" line="33" column="44" />
@@ -234,9 +230,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="133" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="51" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="24" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="114" column="52" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="21" column="55" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="35" column="56" filename="D:/PythonProjects/Spider/smth.py" />
@@ -334,19 +327,22 @@
       <jump line="89" column="41" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="107" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="91" column="63" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="73" column="12" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="55" column="64" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>record[1]</text>
+        <text>now() - datetime.timedelta(1)</text>
       </register>
       <register name="-" type="4">
-        <text>record[1]</text>
+        <text>now() - datetime.timedelta(1)</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHl0aG9uIGZ0X21lbWJlcl9jYXJkcy5weQpDSEtfUkVUIEZBVEFMICJmdF9tZW1iZXJfY2FyZHMgZmFpbGVkIgo=</text>
+        <text encoding="base64">eWVzdGVyZGF5X3RpbWUgPSBkYXRldGltZS5kYXRldGltZS5ub3coKSAtIGRhdGV0aW1lLnRpbWVkZWx0YSgxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzb3J0ZXIiOiAiKGEsIGIpID0+IGEuezB9IC0gYi57MH0iLmZvcm1hdChsYWJlbCwgbGFiZWwpLAo=</text>
