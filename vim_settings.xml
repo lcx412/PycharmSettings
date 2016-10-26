@@ -27,7 +27,7 @@
         <mark key="." line="94" column="43" />
         <mark key="^" line="94" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1476775852628">
+      <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477300264764">
@@ -113,6 +113,13 @@
         <mark key="." line="113" column="32" />
       </file>
       <file name="D:/PythonProjects/matrix/api/version_views.py" timestamp="1477383023645" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1477470914540">
+        <mark key="'" line="29" column="59" />
+        <mark key="[" line="272" column="113" />
+        <mark key="]" line="272" column="115" />
+        <mark key="^" line="272" column="115" />
+        <mark key="." line="272" column="115" />
+      </file>
       <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1477373089747">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="6" column="9" />
@@ -149,7 +156,13 @@
         <mark key="^" line="174" column="313" />
       </file>
       <file name="D:/PythonProjects/matrix/api/android_bug_views.py" timestamp="1477383131222" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477413358353" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477471552011">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="59" column="505" />
+        <mark key="]" line="59" column="505" />
+        <mark key="^" line="59" column="505" />
+        <mark key="." line="59" column="505" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477371173113">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="8" column="28" />
@@ -205,9 +218,10 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="/a.regexp" timestamp="1477451238349">
+      <file name="/a.regexp" timestamp="1477470292714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1477470308078" />
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1476768400323">
         <mark key="[" line="21" column="81" />
       </file>
@@ -220,10 +234,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="313" column="24" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="254" column="32" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
-      <jump line="302" column="33" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="133" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="51" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="24" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -320,13 +330,17 @@
       <jump line="212" column="23" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="852" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="870" column="4" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="53" column="194" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="89" column="41" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="21" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="107" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29va2llRGF5cz0yLCA=</text>
+        <text>record[1]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29va2llRGF5cz0yLCA=</text>
+        <text>record[1]</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
