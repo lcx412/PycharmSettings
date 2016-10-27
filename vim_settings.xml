@@ -60,8 +60,11 @@
         <mark key="^" line="61" column="34" />
         <mark key="." line="50" column="39" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477566560293">
-        <mark key="^" line="97" column="33" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477571005530">
+        <mark key="[" line="102" column="47" />
+        <mark key="]" line="102" column="56" />
+        <mark key="^" line="102" column="56" />
+        <mark key="." line="102" column="56" />
       </file>
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1477280607227">
         <mark key="'" line="11" column="4" />
@@ -231,7 +234,7 @@
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477550993566">
+      <file name="/Dummy.txt" timestamp="1477570897402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -364,11 +367,11 @@
       <jump line="390" column="58" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlID0gbW9tZW50KCkuc3VidHJhY3QoMTAsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW5kRGF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ZW5kRGF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
