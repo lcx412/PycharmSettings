@@ -48,8 +48,11 @@
         <mark key="." line="851" column="0" />
         <mark key="^" line="851" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477536474691">
-        <mark key="'" line="22" column="95" />
+      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477537147106">
+        <mark key="'" line="15" column="97" />
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="15" column="74" />
+        <mark key="." line="15" column="74" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477467555031">
         <mark key="[" line="66" column="28" />
@@ -185,6 +188,12 @@
         <mark key="]" line="332" column="18" />
         <mark key="^" line="332" column="7" />
         <mark key="." line="332" column="18" />
+      </file>
+      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
+        <mark key="'" line="200" column="23" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1477316572256">
         <mark key="[" line="80" column="610" />
@@ -332,15 +341,15 @@
       <jump line="73" column="12" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="55" column="64" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="12" column="23" filename="D:/PythonProjects/matrix/scripts/routine/daily_main.sh" />
-      <jump line="15" column="145" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
       <jump line="22" column="95" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
+      <jump line="15" column="97" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>now() - datetime.timedelta(1)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>now() - datetime.timedelta(1)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
