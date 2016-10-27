@@ -33,7 +33,7 @@
       <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477300264764">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477566061158">
         <mark key="'" line="24" column="8" />
         <mark key="[" line="71" column="25" />
         <mark key="]" line="71" column="25" />
@@ -60,11 +60,8 @@
         <mark key="^" line="61" column="34" />
         <mark key="." line="50" column="39" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477381198903">
-        <mark key="[" line="98" column="31" />
-        <mark key="]" line="98" column="31" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477566560293">
         <mark key="^" line="97" column="33" />
-        <mark key="." line="98" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/requirements.txt" timestamp="1477280607227">
         <mark key="'" line="11" column="4" />
@@ -197,7 +194,7 @@
         <mark key="'" line="84" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477540903252" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477560676804">
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477566055170">
         <mark key="'" line="390" column="58" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
@@ -367,8 +364,8 @@
       <jump line="390" column="58" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlID0gbW9tZW50KCkuc3VidHJhY3QoMTAsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -377,7 +374,7 @@
         <text>NULL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJ5X3RpbWVzICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlID0gbW9tZW50KCkuc3VidHJhY3QoMTAsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0cnlfdGltZXMgPSAxCg==</text>
