@@ -20,6 +20,9 @@
         <mark key="." line="130" column="36" />
         <mark key="^" line="129" column="35" />
       </file>
+      <file name="D:/PythonProjects/one4one/func.sh" timestamp="1476719991920">
+        <mark key="'" line="14" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1477124678453">
         <mark key="'" line="80" column="55" />
         <mark key="[" line="94" column="40" />
@@ -44,6 +47,9 @@
         <mark key="]" line="851" column="0" />
         <mark key="." line="851" column="0" />
         <mark key="^" line="851" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477536474691">
+        <mark key="'" line="22" column="95" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477467555031">
         <mark key="[" line="66" column="28" />
@@ -85,17 +91,13 @@
         <mark key="^" line="254" column="40" />
         <mark key="." line="261" column="35" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1477380028705">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477383286220">
         <mark key="[" line="15" column="107" />
         <mark key="]" line="15" column="110" />
         <mark key="^" line="15" column="110" />
         <mark key="." line="16" column="52" />
       </file>
+      <file name="D:/PythonProjects/matrix/scripts/routine/stat_channel_federated.py" timestamp="1477534932235" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1477451081508">
         <mark key="'" line="160" column="0" />
         <mark key="[" line="25" column="53" />
@@ -136,7 +138,11 @@
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
+      <file name="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" timestamp="1477535832128" />
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1477143161991" />
+      <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1476897115001">
+        <mark key="'" line="133" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1477382946723" />
       <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477460525322">
         <mark key="[" line="59" column="51" />
@@ -203,16 +209,14 @@
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477383344352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477115472922">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
+      </file>
+      <file name="D:/PythonProjects/matrix/scripts/routine/daily_main.sh" timestamp="1477535946242">
+        <mark key="'" line="12" column="23" />
       </file>
       <file name="/a.regexp" timestamp="1477470292714">
         <mark key="[" line="0" column="0" />
@@ -230,9 +234,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="114" column="52" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="21" column="55" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="35" column="56" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="37" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="40" column="28" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="33" column="23" filename="D:/PythonProjects/Spider/smth.py" />
@@ -330,6 +331,9 @@
       <jump line="91" column="63" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="73" column="12" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="55" column="64" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="12" column="23" filename="D:/PythonProjects/matrix/scripts/routine/daily_main.sh" />
+      <jump line="15" column="145" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
+      <jump line="22" column="95" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
