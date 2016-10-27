@@ -10,9 +10,6 @@
         <mark key="." line="112" column="39" />
         <mark key="^" line="77" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1477204101266">
-        <mark key="'" line="21" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1477383643898">
         <mark key="'" line="128" column="16" />
         <mark key="[" line="130" column="35" />
@@ -48,11 +45,11 @@
         <mark key="." line="851" column="0" />
         <mark key="^" line="851" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477537147106">
+      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477538174958">
         <mark key="'" line="15" column="97" />
-        <mark key="[" line="15" column="74" />
-        <mark key="]" line="15" column="74" />
-        <mark key="." line="15" column="74" />
+        <mark key="[" line="28" column="107" />
+        <mark key="]" line="28" column="107" />
+        <mark key="." line="28" column="107" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477467555031">
         <mark key="[" line="66" column="28" />
@@ -93,6 +90,12 @@
         <mark key="]" line="261" column="35" />
         <mark key="^" line="254" column="40" />
         <mark key="." line="261" column="35" />
+      </file>
+      <file name="D:/PythonProjects/matrix/release_matrix.sh" timestamp="1477539853079" />
+      <file name="D:/PythonProjects/matrix/webapp/constants/index.js" timestamp="1477380028705">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477383286220">
         <mark key="[" line="15" column="107" />
@@ -141,7 +144,11 @@
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" timestamp="1477535832128" />
+      <file name="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" timestamp="1477538230260">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1477143161991" />
       <file name="D:/PythonProjects/matrix/Matrix/settings.py" timestamp="1476897115001">
         <mark key="'" line="133" column="0" />
@@ -178,10 +185,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/api_views.py" timestamp="1477382990162" />
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1477449940847">
-        <mark key="'" line="84" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477127667971" />
+      <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477539953394" />
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477382696813">
         <mark key="'" line="357" column="36" />
         <mark key="[" line="332" column="18" />
@@ -198,6 +202,7 @@
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1477316572256">
         <mark key="[" line="80" column="610" />
       </file>
+      <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1477538529219" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1477448050071">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="26" column="22" />
@@ -218,6 +223,11 @@
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="56" />
       </file>
+      <file name="/Dummy.txt" timestamp="1477383344352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/Spider/conf.ini" timestamp="1477115472922">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="12" />
@@ -227,7 +237,7 @@
       <file name="D:/PythonProjects/matrix/scripts/routine/daily_main.sh" timestamp="1477535946242">
         <mark key="'" line="12" column="23" />
       </file>
-      <file name="/a.regexp" timestamp="1477470292714">
+      <file name="/a.regexp" timestamp="1477539649418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1477470308078" />
@@ -237,9 +247,7 @@
       <file name="D:/PythonProjects/matrix/webapp/components/TabsComponent.js" timestamp="1477368781055" />
       <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477289739739" />
       <file name="D:/PythonProjects/matrix/webapp/components/TableModalComponent.js" timestamp="1477374210376" />
-      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477369501351">
-        <mark key="'" line="705" column="24" />
-      </file>
+      <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1477539927160" />
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
@@ -346,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFuZA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGFuZA==</text>
       </register>
       <register name="/" type="4">
         <text>Row</text>
