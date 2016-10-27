@@ -199,7 +199,8 @@
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1477548967025">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1477550060605">
+        <mark key="'" line="590" column="0" />
         <mark key="[" line="80" column="610" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1477538529219" />
@@ -251,9 +252,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="40" column="28" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="33" column="23" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="34" column="23" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="47" column="72" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="3" column="8" filename="D:/PythonProjects/Spider/smth.py" />
@@ -351,6 +349,9 @@
       <jump line="12" column="23" filename="D:/PythonProjects/matrix/scripts/routine/daily_main.sh" />
       <jump line="22" column="95" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
       <jump line="15" column="97" filename="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" />
+      <jump line="592" column="197" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="698" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="590" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
