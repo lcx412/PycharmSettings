@@ -10,6 +10,9 @@
         <mark key="." line="112" column="39" />
         <mark key="^" line="77" column="44" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.sh" timestamp="1477204101266">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1477383643898">
         <mark key="'" line="128" column="16" />
         <mark key="[" line="130" column="35" />
@@ -190,13 +193,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/api_views.py" timestamp="1477382990162" />
+      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1477449940847">
+        <mark key="'" line="84" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/overall_stat.py" timestamp="1477540903252" />
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477554102706">
-        <mark key="'" line="357" column="36" />
-        <mark key="[" line="332" column="18" />
-        <mark key="]" line="332" column="18" />
-        <mark key="^" line="332" column="7" />
-        <mark key="." line="332" column="18" />
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1477560676804">
+        <mark key="'" line="390" column="58" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
         <mark key="'" line="200" column="23" />
@@ -257,10 +259,12 @@
       <file name="D:/PythonProjects/matrix/webapp/components/DatePicker.js" timestamp="1477289739739" />
       <file name="D:/PythonProjects/matrix/webapp/components/TableModalComponent.js" timestamp="1477374210376" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1477539927160" />
+      <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1477369501351">
+        <mark key="'" line="705" column="24" />
+      </file>
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477132811645" />
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="57" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="52" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="54" column="4" filename="D:/PythonProjects/Spider/smth.py" />
@@ -360,6 +364,7 @@
       <jump line="590" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="5" column="3" filename="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" />
       <jump line="15" column="95" filename="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" />
+      <jump line="390" column="58" filename="D:/PythonProjects/matrix/api/financial_times.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
