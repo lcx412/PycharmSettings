@@ -54,11 +54,8 @@
         <mark key="]" line="25" column="131" />
         <mark key="." line="25" column="131" />
       </file>
-      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477629166095">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="51" column="39" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="51" column="39" />
+      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477631089672">
+        <mark key="^" line="69" column="8" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1477571005530">
         <mark key="[" line="102" column="47" />
@@ -144,6 +141,12 @@
         <mark key="." line="44" column="40" />
       </file>
       <file name="D:/PythonProjects/matrix/api/channel_stat.py" timestamp="1477375682366" />
+      <file name="D:/PythonProjects/Poster/poster.sh" timestamp="1477630550783">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="D:/PythonProjects/one4one/Normal_Cost.py" timestamp="1476768391296">
         <mark key="[" line="25" column="66" />
       </file>
@@ -162,11 +165,10 @@
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/sqls_afanti_online.ini" timestamp="1477550910928" />
       <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1477382946723" />
-      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477547540951">
-        <mark key="[" line="79" column="62" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="16" />
-        <mark key="^" line="52" column="16" />
+      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477631216688">
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="95" column="43" />
+        <mark key="." line="95" column="43" />
       </file>
       <file name="D:/PythonProjects/Spider/posts/《阿凡题招聘》Python系统工程师.txt" timestamp="1476941418256">
         <mark key="[" line="24" column="14" />
@@ -180,6 +182,9 @@
         <mark key="^" line="174" column="313" />
       </file>
       <file name="D:/PythonProjects/matrix/api/android_bug_views.py" timestamp="1477383131222" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477474752155">
+        <mark key="^" line="49" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/webapp/components/AutoCompleteFilter.js" timestamp="1477371173113">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="8" column="28" />
@@ -365,43 +370,70 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZW5kRGF0ZSA=</text>
+        <text>headers = {&quot;User-Agent&quot;: &quot;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0&quot;,
+           &quot;Host&quot;: &quot;www.newsmth.net&quot;,
+           &quot;Accept&quot;: &quot;application/json, text/html, text/javascript, */*; q=0.01&quot;,
+           &quot;Accept-Language&quot;: &quot;zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2&quot;,
+           &quot;Accept-Encoding&quot;: &quot;gzip, deflate&quot;,
+           &quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;,
+           &quot;Connection&quot;: &quot;keep-alive&quot;,
+           &quot;Referer&quot;: &quot;http://www.newsmth.net/nForum/&quot;,
+           &quot;X-Requested-With&quot;: &quot;XMLHttpRequest&quot;
+           }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5kRGF0ZSA=</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3RhcnREYXRlID0gbW9tZW50KCkuc3VidHJhY3QoMTAsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICByID0gc2VsZi5zZXNzaW9uLnBvc3QocG9zdF9zdWJtaXRfcGFnZSwgZGF0YT1wb3N0X2RhdGEpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnlfdGltZXMgPSAxCg==</text>
+      <register name="1" type="4">
+        <text>headers = {&quot;User-Agent&quot;: &quot;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0&quot;,
+           &quot;Host&quot;: &quot;www.newsmth.net&quot;,
+           &quot;Accept&quot;: &quot;application/json, text/html, text/javascript, */*; q=0.01&quot;,
+           &quot;Accept-Language&quot;: &quot;zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2&quot;,
+           &quot;Accept-Encoding&quot;: &quot;gzip, deflate&quot;,
+           &quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;,
+           &quot;Connection&quot;: &quot;keep-alive&quot;,
+           &quot;Referer&quot;: &quot;http://www.newsmth.net/nForum/&quot;,
+           &quot;X-Requested-With&quot;: &quot;XMLHttpRequest&quot;
+           }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyeV90aW1lcyA9IDEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyeV90aW1lcyA9IDEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9naW4oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgciBpcyBOb25lOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJzb3J0ZXIiOiAiKGEsIGIpID0+IGEuezB9IC0gYi57MH0iLmZvcm1hdChsYWJlbCwgbGFiZWwpLAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CkNvbmZsaWN0czoKCXN0YXRpc3RpY3MvbW9kZWxzLnB5Cgl3ZWJhcHAvY29udGFpbmVycy9TdGF0UGFnZS5qcw==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>headers = {&quot;User-Agent&quot;: &quot;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0&quot;,
+           &quot;Host&quot;: &quot;www.newsmth.net&quot;,
+           &quot;Accept&quot;: &quot;application/json, text/html, text/javascript, */*; q=0.01&quot;,
+           &quot;Accept-Language&quot;: &quot;zh-CN,zh;q=0.8,zh-TW;q=0.6,en-US;q=0.4,en;q=0.2&quot;,
+           &quot;Accept-Encoding&quot;: &quot;gzip, deflate&quot;,
+           &quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;,
+           &quot;Connection&quot;: &quot;keep-alive&quot;,
+           &quot;Referer&quot;: &quot;http://www.newsmth.net/nForum/&quot;,
+           &quot;X-Requested-With&quot;: &quot;XMLHttpRequest&quot;
+           }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cy5leGl0KDEpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICgn1Nm8+6OhJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgciA9IHNlbGYuc2Vzc2lvbi5wb3N0KHBvc3Rfc3VibWl0X3BhZ2UsIGRhdGE9cG9zdF9kYXRhKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IE1VTFRJX0ZJTFRFUiA9ICdNVUxUSV9GSUxURVInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCfW2MrUt6LM+6O6ezB9Jy5mb3JtYXQodGl0bGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
