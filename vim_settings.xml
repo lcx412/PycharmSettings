@@ -178,6 +178,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1477889969995">
+        <mark key="'" line="19" column="55" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1477383286220">
         <mark key="[" line="15" column="107" />
         <mark key="]" line="15" column="110" />
@@ -256,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="D:/PythonProjects/matrix/Matrix/settings.py" />
-      <jump line="44" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="47" column="16" filename="D:/PythonProjects/matrix/webapp/routes.js" />
       <jump line="28" column="0" filename="D:/PythonProjects/matrix/webapp/routes.js" />
       <jump line="84" column="0" filename="D:/PythonProjects/matrix/webapp/routes.js" />
@@ -356,6 +357,8 @@
       <jump line="236" column="35" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="15" column="0" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="256" column="4" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
+      <jump line="64" column="26" filename="D:/PythonProjects/one4one/wb_status.py" />
+      <jump line="19" column="55" filename="D:/PythonProjects/one4one/wb_status.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
