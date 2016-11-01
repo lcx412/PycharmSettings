@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477970976839">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477980312403">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477550976961">
         <mark key="'" line="15" column="97" />
@@ -38,7 +38,14 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1477980013806" />
       <file name="D:/Afanti/business/trunk/afanti/afanti/models.py" timestamp="1477892143853" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1477979765581">
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="98" column="60" />
+        <mark key="." line="44" column="40" />
+      </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1477970393043">
         <mark key="[" line="37" column="7" />
         <mark key="]" line="37" column="7" />
@@ -138,6 +145,7 @@
         <mark key="^" line="523" column="38" />
         <mark key="." line="523" column="37" />
       </file>
+      <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477979807460" />
     </filemarks>
     <jumps>
       <jump line="53" column="0" filename="D:/PythonProjects/Spider/smth.py" />
@@ -242,11 +250,11 @@
       <jump line="165" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tutor_cards</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tutor_cards</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -255,31 +263,31 @@
         <text>tod - timedelta(7)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAnd2Vpd2VpLnNvbmdAbGVqZW50LmNvbScsCg==</text>
+        <text encoding="base64">ICAgIGlzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKGV4Y2VsX2ZpbGVfcHJlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3VzZXIgPSByZXF1ZXN0LlBPU1QuZ2V0KCd1c2VybmFtZScsICcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhleGNlbF9maWxlX3ByZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuc3RycHRpbWUoeWVzX2RhdGUsICclWSVtJWQnKSAtIHRpbWVkZWx0YSgxKSkuc3RyZnRpbWUoJyVZJW0lZCcpICsgJy54bHMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAnd2Vpd2VpLnNvbmdAbGVqZW50LmNvbScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlbF9maWxlX3ByZSA9IHUnL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZS+9zMqm0ae2zrfWsry6zdW8z9/H6b/2w7/I1c2zvMZfJyArICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21lbmcuemhhbmdAbGVqZW50LmNvbScsICd5dS5oYW5AbGVqZW50LmNvbScsICdlbmxpbmcud2FuZ0BsZWplbnQuY29tJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKGV4Y2VsX2ZpbGVfcHJlKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCAnY2hlbi54dUBsZWplbnQuY29tJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2xpbmdsaW5nLmxpdUBsZWplbnQuY29tJywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhleGNlbF9maWxlX3ByZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJ1bihzZWxmLCBzdHMsIGV0cywgc2R0LCBlZHQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWUuc3RycHRpbWUoeWVzX2RhdGUsICclWSVtJWQnKSAtIHRpbWVkZWx0YSgxKSkuc3RyZnRpbWUoJyVZJW0lZCcpICsgJy54bHMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
