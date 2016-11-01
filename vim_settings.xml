@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477980312403">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477985554641">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="22" column="60" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+        <mark key="[" line="60" column="67" />
+        <mark key="]" line="60" column="96" />
+        <mark key="^" line="60" column="96" />
+        <mark key="." line="60" column="96" />
       </file>
       <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477550976961">
         <mark key="'" line="15" column="97" />
@@ -135,12 +135,12 @@
       </file>
       <file name="D:/Afanti/business/trunk/afanti/afanti/urls.py" timestamp="1477891708867" />
       <file name="D:/Afanti/business/trunk/afanti/afanti/post.py" timestamp="1477899977963" />
-      <file name="D:/PythonProjects/one4one/post_report.py" timestamp="1477984793510">
+      <file name="D:/PythonProjects/one4one/post_report.py" timestamp="1477986844648">
         <mark key="'" line="165" column="4" />
         <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
-        <mark key="." line="129" column="27" />
-        <mark key="^" line="129" column="27" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="122" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1477982682899">
         <mark key="[" line="0" column="0" />
@@ -261,11 +261,11 @@
       <jump line="165" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKCJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfb25saW5lIHdoZXJlIHR5cGUgYmV0d2VlbiAyMCBhbmQgMjkiKQogICAgICAgIHRlYWNoZXJzID0gW3VpZCBmb3IgW3VpZF0gaW4gY3VyX3N0YXQuZmV0Y2hhbGwoKV0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>[report_by_user[u'user_id'] in teachers]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
