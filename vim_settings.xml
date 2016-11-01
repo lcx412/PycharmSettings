@@ -13,8 +13,8 @@
       <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477985554641">
-        <mark key="'" line="24" column="8" />
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1477999794077">
+        <mark key="'" line="57" column="36" />
         <mark key="[" line="60" column="67" />
         <mark key="]" line="60" column="96" />
         <mark key="^" line="60" column="96" />
@@ -145,7 +145,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477979807460" />
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="55" column="34" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/Spider/smth.py" />
@@ -245,6 +244,7 @@
       <jump line="14" column="0" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="186" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="74" column="15" filename="D:/PythonProjects/one4one/tutor_comment.py" />
+      <jump line="57" column="36" filename="D:/PythonProjects/matrix/api/income_index.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
