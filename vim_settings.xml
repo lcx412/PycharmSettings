@@ -135,12 +135,12 @@
       </file>
       <file name="D:/Afanti/business/trunk/afanti/afanti/urls.py" timestamp="1477891708867" />
       <file name="D:/Afanti/business/trunk/afanti/afanti/post.py" timestamp="1477899977963" />
-      <file name="D:/PythonProjects/one4one/post_report.py" timestamp="1477990015958">
-        <mark key="'" line="165" column="4" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="0" />
+      <file name="D:/PythonProjects/one4one/post_report.py" timestamp="1477994384957">
+        <mark key="'" line="186" column="4" />
+        <mark key="[" line="156" column="51" />
+        <mark key="]" line="156" column="51" />
+        <mark key="." line="156" column="51" />
+        <mark key="^" line="147" column="43" />
       </file>
       <file name="/a.regexp" timestamp="1477982682899">
         <mark key="[" line="0" column="0" />
@@ -159,9 +159,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477979807460" />
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="18" column="4" filename="D:/PythonProjects/Spider/smth.py" />
-      <jump line="73" column="14" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="72" column="46" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="67" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/Spider/smth.py" />
@@ -259,13 +256,16 @@
       <jump line="168" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="12" column="0" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="165" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
+      <jump line="119" column="60" filename="D:/PythonProjects/one4one/post_report.py" />
+      <jump line="14" column="0" filename="D:/PythonProjects/one4one/post_report.py" />
+      <jump line="186" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
