@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1477995594681">
+        <mark key="'" line="77" column="15" />
+        <mark key="[" line="51" column="39" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+        <mark key="^" line="51" column="49" />
+      </file>
       <file name="/a.dummy" timestamp="1477468941939">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,12 +19,6 @@
         <mark key="]" line="60" column="96" />
         <mark key="^" line="60" column="96" />
         <mark key="." line="60" column="96" />
-      </file>
-      <file name="D:/PythonProjects/matrix/conf/sqls_afanti_image.ini" timestamp="1477550976961">
-        <mark key="'" line="15" column="97" />
-        <mark key="[" line="25" column="131" />
-        <mark key="]" line="25" column="131" />
-        <mark key="." line="25" column="131" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477984001427">
         <mark key="[" line="72" column="20" />
@@ -37,12 +38,6 @@
         <mark key="]" line="261" column="35" />
         <mark key="^" line="254" column="40" />
         <mark key="." line="261" column="35" />
-      </file>
-      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1477898371368">
-        <mark key="'" line="30" column="38" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/django/contrib/auth/decorators.py" timestamp="1477980013806" />
       <file name="D:/Afanti/business/trunk/afanti/afanti/models.py" timestamp="1477892143853" />
@@ -68,12 +63,6 @@
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="29" />
       </file>
-      <file name="D:/PythonProjects/matrix/celery_task/sqls_afanti_image.ini" timestamp="1477551127341">
-        <mark key="'" line="15" column="95" />
-        <mark key="[" line="12" column="101" />
-        <mark key="]" line="12" column="101" />
-        <mark key="." line="12" column="101" />
-      </file>
       <file name="/Python Console" timestamp="1477900884806">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,6 +81,9 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="174" column="313" />
       </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1477994838645">
+        <mark key="^" line="49" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1477898667661">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -107,12 +99,6 @@
         <mark key="]" line="142" column="104" />
         <mark key="^" line="142" column="104" />
         <mark key="." line="143" column="73" />
-      </file>
-      <file name="D:/PythonProjects/matrix/webapp/reducers/reducer.js" timestamp="1477374477120">
-        <mark key="'" line="200" column="23" />
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1477881859389">
         <mark key="'" line="590" column="0" />
@@ -159,7 +145,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1477979807460" />
     </filemarks>
     <jumps>
-      <jump line="72" column="46" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="67" column="0" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/Spider/smth.py" />
       <jump line="55" column="34" filename="D:/PythonProjects/Spider/smth.py" />
@@ -259,19 +244,20 @@
       <jump line="119" column="60" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="14" column="0" filename="D:/PythonProjects/one4one/post_report.py" />
       <jump line="186" column="4" filename="D:/PythonProjects/one4one/post_report.py" />
+      <jump line="74" column="15" filename="D:/PythonProjects/one4one/tutor_comment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>post_stat_db</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>post_stat_db</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
       </register>
-      <register name="0" type="4">
-        <text>tod - timedelta(7)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4ID0gc2VsZi5jdXJfbWF0cml4Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKCJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfb25saW5lIHdoZXJlIHR5cGUgYmV0d2VlbiAyMCBhbmQgMjkiKQogICAgICAgIHRlYWNoZXJzID0gW3VpZCBmb3IgW3VpZF0gaW4gY3VyX3N0YXQuZmV0Y2hhbGwoKV0K</text>
