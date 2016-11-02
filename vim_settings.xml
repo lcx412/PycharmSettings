@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1478079755404">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="70" column="72" />
-        <mark key="]" line="70" column="78" />
-        <mark key="^" line="70" column="78" />
-        <mark key="." line="70" column="78" />
+      <file name="D:/PythonProjects/one4one/income_index.py" timestamp="1478084133139">
+        <mark key="'" line="97" column="15" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1477999096604">
         <mark key="'" line="78" column="15" />
@@ -273,43 +273,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>live_num,active_num,search_users,post_users from daily_overall</text>
+        <text>afanti</text>
       </register>
       <register name="-" type="4">
-        <text>live_num,active_num,search_users,post_users from daily_overall</text>
+        <text>afanti</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbWFuYWdlZCA9IEZhbHNlCiAgICAgICAgZGJfdGFibGUgPSAnaW5jb21lX2luZGV4JwogICAgICAgIGFwcF9sYWJlbCA9ICdtYXRyaXgnCg==</text>
+        <text encoding="base64">ICAgICMgICAgIGluZGV4LnN0YXQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX3Bvc3QgPSBzZWxmLmN1cl9wb3N0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IHNlbGYuY29ubgo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzX2VuZCA9IHNlbGYueWVzX2VuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubiA9IHNlbGYuY29ubgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzX3N0YXJ0ID0gc2VsZi55ZXNfc3RhcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWVzX2VuZCA9IHNlbGYueWVzX2VuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ydW4obGFzdF93ZWVrX3N0YXJ0X3RzLCB0b2Rfc3RhcnRfdHMsIGxhc3Rfd2Vla19zdGFydF9kYXRlLCB5ZXNfZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWVzX3N0YXJ0ID0gc2VsZi55ZXNfc3RhcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzID0gc2VsZi55ZXMKICAgICAgICAgICAgdG9kID0gc2VsZi50b2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ydW4obGFzdF93ZWVrX3N0YXJ0X3RzLCB0b2Rfc3RhcnRfdHMsIGxhc3Rfd2Vla19zdGFydF9kYXRlLCB5ZXNfZGF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWVzID0gc2VsZi55ZXMKICAgICAgICAgICAgdG9kID0gc2VsZi50b2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
