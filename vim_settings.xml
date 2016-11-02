@@ -22,11 +22,11 @@
         <mark key="." line="60" column="96" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/index.js" timestamp="1478014149302" />
-      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1477984001427">
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="73" column="23" />
-        <mark key="^" line="73" column="23" />
-        <mark key="." line="73" column="23" />
+      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1478062767380">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="37" />
+        <mark key="^" line="72" column="37" />
+        <mark key="." line="72" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1478013538588">
         <mark key="[" line="102" column="8" />
@@ -72,7 +72,7 @@
         <mark key="^" line="106" column="29" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1478056498705" />
-      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1477984466873">
+      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1478062795069">
         <mark key="[" line="60" column="40" />
         <mark key="]" line="95" column="43" />
         <mark key="." line="95" column="43" />
@@ -255,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>post_stat_db</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>post_stat_db</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
