@@ -11,7 +11,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1478319114971">
+      <file name="/Python Console" timestamp="1478424487118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1478239038742">
@@ -44,12 +44,12 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="90" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478422692719">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="28" column="52" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478425270385">
+        <mark key="'" line="51" column="33" />
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="49" />
+        <mark key="." line="53" column="49" />
+        <mark key="^" line="53" column="49" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1478079256572">
         <mark key="[" line="17" column="0" />
@@ -79,7 +79,6 @@
       <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478324534986" />
     </filemarks>
     <jumps>
-      <jump line="21" column="41" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="107" column="4" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="93" column="4" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="85" column="16" filename="D:/PythonProjects/one4one/income_index.py" />
@@ -179,13 +178,14 @@
       <jump line="19" column="56" filename="D:/PythonProjects/Messages/msg_sender_stat.py" />
       <jump line="31" column="11" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="35" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="49" column="33" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGlmICdtZXNzYWdlX2lkJyBpbiBtc2dfYm9keQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGluZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmICdtZXNzYWdlX2lkJyBpbiBtc2dfYm9keQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>chongzhi</text>
@@ -194,31 +194,31 @@
         <text encoding="base64">dG9fYWRkcmVzc2VzID0gWydlcnl1YW4ud2FuZ0BsZWplbnQuY29tJywgJ2Z1eGlhLnpoYW5nQGxlamVudC5jb20nLCAnamlhLmthbmdAbGVqZW50LmNvbScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGluZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ21lc3NhZ2VfaWQnIGluIG1zZ19ib2R5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnbWVzc2FnZScK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgY29udGVudF9kaWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnbWVzc2FnZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b19hZGRyZXNzZXMgPSBbJ2VyeXVhbi53YW5nQGxlamVudC5jb20nLCAnZnV4aWEuemhhbmdAbGVqZW50LmNvbScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dG9fYWRkcmVzc2VzID0gWydlcnl1YW4ud2FuZ0BsZWplbnQuY29tJywgJ2Z1eGlhLnpoYW5nQGxlamVudC5jb20nLAo=</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgY29udGVudF9kaWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmUgPSBqc29uLmR1bXBzKGxpbmUuc3RyaXAoKSkK</text>
+        <text encoding="base64">ICAgICAgICB0b19hZGRyZXNzZXMgPSBbJ2VyeXVhbi53YW5nQGxlamVudC5jb20nLCAnZnV4aWEuemhhbmdAbGVqZW50LmNvbScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggY29ubiBhcyBjdXI6Cg==</text>
+        <text encoding="base64">dG9fYWRkcmVzc2VzID0gWydlcnl1YW4ud2FuZ0BsZWplbnQuY29tJywgJ2Z1eGlhLnpoYW5nQGxlamVudC5jb20nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
