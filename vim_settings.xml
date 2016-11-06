@@ -44,11 +44,11 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="90" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478434484816">
-        <mark key="'" line="14" column="117" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478436957333">
+        <mark key="'" line="66" column="12" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1478079256572">
         <mark key="[" line="17" column="0" />
@@ -75,12 +75,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1478434130536" />
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478436988434">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+      </file>
       <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478324534986" />
     </filemarks>
     <jumps>
-      <jump line="93" column="4" filename="D:/PythonProjects/one4one/income_index.py" />
-      <jump line="85" column="16" filename="D:/PythonProjects/one4one/income_index.py" />
-      <jump line="96" column="178" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="88" column="16" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="112" column="4" filename="D:/PythonProjects/one4one/income_index.py" />
       <jump line="91" column="15" filename="D:/PythonProjects/one4one/income_index.py" />
@@ -178,10 +180,42 @@
       <jump line="35" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="49" column="33" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="14" column="117" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="65" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="16" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="66" column="12" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>try:
+            msg = json.loads(line.strip())['message']
+            msg_body = msg_body_pattern.search(msg).group(1)
+            msg_body = json.loads(msg_body)
+        except (KeyError, AttributeError) as e:
+            continue
+        else:
+            try:
+                msg_id = msg_body['message_id']
+            except KeyError:
+                msg_id = int(msg_id_pattern.search(msg).group(1))
+
+            user_id = msg_body['user_id']
+            type = msg_body['push_type']
+
+            msg_content = json.loads(msg_body['msg_content'])
+            title = msg_content['title']
+            content = msg_content['content']
+            url = msg_content['target_url']
+
+            if (content, url) in content_dict:
+                content_id = content_dict[(content, url)]
+            else:
+                content_id = int(time.time())
+                cur.execute(&quot;insert into message values ({0},'{1}','{2}')&quot;.format(content_id, content, url))
+                conn.commit()
+                content_dict[(content, url)] = content_id
+
+            cur.execute(&quot;insert into msg_sent values ({0},{1},{2})&quot;.format(msg_id, content_id, user_id))
+            conn.commit()</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -192,32 +226,61 @@
       <register name="0" type="2">
         <text encoding="base64">dG9fYWRkcmVzc2VzID0gWydlcnl1YW4ud2FuZ0BsZWplbnQuY29tJywgJ2Z1eGlhLnpoYW5nQGxlamVudC5jb20nLCAnamlhLmthbmdAbGVqZW50LmNvbScsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>try:
+            msg = json.loads(line.strip())['message']
+            msg_body = msg_body_pattern.search(msg).group(1)
+            msg_body = json.loads(msg_body)
+        except (KeyError, AttributeError) as e:
+            continue
+        else:
+            try:
+                msg_id = msg_body['message_id']
+            except KeyError:
+                msg_id = int(msg_id_pattern.search(msg).group(1))
+
+            user_id = msg_body['user_id']
+            type = msg_body['push_type']
+
+            msg_content = json.loads(msg_body['msg_content'])
+            title = msg_content['title']
+            content = msg_content['content']
+            url = msg_content['target_url']
+
+            if (content, url) in content_dict:
+                content_id = content_dict[(content, url)]
+            else:
+                content_id = int(time.time())
+                cur.execute(&quot;insert into message values ({0},'{1}','{2}')&quot;.format(content_id, content, url))
+                conn.commit()
+                content_dict[(content, url)] = content_id
+
+            cur.execute(&quot;insert into msg_sent values ({0},{1},{2})&quot;.format(msg_id, content_id, user_id))
+            conn.commit()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29udGVudAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY29udGVudAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZSA9IG1zZ19jb250ZW50Wyd0eXBlJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZSA9IG1zZ19jb250ZW50Wyd0eXBlJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNvbnRlbnRfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm4uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGNvbnRlbnRfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm4uY29tbWl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
