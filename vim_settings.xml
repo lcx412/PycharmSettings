@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/PythonProjects/Messages/input.txt" timestamp="1478486894719">
+        <mark key="'" line="660" column="319" />
+      </file>
       <file name="/Dummy.txt" timestamp="1478145232288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -22,6 +25,10 @@
         <mark key="]" line="60" column="43" />
         <mark key="^" line="60" column="43" />
         <mark key="." line="60" column="43" />
+      </file>
+      <file name="D:/PythonProjects/Messages/msg_sent_input.txt" timestamp="1478487055003">
+        <mark key="'" line="660" column="342" />
+        <mark key="[" line="0" column="1031" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1478239038742">
         <mark key="'" line="285" column="45" />
@@ -60,15 +67,19 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="90" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478484894243">
-        <mark key="'" line="63" column="41" />
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478487101764">
+        <mark key="'" line="66" column="41" />
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="46" column="44" />
+        <mark key="^" line="46" column="44" />
+        <mark key="." line="46" column="44" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478484835430">
-        <mark key="'" line="63" column="12" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="38" column="31" />
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478486798404">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1478079256572">
         <mark key="[" line="17" column="0" />
@@ -92,8 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.sh" />
-      <jump line="205" column="27" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="97" column="55" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="377" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="348" column="29" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
@@ -192,13 +201,15 @@
       <jump line="13" column="20" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="64" column="12" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="63" column="41" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="660" column="319" filename="D:/PythonProjects/Messages/input.txt" />
+      <jump line="660" column="342" filename="D:/PythonProjects/Messages/msg_sent_input.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>chongzhi</text>
