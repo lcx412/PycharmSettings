@@ -60,14 +60,15 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="90" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478452579627">
-        <mark key="'" line="71" column="12" />
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478484894243">
+        <mark key="'" line="63" column="41" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478452571791">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="23" />
-        <mark key="^" line="39" column="31" />
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478484835430">
+        <mark key="'" line="63" column="12" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1478079256572">
         <mark key="[" line="17" column="0" />
@@ -91,9 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="4" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="46" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
-      <jump line="64" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="21" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.sh" />
       <jump line="205" column="27" filename="D:/PythonProjects/matrix/webapp/reducers/reducer.js" />
       <jump line="97" column="55" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -191,10 +189,13 @@
       <jump line="90" column="4" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="816" column="28" filename="C:/Python2/Lib/site-packages/pymysql/connections.py" />
+      <jump line="13" column="20" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
+      <jump line="64" column="12" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
+      <jump line="63" column="41" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -206,31 +207,31 @@
         <text encoding="base64">ICAgICAgICBjdXIuZXhlY3V0ZShzcWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
+        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nTGVqZW50MTY4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGI9J29uZScsIGNoYXJzZXQ9J3V0ZjgnKQogICAgICAgIHNlbGYuY3VyID0gc2VsZi5jb25uLmN1cnNvcigpCiAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9wb3N0ID0gc2VsZi5jb25uX3Bvc3QuY3Vyc29yKCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fcG9zdCA9IG0uY29ubmVjdGlvbigncG9zdF9zdGF0X2RiJykK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHNlbGYuY29ubl9ob2JiaXQgPSBtLmNvbm5lY3Rpb24oJ2hvYmJpdF9kYicpCiAgICAgICAgc2VsZi5jdXJfaG9iYml0ID0gc2VsZi5jb25uX2hvYmJpdC5jdXJzb3IoKQogICAgICAgIHNlbGYuY29ubl8xb24xID0gbS5jb25uZWN0aW9uKCcxb24xX3NsYXZlX2RiJykKICAgICAgICBzZWxmLmN1cl8xb24xID0gc2VsZi5jb25uXzFvbjEuY3Vyc29yKCkKICAgICAgICBzZWxmLmNvbm5fbWF0cml4ID0gbS5jb25uZWN0aW9uKCdzdGF0aXN0aWNfZGF0YV9kYicpCiAgICAgICAgc2VsZi5jdXJfbWF0cml4ID0gc2VsZi5jb25uX21hdHJpeC5jdXJzb3IoKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeCA9IHNlbGYuY29ubl9tYXRyaXgK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
