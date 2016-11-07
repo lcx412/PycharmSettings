@@ -60,18 +60,14 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="90" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478451139643">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="21" />
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478452579627">
+        <mark key="'" line="71" column="12" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478451132475">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-        <mark key="^" line="47" column="31" />
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1478452571791">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1478079256572">
         <mark key="[" line="17" column="0" />
@@ -198,10 +194,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sys.stdin</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>sys.stdin</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>chongzhi</text>
