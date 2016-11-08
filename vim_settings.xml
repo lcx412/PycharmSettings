@@ -37,7 +37,7 @@
         <mark key="]" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478592613284">
+      <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478594073598">
         <mark key="[" line="62" column="56" />
         <mark key="]" line="62" column="57" />
         <mark key="." line="62" column="57" />
@@ -60,6 +60,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478594724192">
+        <mark key="[" line="65" column="95" />
+        <mark key="]" line="65" column="96" />
+        <mark key="^" line="65" column="31" />
+        <mark key="." line="65" column="96" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1478592978505">
         <mark key="[" line="111" column="73" />
@@ -239,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">bmFtZXMg</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">bmFtZXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
