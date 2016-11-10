@@ -34,6 +34,12 @@
         <mark key="^" line="112" column="64" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1478750711315">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="27" column="17" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/PythonProjects/Messages/conf/afanti_django_log.conf" timestamp="1478749693742">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="20" />
@@ -61,15 +67,11 @@
       <file name="/Django Console" timestamp="1478140524092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Messages/td-agent.conf" timestamp="1478514347885">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-      </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1478574007025">
-        <mark key="[" line="66" column="7" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="8" />
+      <file name="D:/PythonProjects/Flask/get_msg_stat.py" timestamp="1478750751960">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1478749037785">
         <mark key="'" line="48" column="16" />
@@ -77,10 +79,8 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_input.txt" timestamp="1478502007590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1478750388589">
+        <mark key="'" line="65" column="4" />
       </file>
       <file name="/a.regexp" timestamp="1478668725655">
         <mark key="[" line="0" column="0" />
@@ -92,20 +92,14 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478750406530" />
       <file name="D:/PythonProjects/Messages/conf/msgserver_log.conf" timestamp="1478749650746">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_sent_log.log" timestamp="1478530349691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="15" filename="D:/PythonProjects/one4one/tutor_comment.py" />
       <jump line="57" column="36" filename="D:/PythonProjects/matrix/api/income_index.py" />
       <jump line="77" column="55" filename="D:/PythonProjects/Stat/Filter.py" />
       <jump line="10" column="8" filename="D:/PythonProjects/Stat/Filter.py" />
@@ -205,46 +199,47 @@
       <jump line="86" column="35" filename="D:/PythonProjects/Messages/msg_sent_collector2.py" />
       <jump line="96" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector2.py" />
       <jump line="48" column="16" filename="D:/PythonProjects/Messages/update_message_status.py" />
+      <jump line="65" column="4" filename="D:/PythonProjects/Flask/templates/page_views.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>page_views</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>page_views</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I7j80MLS0b3TytXXtMysCg==</text>
+        <text encoding="base64">ICAgIDxwPlRpdGxlOjwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0ZD5VVjwvdGQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvbnRlbnRfaWQK</text>
+        <text encoding="base64">ICAgIDx0ZD5QVjwvdGQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIDx0ZD7I1cbaPC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIDx0aGVhZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvdGhlYWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmb3JtYXQ9JyUobGV2ZWxuYW1lKXMgJShtZXNzYWdlKXMnLCBmaWxlbmFtZT1zeXMuYXJndlstMl0sIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">ICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGltZS5zbGVlcCgxNTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5fbXNnLnBpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57eyBjZWxsIH19PC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
