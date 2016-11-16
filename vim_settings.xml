@@ -41,8 +41,11 @@
       <file name="/a.dummy" timestamp="1478749577296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1479263854521">
+      <file name="D:/PythonProjects/matrix/api/income_index.py" timestamp="1479275127063">
         <mark key="'" line="14" column="0" />
+        <mark key="[" line="15" column="75" />
+        <mark key="]" line="15" column="75" />
+        <mark key="." line="15" column="75" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -234,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9iPg==</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9iPg==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
