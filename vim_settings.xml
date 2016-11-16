@@ -75,11 +75,15 @@
         <mark key="." line="340" column="72" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479290531507">
-        <mark key="'" line="133" column="28" />
-        <mark key="[" line="105" column="37" />
-        <mark key="]" line="105" column="38" />
-        <mark key="." line="105" column="38" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479293970006">
+        <mark key="'" line="96" column="41" />
+        <mark key="[" line="135" column="38" />
+        <mark key="]" line="135" column="39" />
+        <mark key="." line="135" column="39" />
+        <mark key="^" line="127" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1479291097846">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1478758446720">
         <mark key="'" line="48" column="16" />
@@ -124,6 +128,13 @@
         <mark key="^" line="91" column="3" />
         <mark key="." line="91" column="3" />
       </file>
+      <file name="D:/PythonProjects/matrix/api/income_charge_info.py" timestamp="1479294416652">
+        <mark key="'" line="99" column="15" />
+        <mark key="[" line="42" column="84" />
+        <mark key="]" line="42" column="84" />
+        <mark key="." line="42" column="84" />
+        <mark key="^" line="42" column="84" />
+      </file>
       <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478758583078">
         <mark key="'" line="29" column="23" />
         <mark key="[" line="13" column="0" />
@@ -143,10 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
-      <jump line="65" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
-      <jump line="129" column="139" filename="D:/PythonProjects/one4one/tutor_detail.py" />
-      <jump line="269" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="254" column="16" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="38" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="279" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -243,52 +250,53 @@
       <jump line="8" column="0" filename="D:/PythonProjects/matrix/celery_task/tasks.py" />
       <jump line="99" column="0" filename="D:/PythonProjects/matrix/celery_task/tasks.py" />
       <jump line="133" column="28" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="96" column="41" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="29" column="67" filename="D:/PythonProjects/matrix/api/income_charge_info.py" />
+      <jump line="92" column="0" filename="D:/PythonProjects/matrix/api/income_charge_info.py" />
+      <jump line="104" column="15" filename="D:/PythonProjects/matrix/api/income_charge_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{&quot;to&quot;: &quot;/statistics/tk_question_hit/&quot;,
-                           &quot;menu&quot;: &quot;营收指数&quot;,
-                           &quot;key&quot;: &quot;6.1&quot;
-                           },</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>命中统计</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29ubiA9IG0uY29ubmVjdGlvbignc3RhdGlzdGljX2RhdGFfZGInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL21hbGxfaW5mby8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICK4qLW8vczKprvu1L4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTAifSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIHZpZXdfYnkgPT0gJzEnOgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGlzX3N1cGVyX3VzZXI6CiAgICAgICAgc3RhdGlzdGljc19saXN0MiA9IHN0YXRpc3RpY3NfbGlzdC5hbGwoKQoK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgc3RhdGlzdGljc19saXN0ID0gSW5jb21lSW5kZXhCeVdlZWsub2JqZWN0cy5maWx0ZXIoZGF0ZV9fcmFuZ2U9KHN0YXJ0X3RpbWUsIGVuZF90aW1lKSkub3JkZXJfYnkoJ2RhdGUnKS52YWx1ZXMoCiAgICAgICAgICAgICpsYWJlbHMp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbHVtbnMyID0gWyfI1cbaJywgJ7vu1L7Tw7unyv0nLCAnxcTL0dPDu6fK/ScsICfH89b608O7p8r9JywgJ8fz1vrP+7fR08O7p8r9JywgJ7iotbzP+7fR08O7p8r9JywgJ7Pk1rXTw7unyv0nLCAntuGxps/7t9HTw7unyv0nLCAnycyzx8/7t9HTw7unyv0nXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV91c2Vycy8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICK4qLW8vczKprvu1L4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTEifSwK</text>
+      </register>
+      <register name="6" type="4">
         <text>{&quot;to&quot;: &quot;/statistics/tk_question_hit/&quot;,
                            &quot;menu&quot;: &quot;营收指数&quot;,
                            &quot;key&quot;: &quot;6.1&quot;
                            },</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJsaW5rcyI6IFt7InRvIjogIi9zdGF0aXN0aWNzL3RrX3F1ZXN0aW9uX2hpdC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4xIgogICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9pbmRleC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNC44In0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODI4MCwgZGVidWc9VHJ1ZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBjb25uID0gTXlTUUxkYi5jb25uZWN0KGhvc3Q9J2xvY2FsaG9zdCcsIHBvcnQ9MzMwNiwgdXNlcj0ncm9vdCcsIHBhc3N3ZD0nNDEyJywgZGI9J29uZScpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBpbXBvcnQgTXlTUUxkYgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
