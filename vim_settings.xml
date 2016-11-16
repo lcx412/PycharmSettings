@@ -18,6 +18,7 @@
       <file name="/Python Console" timestamp="1478748771737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/nginx.conf" timestamp="1479290633298" />
       <file name="/a.dummy" timestamp="1478749577296">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,11 +46,6 @@
         <mark key="]" line="26" column="44" />
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="40" />
-      </file>
-      <file name="D:/PythonProjects/Messages/conf/afanti_django_log.conf" timestamp="1478749693742">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
@@ -79,6 +75,12 @@
         <mark key="." line="340" column="72" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479290531507">
+        <mark key="'" line="133" column="28" />
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="38" />
+        <mark key="." line="105" column="38" />
+      </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1478758446720">
         <mark key="'" line="48" column="16" />
         <mark key="[" line="54" column="81" />
@@ -99,6 +101,7 @@
         <mark key="^" line="53" column="125" />
         <mark key="." line="53" column="125" />
       </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479291048085" />
       <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1478759545002">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="1" column="5" />
@@ -115,6 +118,12 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479290556057">
+        <mark key="[" line="90" column="62" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+      </file>
       <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478758583078">
         <mark key="'" line="29" column="23" />
         <mark key="[" line="13" column="0" />
@@ -122,13 +131,9 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479291088803" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
-      </file>
-      <file name="D:/PythonProjects/Messages/conf/msgserver_log.conf" timestamp="1478749650746">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
         <mark key="[" line="18" column="55" />
@@ -138,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="63" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="65" column="0" filename="D:/PythonProjects/one4one/Card_Cost.py" />
       <jump line="129" column="139" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -238,13 +242,17 @@
       <jump line="14" column="0" filename="D:/PythonProjects/matrix/api/income_index.py" />
       <jump line="8" column="0" filename="D:/PythonProjects/matrix/celery_task/tasks.py" />
       <jump line="99" column="0" filename="D:/PythonProjects/matrix/celery_task/tasks.py" />
+      <jump line="133" column="28" filename="D:/PythonProjects/matrix/api/nav.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>{&quot;to&quot;: &quot;/statistics/tk_question_hit/&quot;,
+                           &quot;menu&quot;: &quot;营收指数&quot;,
+                           &quot;key&quot;: &quot;6.1&quot;
+                           },</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>命中统计</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
@@ -252,29 +260,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29ubiA9IG0uY29ubmVjdGlvbignc3RhdGlzdGljX2RhdGFfZGInKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>{&quot;to&quot;: &quot;/statistics/tk_question_hit/&quot;,
+                           &quot;menu&quot;: &quot;营收指数&quot;,
+                           &quot;key&quot;: &quot;6.1&quot;
+                           },</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODI4MCwgZGVidWc9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaW5rcyI6IFt7InRvIjogIi9zdGF0aXN0aWNzL3RrX3F1ZXN0aW9uX2hpdC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4xIgogICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9pbmRleC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNC44In0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjb25uID0gTXlTUUxkYi5jb25uZWN0KGhvc3Q9J2xvY2FsaG9zdCcsIHBvcnQ9MzMwNiwgdXNlcj0ncm9vdCcsIHBhc3N3ZD0nNDEyJywgZGI9J29uZScpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBpbXBvcnQgTXlTUUxkYgo=</text>
+        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODI4MCwgZGVidWc9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0X2RiKCkK</text>
+        <text encoding="base64">IyBjb25uID0gTXlTUUxkYi5jb25uZWN0KGhvc3Q9J2xvY2FsaG9zdCcsIHBvcnQ9MzMwNiwgdXNlcj0ncm9vdCcsIHBhc3N3ZD0nNDEyJywgZGI9J29uZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpbXBvcnQgTXlTUUxkYgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
