@@ -108,8 +108,8 @@
         <mark key="^" line="53" column="125" />
         <mark key="." line="53" column="125" />
       </file>
-      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479309953051">
-        <mark key="'" line="17" column="0" />
+      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
+        <mark key="'" line="40" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
       <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1478759545002">
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="279" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="244" column="11" filename="D:/PythonProjects/one4one/tutor_detail.py" />
       <jump line="161" column="176" filename="D:/PythonProjects/one4one/tutor_detail.py" />
@@ -262,6 +261,7 @@
       <jump line="92" column="0" filename="D:/PythonProjects/matrix/api/income_charge_info.py" />
       <jump line="104" column="15" filename="D:/PythonProjects/matrix/api/income_charge_info.py" />
       <jump line="17" column="0" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
+      <jump line="40" column="0" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
