@@ -15,7 +15,7 @@
         <mark key="." line="9" column="109" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1478748771737">
+      <file name="/Python Console" timestamp="1479374553964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/nginx.conf" timestamp="1479290633298" />
@@ -28,12 +28,12 @@
         <mark key="]" line="15" column="75" />
         <mark key="." line="15" column="75" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479374223514">
-        <mark key="'" line="160" column="72" />
-        <mark key="[" line="161" column="113" />
-        <mark key="]" line="161" column="132" />
-        <mark key="." line="161" column="113" />
-        <mark key="^" line="161" column="112" />
+      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479377692187">
+        <mark key="'" line="142" column="49" />
+        <mark key="[" line="183" column="224" />
+        <mark key="]" line="183" column="222" />
+        <mark key="." line="183" column="222" />
+        <mark key="^" line="183" column="222" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -169,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="26" filename="D:/PythonProjects/one4one/new_charged_users.py" />
-      <jump line="90" column="4" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="816" column="28" filename="C:/Python2/Lib/site-packages/pymysql/connections.py" />
       <jump line="13" column="20" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
@@ -269,47 +267,48 @@
       <jump line="87" column="80" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="161" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="160" column="72" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="113" column="67" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="142" column="49" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.strftime('%Y%m%d')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY2xvc2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_date</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.strftime('%Y%m%d')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgICAgIGNoYXJnZV9pbmZvLnN1bV9zdGF0KCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>(datetime.strptime(last_week_start_date, '%Y%m%d') - timedelta(7)).strftime(
-                '%Y%m%d')</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY2xvc2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQgPSBzZWxmLmN1cl9zdGF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubl9tYXRyaXguY2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jbG9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2lvc19yYXRpbyA9IHJvdW5kKGZsb2F0KGNoYXJnZV9pb3MpICogMTAwIC8gY2hhcmdlX2lvc19sYXN0LCAyKSBpZiBjaGFyZ2VfaW9zX2xhc3QgPiAwIGVsc2UgMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGFzdDJfd2Vla19zdGFydF9kYXRlLGxhc3Rfd2Vla19zdGFydF9kYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzX2RhdGUgPSBzZWxmLnllc19kYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3Qgc3VtKHBheV9hbW91bnQpIGZyb20gY2hhcmdlX3JlY29yZCB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU8PjYgYW5kIGVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgICAgICBjaGFyZ2VfdG90YWwgPSBjdXJfc3RhdC5mZXRjaG9uZSgpWzBdCiAgICAgICAgICAgIGNoYXJnZV90b3RhbF9yYXRpbyA9IHJvdW5kKGZsb2F0KGNoYXJnZV90b3RhbCkgKiAxMDAgLyBjaGFyZ2VfdG90YWxfbGFzdCwgMikgaWYgY2hhcmdlX3RvdGFsX2xhc3QgPiAwIGVsc2UgMAoKICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3Qgc3VtKHBheV9hbW91bnQpIGZyb20gY2hhcmdlX3JlY29yZCBjIGpvaW4gdXNlcl9vZmZsaW5lIHUgdXNpbmcodXNlcl9pZCkgam9pbiBpbnN0YWxsIGkgb24odS5yZWdpc3Rlcl9pbnN0YWxsX2lkPWkuaW5zdGFsbF9pZCkgd2hlcmUgc3RhdHVzPTEgYW5kIGNoYXJnZV90eXBlPD42IGFuZCBlbmRfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCBkb3dubG9hZF9jaGFubmVsIGxpa2UgJyVBcHBsZVN0b3JlJSciLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgICAgICBjaGFyZ2VfaW9zID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQogICAgICAgICAgICBjaGFyZ2VfYW5kcm9pZCA9IGNoYXJnZV90b3RhbCAtIGNoYXJnZV9pb3MKICAgICAgICAgICAgY2hhcmdlX2lvc19yYXRpbyA9IHJvdW5kKGZsb2F0KGNoYXJnZV9pb3MpICogMTAwIC8gY2hhcmdlX2lvc19sYXN0LCAyKSBpZiBjaGFyZ2VfaW9zX2xhc3QgPiAwIGVsc2UgMAogICAgICAgICAgICBjaGFyZ2VfYW5kcm9pZF9yYXRpbyA9IHJvdW5kKGZsb2F0KGNoYXJnZV9hbmRyb2lkKSAqIDEwMCAvIGNoYXJnZV9hbmRyb2lkX2xhc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgaWYgY2hhcmdlX2FuZHJvaWRfbGFzdCA+IDAgZWxzZSAwCiAgICAgICAgICAgIGN1cl9zdGF0LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IHN1bShwYXlfYW1vdW50KSBmcm9tIGNoYXJnZV9yZWNvcmQgYyB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU8PjYgYW5kIHVzZXJfaWQgbm90IGluKHNlbGVjdCBkaXN0aW5jdCB1c2VyX2lkIGZyb20gY2hhcmdlX3JlY29yZCB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU8PjYgYW5kIGVuZF90aW1lIGJldHdlZW4gMSBhbmQgezB9KSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCiAgICAgICAgICAgIGNoYXJnZV9uZXcgPSBjdXJfc3RhdC5mZXRjaG9uZSgpWzBdCiAgICAgICAgICAgIGNoYXJnZV9vbGQgPSBjaGFyZ2VfdG90YWwgLSBjaGFyZ2VfbmV3CiAgICAgICAgICAgIGNoYXJnZV9uZXdfcmF0aW8gPSByb3VuZChmbG9hdChjaGFyZ2VfbmV3KSAqIDEwMCAvIGNoYXJnZV9uZXdfbGFzdCwgMikgaWYgY2hhcmdlX25ld19sYXN0ID4gMCBlbHNlIDAKICAgICAgICAgICAgY2hhcmdlX29sZF9yYXRpbyA9IHJvdW5kKGZsb2F0KGNoYXJnZV9vbGQpICogMTAwIC8gY2hhcmdlX29sZF9sYXN0LCAyKSBpZiBjaGFyZ2Vfb2xkX2xhc3QgPiAwIGVsc2UgMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzX2VuZF90cyA9IHNlbGYueWVzX2VuZF90cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX29sZF9yYXRpb193ZWVrX2Jhc2lzID0gZ2V0X3JhdGlvKGNoYXJnZV9vbGQsIGNoYXJnZV9vbGRfbGFzdF93ZWVrKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVzX3N0YXJ0X3RzID0gc2VsZi55ZXNfc3RhcnRfdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX25ld19yYXRpb193ZWVrX2Jhc2lzID0gZ2V0X3JhdGlvKGNoYXJnZV9uZXcsIGNoYXJnZV9uZXdfbGFzdF93ZWVrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgaWYgY2hhcmdlX29sZF9sYXN0X3dlZWsgPiAwIGVsc2UgMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2FuZHJvaWRfcmF0aW9fd2Vla19iYXNpcyA9IGdldF9yYXRpbyhjaGFyZ2VfYW5kcm9pZCwgY2hhcmdlX2FuZHJvaWRfbGFzdF93ZWVrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
