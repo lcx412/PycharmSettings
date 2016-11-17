@@ -22,8 +22,8 @@
       <file name="/a.dummy" timestamp="1478749577296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479379421739">
-        <mark key="'" line="142" column="49" />
+      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479380973059">
+        <mark key="'" line="203" column="28" />
         <mark key="[" line="190" column="50" />
         <mark key="]" line="190" column="51" />
         <mark key="." line="190" column="51" />
@@ -152,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="816" column="28" filename="C:/Python2/Lib/site-packages/pymysql/connections.py" />
       <jump line="13" column="20" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="64" column="12" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
@@ -252,6 +251,7 @@
       <jump line="160" column="72" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="113" column="67" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="142" column="49" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="203" column="28" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
