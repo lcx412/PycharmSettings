@@ -28,12 +28,12 @@
         <mark key="]" line="15" column="75" />
         <mark key="." line="15" column="75" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479371247712">
-        <mark key="'" line="96" column="110" />
-        <mark key="[" line="87" column="121" />
-        <mark key="]" line="87" column="125" />
-        <mark key="." line="87" column="125" />
-        <mark key="^" line="87" column="125" />
+      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479372778675">
+        <mark key="'" line="178" column="4" />
+        <mark key="[" line="158" column="52" />
+        <mark key="]" line="158" column="52" />
+        <mark key="^" line="117" column="30" />
+        <mark key="." line="158" column="163" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -169,11 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="45" filename="D:/PythonProjects/one4one/tutor_detail.py" />
-      <jump line="81" column="28" filename="D:/PythonProjects/one4one/page_views.py" />
-      <jump line="19" column="56" filename="D:/PythonProjects/Messages/msg_sender_stat.py" />
-      <jump line="31" column="11" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="35" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="14" column="117" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="66" column="12" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="79" column="13" filename="D:/PythonProjects/one4one/new_charged_users.py" />
@@ -269,46 +264,51 @@
       <jump line="73" column="195" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="85" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="96" column="110" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="140" column="35" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="14" column="6" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="143" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="39" column="56" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
+      <jump line="199" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1lX2RhdGVfb2ZfbGFzdF93ZWVrID0gKGRhdGV0aW1lLnN0cnB0aW1lKHllc19kYXRlLCAnJVklbSVkJykgLSB0aW1lZGVsdGEoNykpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
+      <register name="0" type="4">
+        <text>RevenueChargeInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgaWYgY2hhcmdlX29sZF9sYXN0X3dlZWsgPiAwIGVsc2UgMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVycyA9IFt5ZXNfZGF0ZV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX29sZF9yYXRpb193ZWVrX2Jhc2lzID0gcm91bmQoZmxvYXQoY2hhcmdlX29sZCkgKiAxMDAgLyBjaGFyZ2Vfb2xkX2xhc3Rfd2VlaywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzID0gY3VyX21hdHJpeC5leGVjdXRlKCJzZWxlY3QgY2hhcmdlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgaWYgY2hhcmdlX25ld19sYXN0X3dlZWsgPiAwIGVsc2UgMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX25ld19yYXRpb193ZWVrX2Jhc2lzID0gcm91bmQoZmxvYXQoY2hhcmdlX25ldykgKiAxMDAgLyBjaGFyZ2VfbmV3X2xhc3Rfd2VlaywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIpIGlmIGNoYXJnZV9hbmRyb2lkX2xhc3Rfd2VlayA+IDAgZWxzZSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2FuZHJvaWRfcmF0aW9fd2Vla19iYXNpcyA9IHJvdW5kKGZsb2F0KGNoYXJnZV9hbmRyb2lkKSAqIDEwMCAvIGNoYXJnZV9hbmRyb2lkX2xhc3Rfd2VlaywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfbWF0cml4LmV4ZWN1dGUoInNlbGVjdCBjIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMikgaWYgY2hhcmdlX2lvc19sYXN0X3dlZWsgPiAwIGVsc2UgMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgtaW2wLDRzrTM4c/WveHT4MTDs/bAtM2zvMYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmdlX2lvc19yYXRpb193ZWVrX2Jhc2lzID0gcm91bmQoZmxvYXQoY2hhcmdlX2lvcykgKiAxMDAgLyBjaGFyZ2VfaW9zX2xhc3Rfd2VlaywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyKSBpZiBjaGFyZ2VfdG90YWxfbGFzdF93ZWVrID4gMCBlbHNlIDAK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
