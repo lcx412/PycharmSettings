@@ -41,12 +41,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479477387501">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479478571073">
         <mark key="'" line="131" column="17" />
-        <mark key="[" line="137" column="84" />
-        <mark key="]" line="138" column="7" />
-        <mark key="^" line="138" column="7" />
-        <mark key="." line="138" column="7" />
+        <mark key="[" line="155" column="69" />
+        <mark key="]" line="155" column="67" />
+        <mark key="^" line="155" column="67" />
+        <mark key="." line="155" column="67" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
@@ -247,44 +247,44 @@
       <jump line="127" column="17" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>duobao</text>
       </register>
       <register name="-" type="4">
-        <text>mall</text>
+        <text>duobao</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9tYWxsID0gaW50KHJvdW5kKGZsb2F0KGNvbnN1bWVfbWFsbCkgLyBjb25zdW1lX3VzZXJzX21hbGwpKQo=</text>
+      <register name="0" type="4">
+        <text>int(round(float(consume_duobao) / consume_users_duobao))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX2R1b2JhbyA9IGNvbnN1bWVfdXNlcnMgLSBjb25zdW1lX3VzZXJzX21hbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9wb3N0ID0gaW50KHJvdW5kKGZsb2F0KGNvbnN1bWVfcG9zdCkgLyBjb25zdW1lX3VzZXJzX3Bvc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX2R1b2JhbyA9IGNvbnN1bWVfdXNlcnMgLSBjb25zdW1lX3VzZXJzX21hbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX3Bvc3QgPSBjb25zdW1lX3VzZXJzIC0gY29uc3VtZV91c2Vyc190dXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3Bvc3QgPSBjb25zdW1lX3RvdGFsIC0gY29uc3VtZV90dXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cywgZXRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9wb3N0ID0gaW50KHJvdW5kKGZsb2F0KGNvbnN1bWVfcG9zdCkgLyBjb25zdW1lX3VzZXJzX3Bvc3QpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCBjb3VudChpZihjb3Vwb25faWQ9MCwxLE5VTEwpKSxjb3VudChpZihjb3Vwb25faWQ+MCwxLE5VTEwpKSBmcm9tIGFuc3dlcl9jb25zdW1lX3JlY29yZCB3aGVyZSBjb25zdW1lX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX3Bvc3QgPSBjb25zdW1lX3VzZXJzIC0gY29uc3VtZV91c2Vyc190dXRvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
