@@ -41,12 +41,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479483216360">
-        <mark key="'" line="201" column="31" />
-        <mark key="[" line="233" column="99" />
-        <mark key="]" line="233" column="107" />
-        <mark key="." line="233" column="107" />
-        <mark key="^" line="233" column="107" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479485090772">
+        <mark key="'" line="78" column="81" />
+        <mark key="[" line="226" column="26" />
+        <mark key="]" line="226" column="26" />
+        <mark key="." line="226" column="26" />
+        <mark key="^" line="231" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
@@ -145,14 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="219" column="71" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="290" column="140" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="82" column="15" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="128" column="33" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="164" column="46" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="14" column="0" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="1" column="6" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="71" column="4" filename="D:/PythonProjects/one4one/new_charged_users.py" />
       <jump line="14" column="0" filename="D:/PythonProjects/one4one/new_charged_users.py" />
@@ -245,13 +237,21 @@
       <jump line="150" column="84" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="238" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="196" column="31" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="228" column="96" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="204" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="114" column="287" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="109" column="12" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="129" column="91" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="237" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="216" column="66" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="78" column="81" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>int(round(float(allowance_total) / allowance_total_last))</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>int(round(float(allowance_total) / allowance_total_last))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
