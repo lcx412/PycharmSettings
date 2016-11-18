@@ -48,12 +48,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479471664972">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479472897429">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="112" column="38" />
-        <mark key="]" line="117" column="71" />
-        <mark key="." line="117" column="71" />
-        <mark key="^" line="117" column="71" />
+        <mark key="[" line="109" column="8" />
+        <mark key="]" line="109" column="16" />
+        <mark key="." line="109" column="16" />
+        <mark key="^" line="109" column="16" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
@@ -282,16 +282,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VtKHBheV9hbW91bnQpLGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gY29uc3VtZV9yZWNvcmQgYyBqb2luIHVzZXJfb2ZmbGluZSB1IHVzaW5nKHVzZXJfaWQpIGpvaW4gaW5zdGFsbCBpIG9uKHUucmVnaXN0ZXJfaW5zdGFsbF9pZD1pLmluc3RhbGxfaWQpIHdoZXJlIHN0YXR1cz0xIGFuZCBjb25zdW1lX3R5cGU8PjYgYW5kIGVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIGRvd25sb2FkX2NoYW5uZWwgbGlrZSAnJUFwcGxlU3RvcmUlJw==</text>
+        <text>red_packet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VtKHBheV9hbW91bnQpLGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gY29uc3VtZV9yZWNvcmQgYyBqb2luIHVzZXJfb2ZmbGluZSB1IHVzaW5nKHVzZXJfaWQpIGpvaW4gaW5zdGFsbCBpIG9uKHUucmVnaXN0ZXJfaW5zdGFsbF9pZD1pLmluc3RhbGxfaWQpIHdoZXJlIHN0YXR1cz0xIGFuZCBjb25zdW1lX3R5cGU8PjYgYW5kIGVuZF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gYW5kIGRvd25sb2FkX2NoYW5uZWwgbGlrZSAnJUFwcGxlU3RvcmUlJw==</text>
+        <text>red_packet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
+      <register name="0" type="4">
+        <text>sum(if(cost_flag=2,consume_amount,0)),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
