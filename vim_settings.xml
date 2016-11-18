@@ -148,12 +148,12 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
-      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479456172983">
-        <mark key="'" line="176" column="72" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="136" column="23" />
+      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479457529485">
+        <mark key="'" line="126" column="50" />
+        <mark key="[" line="185" column="50" />
+        <mark key="]" line="185" column="51" />
+        <mark key="." line="185" column="51" />
+        <mark key="^" line="188" column="36" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
@@ -167,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="187" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="223" column="0" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="19" column="22" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="68" column="38" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
@@ -267,13 +266,14 @@
       <jump line="190" column="27" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="173" column="22" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="176" column="72" filename="D:/PythonProjects/one4one/revenue_charge.py" />
+      <jump line="124" column="50" filename="D:/PythonProjects/one4one/revenue_charge.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmaWVsZHMK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>total</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
