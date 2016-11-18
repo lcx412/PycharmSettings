@@ -41,12 +41,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479478571073">
-        <mark key="'" line="131" column="17" />
-        <mark key="[" line="155" column="69" />
-        <mark key="]" line="155" column="67" />
-        <mark key="^" line="155" column="67" />
-        <mark key="." line="155" column="67" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479483216360">
+        <mark key="'" line="201" column="31" />
+        <mark key="[" line="233" column="99" />
+        <mark key="]" line="233" column="107" />
+        <mark key="." line="233" column="107" />
+        <mark key="^" line="233" column="107" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
@@ -126,11 +126,11 @@
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/wheel.docker" timestamp="1479309935531" />
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
-      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479476473343">
+      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479481262140">
         <mark key="'" line="126" column="50" />
-        <mark key="[" line="192" column="16" />
-        <mark key="]" line="192" column="16" />
-        <mark key="." line="192" column="16" />
+        <mark key="[" line="154" column="41" />
+        <mark key="]" line="154" column="41" />
+        <mark key="." line="154" column="41" />
         <mark key="^" line="188" column="36" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
@@ -145,9 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="D:/PythonProjects/Messages/td-agent.conf" />
-      <jump line="14" column="0" filename="D:/PythonProjects/Messages/td-agent.conf" />
-      <jump line="8" column="0" filename="D:/PythonProjects/Messages/msg_received_log.log" />
       <jump line="16" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="219" column="71" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="290" column="140" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
@@ -245,46 +242,49 @@
       <jump line="144" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="53" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="127" column="17" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="150" column="84" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="238" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="196" column="31" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duobao</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>duobao</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>int(round(float(consume_duobao) / consume_users_duobao))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdCAqPSA1MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3Bvc3RfcmVjb3JkcyA9IGNvbnN1bWVfcG9zdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfdHV0b3JfcmF0aW8gPQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX2R1b2JhbyA9IGNvbnN1bWVfdXNlcnMgLSBjb25zdW1lX3VzZXJzX21hbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX2R1b2JhbyA9IGNvbnN1bWVfdXNlcnMgLSBjb25zdW1lX3VzZXJzX21hbGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9wb3N0ID0gaW50KHJvdW5kKGZsb2F0KGNvbnN1bWVfcG9zdCkgLyBjb25zdW1lX3VzZXJzX3Bvc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX3Bvc3QgPSBjb25zdW1lX3VzZXJzIC0gY29uc3VtZV91c2Vyc190dXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
