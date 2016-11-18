@@ -73,7 +73,12 @@
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1479380060717" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1479460763657">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="33" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479293970006">
         <mark key="'" line="96" column="41" />
         <mark key="[" line="135" column="38" />
@@ -269,8 +274,8 @@
       <jump line="58" column="25" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>line</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAicGFnZV92aWV3cyBmYWlsZWQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>line</text>
@@ -279,7 +284,7 @@
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdF93ZWVrX3N0YXJ0X3RzID0gaW50KHRpbWUyLm1rdGltZShkYXRldGltZS5zdHJwdGltZShsYXN0X3dlZWtfc3RhcnRfZGF0ZSwgJyVZJW0lZCcpLnRpbWV0dXBsZSgpKSkKICAgICAgICAgICAgbGFzdF93ZWVrX2VuZF90cyA9IHNlbGYueWVzX2VuZF90cwo=</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAicGFnZV92aWV3cyBmYWlsZWQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBmaWVsZHMK</text>
