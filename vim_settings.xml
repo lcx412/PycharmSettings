@@ -61,12 +61,12 @@
         <mark key="." line="154" column="41" />
         <mark key="^" line="188" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479544830789">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="111" column="72" />
-        <mark key="]" line="111" column="72" />
-        <mark key="^" line="111" column="72" />
-        <mark key="." line="111" column="72" />
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479550707046">
+        <mark key="'" line="105" column="46" />
+        <mark key="[" line="135" column="48" />
+        <mark key="]" line="135" column="49" />
+        <mark key="^" line="135" column="49" />
+        <mark key="." line="135" column="49" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
         <mark key="[" line="18" column="55" />
@@ -108,18 +108,22 @@
         <mark key="." line="91" column="37" />
         <mark key="^" line="110" column="53" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1479536322089">
-        <mark key="'" line="382" column="41" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1479549711672">
+        <mark key="'" line="353" column="41" />
+        <mark key="[" line="180" column="102" />
+        <mark key="]" line="180" column="105" />
+        <mark key="." line="180" column="105" />
+        <mark key="^" line="180" column="105" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/dj_static.py" timestamp="1479307717753" />
       <file name="/Django Console" timestamp="1479268416239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1478764817630">
-        <mark key="[" line="339" column="115" />
-        <mark key="]" line="339" column="117" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1479549899757">
+        <mark key="[" line="346" column="36" />
+        <mark key="]" line="346" column="37" />
         <mark key="^" line="339" column="117" />
-        <mark key="." line="340" column="72" />
+        <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
@@ -139,7 +143,7 @@
       <file name="/Dummy.txt" timestamp="1479291097846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1479276335510">
+      <file name="/a.regexp" timestamp="1479549866531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1479460410147">
@@ -150,19 +154,13 @@
         <mark key="." line="28" column="71" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/wheel.docker" timestamp="1479309935531" />
-      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1479539660352" />
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1479548829955" />
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="24" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
-      <jump line="83" column="276" filename="D:/PythonProjects/Messages/msg_received_input.txt" />
-      <jump line="10" column="51" filename="D:/PythonProjects/Messages/td-agent.conf" />
-      <jump line="9" column="113" filename="D:/PythonProjects/Messages/td-agent.conf" />
-      <jump line="65" column="9" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="76" column="12" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="63" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="58" column="38" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="39" column="13" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
@@ -257,6 +255,12 @@
       <jump line="167" column="41" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="1007" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="382" column="41" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="127" column="26" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="23" column="27" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="25" column="27" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="27" column="29" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="98" column="27" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="105" column="46" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -266,56 +270,53 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
+        <text>上线</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX2NvbnN1bWVfYXZlID0gcm91bmQoY2hhcmdlZF9jb25zdW1lIC8gY2hhcmdlZF91c2VycykK</text>
+      <register name="0" type="4">
+        <text>teacher_wage_total</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX3JlY29yZHNfcmF0aW8gPSBnZXRfcmF0aW8oY2hhcmdlZF9yZWNvcmRzLCBjaGFyZ2VkX3JlY29yZHNfbGFzdCkK</text>
+        <text encoding="base64">ICAgICAgICBvbmxpbmVfZHVyYXRpb24gPSBpbnQob25saW5lX2R1cmF0aW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX3JlY29yZHNfcmF0aW8gPSBnZXRfcmF0aW8oY2hhcmdlZF9yZWNvcmRzLCBjaGFyZ2VkX3JlY29yZHNfbGFzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlX3VzZXJzX29sZF9yYXRpbywgY2hhcmdlX2F2ZV9vbGRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlX2F2ZV9hbmRyb2lkLCBjaGFyZ2VfdXNlcnNfbmV3LCBjaGFyZ2VfdXNlcnNfbmV3X3JhdGlvLCBjaGFyZ2VfYXZlX25ldywgY2hhcmdlX3VzZXJzX29sZCwK</text>
       </register>
-      <register name="4" type="4">
-        <text>charge_total, charge_total_ratio, charge_ios, charge_ios_ratio,
-                       charge_android, charge_android_ratio, charge_new, charge_new_ratio, charge_old, charge_old_ratio</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlX3VzZXJzX2lvc19yYXRpbywgY2hhcmdlX2F2ZV9pb3MsIGNoYXJnZV91c2Vyc19hbmRyb2lkLCBjaGFyZ2VfdXNlcnNfYW5kcm9pZF9yYXRpbywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdG90YWxfcmF0aW8gPSBnZXRfcmF0aW8oY2hhcmdlX3RvdGFsLCBjaGFyZ2VfdG90YWxfbGFzdCkKICAgICAgICBjaGFyZ2VfaW9zX3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV9pb3MsIGNoYXJnZV9pb3NfbGFzdCkKICAgICAgICBjaGFyZ2VfYW5kcm9pZF9yYXRpbyA9IGdldF9yYXRpbyhjaGFyZ2VfYW5kcm9pZCwgY2hhcmdlX2FuZHJvaWRfbGFzdCkKICAgICAgICBjaGFyZ2VfbmV3X3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV9uZXcsIGNoYXJnZV9uZXdfbGFzdCkKICAgICAgICBjaGFyZ2Vfb2xkX3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV9vbGQsIGNoYXJnZV9vbGRfbGFzdCkK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdXNlcnNfb2xkX3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV91c2Vyc19vbGQsIGNoYXJnZV91c2Vyc19vbGRfbGFzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX3JlY29yZHNfcmF0aW8gPSBnZXRfcmF0aW8oY2hhcmdlZF9yZWNvcmRzLCBjaGFyZ2VkX3JlY29yZHNfbGFzdCkKICAgICAgICBjaGFyZ2VkX3VzZXJzX3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZWRfdXNlcnMsIGNoYXJnZWRfdXNlcnNfbGFzdCkKICAgICAgICBjaGFyZ2VfdXNlcnNfcHVyZV9yYXRpbyA9IGdldF9yYXRpbyhjaGFyZ2VkX3VzZXJzX3B1cmUsIGNoYXJnZWRfdXNlcnNfcHVyZV9sYXN0KQogICAgICAgIGNoYXJnZWRfcmVjb3Jkc19hdmUgPSByb3VuZChjaGFyZ2VkX3JlY29yZHMgLyBjaGFyZ2VkX3VzZXJzLCAyKQogICAgICAgIGNoYXJnZWRfZHVyYXRpb25fYXZlID0gcm91bmQoY2hhcmdlZF9kdXJhdGlvbiAvIGNoYXJnZWRfdXNlcnMsIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdXNlcnNfbmV3X3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV91c2Vyc19uZXcsIGNoYXJnZV91c2Vyc19uZXdfbGFzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXQK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdXNlcnNfYW5kcm9pZF9yYXRpbyA9IGdldF9yYXRpbyhjaGFyZ2VfdXNlcnNfYW5kcm9pZCwgY2hhcmdlX3VzZXJzX2FuZHJvaWRfbGFzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXQKICAgICAgICAgICAgInNlbGVjdCBjb3VudCgqKSxjb3VudChpZihhY3R1YWxfY29uc3VtZV9hbW91bnQ+YWN0dWFsX3BheV9hbW91bnQsMSxOVUxMKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgYXBwbHlfdGltZS8xMDAwIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHN0cywgZXRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfdXNlcnNfaW9zX3JhdGlvID0gZ2V0X3JhdGlvKGNoYXJnZV91c2Vyc19pb3MsIGNoYXJnZV91c2Vyc19pb3NfbGFzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX29ubGluZSA9IGN1cl8xb24xLmZldGNob25lKClbMF0K</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</last-search>
+      <last-search>上线</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</last-pattern>
+      <last-pattern>上线</last-pattern>
       <last-replace />
       <last-substitute>u</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>g</entry>
-        <entry>REQUEST</entry>
         <entry>u</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxnZXRfY2hhcnRcPg==</entry>
@@ -334,6 +335,8 @@
         <entry>patter</entry>
         <entry>tmp</entry>
         <entry encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</entry>
+        <entry>conne</entry>
+        <entry>上线</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
