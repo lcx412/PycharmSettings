@@ -61,12 +61,12 @@
         <mark key="." line="154" column="41" />
         <mark key="^" line="188" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479537730894">
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479541321731">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="100" column="87" />
-        <mark key="]" line="100" column="88" />
-        <mark key="." line="100" column="88" />
-        <mark key="^" line="100" column="88" />
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="52" />
+        <mark key="." line="108" column="52" />
+        <mark key="^" line="108" column="52" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
         <mark key="[" line="18" column="55" />
@@ -260,16 +260,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWN0dWFsX2NvbnN1bWVfYW1vdW50Pg==</text>
+        <text>records</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0dWFsX2NvbnN1bWVfYW1vdW50Pg==</text>
+        <text>records</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNvdW50KCopLGNvdW50KGlmKHN0YXR1cyBiZXR3ZWVuIDcgYW5kIDExLDEsTlVMTCkpLGNvdW50KGlmKHN0YXJ0X3RpbWU+MCwxLE5VTEwpKSxjb3VudChkaXN0aW5jdChpZihzdGFydF90aW1lPjAsc3R1ZGVudF91c2VyX2lkLE5VTEwpKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgYXBwbHlfdGltZS8xMDAwIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHN0cywgZXRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX3JlY29yZHNfYXZlID0gcm91bmQoY2hhcmdlZF9yZWNvcmRzL2NoYXJnZWRfdXNlcnMsMikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXQK</text>
