@@ -3,31 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Messages/afanti_django_log.conf" timestamp="1478592891887">
-        <mark key="[" line="9" column="113" />
-        <mark key="]" line="9" column="113" />
-        <mark key="." line="9" column="113" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="D:/PythonProjects/Messages/msgserver_log.conf" timestamp="1478592879388">
-        <mark key="[" line="9" column="109" />
-        <mark key="]" line="9" column="109" />
-        <mark key="." line="9" column="109" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1479374553964">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/nginx.conf" timestamp="1479290633298" />
       <file name="/a.dummy" timestamp="1479445589625">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479445523758">
-        <mark key="'" line="204" column="28" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="46" />
-        <mark key="." line="85" column="57" />
-        <mark key="^" line="85" column="57" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -49,6 +27,75 @@
         <mark key="^" line="166" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479524496003" />
+      <file name="D:/PythonProjects/matrix/scripts/docker/build_wheels.sh" timestamp="1479309654934" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479476740241" />
+      <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1478759667211">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1479436335100" />
+      <file name="D:/PythonProjects/one4one/revenue_charge_users.py" timestamp="1479445419090">
+        <mark key="[" line="85" column="7" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
+        <mark key="'" line="40" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479520858227">
+        <mark key="[" line="90" column="62" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+      </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
+      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479481262140">
+        <mark key="'" line="126" column="50" />
+        <mark key="[" line="154" column="41" />
+        <mark key="]" line="154" column="41" />
+        <mark key="." line="154" column="41" />
+        <mark key="^" line="188" column="36" />
+      </file>
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479536508831">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="95" column="98" />
+      </file>
+      <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+      </file>
+      <file name="D:/PythonProjects/Messages/afanti_django_log.conf" timestamp="1478592891887">
+        <mark key="[" line="9" column="113" />
+        <mark key="]" line="9" column="113" />
+        <mark key="." line="9" column="113" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="D:/PythonProjects/Messages/msgserver_log.conf" timestamp="1478592879388">
+        <mark key="[" line="9" column="109" />
+        <mark key="]" line="9" column="109" />
+        <mark key="." line="9" column="109" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1479374553964">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479445523758">
+        <mark key="'" line="204" column="28" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="46" />
+        <mark key="." line="85" column="57" />
+        <mark key="^" line="85" column="57" />
+      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="15" />
@@ -61,8 +108,10 @@
         <mark key="." line="91" column="37" />
         <mark key="^" line="110" column="53" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1479536322089">
+        <mark key="'" line="382" column="41" />
+      </file>
       <file name="D:/Program Files/Python/Lib/site-packages/dj_static.py" timestamp="1479307717753" />
-      <file name="D:/PythonProjects/matrix/scripts/docker/build_wheels.sh" timestamp="1479309654934" />
       <file name="/Django Console" timestamp="1479268416239">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,28 +136,9 @@
         <mark key="." line="135" column="39" />
         <mark key="^" line="127" column="66" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479476740241" />
       <file name="/Dummy.txt" timestamp="1479291097846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1478759667211">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1479436335100" />
-      <file name="D:/PythonProjects/one4one/revenue_charge_users.py" timestamp="1479445419090">
-        <mark key="[" line="85" column="7" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
-        <mark key="'" line="40" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
       <file name="/a.regexp" timestamp="1479276335510">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,43 +149,13 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479520858227">
-        <mark key="[" line="90" column="62" />
-        <mark key="]" line="91" column="3" />
-        <mark key="^" line="91" column="3" />
-        <mark key="." line="91" column="3" />
-      </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/wheel.docker" timestamp="1479309935531" />
-      <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
-      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479481262140">
-        <mark key="'" line="126" column="50" />
-        <mark key="[" line="154" column="41" />
-        <mark key="]" line="154" column="41" />
-        <mark key="." line="154" column="41" />
-        <mark key="^" line="188" column="36" />
-      </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479534694254">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="91" column="88" />
-      </file>
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="27" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="86" column="24" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
-      <jump line="0" column="3" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="2" column="24" filename="D:/PythonProjects/Messages/msg_sent_log.log" />
       <jump line="83" column="276" filename="D:/PythonProjects/Messages/msg_received_input.txt" />
       <jump line="10" column="51" filename="D:/PythonProjects/Messages/td-agent.conf" />
@@ -253,13 +253,16 @@
       <jump line="239" column="29" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="249" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="2" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="167" column="41" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="1007" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="382" column="41" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3VtKHBheV9hbW91bnQpLGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gY2hhcmdlX3JlY29yZCB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU8PjYgYW5k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfYXZlID0gaW50KHJvdW5kKGZsb2F0KGNoYXJnZV90b3RhbCkgLyBjaGFyZ2VfdXNlcnMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VtKHBheV9hbW91bnQpLGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gY2hhcmdlX3JlY29yZCB3aGVyZSBzdGF0dXM9MSBhbmQgY2hhcmdlX3R5cGU8PjYgYW5k</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19yZWNvcmRfY29udGVudF9kaWN0XD4=</text>
@@ -268,19 +271,19 @@
         <text encoding="base64">ICAgICAgICByb3dzID0gY3VyX21hdHJpeC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNoYXJnZWRkX3JlY29yZHMsY2hhcmdlZF91c2VycyxjaGFyZ2VkX3VzZXJzX3B1cmUgZnJvbSByZXZlbnVlX3R1dG9yX2luZm8gd2hlcmUgdHlwZT17MH0gYW5kIGRhdGU9ezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICBzdGF0X3R5cGUsIGxhc3RfcGVyaW9kX2RhdGUpKQogICAgICAgIHJlcyA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKSBpZiByb3dzID09IDEgZWxzZSBbMCwgMCwgMF0KICAgICAgICBjaGFyZ2VkZF9yZWNvcmRzX2xhc3QsIGNoYXJnZWRfdXNlcnNfbGFzdCwgY2hhcmdlZF91c2Vyc19wdXJlX2xhc3QgPSByZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IGN1cl9tYXRyaXguZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY2hhcmdlX3RvdGFsLGNoYXJnZV9pb3MsY2hhcmdlX2FuZHJvaWQsY2hhcmdlX25ldyxjaGFyZ2Vfb2xkIGZyb20gcmV2ZW51ZV9jaGFyZ2VfaW5mbyB3aGVyZSB0eXBlPTEgYW5kIGRhdGU9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgc2FtZV9kYXRlX29mX2xhc3Rfd2VlaykpCiAgICAgICAgICAgIHJlcyA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKSBpZiByb3dzID09IDEgZWxzZSBbMCwgMCwgMCwgMCwgMF0KICAgICAgICAgICAgY2hhcmdlX3RvdGFsX2xhc3Rfd2VlaywgY2hhcmdlX2lvc19sYXN0X3dlZWssIGNoYXJnZV9hbmRyb2lkX2xhc3Rfd2VlaywgY2hhcmdlX25ld19sYXN0X3dlZWssIGNoYXJnZV9vbGRfbGFzdF93ZWVrID0gcmVzCiAgICAgICAgICAgIHJvd3MgPSBjdXJfbWF0cml4LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGNoYXJnZV91c2VycyxjaGFyZ2VfdXNlcnNfaW9zLGNoYXJnZV91c2Vyc19hbmRyb2lkLGNoYXJnZV91c2Vyc19uZXcsY2hhcmdlX3VzZXJzX29sZCBmcm9tIHJldmVudWVfY2hhcmdlX3VzZXJzIHdoZXJlIHR5cGU9MSBhbmQgZGF0ZT17MH0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzYW1lX2RhdGVfb2ZfbGFzdF93ZWVrKSkKICAgICAgICAgICAgcmVzID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpIGlmIHJvd3MgPT0gMSBlbHNlIFswLCAwLCAwLCAwLCAwXQogICAgICAgICAgICBjaGFyZ2VfdXNlcnNfbGFzdF93ZWVrLCBjaGFyZ2VfdXNlcnNfaW9zX2xhc3Rfd2VlaywgY2hhcmdlX3VzZXJzX2FuZHJvaWRfbGFzdF93ZWVrLCBjaGFyZ2VfdXNlcnNfbmV3X2xhc3Rfd2VlaywgY2hhcmdlX3VzZXJzX29sZF9sYXN0X3dlZWsgPSByZXMK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfYXZlID0gaW50KHJvdW5kKGZsb2F0KGNoYXJnZV90b3RhbCkgLyBjaGFyZ2VfdXNlcnMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzID0gY3VyX21hdHJpeC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNoYXJnZV91c2VycyxjaGFyZ2VfdXNlcnNfaW9zLGNoYXJnZV91c2Vyc19hbmRyb2lkLGNoYXJnZV91c2Vyc19uZXcsY2hhcmdlX3VzZXJzX29sZCBmcm9tIHJldmVudWVfY2hhcmdlX3VzZXJzIHdoZXJlIHR5cGU9ezB9IGFuZCBkYXRlPXsxfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdF90eXBlLCBsYXN0X3BlcmlvZF9kYXRlKSkKICAgICAgICByZXMgPSBjdXJfbWF0cml4LmZldGNob25lKCkgaWYgcm93cyA9PSAxIGVsc2UgWzAsIDAsIDAsIDAsIDBdCiAgICAgICAgY2hhcmdlX3VzZXJzX2xhc3QsIGNoYXJnZV91c2Vyc19pb3NfbGFzdCwgY2hhcmdlX3VzZXJzX2FuZHJvaWRfbGFzdCwgY2hhcmdlX3VzZXJzX25ld19sYXN0LCBjaGFyZ2VfdXNlcnNfb2xkX2xhc3QgPSByZXMKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93cyA9IGN1cl9tYXRyaXguZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJzZWxlY3QgY2hhcmdlX3RvdGFsLGNoYXJnZV9pb3MsY2hhcmdlX2FuZHJvaWQsY2hhcmdlX25ldyxjaGFyZ2Vfb2xkIGZyb20gcmV2ZW51ZV9jaGFyZ2VfaW5mbyB3aGVyZSB0eXBlPTEgYW5kIGRhdGU9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgc2FtZV9kYXRlX29mX2xhc3Rfd2VlaykpCiAgICAgICAgICAgIHJlcyA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKSBpZiByb3dzID09IDEgZWxzZSBbMCwgMCwgMCwgMCwgMF0KICAgICAgICAgICAgY2hhcmdlX3RvdGFsX2xhc3Rfd2VlaywgY2hhcmdlX2lvc19sYXN0X3dlZWssIGNoYXJnZV9hbmRyb2lkX2xhc3Rfd2VlaywgY2hhcmdlX25ld19sYXN0X3dlZWssIGNoYXJnZV9vbGRfbGFzdF93ZWVrID0gcmVzCiAgICAgICAgICAgIHJvd3MgPSBjdXJfbWF0cml4LmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAic2VsZWN0IGNoYXJnZV91c2VycyxjaGFyZ2VfdXNlcnNfaW9zLGNoYXJnZV91c2Vyc19hbmRyb2lkLGNoYXJnZV91c2Vyc19uZXcsY2hhcmdlX3VzZXJzX29sZCBmcm9tIHJldmVudWVfY2hhcmdlX3VzZXJzIHdoZXJlIHR5cGU9MSBhbmQgZGF0ZT17MH0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzYW1lX2RhdGVfb2ZfbGFzdF93ZWVrKSkKICAgICAgICAgICAgcmVzID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpIGlmIHJvd3MgPT0gMSBlbHNlIFswLCAwLCAwLCAwLCAwXQogICAgICAgICAgICBjaGFyZ2VfdXNlcnNfbGFzdF93ZWVrLCBjaGFyZ2VfdXNlcnNfaW9zX2xhc3Rfd2VlaywgY2hhcmdlX3VzZXJzX2FuZHJvaWRfbGFzdF93ZWVrLCBjaGFyZ2VfdXNlcnNfbmV3X2xhc3Rfd2VlaywgY2hhcmdlX3VzZXJzX29sZF9sYXN0X3dlZWsgPSByZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3Bvc3RfcmVjb3JkcyA9IGNvbnN1bWVfcG9zdAo=</text>
+        <text encoding="base64">ICAgICAgICByb3dzID0gY3VyX21hdHJpeC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNoYXJnZV91c2VycyxjaGFyZ2VfdXNlcnNfaW9zLGNoYXJnZV91c2Vyc19hbmRyb2lkLGNoYXJnZV91c2Vyc19uZXcsY2hhcmdlX3VzZXJzX29sZCBmcm9tIHJldmVudWVfY2hhcmdlX3VzZXJzIHdoZXJlIHR5cGU9ezB9IGFuZCBkYXRlPXsxfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgc3RhdF90eXBlLCBsYXN0X3BlcmlvZF9kYXRlKSkKICAgICAgICByZXMgPSBjdXJfbWF0cml4LmZldGNob25lKCkgaWYgcm93cyA9PSAxIGVsc2UgWzAsIDAsIDAsIDAsIDBdCiAgICAgICAgY2hhcmdlX3VzZXJzX2xhc3QsIGNoYXJnZV91c2Vyc19pb3NfbGFzdCwgY2hhcmdlX3VzZXJzX2FuZHJvaWRfbGFzdCwgY2hhcmdlX3VzZXJzX25ld19sYXN0LCBjaGFyZ2VfdXNlcnNfb2xkX2xhc3QgPSByZXMKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfdHV0b3JfcmF0aW8gPQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3Bvc3RfcmVjb3JkcyA9IGNvbnN1bWVfcG9zdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfdHV0b3JfcmF0aW8gPQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -289,10 +292,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3VzZXJzX2R1b2JhbyA9IGNvbnN1bWVfdXNlcnMgLSBjb25zdW1lX3VzZXJzX21hbGwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX2F2ZV9kdW9iYW8gPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9kdW9iYW8pIC8gY29uc3VtZV91c2Vyc19kdW9iYW8pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
