@@ -61,11 +61,12 @@
         <mark key="." line="154" column="41" />
         <mark key="^" line="188" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479558395457">
-        <mark key="'" line="95" column="50" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="12" />
-        <mark key="." line="95" column="12" />
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479561698832">
+        <mark key="'" line="190" column="8" />
+        <mark key="[" line="184" column="34" />
+        <mark key="]" line="184" column="34" />
+        <mark key="." line="184" column="34" />
+        <mark key="^" line="184" column="34" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1478759522300">
         <mark key="[" line="18" column="55" />
@@ -160,9 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="35" filename="D:/PythonProjects/Messages/msg_sent_collector2.py" />
-      <jump line="96" column="0" filename="D:/PythonProjects/Messages/msg_sent_collector2.py" />
-      <jump line="48" column="16" filename="D:/PythonProjects/Messages/update_message_status.py" />
       <jump line="65" column="4" filename="D:/PythonProjects/Flask/templates/page_views.html" />
       <jump line="4" column="0" filename="D:/PythonProjects/Flask/get_msg_stat.py" />
       <jump line="31" column="23" filename="D:/PythonProjects/Flask/get_page_views.py" />
@@ -251,22 +249,25 @@
       <jump line="16" column="11" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="109" column="30" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="125" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
-      <jump line="156" column="62" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="113" column="79" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="159" column="63" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="179" column="25" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="117" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
-      <jump line="190" column="8" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="148" column="163" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="97" column="14" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="95" column="50" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="184" column="35" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="30" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="130" column="26" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="156" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="190" column="8" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>last_period_date</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
