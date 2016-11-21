@@ -49,6 +49,7 @@
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1479722938712" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1479699504630" />
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479721852943">
         <mark key="[" line="99" column="64" />
@@ -96,7 +97,13 @@
         <mark key="." line="85" column="57" />
         <mark key="^" line="85" column="57" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1478765350675">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1479722854626">
+        <mark key="[" line="241" column="24" />
+        <mark key="]" line="241" column="24" />
+        <mark key="." line="241" column="24" />
+        <mark key="^" line="243" column="23" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1479722863932">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="15" />
         <mark key="^" line="77" column="15" />
@@ -126,12 +133,12 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479718026450">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479722226931">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="172" column="15" />
-        <mark key="]" line="172" column="19" />
-        <mark key="." line="172" column="19" />
-        <mark key="^" line="172" column="19" />
+        <mark key="[" line="127" column="205" />
+        <mark key="]" line="127" column="189" />
+        <mark key="." line="127" column="189" />
+        <mark key="^" line="127" column="189" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479697696970" />
@@ -141,13 +148,14 @@
         <mark key="." line="65" column="21" />
         <mark key="^" line="66" column="30" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479721978394">
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479722035903">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="121" column="27" />
         <mark key="]" line="121" column="27" />
         <mark key="^" line="121" column="27" />
         <mark key="." line="121" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479721927934">
+      <file name="/Dummy.txt" timestamp="1479721986053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479715304118">
@@ -172,8 +180,6 @@
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="96" column="110" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="140" column="35" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="14" column="6" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="143" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
@@ -272,6 +278,8 @@
       <jump line="142" column="30" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="54" column="114" filename="D:/PythonProjects/Flask/simple_server.py" />
       <jump line="177" column="0" filename="D:/PythonProjects/one4one/revenue_users.py" />
+      <jump line="110" column="58" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="24" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
