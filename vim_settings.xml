@@ -124,12 +124,12 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479715645260">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479718026450">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="146" column="28" />
-        <mark key="]" line="177" column="4" />
-        <mark key="." line="177" column="4" />
-        <mark key="^" line="177" column="4" />
+        <mark key="[" line="172" column="15" />
+        <mark key="]" line="172" column="19" />
+        <mark key="." line="172" column="19" />
+        <mark key="^" line="172" column="19" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479697696970" />
@@ -139,12 +139,11 @@
         <mark key="." line="65" column="21" />
         <mark key="^" line="66" column="30" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479293970006">
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479718224998">
         <mark key="'" line="96" column="41" />
-        <mark key="[" line="135" column="38" />
-        <mark key="]" line="135" column="39" />
-        <mark key="." line="135" column="39" />
-        <mark key="^" line="127" column="66" />
+        <mark key="[" line="103" column="38" />
+        <mark key="]" line="103" column="39" />
+        <mark key="." line="103" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1479291097846">
         <mark key="[" line="0" column="0" />
@@ -274,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>teacher</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>teacher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</text>
