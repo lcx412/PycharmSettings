@@ -33,6 +33,9 @@
         <mark key="^" line="244" column="35" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/build_wheels.sh" timestamp="1479309654934" />
+      <file name="D:/PythonProjects/matrix/api/revenue_answer.py" timestamp="1479725104815">
+        <mark key="'" line="105" column="24" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479476740241" />
       <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1478759667211">
         <mark key="[" line="4" column="11" />
@@ -47,12 +50,19 @@
         <mark key="^" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1479722938712" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1479699504630" />
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479721852943">
-        <mark key="[" line="99" column="64" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479725494786">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="36" column="28" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479709202497">
@@ -123,7 +133,7 @@
         <mark key="^" line="180" column="105" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/dj_static.py" timestamp="1479307717753" />
-      <file name="/Django Console" timestamp="1479268416239">
+      <file name="/Django Console" timestamp="1479724482905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1479552782949">
@@ -133,12 +143,15 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479722226931">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479724305259">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="127" column="205" />
-        <mark key="]" line="127" column="189" />
-        <mark key="." line="127" column="189" />
-        <mark key="^" line="127" column="189" />
+        <mark key="[" line="145" column="188" />
+        <mark key="]" line="145" column="201" />
+        <mark key="." line="145" column="201" />
+        <mark key="^" line="145" column="201" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1479725344708">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479697696970" />
@@ -157,6 +170,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1479721986053">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/mall_income.py" timestamp="1479725383225">
+        <mark key="'" line="45" column="36" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479715304118">
         <mark key="'" line="54" column="114" />
@@ -178,24 +194,11 @@
       <file name="D:/PythonProjects/matrix/scripts/docker/wheel.docker" timestamp="1479309935531" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1479548829955" />
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
+      <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
+        <mark key="'" line="99" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="35" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="14" column="6" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="143" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="39" column="56" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="199" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="87" column="80" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="161" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="160" column="72" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="113" column="67" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="142" column="49" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="203" column="28" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
-      <jump line="175" column="24" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="137" column="26" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="52" column="25" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="56" column="12" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="190" column="27" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="173" column="22" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="176" column="72" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="124" column="50" filename="D:/PythonProjects/one4one/revenue_charge.py" />
@@ -280,13 +283,29 @@
       <jump line="177" column="0" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="110" column="58" filename="D:/PythonProjects/matrix/api/nav.py" />
       <jump line="24" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="101" column="49" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="36" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="92" column="59" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="102" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="38" column="32" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="112" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="86" column="25" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="73" column="0" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
+      <jump line="69" column="45" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
+      <jump line="105" column="24" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
+      <jump line="349" column="68" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="132" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
+      <jump line="31" column="0" filename="D:/PythonProjects/matrix/api/mall_income.py" />
+      <jump line="45" column="36" filename="D:/PythonProjects/matrix/api/mall_income.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</text>
