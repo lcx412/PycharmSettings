@@ -124,9 +124,9 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479712126418">
-        <mark key="'" line="137" column="55" />
-        <mark key="[" line="145" column="39" />
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479713731721">
+        <mark key="'" line="142" column="30" />
+        <mark key="[" line="146" column="28" />
         <mark key="]" line="145" column="40" />
         <mark key="." line="145" column="40" />
         <mark key="^" line="145" column="40" />
@@ -164,7 +164,6 @@
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
       <jump line="40" column="0" filename="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" />
       <jump line="73" column="195" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
       <jump line="85" column="4" filename="D:/PythonProjects/one4one/revenue_charge_info.py" />
@@ -264,6 +263,7 @@
       <jump line="136" column="29" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="190" column="8" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="137" column="55" filename="D:/PythonProjects/one4one/revenue_users.py" />
+      <jump line="142" column="30" filename="D:/PythonProjects/one4one/revenue_users.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
