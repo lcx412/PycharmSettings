@@ -7,6 +7,12 @@
       <file name="/a.dummy" timestamp="1479445589625">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479718731998">
+        <mark key="[" line="984" column="0" />
+        <mark key="]" line="985" column="0" />
+        <mark key="^" line="985" column="0" />
+        <mark key="." line="985" column="0" />
+      </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
         <mark key="]" line="62" column="57" />
@@ -26,7 +32,6 @@
         <mark key="." line="244" column="35" />
         <mark key="^" line="244" column="35" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479524496003" />
       <file name="D:/PythonProjects/matrix/scripts/docker/build_wheels.sh" timestamp="1479309654934" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479476740241" />
       <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1478759667211">
@@ -45,11 +50,8 @@
       <file name="D:/PythonProjects/matrix/scripts/docker/matrix.docker" timestamp="1479309356754" />
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1479699504630" />
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479520858227">
-        <mark key="[" line="90" column="62" />
-        <mark key="]" line="91" column="3" />
-        <mark key="^" line="91" column="3" />
-        <mark key="." line="91" column="3" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479721852943">
+        <mark key="[" line="99" column="64" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479709202497">
@@ -139,13 +141,13 @@
         <mark key="." line="65" column="21" />
         <mark key="^" line="66" column="30" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479718224998">
-        <mark key="'" line="96" column="41" />
-        <mark key="[" line="103" column="38" />
-        <mark key="]" line="103" column="39" />
-        <mark key="." line="103" column="39" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479721978394">
+        <mark key="[" line="121" column="27" />
+        <mark key="]" line="121" column="27" />
+        <mark key="^" line="121" column="27" />
+        <mark key="." line="121" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479291097846">
+      <file name="/Dummy.txt" timestamp="1479721927934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479715304118">
@@ -273,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>teacher</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>teacher</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</text>
