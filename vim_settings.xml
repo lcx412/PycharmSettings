@@ -7,11 +7,12 @@
       <file name="/a.dummy" timestamp="1479445589625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479718731998">
-        <mark key="[" line="984" column="0" />
-        <mark key="]" line="985" column="0" />
-        <mark key="^" line="985" column="0" />
-        <mark key="." line="985" column="0" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479738300866">
+        <mark key="'" line="1318" column="8" />
+        <mark key="[" line="1273" column="76" />
+        <mark key="]" line="1273" column="77" />
+        <mark key="^" line="1273" column="77" />
+        <mark key="." line="1273" column="77" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -39,10 +40,21 @@
         <mark key="." line="87" column="26" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/build_wheels.sh" timestamp="1479309654934" />
-      <file name="D:/PythonProjects/matrix/api/revenue_answer.py" timestamp="1479725104815">
+      <file name="D:/PythonProjects/matrix/api/revenue_answer.py" timestamp="1479738437712">
         <mark key="'" line="105" column="24" />
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479476740241" />
+      <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1478758446720">
+        <mark key="'" line="48" column="16" />
+        <mark key="[" line="54" column="81" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="55" column="12" />
+      </file>
       <file name="D:/PythonProjects/Flask/templates/image_urls.html" timestamp="1478759667211">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="12" column="0" />
@@ -63,12 +75,12 @@
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1479722938712" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1479699504630" />
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479736557016">
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479738466014">
         <mark key="'" line="86" column="25" />
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="36" column="28" />
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="68" />
+        <mark key="." line="48" column="68" />
+        <mark key="^" line="48" column="68" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479709202497">
@@ -112,6 +124,13 @@
         <mark key="]" line="91" column="46" />
         <mark key="." line="85" column="57" />
         <mark key="^" line="85" column="57" />
+      </file>
+      <file name="D:/PythonProjects/Messages/msg_sent_collector2.py" timestamp="1478749311006">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="112" column="64" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1479722854626">
         <mark key="[" line="241" column="24" />
@@ -193,7 +212,7 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="/a.regexp" timestamp="1479696412949">
+      <file name="/a.regexp" timestamp="1479738305109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1479460410147">
@@ -203,8 +222,30 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
+      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1479738481519">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/income_charge_info.py" timestamp="1479294416652">
+        <mark key="'" line="99" column="15" />
+        <mark key="[" line="42" column="84" />
+        <mark key="]" line="42" column="84" />
+        <mark key="." line="42" column="84" />
+        <mark key="^" line="42" column="84" />
+      </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/wheel.docker" timestamp="1479309935531" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1479548829955" />
+      <file name="D:/PythonProjects/matrix/api/func_stat.py" timestamp="1479738316613" />
+      <file name="D:/PythonProjects/Flask/get_page_views.py" timestamp="1478758583078">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/scripts/pack.sh" timestamp="1479307405194" />
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
@@ -212,11 +253,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="173" column="22" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="176" column="72" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="124" column="50" filename="D:/PythonProjects/one4one/revenue_charge.py" />
-      <jump line="16" column="59" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
-      <jump line="58" column="25" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="119" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="144" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="53" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -312,13 +348,18 @@
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="31" column="0" filename="D:/PythonProjects/matrix/api/mall_income.py" />
       <jump line="45" column="36" filename="D:/PythonProjects/matrix/api/mall_income.py" />
+      <jump line="31" column="8" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="1142" column="0" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="1318" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="77" column="8" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="19" column="0" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9tYWxsX2luZm8vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAiycyzx8fpv/YiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTAifSwK</text>
+      <register name="&quot;" type="4">
+        <text>迪</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>迪</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</text>
@@ -327,31 +368,49 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VyX2hpdmUuZXhlY3V0ZSgoCiAgICAgICAgICAgICAgICAic2VsZWN0IGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gcG9zdCBwIHdoZXJlIHAucHJpb3JpdHk8PjAgYW5kIHAuY3JlYXRlX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHN0cywgZXRzKSkpCiAgICAgICAgICAgIGFjdGl2ZV91c2VycyA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKVswXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9tYWxsX2luZm8vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAiycyzx8fpv/YiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTAifSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9pbmRleC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4xMSJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV90dXRvcl90ZWFjaGVycy8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICK4qLW8vczKprvu1L4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuOSJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3RlYWNoZXIvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjcifSwKICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3N0dWRlbnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+s2s0afH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjgifSwK</text>
+      <register name="4" type="4">
+        <text>class StatFuncPaper(models.Model):
+    stat_func_paper_id = models.AutoField(primary_key=True, verbose_name='自增艾迪')
+    date = models.IntegerField(verbose_name='日期')
+    popu = models.IntegerField(verbose_name='使用人数')
+    avg_query = models.FloatField(verbose_name='人均query数')
+    avg_paper = models.FloatField(verbose_name='人均paper数')
+    keep1 = models.FloatField(verbose_name='次日留存')
+    keep3 = models.FloatField(verbose_name='三日留存')
+    keep7 = models.FloatField(verbose_name='七日留存')
+    keep_week = models.FloatField(verbose_name='周留存')
+    paper_keep1 = models.FloatField(verbose_name='f次日留存')
+    paper_keep3 = models.FloatField(verbose_name='f三日留存')
+    paper_keep7 = models.FloatField(verbose_name='f七日留存')
+    paper_keep_week = models.FloatField(verbose_name='f周留存')
+
+    class Meta:
+        managed = False
+        db_table = 'stat_func_paper'
+        app_label = 'matrix'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL3JldmVudWVfZnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgeyJ0byI6ICIvc3RhdGlzdGljcy9yZXZlbnVlX2Z1LyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJtZW51IjogIsfz1vrNrNGnx+m/9iIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4zIgogICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9tYWxsX2luZm8vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAiycyzx8fpv/YiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTAifSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL3JldmVudWVfYWxsb3dhbmNlX2luZm8vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAisrnM+cfpv/YiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMyJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9pbmRleC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4xMSJ9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9jaGFyZ2VfaW5mby8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICKz5Na1x+m/9iIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4yIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV90dXRvcl90ZWFjaGVycy8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICK4qLW8vczKprvu1L4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuOSJ9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX3VzZXJzID0gY3VyX21hdHJpeC5mZXRjaG9uZSgpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3RlYWNoZXIvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjcifSwKICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3N0dWRlbnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+s2s0afH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjgifSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX21hdHJpeC5leGVjdXRlKCJzZWxlY3QgZnRfdXNlcl9udW0gZnJvbSByZXZlbnVlX2Fuc3dlcl9mdV9tb250aCB3aGVyZSBkYXRlPXswfSIuZm9ybWF0KHN0YXRfZGF0ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL3JldmVudWVfZnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgeyJ0byI6ICIvc3RhdGlzdGljcy9yZXZlbnVlX2Z1LyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJtZW51IjogIsfz1vrNrNGnx+m/9iIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4zIgogICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
