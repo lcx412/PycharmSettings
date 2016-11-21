@@ -7,12 +7,13 @@
       <file name="/a.dummy" timestamp="1479445589625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479738300866">
-        <mark key="'" line="1318" column="8" />
-        <mark key="[" line="1273" column="76" />
-        <mark key="]" line="1273" column="77" />
-        <mark key="^" line="1273" column="77" />
-        <mark key="." line="1273" column="77" />
+      <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/nt.py" timestamp="1479742284479" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479740487061">
+        <mark key="'" line="993" column="42" />
+        <mark key="[" line="1037" column="14" />
+        <mark key="]" line="1037" column="18" />
+        <mark key="." line="1037" column="14" />
+        <mark key="^" line="1034" column="19" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -109,6 +110,12 @@
         <mark key="." line="9" column="113" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="D:/PythonProjects/matrix/lib/tool.py" timestamp="1479742311645">
+        <mark key="[" line="118" column="20" />
+        <mark key="]" line="118" column="20" />
+        <mark key="^" line="121" column="75" />
+        <mark key="." line="118" column="20" />
+      </file>
       <file name="D:/PythonProjects/Messages/msgserver_log.conf" timestamp="1478592879388">
         <mark key="[" line="9" column="109" />
         <mark key="]" line="9" column="109" />
@@ -174,7 +181,7 @@
         <mark key="^" line="50" column="65" />
         <mark key="." line="50" column="65" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479724305259">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479741835905">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="145" column="188" />
         <mark key="]" line="145" column="201" />
@@ -184,6 +191,7 @@
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1479725344708">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/Program Files/Python/Lib/os.py" timestamp="1479742248131" />
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479697696970" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1479462453445">
@@ -192,12 +200,12 @@
         <mark key="." line="65" column="21" />
         <mark key="^" line="66" column="30" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479737509224">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="135" column="54" />
-        <mark key="]" line="135" column="58" />
-        <mark key="^" line="135" column="58" />
-        <mark key="." line="135" column="58" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1479741212036">
+        <mark key="'" line="146" column="24" />
+        <mark key="[" line="123" column="38" />
+        <mark key="]" line="123" column="39" />
+        <mark key="^" line="123" column="39" />
+        <mark key="." line="123" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1479721986053">
         <mark key="[" line="0" column="0" />
@@ -222,12 +230,12 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1479738481519">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1479742781836">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="34" column="44" />
       </file>
       <file name="D:/PythonProjects/matrix/api/income_charge_info.py" timestamp="1479294416652">
         <mark key="'" line="99" column="15" />
@@ -253,11 +261,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="119" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="144" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="53" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="127" column="17" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="150" column="84" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="238" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="196" column="31" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="228" column="96" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -353,64 +356,51 @@
       <jump line="1318" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="77" column="8" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
       <jump line="19" column="0" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="34" column="0" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="101" column="24" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="992" column="42" filename="D:/PythonProjects/matrix/statistics/models.py" />
+      <jump line="7" column="18" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="146" column="24" filename="D:/PythonProjects/matrix/api/nav.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>迪</text>
+        <text>roportion</text>
       </register>
       <register name="-" type="4">
-        <text>迪</text>
+        <text>roportion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX2hpdmUuZXhlY3V0ZSgoCiAgICAgICAgICAgICAgICAic2VsZWN0IGNvdW50KGRpc3RpbmN0IHVzZXJfaWQpIGZyb20gcG9zdCBwIHdoZXJlIHAucHJpb3JpdHk8PjAgYW5kIHAuY3JlYXRlX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgIHN0cywgZXRzKSkpCiAgICAgICAgICAgIGFjdGl2ZV91c2VycyA9IGN1cl9tYXRyaXguZmV0Y2hvbmUoKVswXQo=</text>
+      <register name="0" type="4">
+        <text>_old</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgdmlld19ieSA9PSAnMyc6CiAgICAgICAgY29sdW1ucyA9IFsn1MK33ScsICfH89b6wM/Kpsziyv0nLCAnzOLK/bu3scgnLCAnx/PW+sDPyqbTw7unyv0nLCAn08O7p8r9u7exyCcsICfIy775x/PW+sziyv0nLCAnyMu++c/7t9GjqLqssrnM+aOpJywgJ8jLvvnP+7fRo6iyu7qssrnM+aOpJywgJ8Hju9i4tMziyv0nLCAnweO72Li01byxyCcsCiAgICAgICAgICAgICAgICAgICAnssnEycziyv0nLCAnssnEycLKJywgJ83Lv+7M4sr9JywgJ83Lv+7CyiddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ2Z0X3Bvc3RfbnVtJywgJ2Z0X3Bvc3RfbnVtX2NfbGFzdF9tb250aCcsICdmdF91c2VyX251bScsICdmdF91c2VyX251bV9jX2xhc3RfbW9udGgnLAogICAgICAgICAgICAgICAgICAnZnRfYXZnX3Bvc3RfbnVtJywgJ2Z0X2F2Z19wb3N0X2NvbnN1bWVfc3Vic2lkeScsICdmdF9hdmdfcG9zdF9jb25zdW1lX25vX3N1YnNpZHknLAogICAgICAgICAgICAgICAgICAnemVyb19yZXBseV9wb3N0X251bScsICd6ZXJvX3JlcGx5X3Bvc3RfcmF0aW8nLCAnYWRvcHRfcG9zdF9udW0nLCAnYWRvcHRfcG9zdF9yYXRpbycsCiAgICAgICAgICAgICAgICAgICdyZWZ1bmRfcG9zdF9udW0nLCAncmVmdW5kX3Bvc3RfcmF0aW8nXQogICAgICAgIGhpZGRlbl9jb2x1bW5zID0gW10KICAgICAgICBzdGF0aXN0aWNzX2xpc3QgPSBSZXZlbnVlRnRNb250aC5vYmplY3RzLmZpbHRlcihkYXRlX19yYW5nZT0oc3RhcnRfdGltZSwgZW5kX3RpbWUpKS5vcmRlcl9ieSgnZGF0ZScpCiAgICAgICAgdGFibGVfY29sdW1ucywgdGFibGVfZGF0YSA9IGdldF90YWJsZShzdGF0aXN0aWNzX2xpc3QsIGxhYmVscywgY29sdW1ucywgaGlkZGVuX2NvbHVtbnMsIDEsIDApCiAgICBlbHNlOgogICAgICAgIGNvbHVtbnMgPSBbJ9bcserKticsICfH89b6wM/Kpsziyv0nLCAnzOLK/bu3scgnLCAnx/PW+sDPyqbTw7unyv0nLCAn08O7p8r9u7exyCcsICfIy775x/PW+sziyv0nLCAnyMu++c/7t9GjqLqssrnM+aOpJywgJ8jLvvnP+7fRo6iyu7qssrnM+aOpJywgJ8Hju9i4tMziyv0nLCAnweO72Li01byxyCcsCiAgICAgICAgICAgICAgICAgICAnssnEycziyv0nLCAnssnEycLKJywgJ83Lv+7M4sr9JywgJ83Lv+7CyiddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ2Z0X3Bvc3RfbnVtJywgJ2Z0X3Bvc3RfbnVtX2NfbGFzdF93ZWVrJywgJ2Z0X3VzZXJfbnVtJywgJ2Z0X3VzZXJfbnVtX2NfbGFzdF93ZWVrJywKICAgICAgICAgICAgICAgICAgJ2Z0X2F2Z19wb3N0X251bScsICdmdF9hdmdfcG9zdF9jb25zdW1lX3N1YnNpZHknLCAnZnRfYXZnX3Bvc3RfY29uc3VtZV9ub19zdWJzaWR5JywKICAgICAgICAgICAgICAgICAgJ3plcm9fcmVwbHlfcG9zdF9udW0nLCAnemVyb19yZXBseV9wb3N0X3JhdGlvJywgJ2Fkb3B0X3Bvc3RfbnVtJywgJ2Fkb3B0X3Bvc3RfcmF0aW8nLAogICAgICAgICAgICAgICAgICAncmVmdW5kX3Bvc3RfbnVtJywgJ3JlZnVuZF9wb3N0X3JhdGlvJ10KICAgICAgICBoaWRkZW5fY29sdW1ucyA9IFtdCiAgICAgICAgc3RhdGlzdGljc19saXN0ID0gUmV2ZW51ZUZ0V2Vlay5vYmplY3RzLmZpbHRlcihkYXRlX19yYW5nZT0oc3RhcnRfdGltZSwgZW5kX3RpbWUpKS5vcmRlcl9ieSgnZGF0ZScpCiAgICAgICAgdGFibGVfY29sdW1ucywgdGFibGVfZGF0YSA9IGdldF90YWJsZShzdGF0aXN0aWNzX2xpc3QsIGxhYmVscywgY29sdW1ucywgaGlkZGVuX2NvbHVtbnMsIDAsIDApCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmV2ZW51ZUZ1V2Vlawo=</text>
       </register>
-      <register name="4" type="4">
-        <text>class StatFuncPaper(models.Model):
-    stat_func_paper_id = models.AutoField(primary_key=True, verbose_name='自增艾迪')
-    date = models.IntegerField(verbose_name='日期')
-    popu = models.IntegerField(verbose_name='使用人数')
-    avg_query = models.FloatField(verbose_name='人均query数')
-    avg_paper = models.FloatField(verbose_name='人均paper数')
-    keep1 = models.FloatField(verbose_name='次日留存')
-    keep3 = models.FloatField(verbose_name='三日留存')
-    keep7 = models.FloatField(verbose_name='七日留存')
-    keep_week = models.FloatField(verbose_name='周留存')
-    paper_keep1 = models.FloatField(verbose_name='f次日留存')
-    paper_keep3 = models.FloatField(verbose_name='f三日留存')
-    paper_keep7 = models.FloatField(verbose_name='f七日留存')
-    paper_keep_week = models.FloatField(verbose_name='f周留存')
-
-    class Meta:
-        managed = False
-        db_table = 'stat_func_paper'
-        app_label = 'matrix'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9tYWxsX2luZm8vIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAiycyzx8fpv/YiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuMTAifSwK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9pbmRleC8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICLTqsrV1rjK/SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4xMSJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV90dXRvcl90ZWFjaGVycy8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibWVudSI6ICK4qLW8vczKprvu1L4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAia2V5IjogIjYuOSJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3RlYWNoZXIvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjcifSwKICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL2luY29tZV9wb3N0X3RvX3N0dWRlbnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+s2s0afH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjgifSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7InRvIjogIi9zdGF0aXN0aWNzL3JldmVudWVfZnQvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1lbnUiOiAix/PW+sDPyqbH6b/2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImtleSI6ICI2LjIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgeyJ0byI6ICIvc3RhdGlzdGljcy9yZXZlbnVlX2Z1LyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJtZW51IjogIsfz1vrNrNGnx+m/9iIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJrZXkiOiAiNi4zIgogICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNoYXJnZV89IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
