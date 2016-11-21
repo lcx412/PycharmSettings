@@ -124,12 +124,12 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479701314467">
-        <mark key="'" line="100" column="29" />
-        <mark key="[" line="109" column="46" />
-        <mark key="]" line="110" column="11" />
-        <mark key="^" line="110" column="11" />
-        <mark key="." line="110" column="11" />
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479702500519">
+        <mark key="'" line="102" column="29" />
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="79" column="45" />
+        <mark key="^" line="79" column="23" />
+        <mark key="." line="79" column="45" />
       </file>
       <file name="D:/PythonProjects/matrix/celery_task/global_conf.py" timestamp="1479276226902" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479697696970" />
@@ -267,46 +267,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1on1</text>
+        <text>stat_date</text>
       </register>
       <register name="-" type="4">
-        <text>1on1</text>
+        <text>stat_date</text>
       </register>
       <register name="/" type="4">
         <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3VzZXJzID0gY3VyXzFvbjEuZmV0Y2hvbmUoKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXN0X3BlcmlvZF9kYXRlID0gKGRhdGV0aW1lLnN0cnB0aW1lKHN0YXRfZGF0ZSwgJyVZJW0lZCcpIC0gcmVsYXRpdmVkZWx0YShtb250aHM9MSkpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VyXzFvbjEuZXhlY3V0ZSgic2VsZWN0ICIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IE15U1FMZGIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>teacher_total, teacher_online, teacher_charged, tutor_duration_ave,
                           tutor_records_ave, tutor_wage_ave_per_teacher, tutor_wage_ave_per_hour, tutor_refused_ratio,
                           tutor_busy_ratio, tutor_idle_ratio, tutor_good_ratio, tutor_bad_ratio,
                           tutor_records_complained, teacher_fired</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VyX21hdHJpeC5leGVjdXRlKHNlbGVjdCApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHMsIGV0cykpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoZGlzdGluY3QgdXNlcl9pZCkgZnJvbSBjaGFyZ2VfcmVjb3JkIHdoZXJlIHN0YXR1cz0xIGFuZCBjaGFyZ2VfdHlwZTw+NiBhbmQgZW5kX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSBhbmQgdXNlcl9pZCBub3QgaW4iLmZvcm1hdCgK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX3N0YXQuZXhlY3V0ZSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHMsIGV0cykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHMsIGV0cykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZWxlY3QgY291bnQoZGlzdGluY3QgdXNlcl9pZCkgZnJvbSBjaGFyZ2VfcmVjb3JkIHdoZXJlIHN0YXR1cz0xIGFuZCBjaGFyZ2VfdHlwZTw+NiBhbmQgZW5kX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSBhbmQgdXNlcl9pZCBub3QgaW4iLmZvcm1hdCgK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
