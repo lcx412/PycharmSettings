@@ -24,12 +24,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479804084348">
-        <mark key="'" line="260" column="4" />
-        <mark key="[" line="135" column="236" />
-        <mark key="]" line="135" column="236" />
-        <mark key="." line="135" column="236" />
-        <mark key="^" line="135" column="236" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479806945689">
+        <mark key="'" line="262" column="4" />
+        <mark key="[" line="141" column="48" />
+        <mark key="]" line="141" column="49" />
+        <mark key="." line="141" column="49" />
+        <mark key="^" line="141" column="49" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479791830661">
         <mark key="'" line="335" column="39" />
@@ -363,31 +363,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>duobao</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICfX3LK5zPm98LbuJywgJ9fcsrnM+bu3scgnLCAnuKi1vLK5zPm98LbuJywgJ7iotbyyucz5taXBvycsCiAgICAgICAgICAgICAgICAgICAnuKi1vLK5zPkvuKi1vM/7t9EnLCAnx/PW+rK5zPm98LbuJywgJ8fz1vqyucz5taXBvycsICfH89b6srnM+S+4qLW8z/u30SddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ3dlZWtfZGF5JywgJ2FsbG93YW5jZV90b3RhbCcsICdhbGxvd2FuY2VfcmF0aW8nLCAnYWxsb3dhbmNlX3R1dG9yJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV90dXRvcl9yZWNvcmRzJywgJ2FsbG93YW5jZV90dXRvcl9yYXRpbycsICdhbGxvd2FuY2VfcG9zdCcsICdhbGxvd2FuY2VfcG9zdF9yZWNvcmRzJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV9wb3N0X3JhdGlvJ10=</text>
+        <text encoding="base64">Y291bnQoaWYodGVhY2hlcl9jb21tZW50X2NyZWRpdCt0ZWFjaGVyX2Fkb3B0ZWRfY3JlZGl0LWlmKGNvc3RfZmxhZz0yIGFuZCBjb25zdW1lX2Ftb3VudD4wLGNvbnN1bWVfYW1vdW50LDApPjAsMSxOVUxMKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIK</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdCAqPSA1MAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IyAvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
                    '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
                    '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
                    '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
                    '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, 'consume_ave_tutor', 'consume_users_post',
                   'consume_users_post_pct', 'consume_users_post_ratio', 'consume_users_post_ratio_week_basis',
                   'consume_ave_post', 'consume_users_mall', 'consume_users_mall_pct', 'consume_users_mall_ratio',
@@ -395,23 +398,20 @@
                   'consume_users_duobao_pct', 'consume_users_duobao_ratio', 'consume_users_duobao_ratio_week_basis',
                   'consume_ave_duobao'</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'', '辅导消耗用户量环比', '辅导消耗用户量周同比', '辅导人均消耗',
                    '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助消耗用户量周同比', '求助人均消耗',
                    '商城用户量', '商城用户量占比', '商城用户量环比', '商城用户量周同比', '商城人均消耗',
                    '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝用户量周同比', '夺宝人均消耗'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
