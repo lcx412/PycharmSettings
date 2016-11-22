@@ -24,12 +24,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479800339203">
-        <mark key="'" line="249" column="4" />
-        <mark key="[" line="122" column="160" />
-        <mark key="]" line="244" column="35" />
-        <mark key="." line="244" column="35" />
-        <mark key="^" line="244" column="35" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479804084348">
+        <mark key="'" line="260" column="4" />
+        <mark key="[" line="135" column="236" />
+        <mark key="]" line="135" column="236" />
+        <mark key="." line="135" column="236" />
+        <mark key="^" line="135" column="236" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479791830661">
         <mark key="'" line="335" column="39" />
@@ -81,6 +81,7 @@
       <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1479388686100" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1479722938712" />
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1479699504630" />
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1479802531286" />
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479791656835">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="48" column="71" />
@@ -109,7 +110,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479798968696">
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479802512505">
         <mark key="'" line="81" column="62" />
         <mark key="[" line="171" column="75" />
         <mark key="]" line="172" column="17" />
@@ -188,7 +189,7 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479743274201">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479802947520">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="145" column="188" />
         <mark key="]" line="145" column="201" />
@@ -214,12 +215,12 @@
         <mark key="^" line="123" column="39" />
         <mark key="." line="123" column="39" />
       </file>
-      <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479781828726">
-        <mark key="'" line="52" column="22" />
-        <mark key="[" line="54" column="119" />
-        <mark key="]" line="54" column="127" />
-        <mark key="^" line="54" column="127" />
-        <mark key="." line="54" column="127" />
+      <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479802069589">
+        <mark key="'" line="51" column="22" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1479460410147">
         <mark key="'" line="63" column="25" />
@@ -362,14 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
-                   '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
-                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
-                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
-                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>consume_users_tutor_ratio_week_basis</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>duobao</text>
@@ -377,14 +374,20 @@
       <register name="0" type="4">
         <text encoding="base64">ICfX3LK5zPm98LbuJywgJ9fcsrnM+bu3scgnLCAnuKi1vLK5zPm98LbuJywgJ7iotbyyucz5taXBvycsCiAgICAgICAgICAgICAgICAgICAnuKi1vLK5zPkvuKi1vM/7t9EnLCAnx/PW+rK5zPm98LbuJywgJ8fz1vqyucz5taXBvycsICfH89b6srnM+S+4qLW8z/u30SddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ3dlZWtfZGF5JywgJ2FsbG93YW5jZV90b3RhbCcsICdhbGxvd2FuY2VfcmF0aW8nLCAnYWxsb3dhbmNlX3R1dG9yJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV90dXRvcl9yZWNvcmRzJywgJ2FsbG93YW5jZV90dXRvcl9yYXRpbycsICdhbGxvd2FuY2VfcG9zdCcsICdhbGxvd2FuY2VfcG9zdF9yZWNvcmRzJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV9wb3N0X3JhdGlvJ10=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyAvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
                    '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
                    '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
                    '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
                    '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>, 'consume_ave_tutor', 'consume_users_post',
                   'consume_users_post_pct', 'consume_users_post_ratio', 'consume_users_post_ratio_week_basis',
                   'consume_ave_post', 'consume_users_mall', 'consume_users_mall_pct', 'consume_users_mall_ratio',
@@ -392,26 +395,20 @@
                   'consume_users_duobao_pct', 'consume_users_duobao_ratio', 'consume_users_duobao_ratio_week_basis',
                   'consume_ave_duobao'</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>'', '辅导消耗用户量环比', '辅导消耗用户量周同比', '辅导人均消耗',
                    '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助消耗用户量周同比', '求助人均消耗',
                    '商城用户量', '商城用户量占比', '商城用户量环比', '商城用户量周同比', '商城人均消耗',
                    '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝用户量周同比', '夺宝人均消耗'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
