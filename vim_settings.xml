@@ -8,12 +8,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/nt.py" timestamp="1479742284479" />
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479740487061">
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479785220045">
         <mark key="'" line="993" column="42" />
-        <mark key="[" line="1037" column="14" />
-        <mark key="]" line="1037" column="18" />
-        <mark key="." line="1037" column="14" />
-        <mark key="^" line="1034" column="19" />
+        <mark key="[" line="1099" column="32" />
+        <mark key="]" line="1099" column="32" />
+        <mark key="." line="1097" column="0" />
+        <mark key="^" line="1097" column="3" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector2.py" timestamp="1478600038943">
         <mark key="[" line="62" column="56" />
@@ -105,12 +105,12 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479783654503">
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479784663707">
         <mark key="'" line="118" column="39" />
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="32" column="38" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="38" />
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="56" />
+        <mark key="^" line="28" column="63" />
+        <mark key="." line="28" column="56" />
       </file>
       <file name="D:/PythonProjects/Messages/afanti_django_log.conf" timestamp="1478592891887">
         <mark key="[" line="9" column="113" />
@@ -372,23 +372,23 @@
       <jump line="118" column="39" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>值</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlkID0gbW9kZWxzLkF1dG9GaWVsZChwcmltYXJ5X2tleT1UcnVlKQogICAgdHlwZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgZGF0ZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>值</text>
+        <text>_total</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
       </register>
-      <register name="0" type="4">
-        <text>_users</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlkID0gbW9kZWxzLkF1dG9GaWVsZChwcmltYXJ5X2tleT1UcnVlKQogICAgdHlwZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgZGF0ZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
@@ -397,16 +397,16 @@
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfYXZlX2lvcyddID0gcm91bmQoc3RhdFsnY2hhcmdlXyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAicmV2ZW51ZV9tYWxsIjoKICAgICAgICAgICAgICAgIHNob3dfdGFicyA9ICg8VGFic0NvbXBvbmVudCB0YWJkPXtmaWx0ZXJwYXJhbS52aWV3X2J5fSBvcF9uYW1lPXtbIsjVsagiLCAi1tyxqCIsICLUwrGoIl19IG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRhYlN3aXRjaH0gLz4pOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlX19leGFjdD12aWV3X2J5KS5vcmRlcl9ieSgnZGF0ZScpLnZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfYXZlX2lvcyddID0gcm91bmQoc3RhdFsnY2hhcmdlXyddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aXN0aWNzX2xpc3QgPSBSZXZlbnVlQ2hhcmdlSW5mby5vYmplY3RzLmZpbHRlcihkYXRlX19yYW5nZT0oc3RhcnRfdGltZSwgZW5kX3RpbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfX2V4YWN0PXZpZXdfYnkpLm9yZGVyX2J5KCdkYXRlJykudmFsdWVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAicmV2ZW51ZV9tYWxsIjoKICAgICAgICAgICAgICAgIHNob3dfdGFicyA9ICg8VGFic0NvbXBvbmVudCB0YWJkPXtmaWx0ZXJwYXJhbS52aWV3X2J5fSBvcF9uYW1lPXtbIsjVsagiLCAi1tyxqCIsICLUwrGoIl19IG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRhYlN3aXRjaH0gLz4pOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlX19leGFjdD12aWV3X2J5KS5vcmRlcl9ieSgnZGF0ZScpLnZhbHVlcygpCg==</text>
