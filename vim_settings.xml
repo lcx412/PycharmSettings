@@ -27,12 +27,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479815787942">
-        <mark key="'" line="264" column="8" />
-        <mark key="[" line="144" column="51" />
-        <mark key="]" line="144" column="51" />
-        <mark key="." line="144" column="51" />
-        <mark key="^" line="125" column="81" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479817777081">
+        <mark key="'" line="263" column="8" />
+        <mark key="[" line="143" column="57" />
+        <mark key="]" line="143" column="57" />
+        <mark key="." line="143" column="57" />
+        <mark key="^" line="143" column="57" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479810291857">
         <mark key="'" line="90" column="57" />
@@ -244,7 +244,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="69" column="45" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="105" column="24" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="349" column="68" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="132" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
@@ -317,9 +316,7 @@
       <jump line="114" column="110" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="115" column="85" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="128" column="67" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="142" column="78" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="124" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="143" column="12" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="91" column="56" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="94" column="56" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -340,63 +337,62 @@
       <jump line="333" column="26" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="90" column="57" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="210" column="327" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="263" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="141" column="25" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="41" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="264" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="231" column="21" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="142" column="74" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="143" column="66" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="263" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,allowance_post_pure</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,allowance_post_pure</text>
       </register>
       <register name="/" type="4">
-        <text>allo</text>
+        <text>pure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ15hcGkvZ2V0X3JldmVudWVfY29uc3VtZV91c2Vycy8kJywgZ2V0X3JldmVudWVfY29uc3VtZV91c2VycyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB3YWdlX3Bvc3QsIGFsbG93YW5jZV9wb3N0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnYXZlJyBpbiBjb2x1bW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Wydjb25zdW1lX3VzZXJzX2R1b2Jhb19wY3QnXSA9IHJvdW5kKHN0YXRbJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJ10gKiAxMDAgLyBzdGF0Wydjb25zdW1lX3VzZXJzJ10sIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnYXZlJyBpbiBjb2x1bW46Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0Wydjb25zdW1lX3VzZXJzX2R1b2Jhb19wY3QnXSA9IHJvdW5kKHN0YXRbJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJ10gKiAxMDAgLyBzdGF0Wydjb25zdW1lX3VzZXJzJ10sIDIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBbJ2RhdGUnLCAnd2Vla19kYXknLCAnYWxsb3dhbmNlX3RvdGFsJywgJ2FsbG93YW5jZV9yYXRpbycsCiAgICAgICAgICAgICAgICAgICdhbGxvd2FuY2VfdHV0b3InLCAnYWxsb3dhbmNlX3R1dG9yX3JlY29yZHMnLCAnYWxsb3dhbmNlX3R1dG9yX3JhdGlvJywgJ2FsbG93YW5jZV90dXRvcl9hdmUnLAogICAgICAgICAgICAgICAgICAnYWxsb3dhbmNlX3Bvc3QnLCAnYWxsb3dhbmNlX3Bvc3RfcmVjb3JkcycsICdhbGxvd2FuY2VfcG9zdF9yYXRpbycsICdhbGxvd2FuY2VfcG9zdF9hdmUnXQogICAgICAgIGxhYmVscyA9IFsnZGF0ZScsICdjb25zdW1lX3VzZXJzJywgJ2NvbnN1bWVfdXNlcnNfcmF0aW8nLCAnY29uc3VtZV9hdmUnLCAnY29uc3VtZV91c2Vyc190dXRvcicsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX3R1dG9yX3BjdCcsICdjb25zdW1lX3VzZXJzX3R1dG9yX3JhdGlvJywgJ2NvbnN1bWVfYXZlX3R1dG9yJywgJ2NvbnN1bWVfdXNlcnNfcG9zdCcsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX3Bvc3RfcGN0JywgJ2NvbnN1bWVfdXNlcnNfcG9zdF9yYXRpbycsICdjb25zdW1lX2F2ZV9wb3N0JywgJ2NvbnN1bWVfdXNlcnNfbWFsbCcsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX21hbGxfcGN0JywgJ2NvbnN1bWVfdXNlcnNfbWFsbF9yYXRpbycsICdjb25zdW1lX2F2ZV9tYWxsJywgJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJywKICAgICAgICAgICAgICAgICAgJ2NvbnN1bWVfdXNlcnNfZHVvYmFvX3BjdCcsICdjb25zdW1lX3VzZXJzX2R1b2Jhb19yYXRpbycsICdjb25zdW1lX2F2ZV9kdW9iYW8nXQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICfX3LK5zPm98LbuJywgJ9fcsrnM+bu3scgnLCAnuKi1vLK5zPm98LbuJywgJ7iotbyyucz5taXBvycsCiAgICAgICAgICAgICAgICAgICAnuKi1vLK5zPkvuKi1vM/7t9EnLCAnx/PW+rK5zPm98LbuJywgJ8fz1vqyucz5taXBvycsICfH89b6srnM+S+4qLW8z/u30Sdd</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdCAqPSA1MAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjdXIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">IyAvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
-                   '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
-                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
-                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
-                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
       </register>
     </registers>
     <search>
-      <last-search>allo</last-search>
+      <last-search>pure</last-search>
       <last-offset />
-      <last-pattern>allo</last-pattern>
+      <last-pattern>pure</last-pattern>
       <last-replace />
       <last-substitute>u</last-substitute>
       <last-dir>1</last-dir>
@@ -404,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>byweek</entry>
         <entry>chongzhi</entry>
         <entry>print</entry>
         <entry>user_id_patt</entry>
@@ -424,6 +419,7 @@
         <entry>c</entry>
         <entry>post</entry>
         <entry>allo</entry>
+        <entry>pure</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
