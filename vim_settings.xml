@@ -8,11 +8,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/nt.py" timestamp="1479742284479" />
-      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479826044401">
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479832591338">
         <mark key="'" line="1057" column="22" />
-        <mark key="[" line="1112" column="10" />
-        <mark key="]" line="1112" column="14" />
-        <mark key="." line="1112" column="14" />
+        <mark key="[" line="1072" column="7" />
+        <mark key="]" line="1072" column="7" />
+        <mark key="." line="1072" column="7" />
         <mark key="^" line="1112" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479830337894">
@@ -51,19 +51,19 @@
         <mark key="'" line="1837" column="14" />
         <mark key="." line="1818" column="66" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479810275754">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="104" column="46" />
-        <mark key="]" line="104" column="71" />
-        <mark key="." line="104" column="71" />
-        <mark key="^" line="104" column="71" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479832516744">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="107" column="58" />
+        <mark key="]" line="107" column="71" />
+        <mark key="." line="107" column="71" />
+        <mark key="^" line="107" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479830956675">
-        <mark key="'" line="145" column="36" />
-        <mark key="[" line="96" column="32" />
-        <mark key="]" line="96" column="32" />
-        <mark key="." line="96" column="32" />
-        <mark key="^" line="96" column="33" />
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479833412036">
+        <mark key="'" line="61" column="20" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="17" />
+        <mark key="^" line="59" column="17" />
+        <mark key="." line="59" column="17" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479825817735">
@@ -80,12 +80,12 @@
         <mark key="." line="180" column="4" />
         <mark key="^" line="184" column="35" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479824468507">
-        <mark key="'" line="205" column="24" />
-        <mark key="[" line="164" column="89" />
-        <mark key="]" line="164" column="99" />
-        <mark key="^" line="171" column="96" />
-        <mark key="." line="164" column="89" />
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479833443667">
+        <mark key="'" line="205" column="55" />
+        <mark key="[" line="194" column="18" />
+        <mark key="]" line="194" column="18" />
+        <mark key="^" line="194" column="18" />
+        <mark key="." line="194" column="18" />
       </file>
       <file name="D:/PythonProjects/matrix/lib/tool.py" timestamp="1479744458058">
         <mark key="'" line="121" column="54" />
@@ -197,18 +197,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="136" column="16" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="39" column="50" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
-      <jump line="29" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="102" column="69" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="335" column="39" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="111" column="58" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="146" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="117" column="74" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="1122" column="47" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="81" column="62" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="68" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="36" column="64" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="228" column="91" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="110" column="33" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -297,55 +285,69 @@
       <jump line="14" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="15" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="60" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="103" column="71" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="49" column="79" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="118" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="83" column="67" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="50" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="71" column="63" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="205" column="55" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="118" column="28" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="59" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="60" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="61" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wi充值用户量</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>wi充值用户量</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>charge</text>
+        <text>ratio</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnZHVyYXRpb24nIGluIGNvbHVtbjoKICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDYwLCAyKQo=</text>
+      <register name="0" type="4">
+        <text>'计费辅导用户量',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl91c2Vyc19uZXdfcGN0J10gPSByb3VuZChzdGF0Wyd0dXRvcl91c2Vyc19uZXcnXSAqIDEwMCAvIHN0YXRbJ3R1dG9yX3VzZXJzJ10sIDIpCiAgICAgICAgc3RhdFsndHV0b3JfdXNlcnNfb2xkX3BjdCddID0gcm91bmQoc3RhdFsndHV0b3JfdXNlcnNfb2xkJ10gKiAxMDAgLyBzdGF0Wyd0dXRvcl91c2VycyddLCAyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXJnZWRfcGF5X2F2ZT0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0Wyd0dXRvcl9pb3NfcGN0J10gPSByb3VuZChzdGF0Wyd0dXRvcl9pb3MnXSAqIDEwMCAvIHN0YXRbJ3R1dG9yX3RvdGFsJ10sIDIpCiAgICAgICAgc3RhdFsndHV0b3JfYW5kcm9pZF9wY3QnXSA9IHJvdW5kKHN0YXRbJ3R1dG9yX2FuZHJvaWQnXSAqIDEwMCAvIHN0YXRbJ3R1dG9yX3RvdGFsJ10sIDIpCiAgICAgICAgc3RhdFsndHV0b3JfbmV3X3BjdCddID0gcm91bmQoc3RhdFsndHV0b3JfbmV3J10gKiAxMDAgLyBzdGF0Wyd0dXRvcl90b3RhbCddLCAyKQogICAgICAgIHN0YXRbJ3R1dG9yX29sZF9wY3QnXSA9IHJvdW5kKHN0YXRbJ3R1dG9yX29sZCddICogMTAwIC8gc3RhdFsndHV0b3JfdG90YWwnXSwgMikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bWVfYXZlID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX3R1dG9yID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX3R1dG9yX3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc190dXRvcl9yYXRpb193ZWVrX2Jhc2lzID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV9hdmVfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfcG9zdCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgY29uc3VtZV91c2Vyc19wb3N0X3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc19wb3N0X3JhdGlvX3dlZWtfYmFzaXMgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCiAgICBjb25zdW1lX2F2ZV9wb3N0ID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX21hbGwgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfbWFsbF9yYXRpbyA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfbWFsbF9yYXRpb193ZWVrX2Jhc2lzID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV9hdmVfbWFsbCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgY29uc3VtZV91c2Vyc19kdW9iYW8gPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfZHVvYmFvX3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc19kdW9iYW9fcmF0aW9fd2Vla19iYXNpcyA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIGNvbnN1bWVfYXZlX2R1b2JhbyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">J9fcs+TWtdPDu6fBvycsICfX3LPk1rXTw7unwb+7t7HIJywgJ8jLvvmz5Na1vfC27icsCiAgICAgICAgICAgICAgICAgICAnaU9Ts+TWtdPDu6fBvycsICdpT1Oz5Na108O7p8G/1byxyCcsICdpT1Oz5Na108O7p8G/u7exyCcsICdpT1PIy775s+TWtScsCiAgICAgICAgICAgICAgICAgICAnQW5kcm9pZLPk1rXTw7unwb8nLCAnQW5kcm9pZLPk1rXTw7unwb/VvLHIJywgJ0FuZHJvaWSz5Na108O7p8G/u7exyCcsICdBbmRyb2lkyMu++bPk1rUnLAogICAgICAgICAgICAgICAgICAgJ8rXs+TTw7unwb8nLCAnytez5NPDu6fBv9W8scgnLCAnytez5NPDu6fBv7u3scgnLCAnytez5MjLvvmz5Na1JywKICAgICAgICAgICAgICAgICAgICfQ+LPk08O7p8G/JywgJ9D4s+TTw7unwb/VvLHIJywgJ9D4s+TTw7unwb+7t7HIJywgJ9D4s+TIy775s+TWtSddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ3R1dG9yX3VzZXJzJywgJ3R1dG9yX3VzZXJzX3JhdGlvJywgJ3R1dG9yX2F2ZScsICd0dXRvcl91c2Vyc19pb3MnLAogICAgICAgICAgICAgICAgICAndHV0b3JfdXNlcnNfaW9zX3BjdCcsICd0dXRvcl91c2Vyc19pb3NfcmF0aW8nLCAndHV0b3JfYXZlX2lvcycsICd0dXRvcl91c2Vyc19hbmRyb2lkJywKICAgICAgICAgICAgICAgICAgJ3R1dG9yX3VzZXJzX2FuZHJvaWRfcGN0JywgJ3R1dG9yX3VzZXJzX2FuZHJvaWRfcmF0aW8nLCAndHV0b3JfYXZlX2FuZHJvaWQnLCAndHV0b3JfdXNlcnNfbmV3JywKICAgICAgICAgICAgICAgICAgJ3R1dG9yX3VzZXJzX25ld19wY3QnLCAndHV0b3JfdXNlcnNfbmV3X3JhdGlvJywgJ3R1dG9yX2F2ZV9uZXcnLCAndHV0b3JfdXNlcnNfb2xkJywKICAgICAgICAgICAgICAgICAgJ3R1dG9yX3VzZXJzX29sZF9wY3QnLCAndHV0b3JfdXNlcnNfb2xkX3JhdGlvJywgJ3R1dG9yX2F2ZV9vbGQnXQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICByZXR1cm4=</text>
+        <text>, 'tutor_users_new', 'tutor_users_new_pct', 'tutor_users_new_ratio',
+                  'tutor_users_new_ratio_week_basis', 'tutor_ave_new', 'tutor_users_old', 'tutor_users_old_pct',
+                  'tutor_users_old_ratio', 'tutor_users_old_ratio_week_basis', 'tutor_ave_old'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3Bvc3RfcmVjb3JkcyA9IGNvbnN1bWVfcG9zdCAvIDUwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfQ+LPk08O7p8G/JywgJ9D4s+TTw7unwb/VvLHIJywgJ9D4s+TTw7unwb+7t7HIJywgJ9D4s+TTw7unwb/W3M2sscgnLCAn0Piz5MjLvvmz5Na1J10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB3YWdlX3Bvc3QsIGFsbG93YW5jZV9wb3N0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfK17Pk08O7p8G/JywgJ8rXs+TTw7unwb/VvLHIJywgJ8rXs+TTw7unwb+7t7HIJywgJ8rXs+TTw7unwb/W3M2sscgnLCAnytez5MjLvvmz5Na1JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnYXZlJyBpbiBjb2x1bW46Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJnZWRfcGF5X2F2ZT0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Wydjb25zdW1lX3VzZXJzX2R1b2Jhb19wY3QnXSA9IHJvdW5kKHN0YXRbJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJ10gKiAxMDAgLyBzdGF0Wydjb25zdW1lX3VzZXJzJ10sIDIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN1bWVfYXZlID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX3R1dG9yID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX3R1dG9yX3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc190dXRvcl9yYXRpb193ZWVrX2Jhc2lzID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV9hdmVfdHV0b3IgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfcG9zdCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgY29uc3VtZV91c2Vyc19wb3N0X3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc19wb3N0X3JhdGlvX3dlZWtfYmFzaXMgPSBtb2RlbHMuRmxvYXRGaWVsZCgpCiAgICBjb25zdW1lX2F2ZV9wb3N0ID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBjb25zdW1lX3VzZXJzX21hbGwgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfbWFsbF9yYXRpbyA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfbWFsbF9yYXRpb193ZWVrX2Jhc2lzID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV9hdmVfbWFsbCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgY29uc3VtZV91c2Vyc19kdW9iYW8gPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGNvbnN1bWVfdXNlcnNfZHVvYmFvX3JhdGlvID0gbW9kZWxzLkZsb2F0RmllbGQoKQogICAgY29uc3VtZV91c2Vyc19kdW9iYW9fcmF0aW9fd2Vla19iYXNpcyA9IG1vZGVscy5GbG9hdEZpZWxkKCkKICAgIGNvbnN1bWVfYXZlX2R1b2JhbyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/charge/tutor/g</text>
       </register>
     </registers>
     <search>
-      <last-search>charge</last-search>
+      <last-search>ratio</last-search>
       <last-offset />
-      <last-pattern>charge</last-pattern>
+      <last-pattern>ratio</last-pattern>
       <last-replace>tutor</last-replace>
       <last-substitute>charge</last-substitute>
       <last-dir>1</last-dir>
@@ -353,7 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conne</entry>
         <entry>上线</entry>
         <entry>round</entry>
         <entry encoding="base64">XDxhY3RpdmVfdXNlcnNfbGFzdFw+</entry>
@@ -366,13 +367,14 @@
         <entry>c</entry>
         <entry>post</entry>
         <entry>allo</entry>
-        <entry>ratio</entry>
         <entry>consume_post</entry>
         <entry>pure</entry>
         <entry>s</entry>
         <entry>% s</entry>
         <entry>%s</entry>
         <entry>charge</entry>
+        <entry>ios</entry>
+        <entry>ratio</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
