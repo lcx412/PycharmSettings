@@ -15,11 +15,11 @@
         <mark key="." line="1112" column="14" />
         <mark key="^" line="1112" column="14" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479829663524">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479830337894">
         <mark key="'" line="60" column="8" />
-        <mark key="[" line="144" column="56" />
-        <mark key="]" line="144" column="57" />
-        <mark key="." line="144" column="57" />
+        <mark key="[" line="258" column="34" />
+        <mark key="]" line="258" column="35" />
+        <mark key="." line="258" column="35" />
         <mark key="^" line="127" column="74" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479826264945">
@@ -58,12 +58,12 @@
         <mark key="." line="104" column="71" />
         <mark key="^" line="104" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479826511543">
-        <mark key="'" line="143" column="36" />
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="30" column="29" />
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479830956675">
+        <mark key="'" line="145" column="36" />
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="96" column="32" />
+        <mark key="." line="96" column="32" />
+        <mark key="^" line="96" column="33" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479825817735">
@@ -300,16 +300,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Android充值占比</text>
+        <text>wi充值用户量</text>
       </register>
       <register name="-" type="4">
-        <text>Android充值占比</text>
+        <text>wi充值用户量</text>
       </register>
       <register name="/" type="4">
         <text>charge</text>
       </register>
-      <register name="0" type="4">
-        <text>无补贴计费辅导用户量</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnZHVyYXRpb24nIGluIGNvbHVtbjoKICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDYwLCAyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
