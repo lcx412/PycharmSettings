@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="D:/PythonProjects/matrix/scripts/docker/nginx.conf" timestamp="1479290633298" />
+      <file name="/a.dummy" timestamp="1479445589625">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/nt.py" timestamp="1479742284479" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479792372358">
         <mark key="'" line="1072" column="47" />
@@ -24,15 +27,15 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479808239948">
-        <mark key="'" line="135" column="100" />
-        <mark key="[" line="141" column="48" />
-        <mark key="]" line="141" column="48" />
-        <mark key="." line="141" column="48" />
-        <mark key="^" line="141" column="48" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479811344303">
+        <mark key="'" line="264" column="8" />
+        <mark key="[" line="144" column="51" />
+        <mark key="]" line="144" column="51" />
+        <mark key="." line="144" column="51" />
+        <mark key="^" line="125" column="81" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479791830661">
-        <mark key="'" line="335" column="39" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479810291857">
+        <mark key="'" line="90" column="57" />
         <mark key="[" line="333" column="26" />
         <mark key="]" line="333" column="39" />
         <mark key="^" line="333" column="39" />
@@ -72,12 +75,12 @@
         <mark key="'" line="1837" column="14" />
         <mark key="." line="1818" column="66" />
       </file>
-      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479791656835">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="48" column="71" />
-        <mark key="]" line="48" column="76" />
-        <mark key="." line="48" column="76" />
-        <mark key="^" line="48" column="76" />
+      <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479810275754">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="104" column="46" />
+        <mark key="]" line="104" column="71" />
+        <mark key="." line="104" column="71" />
+        <mark key="^" line="104" column="71" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/run.sh" timestamp="1479308807701" />
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479780472200">
@@ -100,12 +103,12 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479808128762">
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479810246582">
         <mark key="'" line="128" column="67" />
-        <mark key="[" line="171" column="75" />
-        <mark key="]" line="172" column="17" />
-        <mark key="^" line="172" column="17" />
-        <mark key="." line="172" column="36" />
+        <mark key="[" line="191" column="43" />
+        <mark key="]" line="191" column="57" />
+        <mark key="^" line="191" column="57" />
+        <mark key="." line="191" column="57" />
       </file>
       <file name="D:/PythonProjects/Messages/afanti_django_log.conf" timestamp="1478592891887">
         <mark key="[" line="9" column="113" />
@@ -125,6 +128,9 @@
         <mark key="]" line="9" column="109" />
         <mark key="." line="9" column="109" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1479374553964">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479445523758">
         <mark key="'" line="204" column="28" />
@@ -159,6 +165,9 @@
         <mark key="^" line="180" column="105" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/dj_static.py" timestamp="1479307717753" />
+      <file name="/Django Console" timestamp="1479724482905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1479552782949">
         <mark key="[" line="346" column="36" />
         <mark key="]" line="346" column="37" />
@@ -198,12 +207,18 @@
         <mark key="^" line="123" column="39" />
         <mark key="." line="123" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479721986053">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479802069589">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="/a.regexp" timestamp="1479808545140">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1479460410147">
         <mark key="'" line="63" column="25" />
@@ -229,13 +244,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="D:/PythonProjects/one4one/revenue_users.py" />
-      <jump line="110" column="58" filename="D:/PythonProjects/matrix/api/nav.py" />
-      <jump line="24" column="0" filename="D:/PythonProjects/matrix/api/nav.py" />
-      <jump line="101" column="49" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="36" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="92" column="59" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="38" column="32" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="86" column="25" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="73" column="0" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
@@ -287,8 +295,6 @@
       <jump line="39" column="50" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
       <jump line="29" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="102" column="69" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="48" column="76" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="116" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
       <jump line="335" column="39" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
       <jump line="111" column="58" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
@@ -329,67 +335,68 @@
       <jump line="131" column="36" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="132" column="39" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="135" column="100" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="188" column="22" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="246" column="26" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="165" column="66" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="48" column="109" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="116" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
+      <jump line="333" column="26" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="90" column="57" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="210" column="327" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="263" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>allo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdF9yYXRpbyA9IGludChyb3VuZChmbG9hdChhbGxvd2FuY2VfcG9zdCkgLyB3YWdlX3Bvc3QsIDIpKQogICAgICAgIGNvbnN1bWVfYXZlX3Bvc3QgPSBpbnQocm91bmQoZmxvYXQoY29uc3VtZV9wb3N0KSAvIGNvbnN1bWVfdXNlcnNfcG9zdCkpCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGkvZ2V0X3JldmVudWVfY29uc3VtZV91c2Vycy8kJywgZ2V0X3JldmVudWVfY29uc3VtZV91c2VycyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdCAqPSA1MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAnYXZlJyBpbiBjb2x1bW46Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0Wydjb25zdW1lX3VzZXJzX2R1b2Jhb19wY3QnXSA9IHJvdW5kKHN0YXRbJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJ10gKiAxMDAgLyBzdGF0Wydjb25zdW1lX3VzZXJzJ10sIDIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBbJ2RhdGUnLCAnd2Vla19kYXknLCAnYWxsb3dhbmNlX3RvdGFsJywgJ2FsbG93YW5jZV9yYXRpbycsCiAgICAgICAgICAgICAgICAgICdhbGxvd2FuY2VfdHV0b3InLCAnYWxsb3dhbmNlX3R1dG9yX3JlY29yZHMnLCAnYWxsb3dhbmNlX3R1dG9yX3JhdGlvJywgJ2FsbG93YW5jZV90dXRvcl9hdmUnLAogICAgICAgICAgICAgICAgICAnYWxsb3dhbmNlX3Bvc3QnLCAnYWxsb3dhbmNlX3Bvc3RfcmVjb3JkcycsICdhbGxvd2FuY2VfcG9zdF9yYXRpbycsICdhbGxvd2FuY2VfcG9zdF9hdmUnXQogICAgICAgIGxhYmVscyA9IFsnZGF0ZScsICdjb25zdW1lX3VzZXJzJywgJ2NvbnN1bWVfdXNlcnNfcmF0aW8nLCAnY29uc3VtZV9hdmUnLCAnY29uc3VtZV91c2Vyc190dXRvcicsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX3R1dG9yX3BjdCcsICdjb25zdW1lX3VzZXJzX3R1dG9yX3JhdGlvJywgJ2NvbnN1bWVfYXZlX3R1dG9yJywgJ2NvbnN1bWVfdXNlcnNfcG9zdCcsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX3Bvc3RfcGN0JywgJ2NvbnN1bWVfdXNlcnNfcG9zdF9yYXRpbycsICdjb25zdW1lX2F2ZV9wb3N0JywgJ2NvbnN1bWVfdXNlcnNfbWFsbCcsCiAgICAgICAgICAgICAgICAgICdjb25zdW1lX3VzZXJzX21hbGxfcGN0JywgJ2NvbnN1bWVfdXNlcnNfbWFsbF9yYXRpbycsICdjb25zdW1lX2F2ZV9tYWxsJywgJ2NvbnN1bWVfdXNlcnNfZHVvYmFvJywKICAgICAgICAgICAgICAgICAgJ2NvbnN1bWVfdXNlcnNfZHVvYmFvX3BjdCcsICdjb25zdW1lX3VzZXJzX2R1b2Jhb19yYXRpbycsICdjb25zdW1lX2F2ZV9kdW9iYW8nXQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICfX3LK5zPm98LbuJywgJ9fcsrnM+bu3scgnLCAnuKi1vLK5zPm98LbuJywgJ7iotbyyucz5taXBvycsCiAgICAgICAgICAgICAgICAgICAnuKi1vLK5zPkvuKi1vM/7t9EnLCAnx/PW+rK5zPm98LbuJywgJ8fz1vqyucz5taXBvycsICfH89b6srnM+S+4qLW8z/u30Sdd</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvd2FuY2VfcG9zdCAqPSA1MAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyAvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
                    '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
                    '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
                    '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
                    '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
-      <register name="5" type="4">
-        <text>, 'consume_ave_tutor', 'consume_users_post',
-                  'consume_users_post_pct', 'consume_users_post_ratio', 'consume_users_post_ratio_week_basis',
-                  'consume_ave_post', 'consume_users_mall', 'consume_users_mall_pct', 'consume_users_mall_ratio',
-                  'consume_users_mall_ratio_week_basis', 'consume_ave_mall', 'consume_users_duobao',
-                  'consume_users_duobao_pct', 'consume_users_duobao_ratio', 'consume_users_duobao_ratio_week_basis',
-                  'consume_ave_duobao'</text>
-      </register>
-      <register name="6" type="4">
-        <text>'', '辅导消耗用户量环比', '辅导消耗用户量周同比', '辅导人均消耗',
-                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助消耗用户量周同比', '求助人均消耗',
-                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城用户量周同比', '商城人均消耗',
-                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝用户量周同比', '夺宝人均消耗'</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>allo</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>allo</last-pattern>
       <last-replace />
       <last-substitute>u</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NULL</entry>
         <entry>byweek</entry>
         <entry>chongzhi</entry>
         <entry>print</entry>
@@ -417,6 +423,7 @@
         <entry>x</entry>
         <entry>c</entry>
         <entry>post</entry>
+        <entry>allo</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
