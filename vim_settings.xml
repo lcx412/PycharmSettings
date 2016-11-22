@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="D:/PythonProjects/matrix/scripts/docker/nginx.conf" timestamp="1479290633298" />
-      <file name="/a.dummy" timestamp="1479445589625">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1389958170/nt.py" timestamp="1479742284479" />
       <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1479792372358">
         <mark key="'" line="1072" column="47" />
@@ -27,7 +24,7 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479709212459">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479796571788">
         <mark key="'" line="249" column="4" />
         <mark key="[" line="244" column="34" />
         <mark key="]" line="244" column="35" />
@@ -112,12 +109,12 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479792791550">
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479796495680">
         <mark key="'" line="81" column="62" />
-        <mark key="[" line="150" column="16" />
-        <mark key="]" line="150" column="29" />
-        <mark key="^" line="150" column="29" />
-        <mark key="." line="150" column="29" />
+        <mark key="[" line="171" column="75" />
+        <mark key="]" line="172" column="17" />
+        <mark key="^" line="172" column="17" />
+        <mark key="." line="172" column="36" />
       </file>
       <file name="D:/PythonProjects/Messages/afanti_django_log.conf" timestamp="1478592891887">
         <mark key="[" line="9" column="113" />
@@ -137,9 +134,6 @@
         <mark key="]" line="9" column="109" />
         <mark key="." line="9" column="109" />
         <mark key="^" line="16" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1479374553964">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge_info.py" timestamp="1479445523758">
         <mark key="'" line="204" column="28" />
@@ -181,9 +175,6 @@
         <mark key="^" line="180" column="105" />
       </file>
       <file name="D:/Program Files/Python/Lib/site-packages/dj_static.py" timestamp="1479307717753" />
-      <file name="/Django Console" timestamp="1479724482905">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1479552782949">
         <mark key="[" line="346" column="36" />
         <mark key="]" line="346" column="37" />
@@ -223,18 +214,12 @@
         <mark key="^" line="123" column="39" />
         <mark key="." line="123" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479721986053">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1479781828726">
         <mark key="'" line="52" column="22" />
         <mark key="[" line="54" column="119" />
         <mark key="]" line="54" column="127" />
         <mark key="^" line="54" column="127" />
         <mark key="." line="54" column="127" />
-      </file>
-      <file name="/a.regexp" timestamp="1479738305109">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1479460410147">
         <mark key="'" line="63" column="25" />
@@ -377,43 +362,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consume_users</text>
+        <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
+                   '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
+                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
+                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
+                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
       <register name="-" type="4">
-        <text>consume_users</text>
+        <text>consume_users_tutor_ratio_week_basis</text>
       </register>
       <register name="/" type="4">
         <text>duobao</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bWVfYXZlX21hbGwgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICfX3LK5zPm98LbuJywgJ9fcsrnM+bu3scgnLCAnuKi1vLK5zPm98LbuJywgJ7iotbyyucz5taXBvycsCiAgICAgICAgICAgICAgICAgICAnuKi1vLK5zPkvuKi1vM/7t9EnLCAnx/PW+rK5zPm98LbuJywgJ8fz1vqyucz5taXBvycsICfH89b6srnM+S+4qLW8z/u30SddCiAgICAgICAgbGFiZWxzID0gWydkYXRlJywgJ3dlZWtfZGF5JywgJ2FsbG93YW5jZV90b3RhbCcsICdhbGxvd2FuY2VfcmF0aW8nLCAnYWxsb3dhbmNlX3R1dG9yJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV90dXRvcl9yZWNvcmRzJywgJ2FsbG93YW5jZV90dXRvcl9yYXRpbycsICdhbGxvd2FuY2VfcG9zdCcsICdhbGxvd2FuY2VfcG9zdF9yZWNvcmRzJywKICAgICAgICAgICAgICAgICAgJ2FsbG93YW5jZV9wb3N0X3JhdGlvJ10=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>, '总消耗用户量', '总消耗用户量环比', '人均消耗金额',
+                   '辅导消耗用户量', '辅导消耗用户量占比', '辅导消耗用户量环比', '辅导人均消耗',
+                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助人均消耗',
+                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城人均消耗',
+                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝人均消耗']</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, 'consume_ave_tutor', 'consume_users_post',
+                  'consume_users_post_pct', 'consume_users_post_ratio', 'consume_users_post_ratio_week_basis',
+                  'consume_ave_post', 'consume_users_mall', 'consume_users_mall_pct', 'consume_users_mall_ratio',
+                  'consume_users_mall_ratio_week_basis', 'consume_ave_mall', 'consume_users_duobao',
+                  'consume_users_duobao_pct', 'consume_users_duobao_ratio', 'consume_users_duobao_ratio_week_basis',
+                  'consume_ave_duobao'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>'', '辅导消耗用户量环比', '辅导消耗用户量周同比', '辅导人均消耗',
+                   '求助消耗用户量', '求助消耗用户量占比', '求助消耗用户量环比', '求助消耗用户量周同比', '求助人均消耗',
+                   '商城用户量', '商城用户量占比', '商城用户量环比', '商城用户量周同比', '商城人均消耗',
+                   '夺宝用户量', '夺宝用户量占比', '夺宝用户量环比', '夺宝用户量周同比', '夺宝人均消耗'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0WydjaGFyZ2VfYXZlX2lvcyddID0gcm91bmQoc3RhdFsnY2hhcmdlXyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAicmV2ZW51ZV9tYWxsIjoKICAgICAgICAgICAgICAgIHNob3dfdGFicyA9ICg8VGFic0NvbXBvbmVudCB0YWJkPXtmaWx0ZXJwYXJhbS52aWV3X2J5fSBvcF9uYW1lPXtbIsjVsagiLCAi1tyxqCIsICLUwrGoIl19IG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRhYlN3aXRjaH0gLz4pOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name=":" type="4">
         <text>112,114 s/u//g</text>
