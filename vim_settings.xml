@@ -23,12 +23,12 @@
         <mark key="." line="258" column="34" />
         <mark key="^" line="127" column="74" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479881446775">
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1479883344081">
         <mark key="'" line="93" column="62" />
-        <mark key="[" line="121" column="35" />
-        <mark key="]" line="121" column="36" />
-        <mark key="^" line="116" column="41" />
-        <mark key="." line="121" column="36" />
+        <mark key="[" line="366" column="26" />
+        <mark key="]" line="366" column="30" />
+        <mark key="^" line="366" column="30" />
+        <mark key="." line="366" column="30" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_answer.py" timestamp="1479871050933">
         <mark key="'" line="52" column="7" />
@@ -53,12 +53,12 @@
       <file name="D:/PythonProjects/matrix/api/revenue_mall.py" timestamp="1479870917025">
         <mark key="'" line="45" column="36" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_users.py" timestamp="1479871060933">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="29" column="14" />
+      <file name="D:/PythonProjects/matrix/api/revenue_users.py" timestamp="1479883137187">
+        <mark key="'" line="55" column="24" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="D:/PythonProjects/matrix/Matrix/urls.py" timestamp="1479870693273">
         <mark key="'" line="122" column="0" />
@@ -67,12 +67,12 @@
         <mark key="^" line="46" column="16" />
         <mark key="." line="46" column="16" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479880494915">
-        <mark key="'" line="134" column="24" />
-        <mark key="[" line="92" column="73" />
-        <mark key="]" line="92" column="73" />
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479882343618">
+        <mark key="'" line="72" column="48" />
+        <mark key="[" line="115" column="21" />
+        <mark key="]" line="115" column="22" />
         <mark key="^" line="92" column="74" />
-        <mark key="." line="92" column="73" />
+        <mark key="." line="115" column="22" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479871775941">
         <mark key="'" line="196" column="4" />
@@ -88,12 +88,12 @@
         <mark key="." line="186" column="13" />
         <mark key="^" line="186" column="13" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479873294000">
-        <mark key="'" line="205" column="24" />
-        <mark key="[" line="192" column="23" />
-        <mark key="]" line="192" column="24" />
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479882374036">
+        <mark key="'" line="74" column="48" />
+        <mark key="[" line="126" column="21" />
+        <mark key="]" line="126" column="22" />
         <mark key="^" line="192" column="24" />
-        <mark key="." line="192" column="24" />
+        <mark key="." line="126" column="22" />
       </file>
       <file name="D:/PythonProjects/matrix/lib/tool.py" timestamp="1479744458058">
         <mark key="'" line="121" column="54" />
@@ -153,14 +153,11 @@
         <mark key="^" line="339" column="117" />
         <mark key="." line="346" column="37" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1479870535650">
-        <mark key="'" line="19" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1479883070733">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="13" column="43" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479881547882">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479882912526">
         <mark key="'" line="200" column="12" />
         <mark key="[" line="184" column="112" />
         <mark key="]" line="185" column="28" />
@@ -203,12 +200,12 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1479797872197">
-        <mark key="'" line="39" column="50" />
-        <mark key="[" line="112" column="26" />
-        <mark key="]" line="112" column="26" />
+      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1479882412109">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="125" column="21" />
+        <mark key="]" line="125" column="22" />
         <mark key="^" line="33" column="45" />
-        <mark key="." line="112" column="26" />
+        <mark key="." line="125" column="22" />
       </file>
       <file name="D:/PythonProjects/matrix/api/income_charge_info.py" timestamp="1479294416652">
         <mark key="'" line="99" column="15" />
@@ -226,31 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="161" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="194" column="49" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="195" column="49" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="196" column="48" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="198" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="199" column="74" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="200" column="72" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="201" column="43" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="210" column="303" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="211" column="34" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="212" column="40" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="213" column="39" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="214" column="39" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="215" column="41" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="216" column="75" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="217" column="109" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="197" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="152" column="29" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="203" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="1057" column="22" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="125" column="76" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="262" column="8" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="12" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="144" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="142" column="39" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="121" column="25" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="167" column="36" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="15" column="69" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
@@ -300,7 +272,6 @@
       <jump line="19" column="0" filename="D:/PythonProjects/matrix/webapp/routes.js" />
       <jump line="30" column="63" filename="D:/PythonProjects/matrix/api/revenue_mall.py" />
       <jump line="45" column="36" filename="D:/PythonProjects/matrix/api/revenue_mall.py" />
-      <jump line="57" column="24" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
       <jump line="41" column="24" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
       <jump line="91" column="21" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="24" column="0" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
@@ -326,55 +297,81 @@
       <jump line="103" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="199" column="12" filename="D:/PythonProjects/one4one/revenue_users.py" />
+      <jump line="10" column="31" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
+      <jump line="42" column="72" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
+      <jump line="4" column="0" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
+      <jump line="57" column="24" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
+      <jump line="26" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="57" column="21" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="115" column="18" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="126" column="25" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="129" column="60" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="132" column="48" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="66" column="25" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="69" column="60" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="72" column="48" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="170" column="84" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="57" column="21" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="126" column="21" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="137" column="25" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="140" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="143" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="197" column="25" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="200" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="203" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="68" column="25" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="71" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="74" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="57" column="21" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyJyZXZlbnVlX3Bvc3RfZnUiLCAyMF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdGF0WydkYXQnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>income_index</text>
+        <text>labels.index('users_total')</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>'data'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWyJyZXZlbnVlX3Bvc3RfZnUiLCAyMF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdGF0WydkYXQnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRbY29sdW1uXSA9IHJvdW5kKHN0YXRbY29sdW1uXSAvIDEwMCwgMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICe24bGmz/u6xCcsICe24bGmz/u6xNW8scgnLCAntuGxpru3scgnLCAntuGxptbczayxyCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfQ+M/7usQnLCAn0PjP+7rE1byxyCcsICe24bGmu7exyCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICe24bGmz/u6xCcsICe24bGmz/u6xNW8scgnLCAntuGxpru3scgnLCAntuGxptbczayxyCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHZpZXdfYnkgPT0gMToKICAgICAgICBjb2x1bW5zID0gWyfI1cbaJywgJ9DHxtonLCAnu+7UvtPDu6fBvycsICe77tS+08O7p8G/u7exyCcsICfQwtT208O7p8G/JywgJ9DC1PbVvLHIJywKICAgICAgICAgICAgICAgICAgICfJz9TCwfS05tPDu6fBvycsICfJz9TCwfS05tW8scgnLCAnwPrKt7vYwffTw7unwb8nLAogICAgICAgICAgICAgICAgICAgJ8D6yre72MH31byxyCcsICexvtTCs8HErNPDu6fBvycsICezwcSswsonXQogICAgICAgIGxhYmVscyA9IFsnZGF0ZScsICd3ZWVrX2RheScsICdhY3RpdmVfdXNlcnMnLCAnYWN0aXZlX3VzZXJzX3JhdGlvJywgJ25ld191c2VycycsICduZXdfcmF0aW8nLAogICAgICAgICAgICAgICAgICAncmVtYWluX3VzZXJzX2xhc3RfbW9udGgnLCAncmVtYWluX3VzZXJzX2xhc3RfbW9udGhfcmF0aW8nLCAncmVtYWluX3VzZXJzX2JlZm9yZV9sYXN0X21vbnRoJywKICAgICAgICAgICAgICAgICAgJ3JlbWFpbl91c2Vyc19iZWZvcmVfbGFzdF9tb250aF9yYXRpbycsICdsb3N0X3VzZXJzX2xhc3RfbW9udGgnLCAnbG9zdF9yYXRpbyddCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfQ+M/7usQnLCAn0PjP+7rE1byxyCcsICe24bGmu7exyCddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2aWV3X2J5ID09IDM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdFsnd2Vla19kYXknXSA9IGdldF93ZWVrZGF5X2Zyb21fZGF0ZShzdGF0WydkYXRlJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>'data'</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>'data'</last-pattern>
       <last-replace>users</last-replace>
       <last-substitute>consume</last-substitute>
       <last-dir>1</last-dir>
@@ -382,9 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>allo</entry>
-        <entry>consume_post</entry>
         <entry>pure</entry>
         <entry>s</entry>
         <entry>% s</entry>
@@ -402,6 +396,9 @@
         <entry>refused</entry>
         <entry>fired</entry>
         <entry>exit</entry>
+        <entry>total</entry>
+        <entry>data</entry>
+        <entry>'data'</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
