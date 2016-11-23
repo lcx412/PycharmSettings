@@ -68,12 +68,12 @@
         <mark key="^" line="46" column="16" />
         <mark key="." line="46" column="16" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479874064204">
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479876921453">
         <mark key="'" line="116" column="24" />
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="44" />
-        <mark key="^" line="30" column="44" />
-        <mark key="." line="30" column="44" />
+        <mark key="[" line="92" column="73" />
+        <mark key="]" line="92" column="73" />
+        <mark key="^" line="92" column="74" />
+        <mark key="." line="92" column="73" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1479871775941">
         <mark key="'" line="196" column="4" />
@@ -82,8 +82,8 @@
         <mark key="." line="191" column="35" />
         <mark key="^" line="191" column="35" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479874085935">
-        <mark key="'" line="61" column="35" />
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479877321610">
+        <mark key="'" line="131" column="32" />
         <mark key="[" line="177" column="47" />
         <mark key="]" line="186" column="13" />
         <mark key="." line="186" column="13" />
@@ -227,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="34" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="185" column="33" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="186" column="33" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="187" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="188" column="110" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="189" column="84" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -327,16 +324,19 @@
       <jump line="105" column="101" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="116" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="135" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="105" column="40" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="131" column="32" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>师</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>师</text>
       </register>
       <register name="/" type="4">
-        <text>ave</text>
+        <text>fired</text>
       </register>
       <register name="0" type="4">
         <text>'夺宝消耗环比'</text>
@@ -373,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ave</last-search>
+      <last-search>fired</last-search>
       <last-offset />
-      <last-pattern>ave</last-pattern>
+      <last-pattern>fired</last-pattern>
       <last-replace>users</last-replace>
       <last-substitute>consume</last-substitute>
       <last-dir>1</last-dir>
@@ -383,9 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>allowance</entry>
-        <entry>duobao</entry>
-        <entry>x</entry>
         <entry>c</entry>
         <entry>post</entry>
         <entry>allo</entry>
@@ -403,6 +400,9 @@
         <entry>hive</entry>
         <entry>lost</entry>
         <entry>ave</entry>
+        <entry>records_ave</entry>
+        <entry>refused</entry>
+        <entry>fired</entry>
       </history-search>
       <history-cmd>
         <entry>/w</entry>
