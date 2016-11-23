@@ -6,7 +6,7 @@
       <file name="D:/PythonProjects/one4one/func.sh" timestamp="1479879179772">
         <mark key="'" line="82" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1479919817373">
+      <file name="/Python Console" timestamp="1479920486324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479914346602">
@@ -43,7 +43,7 @@
         <mark key="^" line="486" column="48" />
         <mark key="." line="486" column="48" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1479919902188">
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1479920024558">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="15" />
         <mark key="^" line="77" column="15" />
@@ -58,10 +58,6 @@
       </file>
       <file name="/Django Console" timestamp="1479724482905">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1479883070733">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="13" column="43" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479889211572">
         <mark key="'" line="200" column="4" />
@@ -96,6 +92,7 @@
       <file name="D:/PythonProjects/matrix/api/revenue_mall.py" timestamp="1479884185460">
         <mark key="'" line="45" column="36" />
       </file>
+      <file name="D:/Afanti/sit" timestamp="1479921089002" />
       <file name="/a.regexp" timestamp="1479808545140">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,11 +150,10 @@
         <mark key="'" line="99" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1479909147130" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479919872796">
-        <mark key="'" line="447" column="4" />
-        <mark key="[" line="440" column="0" />
-        <mark key="]" line="443" column="35" />
-        <mark key="." line="441" column="0" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479920965005">
+        <mark key="[" line="430" column="34" />
+        <mark key="]" line="430" column="0" />
+        <mark key="." line="430" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479884891030">
         <mark key="'" line="74" column="48" />
@@ -168,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="25" filename="D:/PythonProjects/one4one/revenue_users.py" />
-      <jump line="36" column="55" filename="D:/PythonProjects/one4one/revenue_users.py" />
-      <jump line="37" column="34" filename="D:/PythonProjects/one4one/revenue_users.py" />
-      <jump line="75" column="28" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="122" column="16" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="156" column="29" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="191" column="8" filename="D:/PythonProjects/one4one/revenue_users.py" />
@@ -267,14 +259,18 @@
       <jump line="441" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="400" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="377" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
-      <jump line="444" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="444" column="11" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="11" column="14" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="454" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="409" column="16" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="446" column="31" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkX2RpciA9IEJBU0VfUEFUSCArIG9zLnBhdGguc2VwICsgdSfLq8qmw7/I1biotbzP6sfpXycgKyB5ZXNfZGF0ZSArIG9zLnBhdGguc2VwICsgclt1J7iotbzKwrz+SUQnXQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocmVjb3JkX2Rpcik6CiAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BASE_PATH + os.path.sep + u'双师每日辅导详情_' + yes_date + os.path.sep + r[u'辅导事件ID']</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>'data'</text>
@@ -283,31 +279,31 @@
         <text>教育特长</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkX2RpciA9IEJBU0VfUEFUSCArIG9zLnBhdGguc2VwICsgdSfLq8qmw7/I1biotbzP6sfpXycgKyB5ZXNfZGF0ZSArIG9zLnBhdGguc2VwICsgclt1J7iotbzKwrz+SUQnXQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocmVjb3JkX2Rpcik6CiAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gcmVxdWVzdHMuZ2V0KGltYWdlX3VybCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIFtpbWFnZV91cmxdIGluIGN1cl9kdHMuZmV0Y2hhbGwoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCQVNFX1BBVEggPSBvcy5wYXRoLmFic3BhdGgoJy4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgW2ltYWdlX3VybF0gaW4gY3VyX2R0cy5mZXRjaGFsbCgpOgogICAgICAgICAgICBpbWFnZV91cmwgPSBpbWFnZV91cmwucmVwbGFjZSgnL2RhdGEvJywgJ2h0dHA6Ly9pbWFnZS5hZmFudGkxMDAuY29tLycpLnJlcGxhY2UoCiAgICAgICAgICAgICAgICAnaW1hZ2Uub3NzOi9odHRwOi8vaW1hZ2UuYWZhbnRpMTAwLmNvbS8nLCAnaHR0cDovL2FmYW50aS1pbWFnZS5hZmFudGkxMDAuY29tL2RhdGEvJykKICAgICAgICAgICAgcmV0ID0gcmVxdWVzdHMuZ2V0KGltYWdlX3VybCkKICAgICAgICAgICAgd2l0aCBvcGVuKHJlY29yZF9kaXIgKyAnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRfZGlyID0gQkFTRV9QQVRIICsgb3MucGF0aC5zZXAgKyB1J8uryqbDv8jVuKi1vM/qx+lfJyArIHllc19kYXRlICsgb3MucGF0aC5zZXAgKyByW3UnuKi1vMrCvP5JRCddCiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHJlY29yZF9kaXIpOgogICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRfZGlyID0gQkFTRV9QQVRIICsgb3MucGF0aC5zZXAgKyB1J8uryqbDv8jVuKi1vM/qx+lfJyArIHllc19kYXRlICsgb3MucGF0aC5zZXAgKyByW3UnuKi1vMrCvP5JRCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIGNoYXJzZXQ9J3V0ZjgnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkX2RpciA9IEJBU0VfUEFUSCArIG9zLnBhdGguc2VwICsgdSfLq8qmw7/I1biotbzP6sfpXycgKyB5ZXNfZGF0ZSArIG9zLnBhdGguc2VwICsgclt1J7iotbzKwrz+SUQnXQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocmVjb3JkX2Rpcik6CiAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxfZGZbdSe9zMqm1rCzxiddLnJlcGxhY2UodG9fcmVwbGFjZT17dSe9zMqm1rCzxic6IE5EX1BST19USVRMRV9NQVAsIHUnyM69zL/GxL8nOiBORF9DT1VSU0VfTUFQfSwgaW5wbGFjZT1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
