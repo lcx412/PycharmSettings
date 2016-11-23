@@ -6,7 +6,7 @@
       <file name="D:/PythonProjects/one4one/func.sh" timestamp="1479879179772">
         <mark key="'" line="82" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1479908225399">
+      <file name="/Python Console" timestamp="1479919817373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479914346602">
@@ -42,6 +42,12 @@
         <mark key="]" line="486" column="48" />
         <mark key="^" line="486" column="48" />
         <mark key="." line="486" column="48" />
+      </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1479919902188">
+        <mark key="[" line="77" column="72" />
+        <mark key="]" line="77" column="15" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="77" column="15" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1479552615311">
         <mark key="'" line="353" column="41" />
@@ -147,12 +153,11 @@
         <mark key="'" line="99" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1479909147130" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479918268593">
-        <mark key="'" line="439" column="4" />
-        <mark key="[" line="428" column="62" />
-        <mark key="]" line="429" column="7" />
-        <mark key="^" line="429" column="7" />
-        <mark key="." line="429" column="7" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479919872796">
+        <mark key="'" line="447" column="4" />
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="443" column="35" />
+        <mark key="." line="441" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479884891030">
         <mark key="'" line="74" column="48" />
@@ -163,12 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="54" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="52" column="51" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="121" column="0" filename="D:/PythonProjects/matrix/Matrix/urls.py" />
-      <jump line="93" column="62" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="155" column="297" filename="D:/PythonProjects/one4one/revenue_users.py" />
-      <jump line="8" column="19" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="33" column="25" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="36" column="55" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="37" column="34" filename="D:/PythonProjects/one4one/revenue_users.py" />
@@ -263,13 +262,19 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="46" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="424" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="421" column="11" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="6" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="441" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="400" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="377" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="444" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>当日教师的占线情况</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkX2RpciA9IEJBU0VfUEFUSCArIG9zLnBhdGguc2VwICsgdSfLq8qmw7/I1biotbzP6sfpXycgKyB5ZXNfZGF0ZSArIG9zLnBhdGguc2VwICsgclt1J7iotbzKwrz+SUQnXQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocmVjb3JkX2Rpcik6CiAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>当日教师的占线情况</text>
+        <text>BASE_PATH + os.path.sep + u'双师每日辅导详情_' + yes_date + os.path.sep + r[u'辅导事件ID']</text>
       </register>
       <register name="/" type="4">
         <text>'data'</text>
@@ -278,31 +283,31 @@
         <text>教育特长</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkX2RpciA9IEJBU0VfUEFUSCArIG9zLnBhdGguc2VwICsgdSfLq8qmw7/I1biotbzP6sfpXycgKyB5ZXNfZGF0ZSArIG9zLnBhdGguc2VwICsgclt1J7iotbzKwrz+SUQnXQogICAgICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocmVjb3JkX2Rpcik6CiAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhyZWNvcmRfZGlyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIGNoYXJzZXQ9J3V0ZjgnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxfZGZbdSe9zMqm1rCzxiddLnJlcGxhY2UodG9fcmVwbGFjZT17dSe9zMqm1rCzxic6IE5EX1BST19USVRMRV9NQVAsIHUnyM69zL/GxL8nOiBORF9DT1VSU0VfTUFQfSwgaW5wbGFjZT1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkZXRhaWxfZGYK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBCQVNFX1BBVEggPSBvcy5wYXRoLmFic3BhdGgoJy4nKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj0nYWZhbnRpJywgcGFzc3dkPSdMZWplbnQxNjgnLCBkYj0nb25lJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIGNoYXJzZXQ9J3V0ZjgnLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxfZGZbdSe9zMqmxOq8tiddID0gZGV0YWlsX2RmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXRhaWxfZGZbdSe9zMqm1rCzxiddLnJlcGxhY2UodG9fcmVwbGFjZT17dSe9zMqm1rCzxic6IE5EX1BST19USVRMRV9NQVAsIHUnyM69zL/GxL8nOiBORF9DT1VSU0VfTUFQfSwgaW5wbGFjZT1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
