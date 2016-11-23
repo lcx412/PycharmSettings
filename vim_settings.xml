@@ -68,8 +68,8 @@
         <mark key="^" line="46" column="16" />
         <mark key="." line="46" column="16" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479837736941">
-        <mark key="'" line="61" column="20" />
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479874064204">
+        <mark key="'" line="116" column="24" />
         <mark key="[" line="30" column="44" />
         <mark key="]" line="30" column="44" />
         <mark key="^" line="30" column="44" />
@@ -227,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="107" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="143" column="70" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="182" column="190" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="183" column="22" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="184" column="34" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="185" column="33" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="186" column="33" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -276,7 +272,6 @@
       <jump line="83" column="67" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="50" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="71" column="63" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="118" column="28" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="59" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="60" column="20" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
@@ -327,6 +322,11 @@
       <jump line="131" column="28" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="40" column="45" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="205" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
+      <jump line="80" column="31" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="19" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="105" column="101" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
+      <jump line="116" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
