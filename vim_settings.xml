@@ -156,11 +156,12 @@
         <mark key="." line="241" column="24" />
         <mark key="^" line="243" column="23" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_tutor_detail.py" timestamp="1479891523429">
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="47" column="6" />
-        <mark key="^" line="47" column="6" />
-        <mark key="." line="47" column="6" />
+      <file name="D:/PythonProjects/one4one/dts_tutor_detail.py" timestamp="1479897386943">
+        <mark key="'" line="486" column="4" />
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="447" column="0" />
+        <mark key="^" line="447" column="0" />
+        <mark key="." line="447" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1479722863932">
         <mark key="[" line="77" column="72" />
@@ -259,9 +260,6 @@
       <file name="D:/PythonProjects/matrix/Matrix/views.py" timestamp="1479736544126" />
     </filemarks>
     <jumps>
-      <jump line="80" column="28" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="1288" column="41" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="1308" column="8" filename="D:/PythonProjects/matrix/statistics/models.py" />
       <jump line="15" column="43" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
       <jump line="142" column="41" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
       <jump line="39" column="37" filename="D:/PythonProjects/matrix/api/revenue_users.py" />
@@ -359,13 +357,16 @@
       <jump line="12" column="0" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
       <jump line="48" column="0" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
+      <jump line="443" column="0" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
+      <jump line="2" column="0" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
+      <jump line="482" column="4" filename="D:/PythonProjects/one4one/dts_tutor_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>etail</text>
+        <text>校</text>
       </register>
       <register name="-" type="4">
-        <text>etail</text>
+        <text>校</text>
       </register>
       <register name="/" type="4">
         <text>'data'</text>
