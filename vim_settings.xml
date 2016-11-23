@@ -15,7 +15,7 @@
         <mark key="." line="1112" column="5" />
         <mark key="^" line="1116" column="41" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479836953903">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1479838104572">
         <mark key="'" line="80" column="28" />
         <mark key="[" line="258" column="34" />
         <mark key="]" line="258" column="34" />
@@ -58,7 +58,7 @@
         <mark key="." line="107" column="71" />
         <mark key="^" line="107" column="71" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479836347067">
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1479837736941">
         <mark key="'" line="61" column="20" />
         <mark key="[" line="30" column="44" />
         <mark key="]" line="30" column="44" />
@@ -73,11 +73,11 @@
         <mark key="." line="191" column="35" />
         <mark key="^" line="191" column="35" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479836801349">
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1479837993935">
         <mark key="'" line="61" column="35" />
-        <mark key="[" line="140" column="107" />
-        <mark key="]" line="140" column="119" />
-        <mark key="." line="140" column="119" />
+        <mark key="[" line="177" column="47" />
+        <mark key="]" line="187" column="34" />
+        <mark key="." line="187" column="34" />
         <mark key="^" line="140" column="119" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1479833443667">
@@ -140,11 +140,11 @@
         <mark key="." line="346" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/django_wsgi.py" timestamp="1479307645834" />
-      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479802947520">
+      <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1479838032641">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="145" column="188" />
-        <mark key="]" line="145" column="201" />
-        <mark key="." line="145" column="201" />
+        <mark key="[" line="185" column="33" />
+        <mark key="]" line="185" column="34" />
+        <mark key="." line="185" column="34" />
         <mark key="^" line="145" column="201" />
       </file>
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1479792602736">
@@ -306,10 +306,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>hive</text>
