@@ -13,6 +13,12 @@
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/wheel.docker" timestamp="1479959228192">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1479973004961">
+        <mark key="[" line="239" column="9" />
+        <mark key="]" line="241" column="33" />
+        <mark key="^" line="241" column="33" />
+        <mark key="." line="241" column="33" />
+      </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
         <mark key="'" line="40" column="0" />
       </file>
@@ -188,16 +194,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>area</text>
       </register>
-      <register name="0" type="4">
-        <text>教师上下线记录</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJfZHVvYmFvLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3QgMTAwKnN1bShjb3VudCkgZnJvbSBgb3JkZXJgIHdoZXJlIGNyZWF0ZV90aW1lIGJldHdlZW4gZnJvbV91bml4dGltZSh7MH0pIGFuZCBmcm9tX3VuaXh0aW1lKHsxfSkgYW5kIHBheV90eXBlPTEgYW5kIHN0YXR1cz0xIGFuZCB1aWQgbm90IGluKHsyfSkiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cywgYmxhY2tfdWlkcykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKEJBU0VfUEFUSCkK</text>
