@@ -23,10 +23,12 @@
         <mark key="^" line="238" column="2" />
         <mark key="." line="249" column="18" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1479998129390">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480005622164">
+        <mark key="'" line="21" column="60" />
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="47" />
+        <mark key="^" line="92" column="35" />
+        <mark key="." line="96" column="47" />
       </file>
       <file name="D:/PythonProjects/matrix/scripts/docker/docker_build_run.sh" timestamp="1479359667073">
         <mark key="'" line="40" column="0" />
@@ -54,7 +56,20 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1480005553770">
+        <mark key="'" line="193" column="8" />
+        <mark key="[" line="177" column="47" />
+        <mark key="]" line="186" column="13" />
+        <mark key="." line="186" column="13" />
+        <mark key="^" line="186" column="13" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/gen_chart.py" timestamp="1479909147130" />
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1480000284062">
+        <mark key="[" line="28" column="73" />
+        <mark key="]" line="28" column="73" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="73" />
+      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1479958119598">
         <mark key="[" line="243" column="24" />
         <mark key="]" line="243" column="24" />
@@ -68,14 +83,18 @@
         <mark key="^" line="78" column="15" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1480005548843">
+        <mark key="'" line="671" column="26" />
+        <mark key="[" line="180" column="102" />
+        <mark key="]" line="180" column="105" />
+        <mark key="." line="180" column="105" />
+        <mark key="^" line="180" column="105" />
+      </file>
       <file name="/Django Console" timestamp="1479724482905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1479958875860">
         <mark key="'" line="22" column="62" />
-      </file>
-      <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1479910893685">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1479923207932" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1479956204052">
@@ -102,9 +121,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_overhead.py" timestamp="1479918231405" />
-      <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1479956311658">
-        <mark key="'" line="31" column="34" />
-      </file>
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
       </file>
@@ -120,13 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="74" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="57" column="21" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
-      <jump line="198" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="37" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="472" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="194" column="0" filename="D:/PythonProjects/one4one/revenue_users.py" />
       <jump line="136" column="30" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="193" column="8" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="190" column="22" filename="D:/PythonProjects/one4one/revenue_users.py" />
@@ -220,46 +229,53 @@
       <jump line="161" column="37" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
       <jump line="172" column="4" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
+      <jump line="31" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="20" column="3" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="17" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="25" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="59" column="10" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="21" column="60" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="671" column="26" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>area</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0b19hZGRyZXNzZXMgPSBbJ3lvbmdsZS55YW5AbGVqZW50LmNvbScsICdqaXV5YW4uemhhbmdAbGVqZW50LmNvbScsICdjaGVuZ3hpYW5nLmx1QGxlamVudC5jb20nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVwYXJlX2lkID0gcHJlcGFyZV9pZF9wYXR0ZXJuLnNlYXJjaChsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBsb2dfZGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXBhcmVfaWQgPSBwcmVwYXJlX2lkX3BhdHRlcm4uc2VhcmNoKGxpbmUpLmdyb3VwKDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBjdXJfZHRzLmZldGNoYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdHMsZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl8xb24xID0gc2VsZi5jb25uXzFvbjEuY3Vyc29yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5fMW9uMSA9IG0uY29ubmVjdGlvbignMW9uMV9zbGF2ZV9kYicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWlsX3NlbmRlciA9IE1haWxTZW5kZXIoKQogICAgICAgIHRvX2FkZHJlc3NlcyA9IFsnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10KICAgICAgICBtYWlsX3NlbmRlci5zZW5kKHRvX2FkZHJlc3NlcywKICAgICAgICAgICAgICAgICAgICAgICAgIHUny6vKpsO/yNW4qLW8z+rH6V8nICsgeWVzX2RhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAnJywKICAgICAgICAgICAgICAgICAgICAgICAgIFt6aXBwZWQsIF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0ZWFjaGVyX2lkcwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVhY2hlcl9sb2cgPSBbcGFzc3dvcmQsIHRlYWNoZXJfaWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVwYXJlX2lkID0gcHJlcGFyZV9pZF9wYXR0ZXJuLnNlYXJjaChsaW5lKS5ncm91cCgxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
