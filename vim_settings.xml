@@ -73,20 +73,18 @@
       <file name="D:/PythonProjects/matrix/celery_task/tasks.py" timestamp="1479276321540">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479963543975">
-        <mark key="'" line="407" column="210" />
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="0" />
-        <mark key="." line="476" column="0" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1479971582250">
+        <mark key="'" line="499" column="4" />
+        <mark key="[" line="476" column="198" />
+        <mark key="]" line="476" column="198" />
+        <mark key="." line="476" column="198" />
+        <mark key="^" line="476" column="204" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1479959619668">
         <mark key="'" line="19" column="64" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="21" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="137" column="25" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="140" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="143" column="48" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="197" column="25" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="200" column="60" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
@@ -154,7 +152,6 @@
       <jump line="471" column="61" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="485" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="489" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
-      <jump line="476" column="34" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="141" column="63" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
       <jump line="126" column="32" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
       <jump line="134" column="16" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
@@ -184,19 +181,23 @@
       <jump line="19" column="64" filename="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" />
       <jump line="465" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="407" column="210" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="405" column="13" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="497" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="476" column="279" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="499" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKEJBU0VfUEFUSCkK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>zipped</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>area</text>
       </register>
       <register name="0" type="4">
-        <text>datetime.fromtimestamp(int(sts/1000)).strftime('%Y_%m_%d_%H_%M_%S'),)</text>
+        <text>教师上下线记录</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKEJBU0VfUEFUSCkK</text>
