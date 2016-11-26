@@ -23,11 +23,11 @@
         <mark key="'" line="12" column="148" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480127619856">
-        <mark key="[" line="190" column="24" />
-        <mark key="]" line="190" column="47" />
-        <mark key="^" line="190" column="47" />
-        <mark key="." line="190" column="47" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480128936860">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="189" column="47" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/del.sh" timestamp="1480095041848">
         <mark key="[" line="4" column="17" />
@@ -55,16 +55,19 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">dW5zZXQgaHR0cF9wcm94eQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsnd2Vpcm9uZy5jaGVuQGxlamVudC5jb20nLCAnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CWVjaG8gImFsdGVyIHRhYmxlIGRqYW5nbyBhZGQgUEFSVElUSU9OIChkYXk9JHApIGxvY2F0aW9uICcvb3V0cHV0LyR7VVNFUn0vZGphbmdvLyRwJzsiCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">J3dlaXJvbmcuY2hlbkBsZWplbnQuY29tJywg</text>
       </register>
     </registers>
     <search>
