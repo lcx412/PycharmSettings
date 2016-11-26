@@ -10,7 +10,7 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1480126572751">
+      <file name="/Python Console" timestamp="1480129063373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1480127092878">
@@ -23,11 +23,12 @@
         <mark key="'" line="12" column="148" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480128936860">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="^" line="189" column="47" />
-        <mark key="." line="189" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480129659006">
+        <mark key="'" line="663" column="36" />
+        <mark key="[" line="188" column="51" />
+        <mark key="]" line="163" column="44" />
+        <mark key="^" line="163" column="44" />
+        <mark key="." line="163" column="44" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/del.sh" timestamp="1480095041848">
         <mark key="[" line="4" column="17" />
@@ -52,6 +53,10 @@
       <jump line="13" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="17" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="502" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="262" column="36" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="705" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="662" column="36" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
