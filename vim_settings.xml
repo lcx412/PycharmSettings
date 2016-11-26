@@ -13,11 +13,23 @@
       <file name="/Python Console" timestamp="1480129063373">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480133444175">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1480127092878">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="19" />
         <mark key="^" line="18" column="10" />
         <mark key="." line="14" column="19" />
+      </file>
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1480133568939">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480128240065">
         <mark key="'" line="12" column="148" />
@@ -57,6 +69,7 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="705" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="662" column="36" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="56" column="0" filename="D:/PythonProjects/Flask/simple_server.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -65,14 +78,17 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>次</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CWVjaG8gImFsdGVyIHRhYmxlIGRqYW5nbyBhZGQgUEFSVElUSU9OIChkYXk9JHApIGxvY2F0aW9uICcvb3V0cHV0LyR7VVNFUn0vZGphbmdvLyRwJzsiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3dlaXJvbmcuY2hlbkBsZWplbnQuY29tJywg</text>
+        <text>次</text>
       </register>
     </registers>
     <search>
