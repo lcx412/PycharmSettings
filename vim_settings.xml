@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/hive_log_preprocess/django/freq.sh" timestamp="1480094256605" />
-      <file name="/Python Console" timestamp="1480091711520">
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480126419322">
+        <mark key="'" line="93" column="32" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1480126376551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480092669017">
@@ -18,6 +24,9 @@
     </filemarks>
     <jumps>
       <jump line="12" column="148" filename="D:/PythonProjects/tmp_job/job.sh" />
+      <jump line="1" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="5" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="92" column="32" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
