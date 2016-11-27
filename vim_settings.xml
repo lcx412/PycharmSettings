@@ -30,6 +30,13 @@
       <file name="/a.dummy" timestamp="1480214898059">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1480218272438">
+        <mark key="'" line="288" column="21" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="^" line="240" column="3" />
+        <mark key="." line="283" column="0" />
+      </file>
       <file name="D:/PythonProjects/Poster/byr.py" timestamp="1480142966774">
         <mark key="[" line="72" column="35" />
         <mark key="]" line="72" column="37" />
@@ -46,10 +53,6 @@
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
         <mark key="." line="21" column="32" />
-      </file>
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480128240065">
-        <mark key="'" line="12" column="148" />
-        <mark key="[" line="13" column="0" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
         <mark key="'" line="98" column="4" />
@@ -97,12 +100,12 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1480215232464">
-        <mark key="'" line="82" column="11" />
-        <mark key="[" line="79" column="27" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1480218913141">
+        <mark key="'" line="86" column="7" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="12" />
+        <mark key="^" line="83" column="14" />
+        <mark key="." line="84" column="12" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
       <file name="D:/PythonProjects/Flask/gunicorn_run.sh" timestamp="1480216814187">
@@ -172,43 +175,51 @@
       <jump line="115" column="4" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="79" column="0" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="80" column="11" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="40" column="44" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="109" column="4" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="258" column="4" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="289" column="21" filename="D:/PythonProjects/one4one/tutor_detail.py" />
+      <jump line="68" column="0" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="70" column="55" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="72" column="0" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="83" column="7" filename="D:/PythonProjects/one4one/mail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>u</text>
       </register>
-      <register name="0" type="4">
-        <text>PIDFILE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1haWxfc2VuZGVyLmNsb3NlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1rIGdldmVudCBcCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZXRyeV9vbl9jb25uZWN0aW9uX2V4Y2VwdGlvbigpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UElERklMRSA9IEJBCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TlVNX1dPUktFUlM9Mgo=</text>
+        <text encoding="base64">ICAgIG1haWxfc2VuZGVyID0gTWFpbFNlbmRlcigpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZXhjZXB0aW9uKGUpCg==</text>
+        <text encoding="base64">LS1rIGdldmVudCBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxpbmUK</text>
+        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyLmV4ZWN1dGUoImluc2VydCBpbnRvIG1zZ19zdGF0dXMgdmFsdWVzICh7MH0sezF9LHsyfSwwLDApIi5mb3JtYXQobXNnX2lkLCBjb250ZW50X2lkLCB1c2VyX2lkKSkK</text>
+        <text encoding="base64">UElERklMRSA9IEJBCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TlVNX1dPUktFUlM9Mgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
