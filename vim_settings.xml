@@ -105,11 +105,10 @@
         <mark key="." line="80" column="0" />
       </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
-      <file name="D:/PythonProjects/Flask/gunicorn_run.sh" timestamp="1480215696562">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="D:/PythonProjects/Flask/gunicorn_run.sh" timestamp="1480216814187">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480129659006">
         <mark key="'" line="663" column="36" />
@@ -175,38 +174,38 @@
       <jump line="80" column="11" filename="D:/PythonProjects/one4one/mail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="0" type="4">
         <text>PIDFILE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
+        <text encoding="base64">LS1rIGdldmVudCBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UElERklMRSA9IEJBCg==</text>
+        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TlVNX1dPUktFUlM9Mgo=</text>
+        <text encoding="base64">UElERklMRSA9IEJBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TlVNX1dPUktFUlM9Mgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZXhjZXB0aW9uKGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxpbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZXhjZXB0aW9uKGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyLmV4ZWN1dGUoImluc2VydCBpbnRvIG1zZ19zdGF0dXMgdmFsdWVzICh7MH0sezF9LHsyfSwwLDApIi5mb3JtYXQobXNnX2lkLCBjb250ZW50X2lkLCB1c2VyX2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxpbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyLmV4ZWN1dGUoImluc2VydCBpbnRvIG1zZ19zdGF0dXMgdmFsdWVzICh7MH0sezF9LHsyfSwwLDApIi5mb3JtYXQobXNnX2lkLCBjb250ZW50X2lkLCB1c2VyX2lkKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
