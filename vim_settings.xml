@@ -100,7 +100,7 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1480218913141">
+      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1480219143763">
         <mark key="'" line="86" column="7" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="12" />
@@ -120,7 +120,7 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480148065161">
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480219182644">
         <mark key="'" line="504" column="4" />
         <mark key="[" line="498" column="41" />
         <mark key="]" line="499" column="35" />
@@ -159,7 +159,6 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="501" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="404" column="58" filename="D:/PythonProjects/one4one/dts_detail.py" />
-      <jump line="504" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="38" column="12" filename="D:/PythonProjects/Messages/update_message_status.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/Messages/update_message_status.py" />
       <jump line="55" column="0" filename="D:/PythonProjects/Messages/update_message_status.py" />
@@ -183,6 +182,8 @@
       <jump line="70" column="55" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="72" column="0" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="83" column="7" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="420" column="34" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="504" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
