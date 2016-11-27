@@ -120,12 +120,12 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480219182644">
-        <mark key="'" line="504" column="4" />
-        <mark key="[" line="498" column="41" />
-        <mark key="]" line="499" column="35" />
-        <mark key="^" line="499" column="35" />
-        <mark key="." line="499" column="35" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480222640469">
+        <mark key="'" line="514" column="4" />
+        <mark key="[" line="486" column="262" />
+        <mark key="]" line="486" column="262" />
+        <mark key="^" line="486" column="262" />
+        <mark key="." line="486" column="262" />
       </file>
     </filemarks>
     <jumps>
@@ -187,13 +187,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haWxfc2VuZGVyLmNsb3NlKCkK</text>
+      <register name="0" type="4">
+        <text>教师在线时长汇总</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
