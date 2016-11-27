@@ -120,12 +120,12 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480222640469">
-        <mark key="'" line="514" column="4" />
-        <mark key="[" line="486" column="262" />
-        <mark key="]" line="486" column="262" />
-        <mark key="^" line="486" column="262" />
-        <mark key="." line="486" column="262" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480223504254">
+        <mark key="'" line="511" column="4" />
+        <mark key="[" line="481" column="0" />
+        <mark key="]" line="481" column="0" />
+        <mark key="^" line="486" column="15" />
+        <mark key="." line="481" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,41 +186,41 @@
       <jump line="504" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>g</text>
       </register>
       <register name="0" type="4">
         <text>教师在线时长汇总</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiByZXRyeV9vbl9jb25uZWN0aW9uX2V4Y2VwdGlvbigpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haWxfc2VuZGVyID0gTWFpbFNlbmRlcigpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIuY2xvc2UoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">LS1rIGdldmVudCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlbF93cml0ZXIuc2F2ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgJEJBU0VfRElSCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UElERklMRSA9IEJBCg==</text>
+        <text encoding="base64">ICAgIGRlZiByZXRyeV9vbl9jb25uZWN0aW9uX2V4Y2VwdGlvbigpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TlVNX1dPUktFUlM9Mgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
