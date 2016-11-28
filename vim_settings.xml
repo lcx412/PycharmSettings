@@ -77,12 +77,12 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480305627706">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="101" column="4" />
-        <mark key="]" line="101" column="4" />
-        <mark key="^" line="79" column="74" />
-        <mark key="." line="101" column="4" />
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480311827482">
+        <mark key="'" line="114" column="4" />
+        <mark key="[" line="65" column="113" />
+        <mark key="]" line="65" column="123" />
+        <mark key="^" line="65" column="123" />
+        <mark key="." line="65" column="123" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1480215996674">
         <mark key="'" line="57" column="0" />
@@ -135,7 +135,6 @@
     </filemarks>
     <jumps>
       <jump line="12" column="148" filename="D:/PythonProjects/tmp_job/job.sh" />
-      <jump line="1" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="5" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="92" column="32" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="70" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
@@ -211,14 +210,16 @@
       <jump line="82" column="23" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="78" column="32" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="7" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="94" column="111" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="113" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG1zZyA9IGpzb24ubG9hZHMobGluZS5yc3RyaXAoKSlbJ21lc3NhZ2UnXQo=</text>
