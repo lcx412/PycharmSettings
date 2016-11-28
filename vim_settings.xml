@@ -102,7 +102,7 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="51" column="127" />
       </file>
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480312461376">
+      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480314359941">
         <mark key="'" line="14" column="148" />
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="18" />
@@ -132,6 +132,9 @@
         <mark key="." line="51" column="86" />
       </file>
       <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1480143586180" />
+      <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
+        <mark key="'" line="31" column="5" />
+      </file>
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480312497700">
         <mark key="'" line="511" column="4" />
@@ -226,6 +229,7 @@
       <jump line="113" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="356" column="49" filename="D:/PythonProjects/matrix/api/financial_times.py" />
       <jump line="126" column="62" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
+      <jump line="31" column="5" filename="D:/PythonProjects/tmp_job/func.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
