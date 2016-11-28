@@ -198,8 +198,8 @@
         <mark key="^" line="486" column="15" />
         <mark key="." line="481" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1480301334719">
-        <mark key="'" line="11" column="10" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1480327936002">
+        <mark key="'" line="30" column="25" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480324791291">
         <mark key="'" line="47" column="0" />
@@ -210,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="55" filename="D:/PythonProjects/one4one/mail.py" />
-      <jump line="72" column="0" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="83" column="7" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="420" column="34" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="504" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
@@ -310,6 +308,8 @@
       <jump line="105" column="24" filename="D:/PythonProjects/matrix/api/revenue_income_index.py" />
       <jump line="103" column="58" filename="D:/PythonProjects/matrix/api/revenue_income_index.py" />
       <jump line="188" column="48" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="10" column="0" filename="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" />
+      <jump line="30" column="25" filename="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
