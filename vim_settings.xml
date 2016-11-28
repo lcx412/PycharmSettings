@@ -77,12 +77,12 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480303440361">
-        <mark key="'" line="67" column="18" />
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="26" />
-        <mark key="^" line="67" column="17" />
-        <mark key="." line="70" column="26" />
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480305627706">
+        <mark key="'" line="113" column="4" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="4" />
+        <mark key="^" line="79" column="74" />
+        <mark key="." line="101" column="4" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1480215996674">
         <mark key="'" line="57" column="0" />
@@ -204,43 +204,51 @@
       <jump line="117" column="4" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/mail.py" />
       <jump line="127" column="4" filename="D:/PythonProjects/one4one/mail.py" />
+      <jump line="71" column="10" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="2" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="56" column="21" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="112" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="82" column="23" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="78" column="32" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="7" column="0" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="113" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICgp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICgp</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>smtplib.SMTPServerDisconnected</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG1zZyA9IGpzb24ubG9hZHMobGluZS5yc3RyaXAoKSlbJ21lc3NhZ2UnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IG1haWxzZW5kZXIudHJ5X3RpbWVzCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyeV90aW1lcyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJldCAhPSAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZTIgPSBkYXRldGltZS5zdHJwdGltZSh5ZXNfZGF0ZSwgJyVZJW0lZCcpLnN0cmZ0aW1lKCclWS0lbS0lZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IG1haWxzZW5kZXIudHJ5X3RpbWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRyeV90aW1lcyA8PSAyOgo=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyeV90aW1lcyA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgcmV0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
