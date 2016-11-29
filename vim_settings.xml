@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/Stat/Video_users.py" timestamp="1480400949494">
-        <mark key="[" line="89" column="44" />
-        <mark key="]" line="89" column="43" />
-        <mark key="." line="89" column="43" />
-        <mark key="^" line="89" column="43" />
+      <file name="D:/PythonProjects/Stat/Video_users.py" timestamp="1480402478922">
+        <mark key="[" line="94" column="10" />
+        <mark key="]" line="94" column="24" />
+        <mark key="." line="94" column="24" />
+        <mark key="^" line="94" column="24" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1480218272438">
         <mark key="'" line="288" column="21" />
@@ -335,8 +335,8 @@
       <jump line="163" column="20" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>watched</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHQgPSBUKCkK</text>
       </register>
       <register name="-" type="4">
         <text>watched</text>
@@ -344,8 +344,8 @@
       <register name="/" type="4">
         <text>cast</text>
       </register>
-      <register name="0" type="4">
-        <text>tutor_page_ids</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHQgPSBUKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXMgPSBbXQo=</text>
