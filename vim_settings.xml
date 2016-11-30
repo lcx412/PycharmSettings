@@ -105,11 +105,11 @@
       </file>
       <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1480494028606" />
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
-      <file name="D:/PythonProjects/Streaming/uid_iid.sh" timestamp="1480524605415">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="14" column="107" />
-        <mark key="." line="14" column="107" />
-        <mark key="^" line="14" column="107" />
+      <file name="D:/PythonProjects/Streaming/uid_iid.sh" timestamp="1480526222515">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480474107219">
         <mark key="'" line="47" column="0" />
@@ -352,10 +352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>env bash</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>env bash</text>
       </register>
       <register name="/" type="4">
         <text>cast</text>
