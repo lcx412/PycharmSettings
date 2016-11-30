@@ -34,9 +34,6 @@
         <mark key="^" line="269" column="36" />
       </file>
       <file name="D:/PythonProjects/next/next-web/next/wsgi.py" timestamp="1480487572002" />
-      <file name="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" timestamp="1480472687602">
-        <mark key="'" line="4" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/mail.py" timestamp="1480304864138">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="122" column="21" />
@@ -130,14 +127,11 @@
       <file name="/Python Console" timestamp="1480494183672">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1480303453308">
-        <mark key="'" line="142" column="8" />
-      </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1480147168910">
-        <mark key="[" line="255" column="51" />
-        <mark key="]" line="256" column="44" />
-        <mark key="^" line="256" column="44" />
-        <mark key="." line="256" column="44" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1480498818717">
+        <mark key="[" line="254" column="51" />
+        <mark key="]" line="255" column="44" />
+        <mark key="^" line="255" column="44" />
+        <mark key="." line="71" column="23" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1480151746240">
         <mark key="'" line="121" column="12" />
@@ -153,6 +147,7 @@
         <mark key="." line="377" column="16" />
         <mark key="^" line="377" column="16" />
       </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1480498747992" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1480147614289">
         <mark key="'" line="80" column="28" />
         <mark key="[" line="76" column="60" />
@@ -214,17 +209,14 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="D:/PythonProjects/hive_log_preprocess/func.sh" timestamp="1480302259496">
-        <mark key="'" line="29" column="9" />
-      </file>
       <file name="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" timestamp="1480477595952">
         <mark key="'" line="293" column="4" />
       </file>
       <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
         <mark key="'" line="31" column="5" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480497078482">
-        <mark key="'" line="37" column="4" />
+      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480498496279">
+        <mark key="'" line="13" column="34" />
         <mark key="." line="23" column="41" />
       </file>
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480389812392">
@@ -234,12 +226,8 @@
         <mark key="^" line="483" column="279" />
         <mark key="." line="483" column="167" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1480327936002">
-        <mark key="'" line="30" column="25" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="203" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="223" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="224" column="36" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -339,6 +327,7 @@
       <jump line="37" column="4" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
       <jump line="18" column="39" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="25" column="31" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="13" column="34" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
