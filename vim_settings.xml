@@ -116,8 +116,10 @@
         <mark key="." line="122" column="21" />
         <mark key="^" line="114" column="70" />
       </file>
-      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1480409587508">
+      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1480467755467">
         <mark key="[" line="54" column="224" />
+        <mark key="]" line="54" column="224" />
+        <mark key="." line="54" column="224" />
       </file>
       <file name="D:/PythonProjects/Flask/gunicorn_run.sh" timestamp="1480216814187">
         <mark key="[" line="9" column="8" />
@@ -363,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>前</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>前</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>cast</text>
