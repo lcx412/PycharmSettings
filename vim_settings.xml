@@ -24,8 +24,8 @@
         <mark key="." line="72" column="37" />
         <mark key="^" line="72" column="37" />
       </file>
-      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1480473761978">
-        <mark key="'" line="474" column="0" />
+      <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1480486424010">
+        <mark key="'" line="291" column="79" />
         <mark key="[" line="121" column="36" />
         <mark key="]" line="121" column="37" />
         <mark key="." line="121" column="37" />
@@ -233,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="47" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="36" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="32" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
@@ -333,6 +332,7 @@
       <jump line="55" column="14" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="81" column="4" filename="D:/PythonProjects/one4one/page_views.py" />
+      <jump line="291" column="79" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
