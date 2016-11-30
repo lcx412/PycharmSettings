@@ -75,8 +75,8 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1480487937544">
-        <mark key="'" line="62" column="15" />
+      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1480494380878">
+        <mark key="'" line="25" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1480398996019">
         <mark key="'" line="170" column="54" />
@@ -85,13 +85,14 @@
         <mark key="." line="148" column="209" />
         <mark key="^" line="148" column="209" />
       </file>
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480471212677">
+      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480494947607">
         <mark key="'" line="12" column="148" />
         <mark key="[" line="15" column="231" />
         <mark key="]" line="15" column="239" />
         <mark key="^" line="15" column="239" />
         <mark key="." line="15" column="239" />
       </file>
+      <file name="D:/PythonProjects/next/next-thrift/next_types.thrift" timestamp="1480494697380" />
       <file name="D:/PythonProjects/Streaming/Lingling.py" timestamp="1480320219366" />
       <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1480143586180" />
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480324935392">
@@ -115,7 +116,7 @@
         <mark key="." line="198" column="34" />
         <mark key="^" line="198" column="34" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1480487790407" />
+      <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1480494028606" />
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480474107219">
         <mark key="'" line="47" column="0" />
@@ -131,7 +132,7 @@
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1480408687019">
+      <file name="/Python Console" timestamp="1480494183672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1480303453308">
@@ -230,7 +231,7 @@
       <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
         <mark key="'" line="31" column="5" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480493881379">
+      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480494879226">
         <mark key="'" line="37" column="4" />
       </file>
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480389812392">
@@ -245,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="23" column="7" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="134" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="203" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="223" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -345,6 +344,8 @@
       <jump line="62" column="15" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
       <jump line="37" column="4" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
+      <jump line="18" column="39" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="25" column="31" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
