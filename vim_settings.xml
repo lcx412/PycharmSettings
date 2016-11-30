@@ -230,7 +230,9 @@
       <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
         <mark key="'" line="31" column="5" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480488082702" />
+      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480493881379">
+        <mark key="'" line="37" column="4" />
+      </file>
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480389812392">
         <mark key="'" line="511" column="4" />
         <mark key="[" line="483" column="167" />
@@ -243,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="45" column="11" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="147" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="23" column="7" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="134" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -343,6 +343,8 @@
       <jump line="57" column="28" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="78" column="8" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="62" column="15" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
+      <jump line="37" column="4" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
