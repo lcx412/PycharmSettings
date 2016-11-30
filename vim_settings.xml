@@ -38,6 +38,7 @@
         <mark key="." line="270" column="36" />
         <mark key="^" line="269" column="36" />
       </file>
+      <file name="D:/PythonProjects/next/next-web/next/wsgi.py" timestamp="1480487572002" />
       <file name="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" timestamp="1480472687602">
         <mark key="'" line="4" column="0" />
       </file>
@@ -74,6 +75,9 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="34" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1480487937544">
+        <mark key="'" line="62" column="15" />
+      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1480398996019">
         <mark key="'" line="170" column="54" />
         <mark key="[" line="148" column="209" />
@@ -88,6 +92,8 @@
         <mark key="^" line="15" column="239" />
         <mark key="." line="15" column="239" />
       </file>
+      <file name="D:/PythonProjects/Streaming/Lingling.py" timestamp="1480320219366" />
+      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1480143586180" />
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480324935392">
         <mark key="'" line="45" column="11" />
         <mark key="[" line="51" column="85" />
@@ -109,6 +115,8 @@
         <mark key="." line="198" column="34" />
         <mark key="^" line="198" column="34" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1480487790407" />
+      <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480474107219">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="51" column="89" />
@@ -190,6 +198,7 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1480312318119" />
       <file name="/Dummy.txt" timestamp="1480479352920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,6 +230,7 @@
       <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
         <mark key="'" line="31" column="5" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1480488082702" />
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1480389812392">
         <mark key="'" line="511" column="4" />
         <mark key="[" line="483" column="167" />
@@ -233,10 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="32" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="134" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
-      <jump line="83" column="24" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="45" column="11" filename="D:/PythonProjects/matrix/api/revenue_tutor.py" />
       <jump line="147" column="24" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -333,6 +339,10 @@
       <jump line="30" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="81" column="4" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="291" column="79" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
+      <jump line="48" column="20" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="57" column="28" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="78" column="8" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="62" column="15" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
