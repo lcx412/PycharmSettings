@@ -181,12 +181,12 @@
         <mark key="." line="148" column="209" />
         <mark key="^" line="148" column="209" />
       </file>
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480426360741">
+      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480471212677">
         <mark key="'" line="12" column="148" />
-        <mark key="[" line="15" column="222" />
-        <mark key="]" line="15" column="222" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="15" column="222" />
+        <mark key="[" line="15" column="231" />
+        <mark key="]" line="15" column="239" />
+        <mark key="^" line="15" column="239" />
+        <mark key="." line="15" column="239" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/hive/del.sh" timestamp="1480095041848">
         <mark key="[" line="4" column="17" />
@@ -365,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>qianya3</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>qianya3</text>
       </register>
       <register name="/" type="4">
         <text>cast</text>
