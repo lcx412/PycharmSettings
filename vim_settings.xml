@@ -41,12 +41,6 @@
         <mark key="." line="122" column="21" />
         <mark key="^" line="114" column="70" />
       </file>
-      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1480478934590">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="54" column="224" />
-        <mark key="]" line="54" column="224" />
-        <mark key="." line="54" column="224" />
-      </file>
       <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480486604253">
         <mark key="'" line="114" column="8" />
         <mark key="[" line="102" column="35" />
@@ -77,6 +71,7 @@
         <mark key="." line="148" column="209" />
         <mark key="^" line="148" column="209" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1480503617581" />
       <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480494947607">
         <mark key="'" line="12" column="148" />
         <mark key="[" line="15" column="231" />
@@ -192,7 +187,11 @@
         <mark key="^" line="163" column="44" />
         <mark key="." line="163" column="44" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1480312318119" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1480503668468">
+        <mark key="[" line="76" column="7" />
+        <mark key="]" line="76" column="8" />
+        <mark key="." line="76" column="8" />
+      </file>
       <file name="/Dummy.txt" timestamp="1480496524687">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,8 +209,8 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" timestamp="1480477595952">
-        <mark key="'" line="293" column="4" />
+      <file name="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" timestamp="1480503580571">
+        <mark key="'" line="100" column="68" />
       </file>
       <file name="D:/PythonProjects/tmp_job/func.sh" timestamp="1480314444500">
         <mark key="'" line="31" column="5" />
@@ -229,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="30" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="224" column="36" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="225" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="226" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -329,6 +327,7 @@
       <jump line="13" column="34" filename="D:/PythonProjects/next/next-worker/lib/next_client.py" />
       <jump line="61" column="11" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="78" column="8" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
+      <jump line="100" column="68" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
