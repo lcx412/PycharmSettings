@@ -19,7 +19,13 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1480565218056">
+        <mark key="'" line="31" column="32" />
+      </file>
       <file name="D:/PythonProjects/next/next-web/next/wsgi.py" timestamp="1480487572002" />
+      <file name="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" timestamp="1480472687602">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1480474178591">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="33" />
@@ -58,6 +64,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1480303453308">
+        <mark key="'" line="142" column="8" />
+      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1480498818717">
         <mark key="[" line="254" column="51" />
         <mark key="]" line="255" column="44" />
@@ -80,7 +89,7 @@
         <mark key="." line="118" column="20" />
         <mark key="^" line="118" column="36" />
       </file>
-      <file name="D:/PythonProjects/next/next-web/django_wsgi.py" timestamp="1480504483357" />
+      <file name="D:/PythonProjects/next/next-web/django_wsgi.py" timestamp="1480565148512" />
       <file name="D:/PythonProjects/next/next-worker/build.sh" timestamp="1480504299339" />
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1480503668468">
         <mark key="[" line="76" column="7" />
@@ -92,6 +101,9 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
+      </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/func.sh" timestamp="1480302259496">
+        <mark key="'" line="29" column="9" />
       </file>
       <file name="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" timestamp="1480503688098">
         <mark key="'" line="100" column="68" />
@@ -109,9 +121,11 @@
         <mark key="'" line="13" column="34" />
         <mark key="." line="23" column="41" />
       </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1480327936002">
+        <mark key="'" line="30" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="36" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="225" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="226" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="227" column="37" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -211,6 +225,7 @@
       <jump line="61" column="11" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="78" column="8" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="100" column="68" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
+      <jump line="31" column="32" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
