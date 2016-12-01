@@ -6,7 +6,7 @@
       <file name="/a.dummy" timestamp="1480214898059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1480560815464" />
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1480561459082" />
       <file name="D:/PythonProjects/Flask/app.py" timestamp="1480215399896">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="23" />
@@ -104,6 +104,12 @@
         <mark key="." line="198" column="34" />
         <mark key="^" line="198" column="34" />
       </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1480562866293">
+        <mark key="[" line="87" column="58" />
+        <mark key="]" line="89" column="11" />
+        <mark key="." line="89" column="11" />
+        <mark key="^" line="89" column="11" />
+      </file>
       <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1480494028606" />
       <file name="D:/PythonProjects/Flask/get_img_urls.py" timestamp="1480215325397" />
       <file name="D:/PythonProjects/Streaming/uid_iid.sh" timestamp="1480526222515">
@@ -130,6 +136,12 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1389958170/nt.py" timestamp="1480501930852" />
       <file name="/Python Console" timestamp="1480502197983">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1480561854497">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1480498818717">
         <mark key="[" line="254" column="51" />
@@ -207,9 +219,6 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1480496524687">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
         <mark key="'" line="63" column="0" />
@@ -352,11 +361,11 @@
       <jump line="100" column="68" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>env bash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>env bash</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>cast</text>
@@ -365,31 +374,31 @@
         <text encoding="base64">ICAgICAgICBpZiB1aWQ6CiAgICAgICAgICAgIHVpZCA9IHVpZC5ncm91cCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvcHQgLXMgZXhwYW5kX2FsaWFzZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ZG9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">bGV0IGRhdGU9ZGF0ZSsxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">d2hpbGUgKCgkZGF0ZSA8PSAyMDE2MTEzMCkpO2RvCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpaWQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1aWQ6Cg==</text>
+        <text encoding="base64">c2hvcHQgLXMgZXhwYW5kX2FsaWFzZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICdbZW50cnlfcG9pbnQ9MTQnIGluIGxpbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBsZW4od2F0Y2hlZCkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
