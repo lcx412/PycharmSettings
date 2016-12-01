@@ -19,8 +19,8 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1480565218056">
-        <mark key="'" line="31" column="32" />
+      <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1480577733494">
+        <mark key="'" line="41" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-web/next/wsgi.py" timestamp="1480487572002" />
       <file name="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" timestamp="1480472687602">
@@ -126,9 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="226" column="35" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="227" column="37" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="235" column="45" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="236" column="51" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="237" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -226,6 +223,9 @@
       <jump line="78" column="8" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="100" column="68" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
       <jump line="31" column="32" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
+      <jump line="30" column="37" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
+      <jump line="41" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
