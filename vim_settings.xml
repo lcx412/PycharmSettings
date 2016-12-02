@@ -7,11 +7,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1480561459082" />
-      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1480644479562">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1480654930504">
+        <mark key="'" line="10" column="40" />
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="69" />
+        <mark key="^" line="10" column="69" />
+        <mark key="." line="10" column="69" />
       </file>
       <file name="D:/PythonProjects/Flask/app.py" timestamp="1480645400987">
         <mark key="[" line="69" column="126" />
@@ -270,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="45" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="236" column="51" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="237" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="238" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -370,6 +370,7 @@
       <jump line="30" column="37" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
       <jump line="41" column="0" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
+      <jump line="10" column="40" filename="D:/PythonProjects/one4one/uid_iid_mapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
