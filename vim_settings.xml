@@ -3,16 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1480214898059">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1480561459082" />
-      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1480656144841">
+      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1480658041412">
         <mark key="'" line="10" column="40" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="D:/PythonProjects/Flask/app.py" timestamp="1480645400987">
         <mark key="[" line="69" column="126" />
@@ -145,21 +142,11 @@
         <mark key="^" line="97" column="47" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1389958170/nt.py" timestamp="1480501930852" />
-      <file name="/Python Console" timestamp="1480596768784">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1480606344213">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="37" />
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1480658279722">
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="32" column="37" />
-        <mark key="." line="32" column="37" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1480218272438">
-        <mark key="'" line="288" column="21" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="^" line="240" column="3" />
-        <mark key="." line="283" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1480303453308">
         <mark key="'" line="142" column="8" />
@@ -204,9 +191,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="54" column="60" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1480496637707">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1480391640856">
         <mark key="[" line="118" column="20" />
@@ -259,13 +243,6 @@
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/func.sh" timestamp="1480302259496">
         <mark key="'" line="29" column="9" />
-      </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1480324706249">
-        <mark key="'" line="144" column="24" />
-        <mark key="[" line="51" column="87" />
-        <mark key="]" line="128" column="88" />
-        <mark key="^" line="128" column="88" />
-        <mark key="." line="128" column="88" />
       </file>
       <file name="D:/PythonProjects/Streaming/uid_iid_mapper.py" timestamp="1480559689842">
         <mark key="[" line="14" column="35" />
@@ -388,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>not iid and not ua</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cast</text>
@@ -400,31 +377,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmFuZCA9IGJyYW5kLnJlcGxhY2UoJ1x0JywnICcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWEgPSB1YV9wYXR0ZXJuLnNlYXJjaChsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICBicmFuZCwgbW9kZWwgPSAnJywgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnRvZCArICIgMDA6MDA6MDAnKSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdWE6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19zdGFydCA9ICJ1bml4X3RpbWVzdGFtcCgnIiArIHNlbGYueWVzICsgIiAwMDowMDowMCcpIgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iy1EIG1hcHJlZHVjZS5wYXJ0aXRpb24ua2V5Y29tcGFyYXRvci5vcHRpb25zPSItazEsMm4iIFwK</text>
+        <text encoding="base64">ICAgICAgICBicmFuZCwgbW9kZWwgPSAnJywgJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LUQgbWFwcmVkdWNlLnBhcnRpdGlvbi5rZXljb21wYXJhdG9yLm9wdGlvbnM9Ii1rMSwybiIgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHVhOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3VhPWFuZHJvaWQnIGluIGxpbmUgb3IgJ3VhPWlPUycgaW4gbGluZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHVpZCkgPCA3OgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
