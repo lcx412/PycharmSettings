@@ -20,10 +20,10 @@
         <mark key="^" line="69" column="127" />
         <mark key="." line="69" column="127" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1480691774632">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1480694038491">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="10" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
@@ -36,7 +36,7 @@
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1480577733494">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/PythonProjects/Messages/conf/afanti_django_log.conf" timestamp="1480672665944">
+      <file name="D:/PythonProjects/Messages/conf/afanti_django_log.conf" timestamp="1480693792299">
         <mark key="[" line="9" column="158" />
         <mark key="]" line="9" column="160" />
         <mark key="." line="9" column="160" />
@@ -81,12 +81,11 @@
         <mark key="." line="102" column="36" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1480646937465" />
-      <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1480691616348">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="5" />
-        <mark key="^" line="60" column="5" />
-        <mark key="." line="60" column="5" />
+      <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1480693982592">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="43" />
+        <mark key="^" line="66" column="6" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1480474178591">
         <mark key="[" line="17" column="24" />
@@ -113,20 +112,8 @@
         <mark key="." line="15" column="239" />
       </file>
       <file name="D:/PythonProjects/next/next-thrift/next_types.thrift" timestamp="1480494697380" />
-      <file name="D:/PythonProjects/matrix/api/revenue_users.py" timestamp="1480317496991">
-        <mark key="[" line="35" column="85" />
-        <mark key="]" line="35" column="85" />
-        <mark key="^" line="35" column="85" />
-        <mark key="." line="35" column="85" />
-      </file>
       <file name="D:/PythonProjects/Streaming/Lingling.py" timestamp="1480320219366" />
       <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1480143586180" />
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1480127092878">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="14" column="19" />
-      </file>
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480324935392">
         <mark key="'" line="45" column="11" />
         <mark key="[" line="51" column="85" />
@@ -190,12 +177,6 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1480303453308">
         <mark key="'" line="142" column="8" />
-      </file>
-      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1480142966774">
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="37" />
-        <mark key="^" line="72" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_income_index.py" timestamp="1480644751530">
         <mark key="'" line="103" column="58" />
@@ -320,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="23" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="205" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="60" column="94" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
       <jump line="127" column="82" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
@@ -420,10 +400,11 @@
       <jump line="18" column="15" filename="D:/PythonProjects/one4one/uid_iid.sh" />
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/uid_iid.sh" />
       <jump line="36" column="0" filename="D:/PythonProjects/one4one/uid_iid.sh" />
+      <jump line="67" column="0" filename="D:/PythonProjects/Messages/update_message_status.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ubl9wYWdlLCBjdXJfcGFnZSA9IGdldF9wYWdlX2Nvbm5lY3Rpb24oKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IL32saPB9Nfuvfw1zOzNxsvNtcTNs7zGo6zDv9X7teO4/NDC0rvQocqxx7C1xMr9vt2how==</text>
@@ -435,31 +416,31 @@
         <text encoding="base64">ICAgIDxoMj7XotLio7rX7r38yv2+3cG/tPPBy7P2z9bSu9CpzsrM4qOstffV+9bQo6zT0NHPuPHNs7zG0OjH88frtbHD5rm1zaihoyC99rGjwfTX7r38NczszcbLzbXEzbO8xqOsw7/V+7XjuPzQwtK70KHKscewtcTK/b7doaM8L2gyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ubl9wYWdlLCBjdXJfcGFnZSA9IGdldF9wYWdlX2Nvbm5lY3Rpb24oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ubl9tc2csIGN1cl9tc2cgPSBnZXRfbXNnX2Nvbm5lY3Rpb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX3BhZ2UuY29tbWl0KCkK</text>
+        <text encoding="base64">Y29ubl9wYWdlLCBjdXJfcGFnZSA9IGdldF9wYWdlX2Nvbm5lY3Rpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uX3BhZ2UuY29tbWl0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
