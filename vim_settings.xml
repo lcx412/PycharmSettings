@@ -67,6 +67,11 @@
         <mark key="." line="122" column="21" />
         <mark key="^" line="114" column="70" />
       </file>
+      <file name="D:/PythonProjects/Messages/conf_msg/afanti_django_log.conf" timestamp="1480783292709">
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="9" column="91" />
+        <mark key="." line="9" column="91" />
+      </file>
       <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480486604253">
         <mark key="'" line="114" column="8" />
         <mark key="[" line="102" column="35" />
@@ -161,6 +166,7 @@
         <mark key="^" line="51" column="89" />
         <mark key="." line="51" column="89" />
       </file>
+      <file name="D:/PythonProjects/Messages/conf_msg/msgserver_log.conf" timestamp="1480782555522" />
       <file name="D:/PythonProjects/next/next-server/lib/next_handler.py" timestamp="1480504215279" />
       <file name="D:/PythonProjects/Stat/Video_users.py" timestamp="1480425687252">
         <mark key="'" line="199" column="8" />
@@ -278,6 +284,12 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
+      </file>
+      <file name="D:/PythonProjects/Messages/conf_pv/afanti_django_log.conf" timestamp="1480782643746">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
         <mark key="'" line="63" column="0" />
@@ -419,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>历史好评</text>
