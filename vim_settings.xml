@@ -47,12 +47,12 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1480815851613">
-        <mark key="'" line="275" column="4" />
-        <mark key="[" line="270" column="31" />
-        <mark key="]" line="270" column="31" />
-        <mark key="." line="270" column="31" />
-        <mark key="^" line="270" column="31" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1480839033318">
+        <mark key="'" line="259" column="80" />
+        <mark key="[" line="158" column="79" />
+        <mark key="]" line="259" column="80" />
+        <mark key="." line="259" column="80" />
+        <mark key="^" line="259" column="80" />
       </file>
       <file name="D:/PythonProjects/next/next-web/next/wsgi.py" timestamp="1480487572002" />
       <file name="D:/PythonProjects/Messages/conf_msg/td-agent.conf" timestamp="1480815283131">
@@ -338,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="24" filename="D:/PythonProjects/matrix/api/revenue_income_index.py" />
-      <jump line="103" column="58" filename="D:/PythonProjects/matrix/api/revenue_income_index.py" />
       <jump line="188" column="48" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="10" column="0" filename="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" />
       <jump line="30" column="25" filename="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" />
@@ -438,6 +436,8 @@
       <jump line="74" column="12" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="43" column="16" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
       <jump line="76" column="16" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
+      <jump line="32" column="32" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="259" column="80" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
