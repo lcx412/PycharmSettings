@@ -21,11 +21,11 @@
         <mark key="^" line="69" column="127" />
         <mark key="." line="69" column="127" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1480784991884">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="22" column="10" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1480856733209">
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="23" column="69" />
+        <mark key="." line="23" column="69" />
+        <mark key="^" line="23" column="69" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
         <mark key="'" line="98" column="4" />
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>前</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>前</text>
       </register>
       <register name="/" type="4">
         <text>历史好评</text>
