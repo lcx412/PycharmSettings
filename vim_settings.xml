@@ -271,10 +271,12 @@
         <mark key="." line="118" column="20" />
         <mark key="^" line="118" column="36" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1480951981953">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1480952458331">
+        <mark key="'" line="246" column="4" />
+        <mark key="[" line="247" column="23" />
+        <mark key="]" line="247" column="23" />
+        <mark key="." line="247" column="23" />
+        <mark key="^" line="247" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -361,9 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2014" filename="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" />
-      <jump line="4" column="0" filename="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" />
-      <jump line="44" column="10" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
       <jump line="55" column="17" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
       <jump line="42" column="0" filename="D:/PythonProjects/ResumeParser/bin/ResumeChecker.py" />
       <jump line="118" column="35" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
@@ -461,10 +460,13 @@
       <jump line="22" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
       <jump line="264" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
       <jump line="243" column="7" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
+      <jump line="2" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="246" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="245" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -476,31 +478,31 @@
         <text encoding="base64">ICAgIHN1Yl9kaWN0X2sgPSByWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNldHVwIHBkZiByZWFkZXIK</text>
+        <text encoding="base64">bG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFNldHVwIHBkZiByZWFkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIG1haW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgT3V0cHV0IHRvIENTVgo=</text>
+        <text encoding="base64">ICAgIG1haW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgT3V0cHV0IHRvIENTVgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIHJlc3VtZSByZXN1bWVfZGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIHJlc3VtZSByZXN1bWVfZGYK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
