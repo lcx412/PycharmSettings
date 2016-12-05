@@ -133,12 +133,12 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480906051833">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="66" column="96" />
-        <mark key="]" line="66" column="97" />
-        <mark key="^" line="66" column="97" />
-        <mark key="." line="66" column="97" />
+      <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480932128192">
+        <mark key="'" line="42" column="11" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="18" />
+        <mark key="^" line="63" column="97" />
+        <mark key="." line="42" column="325" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1480649581014">
         <mark key="'" line="201" column="4" />
@@ -439,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>'charged_users_pure_ratio_week_basis',</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'charged_users_pure_ratio_week_basis',</text>
       </register>
       <register name="/" type="4">
         <text>历史好评</text>
