@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1480904690336" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1480907767074">
+        <mark key="'" line="95" column="18" />
+      </file>
       <file name="/a.dummy" timestamp="1480784504495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,7 +89,7 @@
         <mark key="^" line="60" column="91" />
         <mark key="." line="59" column="5" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1480907253962">
+      <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1480907492887">
         <mark key="[" line="11" column="89" />
         <mark key="]" line="11" column="101" />
         <mark key="^" line="11" column="101" />
@@ -112,12 +114,12 @@
         <mark key="^" line="50" column="84" />
         <mark key="." line="50" column="84" />
       </file>
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480494947607">
+      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1480907854694">
         <mark key="'" line="12" column="148" />
-        <mark key="[" line="15" column="231" />
-        <mark key="]" line="15" column="239" />
-        <mark key="^" line="15" column="239" />
-        <mark key="." line="15" column="239" />
+        <mark key="[" line="15" column="236" />
+        <mark key="]" line="15" column="236" />
+        <mark key="^" line="15" column="236" />
+        <mark key="." line="15" column="236" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_users.py" timestamp="1480906061752">
         <mark key="[" line="47" column="96" />
@@ -289,7 +291,7 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480906580613">
+      <file name="/Dummy.txt" timestamp="1480907362186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
@@ -334,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="54" filename="D:/PythonProjects/one4one/zuoyeba_teacher.py" />
       <jump line="36" column="46" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="163" column="20" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="85" column="202" filename="D:/PythonProjects/Stat/Video_users.py" />
@@ -434,6 +435,7 @@
       <jump line="148" column="24" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="61" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="48" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
+      <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
