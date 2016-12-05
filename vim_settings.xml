@@ -182,11 +182,12 @@
         <mark key="^" line="68" column="97" />
         <mark key="." line="68" column="97" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" timestamp="1480949254201">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" timestamp="1480950814789">
+        <mark key="'" line="247" column="4" />
+        <mark key="[" line="242" column="21" />
+        <mark key="]" line="242" column="33" />
+        <mark key="^" line="242" column="33" />
+        <mark key="." line="242" column="33" />
       </file>
       <file name="D:/PythonProjects/Stat/Video_users.py" timestamp="1480425687252">
         <mark key="'" line="199" column="8" />
@@ -352,10 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="24" filename="D:/PythonProjects/Stat/Video_users.py" />
-      <jump line="194" column="8" filename="D:/PythonProjects/Stat/Video_users.py" />
-      <jump line="60" column="21" filename="D:/PythonProjects/Stat/T.py" />
-      <jump line="49" column="30" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="80" column="4" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="3" column="2014" filename="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" />
       <jump line="4" column="0" filename="D:/PythonProjects/ResumeParser/data/output/resumes_output.csv" />
@@ -452,13 +449,17 @@
       <jump line="24" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
       <jump line="234" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
       <jump line="238" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
+      <jump line="17" column="43" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
+      <jump line="240" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
+      <jump line="22" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
+      <jump line="264" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>args.output_path</text>
       </register>
       <register name="-" type="4">
-        <text>'charged_users_pure_ratio_week_basis',</text>
+        <text>args.output_path</text>
       </register>
       <register name="/" type="4">
         <text>历史好评</text>
@@ -467,31 +468,31 @@
         <text encoding="base64">ICAgIHN1Yl9kaWN0X2sgPSByWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgT3V0cHV0IHRvIENTVgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgICMgUGFyc2UgY29tbWFuZCBsaW5lIGFyZ3VtZW50cwogICAgbG9nZ2luZy5pbmZvKCdQYXJzaW5nIGlucHV0IGFyZ3VtZW50cycpCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj0nU2NyaXB0IHRvIHBhcnNlIFBERiByZXN1bWVzLCBhbmQgY3JlYXRlIGEgY3N2IGZpbGUgY29udGFpbmluZyBjb250YWN0IGluZm8gJwogICAgICAgICAgICAgICAgICAgICdhbmQgcmVxdWlyZWQgZmllbGRzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZGF0YV9wYXRoJywgaGVscD0nUGF0aCB0byBmb2xkZXIgY29udGFpbmluZyBkb2N1bWVudHMgZW5kaW5nIGluIC5wZGYnLAogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD1UcnVlKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1vdXRwdXRfcGF0aCcsIGhlbHA9J1BhdGggdG8gcGxhY2Ugb3V0cHV0IC5jc3YgZmlsZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Jy4uL2RhdGEvb3V0cHV0L3Jlc3VtZXNfb3V0cHV0LmNzdicpCgogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBsb2dnaW5nLmluZm8oJ0NvbW1hbmQgbGluZSBhcmd1bWVudHM6ICVzJywgdmFycyhhcmdzKSkKCiAgICAjIENyZWF0ZSByZXN1bWUgcmVzdW1lX2RmCiAgICByZXN1bWVfZGYgPSBjcmVhdGVfcmVzdW1lX2RmKGFyZ3MuZGF0YV9wYXRoKQoKICAgICMgT3V0cHV0IHRvIENTVgogICAgcmVzdW1lX2RmLnRvX2NzdihhcmdzLm91dHB1dF9wYXRoLCBxdW90aW5nPWNzdi5RVU9URV9BTEwsIGVuY29kaW5nPSd1dGYtOCcpCiAgICBsb2dnaW5nLmluZm8oJ0VuZCBNYWluJykKCgo=</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIHJlc3VtZSByZXN1bWVfZGYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIGlucHV0X3BkZl9wYXRoOiBQYXRoIHRvIHRoZSAucGRmIGZpbGUgd2hpY2ggc2hvdWxkIGJlIGNvbnZlcnRlZAogICAgOnR5cGUgaW5wdXRfcGRmX3BhdGg6IHN0cgogICAgOnJldHVybjogVGhlIHRleHQgY29udGVudHMgb2YgdGhlIHBkZgogICAgOnJ0eXBlOiBzdHIKICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRoaXMgY29kZSBpcyBsYXJnZWx5IGJvcnJvd2VkIGZyb20gZXhpc3Rpbmcgc29sdXRpb25zLCBhbmQgZG9lcyBub3QgbWF0Y2ggdGhlIHN0eWxlIG9mIHRoZSByZXN0IG9mIHRoaXMgcmVwby4K</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQ29tbWFuZCBsaW5lIGFyZ3VtZW50czogJXMnLCB2YXJzKGFyZ3MpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEEgdXRpbGl0eSBmdW5jdGlvbiB0byBjb252ZXJ0IGEgbWFjaGluZS1yZWFkYWJsZSBQREYgdG8gcmF3IHRleHQuCg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQmVnaW4gTWFpbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKAogICAgICAgIGRlc2NyaXB0aW9uPSdTY3JpcHQgdG8gcGFyc2UgUERGIHJlc3VtZXMsIGFuZCBjcmVhdGUgYSBjc3YgZmlsZSBjb250YWluaW5nIGNvbnRhY3QgaW5mbyAnCiAgICAgICAgICAgICAgICAgICAgJ2FuZCByZXF1aXJlZCBmaWVsZHMnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1kYXRhX3BhdGgnLCBoZWxwPSdQYXRoIHRvIGZvbGRlciBjb250YWluaW5nIGRvY3VtZW50cyBlbmRpbmcgaW4gLnBkZicsCiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPVRydWUpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLW91dHB1dF9wYXRoJywgaGVscD0nUGF0aCB0byBwbGFjZSBvdXRwdXQgLmNzdiBmaWxlJywKICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD0nLi4vZGF0YS9vdXRwdXQvcmVzdW1lc19vdXRwdXQuY3N2JykK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
