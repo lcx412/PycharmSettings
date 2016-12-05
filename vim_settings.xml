@@ -75,12 +75,22 @@
         <mark key="^" line="54" column="104" />
         <mark key="." line="54" column="104" />
       </file>
+      <file name="D:/PythonProjects/Messages/conf_msg/afanti_django_log.conf" timestamp="1480783292709">
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="9" column="91" />
+        <mark key="." line="9" column="91" />
+      </file>
       <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480486604253">
         <mark key="'" line="114" column="8" />
         <mark key="[" line="102" column="35" />
         <mark key="]" line="102" column="36" />
         <mark key="^" line="66" column="73" />
         <mark key="." line="102" column="36" />
+      </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1480775588806">
+        <mark key="[" line="268" column="35" />
+        <mark key="]" line="268" column="36" />
+        <mark key="." line="268" column="36" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1480744665884">
         <mark key="'" line="55" column="87" />
@@ -126,6 +136,9 @@
         <mark key="]" line="35" column="85" />
         <mark key="^" line="35" column="85" />
         <mark key="." line="35" column="85" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" timestamp="1480941231682">
+        <mark key="'" line="258" column="37" />
       </file>
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1480127092878">
         <mark key="[" line="14" column="19" />
@@ -178,6 +191,11 @@
         <mark key="]" line="68" column="97" />
         <mark key="^" line="68" column="97" />
         <mark key="." line="68" column="97" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" timestamp="1480941345718">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/PythonProjects/Stat/Video_users.py" timestamp="1480425687252">
         <mark key="'" line="199" column="8" />
@@ -279,6 +297,11 @@
         <mark key="^" line="112" column="41" />
         <mark key="." line="119" column="49" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1480503668468">
+        <mark key="[" line="76" column="7" />
+        <mark key="]" line="76" column="8" />
+        <mark key="." line="76" column="8" />
+      </file>
       <file name="D:/PythonProjects/Streaming/live_users.py" timestamp="1480521077290">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="16" column="19" />
@@ -336,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="46" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="163" column="20" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="85" column="202" filename="D:/PythonProjects/Stat/Video_users.py" />
       <jump line="207" column="12" filename="D:/PythonProjects/Stat/Video_users.py" />
@@ -436,10 +458,11 @@
       <jump line="61" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="48" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
+      <jump line="258" column="37" filename="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'charged_users_pure_ratio_week_basis',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>'charged_users_pure_ratio_week_basis',</text>
@@ -451,31 +474,31 @@
         <text encoding="base64">ICAgIHN1Yl9kaWN0X2sgPSByWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2NlbmRfdGFibGVzID0gWycnXQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Y3VzdG9tIHRleHQgZmllbGRzLiBUaGVzZSByZXN1bHRzIGFyZSB0aGVuIHN1cmZhY2VkIGFzIGEgY29udmVuaWVudCBzdW1tYXJ5IENTVi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAndWE9YW5kcm9pZCcgbm90IGluIGxpbmUgYW5kICd1YT1pT1MnIG5vdCBpbiBsaW5lOgo=</text>
+        <text encoding="base64">QSB1dGlsaXR5IHRvIG1ha2UgaGFuZGxpbmcgbWFueSByZXN1bWVzIGVhc2llciBieSBhdXRvbWF0aWNhbGx5IHB1bGxpbmcgY29udGFjdCBpbmZvcm1hdGlvbiwgcmVxdWlyZWQgc2tpbGxzIGFuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj7XotLiMaO61+69/Mr9vt3Bv7v9wNu088HLuvO49rHwzcbLzc2zvMbJz7P2z9bR07PZtcjS7LOjo6y199X71tCjrNPQ0c+48dDox/PH67Wxw+a5tc2ooaM8L2gyPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Zm9yIFtjb250ZW50X2lkXSBpbiByZXM6Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29kaW5nPXV0Zi04Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlc2NlbmRfdGFibGVzID0gWycnXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAndWE9YW5kcm9pZCcgbm90IGluIGxpbmUgYW5kICd1YT1pT1MnIG5vdCBpbiBsaW5lOgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
