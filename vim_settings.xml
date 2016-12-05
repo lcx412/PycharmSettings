@@ -338,6 +338,13 @@
         <mark key="^" line="136" column="97" />
         <mark key="." line="136" column="97" />
       </file>
+      <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1480943150696">
+        <mark key="'" line="199" column="4" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="112" column="25" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="D:/PythonProjects/Streaming/uid_iid_mapper.py" timestamp="1480559689842">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="15" column="19" />
@@ -359,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="20" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="85" column="202" filename="D:/PythonProjects/Stat/Video_users.py" />
-      <jump line="207" column="12" filename="D:/PythonProjects/Stat/Video_users.py" />
       <jump line="135" column="24" filename="D:/PythonProjects/Stat/Video_users.py" />
       <jump line="209" column="8" filename="D:/PythonProjects/Stat/Video_users.py" />
       <jump line="185" column="26" filename="D:/PythonProjects/Stat/Video_users.py" />
@@ -459,10 +463,13 @@
       <jump line="48" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="258" column="37" filename="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" />
+      <jump line="107" column="176" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
+      <jump line="140" column="16" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
+      <jump line="199" column="4" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnRvZCArICIgMDA6MDA6MDAnKSIK</text>
       </register>
       <register name="-" type="4">
         <text>'charged_users_pure_ratio_week_basis',</text>
@@ -474,31 +481,31 @@
         <text encoding="base64">ICAgIHN1Yl9kaWN0X2sgPSByWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnRvZCArICIgMDA6MDA6MDAnKSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VzdG9tIHRleHQgZmllbGRzLiBUaGVzZSByZXN1bHRzIGFyZSB0aGVuIHN1cmZhY2VkIGFzIGEgY29udmVuaWVudCBzdW1tYXJ5IENTVi4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnllc19zdGFydCA9ICJ1bml4X3RpbWVzdGFtcCgnIiArIHNlbGYueWVzICsgIiAwMDowMDowMCcpIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QSB1dGlsaXR5IHRvIG1ha2UgaGFuZGxpbmcgbWFueSByZXN1bWVzIGVhc2llciBieSBhdXRvbWF0aWNhbGx5IHB1bGxpbmcgY29udGFjdCBpbmZvcm1hdGlvbiwgcmVxdWlyZWQgc2tpbGxzIGFuZAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">IiIiCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y3VzdG9tIHRleHQgZmllbGRzLiBUaGVzZSByZXN1bHRzIGFyZSB0aGVuIHN1cmZhY2VkIGFzIGEgY29udmVuaWVudCBzdW1tYXJ5IENTVi4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QSB1dGlsaXR5IHRvIG1ha2UgaGFuZGxpbmcgbWFueSByZXN1bWVzIGVhc2llciBieSBhdXRvbWF0aWNhbGx5IHB1bGxpbmcgY29udGFjdCBpbmZvcm1hdGlvbiwgcmVxdWlyZWQgc2tpbGxzIGFuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29kaW5nPXV0Zi04Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc2NlbmRfdGFibGVzID0gWycnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Y29kaW5nPXV0Zi04Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAndWE9YW5kcm9pZCcgbm90IGluIGxpbmUgYW5kICd1YT1pT1MnIG5vdCBpbiBsaW5lOgo=</text>
+        <text encoding="base64">ICAgIGRlc2NlbmRfdGFibGVzID0gWycnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
