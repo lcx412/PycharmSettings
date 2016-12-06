@@ -20,18 +20,16 @@
         <mark key="." line="553" column="21" />
         <mark key="^" line="553" column="21" />
       </file>
-      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481018485866">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="92" column="27" />
-        <mark key="." line="102" column="0" />
+      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481019614490">
+        <mark key="'" line="106" column="0" />
+        <mark key="^" line="6" column="66" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481018696956">
-        <mark key="'" line="44" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481020004995">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="68" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
         <mark key="'" line="98" column="4" />
@@ -196,7 +194,7 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="/Django Console" timestamp="1481008324090">
+      <file name="/Django Console" timestamp="1481018714347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1480990708231">
@@ -375,11 +373,11 @@
       <jump line="44" column="12" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgaHJlZj0iIj4K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlbD0iIg==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
@@ -388,31 +386,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VyX21zZy5leGVjdXRlKAogICAgICAgICAgICAgICAgdSJzZWxlY3QgZGlzdGluY3QgdXNlcl9pZCBmcm9tIG1zZ19zdGF0dXMgd2hlcmUgY29udGVudF9pZD17MH0gYW5kIGhhc19yZWFkPTEiLmZvcm1hdChjaWQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgaHJlZj0iIj4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX21zZy5jb21taXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgaHJlZj0iIj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgW3VpZF0gaW4gdWlkOgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25uX21zZy5jb21taXQoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkKICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgW3VpZF0gaW4gdWlkOgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
