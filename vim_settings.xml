@@ -136,12 +136,12 @@
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481002313644">
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481004368672">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="35" column="153" />
-        <mark key="]" line="35" column="153" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="35" column="153" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_income_index.py" timestamp="1480905969393">
         <mark key="'" line="103" column="58" />
@@ -354,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>历史好评</text>
