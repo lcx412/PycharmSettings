@@ -24,12 +24,12 @@
         <mark key="^" line="87" column="7" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481099188209">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="67" column="74" />
-        <mark key="]" line="67" column="35" />
-        <mark key="^" line="67" column="35" />
-        <mark key="." line="67" column="35" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481126703267">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="41" />
+        <mark key="^" line="28" column="65" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1481118024212">
         <mark key="'" line="103" column="4" />
@@ -231,12 +231,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481123048691">
-        <mark key="'" line="117" column="4" />
-        <mark key="[" line="105" column="10" />
-        <mark key="]" line="105" column="10" />
-        <mark key="^" line="97" column="22" />
-        <mark key="." line="105" column="10" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481124430228">
+        <mark key="'" line="127" column="4" />
+        <mark key="[" line="114" column="10" />
+        <mark key="]" line="114" column="17" />
+        <mark key="^" line="114" column="17" />
+        <mark key="." line="114" column="17" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -312,15 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="89" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
-      <jump line="144" column="24" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
-      <jump line="148" column="11" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="204" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="205" column="24" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
-      <jump line="707" column="60" filename="D:/PythonProjects/matrix/api/whiteboard.py" />
-      <jump line="75" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
-      <jump line="148" column="24" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
-      <jump line="61" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="48" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="258" column="37" filename="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" />
@@ -412,46 +403,55 @@
       <jump line="90" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="10" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="91" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="101" column="36" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="64" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="130" column="6" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="27" column="16" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="132" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="65" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="32" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="134" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="67" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>skills</text>
+        <text>前</text>
       </register>
       <register name="-" type="4">
-        <text>skills</text>
+        <text>前</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX3NraWxscyhzdHJpbmdfdG9fc2VhcmNoKToKICAgIHBhc3MK</text>
+      <register name="0" type="4">
+        <text>style=&quot;margin-bottom: 12px&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxici8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm4gKE5hbWUsR2VuZGVyLCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg1PjwvaDU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzdHJpbmdfdG9fc2VhcmNoOgo=</text>
+        <text encoding="base64">ICAgICAgICA8YnI+PGJyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIlJldHVybiB0aGUgYmFzZSBpbmZvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbmQgdGhlIGJhc2UgaW5mbyBvZiB0aGUgcGVyc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChsb2FkX3RpbWVyKQogICAgICAgICAgICAkKCJidXR0b24iKS5yZW1vdmVBdHRyKCJkaXNhYmxlZCIpOwogICAgICAgICAgICAkKCJidXR0b24iKS5odG1sKCK1vLP2Iik7CiAgICAgICAgfSwgNTAwMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ0bl9zZWNzID09IDApIHsKICAgICAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwobG9hZF90aW1lcikKICAgICAgICAgICAgICAgICQoImJ1dHRvbiIpLnJlbW92ZUF0dHIoImRpc2FibGVkIik7CiAgICAgICAgICAgICAgICAkKCJidXR0b24iKS5odG1sKCK1vLP2Iik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
