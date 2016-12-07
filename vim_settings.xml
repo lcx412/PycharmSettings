@@ -21,12 +21,11 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="137" column="59" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481045069724">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="74" column="12" />
-        <mark key="." line="74" column="12" />
-        <mark key="^" line="96" column="47" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481081797995">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1481042619534">
         <mark key="'" line="0" column="0" />
@@ -132,10 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="59" filename="D:/PythonProjects/Messages/log_received_collector.py" />
-      <jump line="85" column="12" filename="D:/PythonProjects/Messages/log_received_collector.py" />
-      <jump line="51" column="8" filename="D:/PythonProjects/Messages/log_received_collector.py" />
-      <jump line="70" column="27" filename="D:/PythonProjects/Messages/log_received_collector.py" />
       <jump line="113" column="8" filename="D:/PythonProjects/Messages/log_received_collector.py" />
       <jump line="92" column="39" filename="D:/PythonProjects/Messages/log_received_collector.py" />
       <jump line="129" column="8" filename="D:/PythonProjects/Messages/log_received_collector.py" />
@@ -232,46 +227,50 @@
       <jump line="138" column="4" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="41" column="17" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="106" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="70" column="31" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="72" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="122" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="115" column="8" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wage_tutor_bonus,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eyMgICAgICAgICQoImJ1dHRvbiIpLmF0dHIoImRpc2FibGVkIiwgImRpc2FibGVkIikjfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|ie-comp|ie-stand</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
       </register>
-      <register name="0" type="4">
-        <text>wage_tutor_bonus,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQud3JpdGUoJ8DBtcPWp7PWSUXE2rrLo6wtLi0hIScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsjICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Int7IHVybF9mb3IoJ3N0YXRpYycsZmlsZW5hbWU9J3Bvc3QuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">eyMgICAgICAgICQoImJ1dHRvbiIpLmF0dHIoImRpc2FibGVkIiwgImRpc2FibGVkIikjfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsjICAgICAgICAgICAgICAgIDxidXR0b24gaWQ9Imhhc19zZW50IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi14cyIgZGlzYWJsZWQgb25jbGljaz0iZ2V0X21zZ19zdGF0X3VzZXJfbGlzdCh7eyBtWzBdIH19LCAxKSI+1NjI69bQLi4uPC9idXR0b24+I30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsjICAgIDxoMj7XotLiMKO6x+vKudPDQ2hyb21lu/LV37vwuvzkr8DAxvehozwvaDI+I30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQud3JpdGUoJ6OsLS4tISEnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IEpTT04ucGFyc2UocmV0X2pzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbiA9IHZlcnNpb25bMF0ubWF0Y2goL1swLTldKy8pWzBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmVyc2lvbiAhPSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IyAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7I30KICAgICAgICB7IyAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwodGltZXIpI30KICAgICAgICB7IyAgICAgICAgICAgICQoImJ1dHRvbiIpLmh0bWwoIrW8s/YiKTsjfQogICAgICAgIHsjICAgICAgICAgICAgJCgiYnV0dG9uIikucmVtb3ZlQ2xhc3MoJ2J0bi1kYW5nZXInKS5hZGRDbGFzcygnYnRuLXByaW1hcnknKTsjfQogICAgICAgIHsjICAgICAgICAgICAgJCgiYnV0dG9uIikucmVtb3ZlQXR0cigiZGlzYWJsZWQiKTsjfQogICAgICAgIHsjICAgICAgICB9LCAxMDAwMDApOyN9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdmVyc2lvbiA9IG5hdmlnYXRvci51c2VyQWdlbnQubWF0Y2goL01TSUUgWzAtOV0rLyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMj7XotLiMqO6x+vKuTwvaDI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
