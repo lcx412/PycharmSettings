@@ -231,12 +231,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481118707581">
-        <mark key="'" line="94" column="4" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="70" column="26" />
-        <mark key="." line="72" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481119581103">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="99" column="8" />
+        <mark key="^" line="97" column="22" />
+        <mark key="." line="97" column="22" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -415,43 +415,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3dlaWJvX2FkZHJlc3Moc3RyaW5nX3RvX3NlYXJjaCk6CiAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>github_address</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX3Bob25lX251bWJlcihzdHJpbmdfdG9fc2VhcmNoKToKICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkKICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3dlaWJvX2FkZHJlc3Moc3RyaW5nX3RvX3NlYXJjaCk6CiAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZpbmQgdGhlIGJhc2UgaW5mbyBvZiB0aGUgcGVyc29uCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm4gKE5hbWUsR2VuZGVyLCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzdHJpbmdfdG9fc2VhcmNoOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICIiIlJldHVybiB0aGUgYmFzZSBpbmZvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbmQgdGhlIGJhc2UgaW5mbyBvZiB0aGUgcGVyc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdHlwZV9wYXR0ZXJuID0gcmUuY29tcGlsZShyJ1xbcHVzaF90eXBlPShcZD8pXF0nKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
+        <text encoding="base64">ICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
