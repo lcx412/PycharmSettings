@@ -35,12 +35,8 @@
         <mark key="^" line="67" column="35" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
-        <mark key="'" line="98" column="4" />
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="37" />
-        <mark key="^" line="72" column="37" />
+      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1481101560050">
+        <mark key="'" line="96" column="4" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1481042619534">
         <mark key="'" line="0" column="0" />
@@ -123,7 +119,15 @@
         <mark key="^" line="15" column="236" />
         <mark key="." line="15" column="236" />
       </file>
+      <file name="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" timestamp="1480941231682">
+        <mark key="'" line="258" column="37" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1480993508067" />
+      <file name="D:/PythonProjects/Poster/conf.ini" timestamp="1481101294495">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480932320177">
         <mark key="'" line="42" column="11" />
         <mark key="[" line="42" column="18" />
@@ -144,6 +148,12 @@
         <mark key="]" line="199" column="28" />
         <mark key="." line="199" column="28" />
         <mark key="^" line="199" column="28" />
+      </file>
+      <file name="D:/PythonProjects/Poster/poster.sh" timestamp="1481101606813">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
@@ -166,15 +176,18 @@
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1481092031889">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481004368672">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/PythonProjects/Poster/byr.py" timestamp="1481101046658">
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="37" />
+        <mark key="^" line="72" column="37" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_income_index.py" timestamp="1480905969393">
         <mark key="'" line="103" column="58" />
@@ -394,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>/data/home/luchengxiang/Poster</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>/data/home/luchengxiang/Poster</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
@@ -406,31 +419,31 @@
         <text encoding="base64">ZGVmIGNoZWNrX2VkdWNhdGlvbl9iYWNrZ3JvdW5kKHN0cmluZ190b19zZWFyY2gpOgogICAgcGFzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUic2VsZWN0IGRpc3RpbmN0IHVzZXJfaWQgZnJvbSBtc2dfc3RhdHVzIHdoZXJlIGNvbnRlbnRfaWQ9ezB9Ii5mb3JtYXQoY29udGVudF9pZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyX21zZy5leGVjdXRlKAo=</text>
+        <text encoding="base64">Ym9hcmRzID0gW2JvYXJkLnN0cmlwKCkgZm9yIGJvYXJkIGluIGJvYXJkc10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwb3J0X3R5cGUgPSB1J9LRzcbLzScK</text>
+        <text encoding="base64">Ym9hcmRzID0gYm9hcmRfZGljdFsnYm9hcmQnXS5zdHJpcCgpLnNwbGl0KCcsJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIK</text>
+        <text encoding="base64">Ym9hcmRfZGljdCA9IGRpY3QoY3AuaXRlbXMoJ3NtdGhfYm9hcmQnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyX3R5cGUgPT0gMToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBpZiB1c2VyX3R5cGUgPT0gMToKICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIKICAgICAgICAgICAgZXhwb3J0X3R5cGUgPSB1J9LRzcbLzScKICAgICAgICAgICAgY3VyX21zZy5leGVjdXRlKAogICAgICAgICAgICAgICAgdSJzZWxlY3QgZGlzdGluY3QgdXNlcl9pZCBmcm9tIG1zZ19zdGF0dXMgd2hlcmUgY29udGVudF9pZD17MH0iLmZvcm1hdChjb250ZW50X2lkKSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ym9hcmQgPSBKb2JJbmZvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">W2J5cl9ib2FyZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IG1bNV0gfX0gPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
