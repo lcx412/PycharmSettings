@@ -231,12 +231,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481093216961">
-        <mark key="'" line="87" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="64" column="47" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481118707581">
+        <mark key="'" line="94" column="4" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="70" column="26" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -312,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="16" filename="D:/PythonProjects/Messages/msg_received_collector.py" />
-      <jump line="32" column="32" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="259" column="80" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="113" column="96" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="61" column="89" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
       <jump line="144" column="24" filename="D:/PythonProjects/matrix/api/revenue_charge.py" />
       <jump line="148" column="11" filename="D:/PythonProjects/matrix/api/revenue_consume.py" />
@@ -396,7 +392,6 @@
       <jump line="26" column="29" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="67" column="47" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="18" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="87" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="75" column="94" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="47" column="22" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="95" column="29" filename="D:/PythonProjects/Poster/smth.py" />
@@ -412,46 +407,51 @@
       <jump line="71" column="12" filename="D:/PythonProjects/Messages/pv_received_collector.py" />
       <jump line="0" column="20" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="103" column="4" filename="D:/PythonProjects/Poster/smth.py" />
+      <jump line="34" column="28" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="87" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="90" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="10" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="91" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZnRfdGVhY2hlcnMgZmFpbGVkIgo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3Bob25lX251bWJlcihzdHJpbmdfdG9fc2VhcmNoKToKICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkKICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHlwZV9wYXR0ZXJuID0gcmUuY29tcGlsZShyJ1xbcHVzaF90eXBlPShcZD8pXF0nKQo=</text>
+        <text encoding="base64">ICAgIEZpbmQgdGhlIGJhc2UgaW5mbyBvZiB0aGUgcGVyc29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZWwuZ3JvdXAoKSBpZiB0ZWwgZWxzZSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X2JvYXJkLCBwb3N0X3RpdGxlCg==</text>
+        <text encoding="base64">ICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgYGRpcm5hbWUgJDBgCg==</text>
+        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVJUSUNMRV9QQVRIID0gJy4vYXJ0aWNsZXMvc210aC8nCg==</text>
+        <text encoding="base64">ICAgICMgdHlwZV9wYXR0ZXJuID0gcmUuY29tcGlsZShyJ1xbcHVzaF90eXBlPShcZD8pXF0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zdF9jb250ZW50ID0gb3BlbihBUlRJQ0xFX1BBVEggKyBib2FyZCArIG9zLnBhdGguc2VwICsgcG9zdF90aXRsZSwgJ3InKS5yZWFkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
