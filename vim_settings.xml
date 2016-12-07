@@ -158,11 +158,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="D:/PythonProjects/Messages/pv_received_collector.py" timestamp="1481108635111">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="60" column="28" />
-        <mark key="." line="73" column="0" />
+      <file name="D:/PythonProjects/Messages/pv_received_collector.py" timestamp="1481114870255">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
@@ -287,12 +287,12 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="51" column="127" />
       </file>
-      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1481106117727">
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1481114664860">
         <mark key="'" line="80" column="16" />
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="82" column="13" />
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="58" />
+        <mark key="." line="47" column="58" />
+        <mark key="^" line="47" column="58" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1480905879079">
         <mark key="'" line="144" column="24" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
+        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
@@ -434,31 +434,31 @@
         <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiZnRfdGVhY2hlcnMgZmFpbGVkIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
+        <text encoding="base64">ICAgICMgdHNfcGF0dGVybiA9IHJlLmNvbXBpbGUocideKFxkezR9LVxkezJ9LVxkezJ9IFxkezJ9OlxkezJ9OlxkezJ9KSxcZHszfScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMQo=</text>
+        <text encoding="base64">ICAgICMgdHlwZV9wYXR0ZXJuID0gcmUuY29tcGlsZShyJ1xbcHVzaF90eXBlPShcZD8pXF0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X2JvYXJkLCBwb3N0X3RpdGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHMgPSB0cy5ncm91cCgxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgYGRpcm5hbWUgJDBgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwb3N0X2JvYXJkLCBwb3N0X3RpdGxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVJUSUNMRV9QQVRIID0gJy4vYXJ0aWNsZXMvc210aC8nCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zdF9jb250ZW50ID0gb3BlbihBUlRJQ0xFX1BBVEggKyBib2FyZCArIG9zLnBhdGguc2VwICsgcG9zdF90aXRsZSwgJ3InKS5yZWFkKCkK</text>
+        <text encoding="base64">Y2QgYGRpcm5hbWUgJDBgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVJUSUNMRV9QQVRIID0gJy4vYXJ0aWNsZXMvc210aC8nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zdF9jb250ZW50ID0gb3BlbihBUlRJQ0xFX1BBVEggKyBib2FyZCArIG9zLnBhdGguc2VwICsgcG9zdF90aXRsZSwgJ3InKS5yZWFkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
