@@ -21,19 +21,19 @@
         <mark key="." line="553" column="21" />
         <mark key="^" line="553" column="21" />
       </file>
-      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481095004867">
+      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481099120735">
         <mark key="'" line="47" column="22" />
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="18" />
-        <mark key="^" line="75" column="18" />
+        <mark key="[" line="113" column="52" />
+        <mark key="]" line="113" column="52" />
+        <mark key="^" line="87" column="7" />
+        <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481094867300">
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1481099188209">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="51" column="58" />
-        <mark key="^" line="51" column="58" />
-        <mark key="." line="51" column="58" />
+        <mark key="[" line="67" column="74" />
+        <mark key="]" line="67" column="35" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="67" column="35" />
       </file>
       <file name="D:/PythonProjects/Poster/smth.py" timestamp="1480143007900">
         <mark key="'" line="98" column="4" />
@@ -78,6 +78,11 @@
         <mark key="." line="54" column="104" />
       </file>
       <file name="D:/PythonProjects/matrix-v1.1.0/static/js/post.js" timestamp="1481034632003" />
+      <file name="D:/PythonProjects/Messages/conf_msg/afanti_django_log.conf" timestamp="1480783292709">
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="9" column="91" />
+        <mark key="." line="9" column="91" />
+      </file>
       <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1480486604253">
         <mark key="'" line="114" column="8" />
         <mark key="[" line="102" column="35" />
@@ -231,6 +236,11 @@
         <mark key="." line="62" column="38" />
       </file>
       <file name="/user_structure.py" timestamp="1481008978549" />
+      <file name="D:/PythonProjects/Flask/gunicorn_run.sh" timestamp="1481099084727">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480669733471">
         <mark key="'" line="117" column="50" />
         <mark key="[" line="119" column="49" />
@@ -384,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>today</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>today</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
@@ -396,31 +406,31 @@
         <text encoding="base64">ZGVmIGNoZWNrX2VkdWNhdGlvbl9iYWNrZ3JvdW5kKHN0cmluZ190b19zZWFyY2gpOgogICAgcGFzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHUic2VsZWN0IGRpc3RpbmN0IHVzZXJfaWQgZnJvbSBtc2dfc3RhdHVzIHdoZXJlIGNvbnRlbnRfaWQ9ezB9Ii5mb3JtYXQoY29udGVudF9pZCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IG1bNV0gfX0gPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VyX21zZy5leGVjdXRlKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IGNvbHVtbnNbNV0gfX2jujwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwb3J0X3R5cGUgPSB1J9LRzcbLzScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyX3R5cGUgPT0gMToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNzdgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBpZiB1c2VyX3R5cGUgPT0gMToKICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIKICAgICAgICAgICAgZXhwb3J0X3R5cGUgPSB1J9LRzcbLzScKICAgICAgICAgICAgY3VyX21zZy5leGVjdXRlKAogICAgICAgICAgICAgICAgdSJzZWxlY3QgZGlzdGluY3QgdXNlcl9pZCBmcm9tIG1zZ19zdGF0dXMgd2hlcmUgY29udGVudF9pZD17MH0iLmZvcm1hdChjb250ZW50X2lkKSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX2dpdGh1Yl9hZGRyZXNzKHN0cmluZ190b19zZWFyY2gpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7IG1bNV0gfX0gPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
