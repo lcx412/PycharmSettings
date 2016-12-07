@@ -35,11 +35,11 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="36" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1481007248995">
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1481073904031">
         <mark key="'" line="297" column="25" />
-        <mark key="[" line="178" column="29" />
-        <mark key="]" line="178" column="29" />
-        <mark key="." line="178" column="29" />
+        <mark key="[" line="274" column="143" />
+        <mark key="]" line="274" column="144" />
+        <mark key="." line="274" column="127" />
         <mark key="^" line="178" column="29" />
       </file>
       <file name="D:/PythonProjects/matrix-v1.1.0/static/js/post.js" timestamp="1481034632003" />
@@ -234,8 +234,8 @@
       <jump line="106" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsjICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Int7IHVybF9mb3IoJ3N0YXRpYycsZmlsZW5hbWU9J3Bvc3QuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
+      <register name="&quot;" type="4">
+        <text>wage_tutor_bonus,</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -243,8 +243,8 @@
       <register name="/" type="4">
         <text>180</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIK</text>
+      <register name="0" type="4">
+        <text>wage_tutor_bonus,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsjICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Int7IHVybF9mb3IoJ3N0YXRpYycsZmlsZW5hbWU9J3Bvc3QuanMnKSB9fSI+PC9zY3JpcHQ+I30K</text>
