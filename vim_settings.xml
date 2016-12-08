@@ -109,6 +109,9 @@
         <mark key="^" line="289" column="29" />
         <mark key="." line="289" column="33" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1481169350162">
+        <mark key="'" line="23" column="17" />
+      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1480398996019">
         <mark key="'" line="170" column="54" />
         <mark key="[" line="148" column="209" />
@@ -322,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="258" column="37" filename="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" />
       <jump line="107" column="176" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
       <jump line="140" column="16" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
@@ -422,6 +424,7 @@
       <jump line="134" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="67" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="416" column="38" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="23" column="17" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -431,7 +434,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>180</text>
+        <text>stamp</text>
       </register>
       <register name="0" type="4">
         <text>style=&quot;margin-bottom: 12px&quot;</text>
@@ -468,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search>180</last-search>
+      <last-search>stamp</last-search>
       <last-offset />
-      <last-pattern>180</last-pattern>
+      <last-pattern>stamp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -487,6 +490,7 @@
         <entry>get_tea</entry>
         <entry>get_ft_tea</entry>
         <entry>180</entry>
+        <entry>stamp</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
