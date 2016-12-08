@@ -90,12 +90,12 @@
         <mark key="]" line="268" column="36" />
         <mark key="." line="268" column="36" />
       </file>
-      <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1481098806227">
+      <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1481164964249">
         <mark key="'" line="55" column="87" />
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="29" />
+        <mark key="[" line="51" column="138" />
+        <mark key="]" line="51" column="138" />
+        <mark key="^" line="51" column="138" />
+        <mark key="." line="51" column="138" />
       </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1480907492887">
         <mark key="[" line="11" column="89" />
@@ -257,8 +257,8 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1480669733471">
-        <mark key="'" line="117" column="50" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1481164269271">
+        <mark key="'" line="416" column="38" />
         <mark key="[" line="119" column="49" />
         <mark key="]" line="119" column="49" />
         <mark key="^" line="112" column="41" />
@@ -312,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="D:/PythonProjects/matrix/api/revenue_answer.py" />
       <jump line="95" column="18" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="258" column="37" filename="D:/PythonProjects/ResumeMiner/bin/resume_miner.py" />
       <jump line="107" column="176" filename="D:/PythonProjects/one4one/revenue_income_index.py" />
@@ -412,13 +411,14 @@
       <jump line="32" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="134" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="67" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
+      <jump line="416" column="38" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>前</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>前</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>180</text>
