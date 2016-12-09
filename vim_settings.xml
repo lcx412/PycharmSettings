@@ -106,7 +106,9 @@
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481249410263">
         <mark key="'" line="122" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481250243914" />
+      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481274154177">
+        <mark key="'" line="157" column="0" />
+      </file>
       <file name="D:/PythonProjects/transporter/tests/test_baidu_msg.py" timestamp="1481250129400">
         <mark key="'" line="23" column="38" />
       </file>
@@ -152,9 +154,6 @@
         <mark key="]" line="150" column="48" />
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
-      </file>
-      <file name="/Python Console" timestamp="1481248316026">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481004368672">
         <mark key="'" line="36" column="0" />
@@ -214,6 +213,9 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/fbthrift_server/handler.py" timestamp="1481252537239" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481274551643">
+        <mark key="'" line="57" column="0" />
+      </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481183528961">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="24" column="42" />
@@ -276,6 +278,7 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/message.py" timestamp="1481273965082" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1481262328009" />
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_worker.sh" timestamp="1481247742823" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1480906453842">
@@ -297,17 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="186" column="41" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="185" column="28" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="319" column="8" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="303" column="25" filename="D:/PythonProjects/one4one/ft_teachers.py" />
-      <jump line="1035" column="49" filename="D:/PythonProjects/matrix/statistics/models.py" />
-      <jump line="46" column="0" filename="D:/PythonProjects/matrix/api/financial_times.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/matrix/webapp/containers/StatPage.js" />
-      <jump line="6" column="58" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="105" column="0" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="95" column="23" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="66" column="0" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="104" column="0" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/Flask/app.py" />
@@ -397,6 +389,17 @@
       <jump line="28" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="55" column="4" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
+      <jump line="60" column="39" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="25" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="29" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="200" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="157" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="31" column="37" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="55" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="26" column="15" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="38" column="33" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -406,7 +409,7 @@
         <text>not success</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBXD4=</text>
+        <text>lock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb3N0X3JldHJ5X3RpbWVzID0gMQo=</text>
@@ -443,10 +446,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBXD4=</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>lock</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -464,6 +467,7 @@
         <entry>180</entry>
         <entry>stamp</entry>
         <entry encoding="base64">XDxBXD4=</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
