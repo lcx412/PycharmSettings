@@ -290,21 +290,18 @@
         <mark key="." line="411" column="93" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1481247920554" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481272963156">
-        <mark key="[" line="456" column="33" />
-        <mark key="]" line="456" column="33" />
-        <mark key="^" line="456" column="33" />
-        <mark key="." line="456" column="33" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481277574934">
+        <mark key="'" line="538" column="4" />
+        <mark key="[" line="531" column="0" />
+        <mark key="]" line="531" column="22" />
+        <mark key="." line="531" column="20" />
+        <mark key="^" line="531" column="20" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1481251236467">
         <mark key="'" line="42" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="104" column="0" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="107" column="0" filename="D:/PythonProjects/Flask/app.py" />
       <jump line="44" column="12" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="58" column="58" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="130" column="20" filename="D:/PythonProjects/Flask/app.py" />
@@ -401,46 +398,50 @@
       <jump line="38" column="33" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="468" column="14" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="537" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="464" column="20" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="538" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEV4Y2Vs1tDWsb3TzOG5qcG0vdMK</text>
       </register>
       <register name="-" type="4">
-        <text>not success</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3JldHJ5X3RpbWVzID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAjIEV4Y2Vs1tDWsb3TzOG5qcG0vdMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycnJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHNlbGYucG9zdChwb3N0X2JvYXJkLCBwb3N0X3RpdGxlLCBwb3N0X2NvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAocmFuZG9tLnJhbmRpbnQoMzAsIDQ1KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHNlbGYucG9zdChwb3N0X2JvYXJkLCBwb3N0X3RpdGxlLCBwb3N0X2NvbnRlbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAocmFuZG9tLnJhbmRpbnQoMzAsIDQ1KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImJ1dHRvbiIpLmF0dHIoImRpc2FibGVkIiwgImRpc2FibGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImJ1dHRvbiIpLmh0bWwoIrW8s/YiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImJ1dHRvbiIpLmF0dHIoImRpc2FibGVkIiwgImRpc2FibGVkIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
