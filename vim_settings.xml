@@ -106,8 +106,8 @@
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481275250927">
         <mark key="'" line="122" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481275957519">
-        <mark key="'" line="157" column="0" />
+      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481281598535">
+        <mark key="'" line="34" column="0" />
       </file>
       <file name="C:/Python2/Lib/os.py" timestamp="1481279700832" />
       <file name="D:/PythonProjects/transporter/tests/test_baidu_msg.py" timestamp="1481250129400">
@@ -214,7 +214,7 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/fbthrift_server/handler.py" timestamp="1481252537239" />
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481274551643">
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481281953265">
         <mark key="'" line="57" column="0" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481183528961">
@@ -303,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
-      <jump line="70" column="31" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="72" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="122" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="115" column="8" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
@@ -388,11 +386,8 @@
       <jump line="200" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="157" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="31" column="37" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
-      <jump line="55" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="26" column="15" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="38" column="33" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
-      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="468" column="14" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="537" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="464" column="20" filename="D:/PythonProjects/one4one/dts_detail.py" />
@@ -403,6 +398,11 @@
       <jump line="400" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="553" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="508" column="60" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="99" column="7" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="34" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
+      <jump line="55" column="59" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
