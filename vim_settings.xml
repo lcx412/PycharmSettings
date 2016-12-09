@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1481249727641" />
       <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1480691407119">
         <mark key="'" line="10" column="40" />
         <mark key="[" line="38" column="0" />
@@ -102,8 +103,12 @@
         <mark key="^" line="15" column="236" />
         <mark key="." line="15" column="236" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481249002584">
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481249410263">
         <mark key="'" line="122" column="0" />
+      </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481250243914" />
+      <file name="D:/PythonProjects/transporter/tests/test_baidu_msg.py" timestamp="1481250129400">
+        <mark key="'" line="23" column="38" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480932320177">
         <mark key="'" line="42" column="11" />
@@ -200,9 +205,6 @@
         <mark key="." line="377" column="16" />
         <mark key="^" line="377" column="16" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481167818671">
-        <mark key="[" line="105" column="18" />
-      </file>
       <file name="D:/PythonProjects/transporter/requirements/common.txt" timestamp="1481248490339" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1480147614289">
         <mark key="'" line="80" column="28" />
@@ -241,6 +243,7 @@
       </file>
       <file name="/django_settings.py" timestamp="1481165836563" />
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1481247869504" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/base.py" timestamp="1481249293130" />
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="51" column="127" />
@@ -279,10 +282,11 @@
         <mark key="." line="411" column="93" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1481247920554" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1481250887303">
+        <mark key="'" line="42" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="247" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="53" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="240" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="239" column="5" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -381,6 +385,8 @@
       <jump line="72" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="122" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
+      <jump line="23" column="38" filename="D:/PythonProjects/transporter/tests/test_baidu_msg.py" />
+      <jump line="42" column="30" filename="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
