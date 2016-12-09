@@ -214,7 +214,7 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/fbthrift_server/handler.py" timestamp="1481252537239" />
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481293831967">
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481296676604">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="38" />
@@ -305,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
-      <jump line="115" column="8" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="110" column="18" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="0" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
       <jump line="125" column="0" filename="D:/PythonProjects/Flask/templates/msg_stat.html" />
@@ -403,8 +401,10 @@
       <jump line="34" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="55" column="59" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
-      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="9" column="15" filename="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" />
+      <jump line="40" column="23" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="25" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
+      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
