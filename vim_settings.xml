@@ -214,8 +214,10 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/fbthrift_server/handler.py" timestamp="1481252537239" />
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481291180346">
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1481293831967">
         <mark key="'" line="57" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="38" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481183528961">
         <mark key="'" line="14" column="0" />
@@ -291,12 +293,12 @@
         <mark key="." line="411" column="93" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1481247920554" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481280753045">
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481294312061">
         <mark key="'" line="508" column="60" />
-        <mark key="[" line="498" column="0" />
-        <mark key="]" line="498" column="16" />
-        <mark key="." line="498" column="16" />
-        <mark key="^" line="509" column="89" />
+        <mark key="[" line="536" column="60" />
+        <mark key="]" line="536" column="61" />
+        <mark key="." line="536" column="61" />
+        <mark key="^" line="536" column="61" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1481283291197">
         <mark key="'" line="9" column="15" />
@@ -406,16 +408,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>等</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>等</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCQVNFX1BBVEggPSB1Jy9ob21lL2x1Y2hlbmd4aWFuZy9vbmU0b25lL8uryqbDv8jVuKi1vM/qx+lfJyArIHllc19kYXRlCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19wdXJlKHNlbGYsIHN0b3BfdGltZXI9VHJ1ZSk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhCQVNFX1BBVEgpCg==</text>
