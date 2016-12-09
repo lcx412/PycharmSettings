@@ -65,6 +65,8 @@
         <mark key="." line="122" column="21" />
         <mark key="^" line="114" column="70" />
       </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/http_server/http_result.py" timestamp="1481252466219" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/gateway.py" timestamp="1481252567895" />
       <file name="D:/PythonProjects/matrix/api/revenue_answer.py" timestamp="1480907228028">
         <mark key="'" line="48" column="8" />
         <mark key="[" line="54" column="104" />
@@ -187,7 +189,7 @@
         <mark key="." line="35" column="48" />
         <mark key="^" line="140" column="109" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481248064818">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481252781980">
         <mark key="'" line="151" column="70" />
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="68" />
@@ -216,6 +218,7 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/fbthrift_server/handler.py" timestamp="1481252537239" />
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481183528961">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="24" column="42" />
@@ -254,7 +257,9 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="51" column="127" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/utils.py" timestamp="1481248824881" />
+      <file name="D:/PythonProjects/transporter/src/transporter/utils.py" timestamp="1481252429019">
+        <mark key="'" line="55" column="4" />
+      </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1481114664860">
         <mark key="'" line="80" column="16" />
         <mark key="[" line="47" column="58" />
@@ -290,9 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="31" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="202" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="231" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="224" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="186" column="41" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="185" column="28" filename="D:/PythonProjects/one4one/ft_teachers.py" />
@@ -390,6 +392,9 @@
       <jump line="4" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
       <jump line="17" column="16" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
+      <jump line="28" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
+      <jump line="55" column="4" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
