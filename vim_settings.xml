@@ -56,11 +56,11 @@
         <mark key="." line="274" column="127" />
         <mark key="^" line="178" column="29" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481166365431">
+      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481341617105">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="122" column="21" />
         <mark key="]" line="122" column="21" />
-        <mark key="." line="122" column="21" />
+        <mark key="." line="97" column="63" />
         <mark key="^" line="114" column="70" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/http_server/http_result.py" timestamp="1481263825691" />
@@ -142,11 +142,11 @@
         <mark key="^" line="199" column="28" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1481248697725" />
-      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1481341245993">
-        <mark key="[" line="14" column="157" />
-        <mark key="]" line="14" column="170" />
-        <mark key="." line="14" column="170" />
-        <mark key="^" line="14" column="170" />
+      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1481341381342">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="58" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
@@ -439,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>select</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
