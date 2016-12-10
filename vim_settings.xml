@@ -46,8 +46,8 @@
         <mark key="." line="259" column="80" />
         <mark key="^" line="259" column="80" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1481073904031">
-        <mark key="'" line="297" column="25" />
+      <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1481335176016">
+        <mark key="'" line="123" column="29" />
         <mark key="[" line="274" column="143" />
         <mark key="]" line="274" column="144" />
         <mark key="." line="274" column="127" />
@@ -103,8 +103,12 @@
         <mark key="^" line="15" column="236" />
         <mark key="." line="15" column="236" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481334304410">
-        <mark key="'" line="122" column="0" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1481335901224">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481302632971">
         <mark key="'" line="34" column="0" />
@@ -308,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="80" column="28" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="72" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="203" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="151" column="29" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="86" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="177" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -370,7 +370,6 @@
       <jump line="45" column="54" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="72" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="122" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="23" column="38" filename="D:/PythonProjects/transporter/tests/test_baidu_msg.py" />
       <jump line="42" column="30" filename="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" />
       <jump line="4" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
@@ -408,13 +407,18 @@
       <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="67" column="4" filename="D:/Program Files/Python/Lib/copy.py" />
       <jump line="123" column="0" filename="D:/Program Files/Python/Lib/copy.py" />
+      <jump line="78" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
+      <jump line="122" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
+      <jump line="123" column="29" filename="D:/PythonProjects/one4one/ft_teachers.py" />
+      <jump line="102" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
+      <jump line="27" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpcnRoX2RhdGUgPQo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>等</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>deep</text>
