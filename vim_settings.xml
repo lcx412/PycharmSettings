@@ -25,12 +25,12 @@
         <mark key="^" line="87" column="7" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1481263126296">
+      <file name="D:/PythonProjects/Poster/smth.py" timestamp="1481339664939">
         <mark key="'" line="100" column="16" />
-        <mark key="[" line="93" column="50" />
-        <mark key="]" line="94" column="36" />
+        <mark key="[" line="104" column="84" />
+        <mark key="]" line="104" column="85" />
         <mark key="^" line="94" column="36" />
-        <mark key="." line="94" column="36" />
+        <mark key="." line="104" column="85" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1481251100439">
         <mark key="'" line="0" column="0" />
@@ -159,6 +159,9 @@
         <mark key="]" line="150" column="48" />
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
+      </file>
+      <file name="/Python Console" timestamp="1481338306267">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481004368672">
         <mark key="'" line="36" column="0" />
@@ -291,6 +294,13 @@
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/message.py" timestamp="1481275096575" />
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper.py" timestamp="1481262328009" />
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_worker.sh" timestamp="1481247742823" />
+      <file name="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" timestamp="1481339320028">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="D:/PythonProjects/transporter/misc/scripts/control.sh" timestamp="1481275015410" />
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1480906453842">
         <mark key="'" line="707" column="60" />
@@ -312,21 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="29" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="86" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="177" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="70" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="93" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="71" column="25" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="26" column="29" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="67" column="47" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="18" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="75" column="94" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="47" column="22" filename="D:/PythonProjects/Flask/app.py" />
-      <jump line="95" column="29" filename="D:/PythonProjects/Poster/smth.py" />
-      <jump line="4" column="10" filename="D:/PythonProjects/Poster/smth.py" />
-      <jump line="96" column="30" filename="D:/PythonProjects/Poster/smth.py" />
-      <jump line="101" column="4" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="100" column="4" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="23" column="0" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="102" column="4" filename="D:/PythonProjects/Poster/smth.py" />
@@ -412,13 +407,28 @@
       <jump line="123" column="29" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="102" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="27" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
+      <jump line="39" column="14" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="77" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="63" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="71" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="46" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="6" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="32" column="14" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="57" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="58" column="23" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="67" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="66" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="1" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="42" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="11" column="22" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
+      <jump line="69" column="19" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lX3N0YW1wID0gbWF0Y2guZ3JvdXAoMSkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">bGluZSA=</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
@@ -427,32 +437,31 @@
         <text encoding="base64">CiAgICBkZWYgX19wdXJlKHNlbGYsIHN0b3BfdGltZXI9VHJ1ZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpcnRoX2RhdGUgPQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lX3N0YW1wID0gbWF0Y2guZ3JvdXAoMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhCQVNFX1BBVEgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5zdGFsbF9pZCA9IGludCh2YWx1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGlwID0gKChpcFswXSAqIDI1NiArIGlwWzFdKSAqIDI1NiArIGlwWzJdKSAqIDI1NiArIGlwWzNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlZGlycyhCQVNFX1BBVEgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGlwID0gW2ludChpKSBmb3IgaSBpbiB2YWx1ZS5zcGxpdCgnLicpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaXAgPSBpbnQoc3RydWN0LnVucGFjaygnIUwnLCBpcClbMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIEV4Y2Vs1tDWsb3TzOG5qcG0vdMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaXAgPSBzb2NrZXQuaW5ldF9hdG9uKHZhbHVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJlcXVlc3RfdXNlcl9pZCA9IGludCh2YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb3dzID4gMDoK</text>
+        <text encoding="base64">ICAgICAgICAjIHRpbWVfc3RhbXAgPSBpbnQodGltZS5ta3RpbWUodGltZV9zdGFtcCkgLSBzdGFydF90aW1lKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.replace('/data/', 'http://image.afanti100.com/').replace(
-                    'image.oss:/http://image.afanti100.com/', 'http://afanti-image.afanti100.com/data/')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbnRpbnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
