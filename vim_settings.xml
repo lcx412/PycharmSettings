@@ -44,8 +44,8 @@
         <mark key="." line="117" column="35" />
         <mark key="^" line="117" column="35" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1480839033318">
-        <mark key="'" line="259" column="80" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1481429520291">
+        <mark key="'" line="45" column="50" />
         <mark key="[" line="158" column="79" />
         <mark key="]" line="259" column="80" />
         <mark key="." line="259" column="80" />
@@ -358,7 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="D:/PythonProjects/Poster/byr.py" />
       <jump line="102" column="4" filename="D:/PythonProjects/Poster/byr.py" />
       <jump line="71" column="12" filename="D:/PythonProjects/Messages/pv_received_collector.py" />
       <jump line="0" column="20" filename="D:/PythonProjects/Poster/smth.py" />
@@ -458,6 +457,7 @@
       <jump line="77" column="0" filename="D:/PythonProjects/one4one/django_hive.sh" />
       <jump line="28" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="135" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="45" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
