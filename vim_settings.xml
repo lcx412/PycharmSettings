@@ -264,11 +264,11 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481467321792">
-        <mark key="'" line="145" column="36" />
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481472266601">
+        <mark key="'" line="144" column="36" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
         <mark key="^" line="26" column="47" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
@@ -462,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -474,13 +474,13 @@
         <text encoding="base64">ICBiaXJ0aCAgSU5UKDgpIENPTU1FTlQgJ7P2yfrE6tTCJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -492,13 +492,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJpcnRoID0gcm0uY2hlY2tfYmlydGgoKQo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
