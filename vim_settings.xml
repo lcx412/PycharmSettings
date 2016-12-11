@@ -297,12 +297,6 @@
         <mark key="^" line="112" column="41" />
         <mark key="." line="119" column="49" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1481432149207">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="36" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-      </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="51" column="127" />
@@ -468,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -480,31 +474,31 @@
         <text encoding="base64">ICBiaXJ0aCAgSU5UKDgpIENPTU1FTlQgJ7P2yfrE6tTCJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJpcnRoID0gcm0uY2hlY2tfYmlydGgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmRlciA9IHJtLmNoZWNrX2dlbmRlcigpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBybS5jaGVja19uYW1lKHNlbGYucmF3X3NlbnRlbmNlX2xpc3QpCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhd19zZW50ZW5jZV9saXN0ID0gcm0uY29udmVydF9wZGZfdG9fc2VudGVuY2VfbGlzdChzZWxmLmZpbGVfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJpcnRoID0gcm0uY2hlY2tfYmlydGgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
