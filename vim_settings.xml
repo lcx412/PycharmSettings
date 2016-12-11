@@ -105,12 +105,12 @@
       <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1481176622712">
         <mark key="'" line="23" column="17" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" timestamp="1481458933838">
-        <mark key="'" line="8" column="60" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" timestamp="1481459085420">
+        <mark key="'" line="10" column="60" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1480398996019">
         <mark key="'" line="170" column="54" />
@@ -262,12 +262,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481457967159">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="39" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481462817261">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -363,22 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="38" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
-      <jump line="23" column="17" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
-      <jump line="44" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="17" column="29" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="35" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="37" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="11" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="57" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="23" column="37" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="116" column="38" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="91" column="16" filename="D:/PythonProjects/Poster/smth.py" />
-      <jump line="14" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="149" column="70" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
-      <jump line="45" column="54" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="72" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="0" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="23" column="38" filename="D:/PythonProjects/transporter/tests/test_baidu_msg.py" />
       <jump line="42" column="30" filename="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" />
@@ -447,12 +431,7 @@
       <jump line="132" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="30" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="135" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="124" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="27" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="129" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="134" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="131" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="81" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="7" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" />
       <jump line="74" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="26" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -463,63 +442,83 @@
       <jump line="91" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="16" column="40" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
       <jump line="22" column="60" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
+      <jump line="22" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="129" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="12" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="82" column="39" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="134" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="79" column="36" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="84" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="110" column="31" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="126" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="98" column="30" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="153" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="152" column="24" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="89" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="171" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="85" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="127" column="20" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="125" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="124" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="81" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="139" column="33" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="27" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldCA9IHsncmF3X3RleHQnOiByYXdfdGV4dH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>sentence_list</text>
       </register>
       <register name="/" type="4">
-        <text>gender</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbCA9IFRFTEVQSE9ORV9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc3RyaW5nX3RvX3NlYXJjaCkK</text>
+      <register name="0" type="4">
+        <text>extract_all_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXVuaXF1ZSBrZXkgYGRhdGVfdHlwZWAgKGRhdGUsdGVhY2hlcl90eXBlKQo=</text>
+        <text encoding="base64">ICAgIHJldCA9IHsncmF3X3RleHQnOiByYXdfdGV4dH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRhdGUgaW50KDEwKSB1bnNpZ25lZCBub3QgbnVsbCBkZWZhdWx0IDAgY29tbWVudCAnzOy8tsjVxtp5eXl5bW1kZCcsIHRlYWNoZXJfdHlwZSB0aW55aW50KDUpIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgMCBjb21tZW50ICfA4LHwo7owy/nT0Liotby9zMqmo6wx1NrWsL3MyqajrDK089GnyfonLAoJdGVhY2hlcl9jb3VudCBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgMCBjb21tZW50ICe9zMqmyv3BvycsCglvbmxpbmVfY291bnQgaW50KDEwKSB1bnNpZ25lZCBub3QgbnVsbCBkZWZhdWx0IDAgY29tbWVudCAnyc/P38jLyv0nLAoJb25saW5lX3JhdGlvIGRlY2ltYWwoMTAsMikgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMC4wMCcgY29tbWVudCAnyc/P38LKo6iw2bfWyv0lo6knLAoJdGVhY2hlcl9jb3VudF90dXRvcmVkIGludCgxMCkgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMCcgY29tbWVudCAn09CzybmmuKi1vLzHwryjqNPQxvDWucqxvOSjrLy0uKi1vMqxs6SjqbXEvczKpsr9wb8nLAoJdGVhY2hlcl9jb3VudF9pZGxlIGludCgxMCkgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMCcgY29tbWVudCAnv9XP0L3MyqbK/aO6vLS1sczsyc/P38i0w7vT0LPJuaa4qLW8vMfCvLXEvczKpsr9wb8nLAoJdGVhY2hlcl9pZGxlX3JhdGlvIGRlY2ltYWwoMTAsMikgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMC4wMCcgY29tbWVudCAnvczKpr/Vz9DCyqOosNm31sr9JaOpJywKCW9ubGluZV9kdXJhdGlvbiBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgJzAnIGNvbW1lbnQgJ9Taz9/X3Mqxs6QocyknLAoJb25saW5lX2R1cmF0aW9uX3Blcl90ZWFjaGVyIGludCgxMCkgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMC4wMCcgY29tbWVudCAn1NrP373Myqa1xMjLvvnU2s/fyrGzpChzKScsCgl0dXRvcl9kdXJhdGlvbiBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgJzAnIGNvbW1lbnQgJ7iotbzX3Mqxs6QocyknLAoJdHV0b3JfZHVyYXRpb25fcGVyX3RlYWNoZXIgaW50KDEwKSB1bnNpZ25lZCBub3QgbnVsbCBkZWZhdWx0ICcwLjAwJyBjb21tZW50ICfT0LPJuaa4qLW8vMfCvMDPyqa1xMjLvvm4qLW8yrGzpChzKScsCgl0dXRvcl9kdXJhdGlvbl9wZXJfcmVjb3JkIGludCgxMCkgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMC4wMCcgY29tbWVudCAns8m5priotby8x8K8tcTDv7Wlxr2++cqxs6QocyknLAoJcmVqZWN0ZWRfcmVjb3JkcyBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgJzAnIGNvbW1lbnQgJ77ctaXBv6Oos6zKsb7cvvi78tXf1ve2r77cvvijqScsCglzdWNjZXNzX3JlY29yZHMgaW50KDEwKSB1bnNpZ25lZCBub3QgbnVsbCBkZWZhdWx0ICcwJyBjb21tZW50ICezybmmuKi1vLWlwb+jqNPQxvDWucqxvOQsvLS4qLW8yrGzpKOpJywKCXJlamVjdGVkX3JhdGlvIGRlY2ltYWwoMTAsMikgdW5zaWduZWQgbm90IG51bGwgZGVmYXVsdCAnMC4wMCcgY29tbWVudCAnvty1pcLKo7q+3LWlwb8vKL7ctaXBvyuzybmmuKi1vLWlwb8po6iw2bfWyv0lo6knLAoJd2FnZV90b3RhbCBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgJzAnIGNvbW1lbnQgJ9fcuaTXyqOot9ajqScsCgl3YWdlX2F2ZSBpbnQoMTApIHVuc2lnbmVkIG5vdCBudWxsIGRlZmF1bHQgJzAnIGNvbW1lbnQgJ9PQs8m5priotby8x8K8wM/KprXEyMu++bmk18qjqLfWo6knLAo=</text>
+        <text encoding="base64">ICAgIGV4dHJhY3RfYWxsX2luZm8ocmF3X3NlbnRlbmNlX2xpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnxNAnIGluIGxpbmUgb3IgJ8WuJyBpbiBsaW5lOgo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3Bvc2l0aW9uKHNlbnRlbmNlKToKICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdNJwo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX2VkdWNhdGlvbl9iYWNrZ3JvdW5kKHNlbnRlbmNlKToKICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnxa4nIGluIHN0cmluZ190b19zZWFyY2g6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZixmaWxlX3BhdGgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmFtZQogICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYXcgPSBjb252ZXJ0X3BkZl90b19zZW50ZW5jZV9saXN0KGZpbGVfcGF0aCkK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBuYW1lX2ZvdW5kOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYXcgPSBjb252ZXJ0X3BkZl90b19zZW50ZW5jZV9saXN0KGZpbGVfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>% s/string_to_search/sentence/g</text>
       </register>
     </registers>
     <search>
-      <last-search>gender</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>gender</last-pattern>
+      <last-pattern>print</last-pattern>
+      <last-replace>sentence</last-replace>
+      <last-substitute>string_to_search</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>idle</entry>
-        <entry>hour</entry>
-        <entry>ratio</entry>
         <entry>get_ratio</entry>
         <entry>cast</entry>
         <entry>历史好评</entry>
@@ -534,9 +533,16 @@
         <entry>deep</entry>
         <entry encoding="base64">XDxHRU5ERVJfU0VBUkNIX1BBVFRFUk5cPg==</entry>
         <entry>gender</entry>
+        <entry>$s</entry>
+        <entry>string_to_search</entry>
+        <entry>tele</entry>
+        <entry>tel</entry>
+        <entry>phone</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
+        <entry>% s/string_to_search/sentence/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
