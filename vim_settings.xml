@@ -254,7 +254,8 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481425307635">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481455905226">
+        <mark key="'" line="132" column="0" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="127" column="12" />
@@ -354,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="12" filename="D:/PythonProjects/Messages/pv_received_collector.py" />
       <jump line="0" column="20" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="103" column="4" filename="D:/PythonProjects/Poster/smth.py" />
       <jump line="34" column="28" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -385,7 +385,6 @@
       <jump line="23" column="37" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="116" column="38" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="91" column="16" filename="D:/PythonProjects/Poster/smth.py" />
-      <jump line="24" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="14" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="149" column="70" filename="D:/PythonProjects/one4one/zuoyeba_report.py" />
       <jump line="45" column="54" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
@@ -454,6 +453,8 @@
       <jump line="135" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="45" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="440" column="34" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="24" column="28" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="132" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
