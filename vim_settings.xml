@@ -264,12 +264,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481472266601">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481473354260">
         <mark key="'" line="144" column="36" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="26" column="47" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="46" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -311,6 +311,9 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/utils.py" timestamp="1481252429019">
         <mark key="'" line="55" column="4" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" timestamp="1481472941840">
+        <mark key="'" line="11268" column="0" />
       </file>
       <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1481114664860">
         <mark key="'" line="80" column="16" />
@@ -359,11 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="30" filename="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" />
-      <jump line="4" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
-      <jump line="44" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
-      <jump line="17" column="16" filename="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" />
-      <jump line="28" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="1" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="55" column="4" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="60" column="39" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
@@ -459,31 +457,36 @@
       <jump line="27" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="7" column="32" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
       <jump line="145" column="36" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="65" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
+      <jump line="5" column="13" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
+      <jump line="1" column="2" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
+      <jump line="11311" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
+      <jump line="11268" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>789</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>789</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiaXJ0aCAgSU5UKDgpIENPTU1FTlQgJ7P2yfrE6tTCJywK</text>
+        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
+        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -495,10 +498,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
