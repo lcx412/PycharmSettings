@@ -88,7 +88,7 @@
         <mark key="^" line="102" column="35" />
         <mark key="." line="102" column="35" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1481251658855">
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1481535740362">
         <mark key="'" line="17" column="16" />
       </file>
       <file name="D:/PythonProjects/Messages/update_message_status.py" timestamp="1481164964249">
@@ -295,8 +295,8 @@
         <mark key="^" line="112" column="41" />
         <mark key="." line="119" column="49" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1481534625010">
-        <mark key="'" line="36" column="39" />
+      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1481535750995">
+        <mark key="'" line="25" column="42" />
       </file>
       <file name="D:/PythonProjects/Flask/simple_server.py" timestamp="1480214838689">
         <mark key="'" line="63" column="0" />
@@ -367,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="400" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="553" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="508" column="60" filename="D:/PythonProjects/one4one/dts_detail.py" />
@@ -467,6 +466,7 @@
       <jump line="136" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
       <jump line="50" column="0" filename="D:/PythonProjects/transporter/src/transporter/init_app.py" />
       <jump line="36" column="39" filename="D:/PythonProjects/transporter/src/transporter/init_app.py" />
+      <jump line="25" column="42" filename="D:/PythonProjects/transporter/src/transporter/init_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
