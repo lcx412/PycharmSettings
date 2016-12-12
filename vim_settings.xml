@@ -23,7 +23,7 @@
         <mark key="." line="553" column="21" />
         <mark key="^" line="553" column="21" />
       </file>
-      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481099120735">
+      <file name="D:/PythonProjects/Flask/app.py" timestamp="1481512776701">
         <mark key="'" line="47" column="22" />
         <mark key="[" line="113" column="52" />
         <mark key="]" line="113" column="52" />
@@ -80,12 +80,12 @@
         <mark key="]" line="9" column="91" />
         <mark key="." line="9" column="91" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481511250273">
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481512273481">
         <mark key="'" line="114" column="8" />
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="102" column="36" />
-        <mark key="^" line="102" column="38" />
-        <mark key="." line="102" column="36" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="35" />
+        <mark key="^" line="102" column="35" />
+        <mark key="." line="102" column="35" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1480995373038">
         <mark key="[" line="268" column="35" />
@@ -263,12 +263,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481509325205">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="20" column="76" />
-        <mark key="]" line="20" column="76" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481512416544">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="20" column="76" />
-        <mark key="." line="20" column="76" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -469,8 +469,8 @@
       <jump line="25" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -482,22 +482,22 @@
         <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
+        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
