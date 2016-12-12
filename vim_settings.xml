@@ -165,7 +165,6 @@
         <mark key="." line="199" column="28" />
         <mark key="^" line="199" column="28" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1481420565632" />
       <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1481359598338">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="0" />
@@ -264,12 +263,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481473354260">
-        <mark key="'" line="144" column="36" />
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-        <mark key="." line="24" column="46" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481509325205">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="20" column="76" />
+        <mark key="^" line="20" column="76" />
+        <mark key="." line="20" column="76" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -362,8 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
-      <jump line="55" column="4" filename="D:/PythonProjects/transporter/src/transporter/utils.py" />
       <jump line="60" column="39" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="25" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="29" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
@@ -462,13 +459,15 @@
       <jump line="1" column="2" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
       <jump line="11311" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
       <jump line="11268" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
+      <jump line="116" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="25" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>789</text>
+        <text>china_university_list</text>
       </register>
       <register name="-" type="4">
-        <text>789</text>
+        <text>china_university_list</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -477,19 +476,19 @@
         <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
+        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -501,7 +500,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
