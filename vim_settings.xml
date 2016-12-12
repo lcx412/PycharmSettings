@@ -263,8 +263,8 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481515789051">
-        <mark key="'" line="111" column="7" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481521860708">
+        <mark key="'" line="182" column="4" />
         <mark key="[" line="32" column="56" />
         <mark key="]" line="32" column="60" />
         <mark key="." line="32" column="60" />
@@ -367,9 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
-      <jump line="29" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
-      <jump line="200" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="157" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="31" column="37" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="26" column="15" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
@@ -467,6 +464,9 @@
       <jump line="25" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="33" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="110" column="7" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="34" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="183" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="182" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
