@@ -46,6 +46,7 @@
         <mark key="^" line="94" column="36" />
         <mark key="." line="104" column="85" />
       </file>
+      <file name="D:/Program Files/Python/Lib/configparser.py" timestamp="1481536467280" />
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1481251100439">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="117" column="14" />
@@ -98,10 +99,11 @@
         <mark key="^" line="51" column="138" />
         <mark key="." line="51" column="138" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1481532017819">
-        <mark key="[" line="181" column="360" />
-        <mark key="]" line="181" column="360" />
-        <mark key="." line="181" column="360" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1481537238967">
+        <mark key="[" line="286" column="33" />
+        <mark key="]" line="286" column="34" />
+        <mark key="." line="40" column="91" />
+        <mark key="^" line="286" column="32" />
       </file>
       <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1481176622712">
         <mark key="'" line="23" column="17" />
@@ -470,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
