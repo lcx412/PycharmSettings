@@ -263,12 +263,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481512416544">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="76" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481515336766">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -367,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="39" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="25" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="29" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
       <jump line="200" column="0" filename="D:/PythonProjects/transporter/src/transporter/bpush.py" />
@@ -467,40 +466,41 @@
       <jump line="11268" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
       <jump line="116" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="25" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="33" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
+      <register name="&quot;" type="4">
+        <text>LIST</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>LIST</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsnY2hlbmd4aWFuZy5sdUBsZWplbnQuY29tJ10K</text>
+      <register name="0" type="4">
+        <text>CHINA_UNIVERSITY_LIST2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAgJSBzY2hvb2xbJ25hbWUnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
+        <text encoding="base64">QklSVEhfREFURV9TRUFSQ0hfUEFUVEVSTiA9IHJlLmNvbXBpbGUocicxOVs4OV1cZFsuXC1dXGR7Mn0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
+        <text encoding="base64">ICAgIHJhd190ZXh0ID0gCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoIC1sIHdlYiAxMC40NC41NC41MyAvdXNyL2Jpbi9teXNxbGFkbWluIC0tZGVmYXVsdHMtZmlsZT0vZGF0YS93ZWIvbXlzcWwvbXkuY25mIC11YWZhbnRpIC1wTGVqZW50MTY4ICBmbHVzaC10YWJsZXMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
