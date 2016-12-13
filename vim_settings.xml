@@ -191,11 +191,6 @@
         <mark key="." line="150" column="48" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1481612936532">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-      </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1481004368672">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="19" column="0" />
@@ -263,12 +258,12 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481613304022">
-        <mark key="'" line="202" column="4" />
-        <mark key="[" line="177" column="27" />
-        <mark key="]" line="177" column="27" />
-        <mark key="^" line="191" column="18" />
-        <mark key="." line="177" column="27" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481617723238">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="184" column="62" />
+        <mark key="]" line="185" column="29" />
+        <mark key="." line="185" column="29" />
+        <mark key="^" line="185" column="29" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -363,12 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
-      <jump line="67" column="4" filename="D:/Program Files/Python/Lib/copy.py" />
-      <jump line="123" column="0" filename="D:/Program Files/Python/Lib/copy.py" />
-      <jump line="78" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="122" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="123" column="29" filename="D:/PythonProjects/one4one/ft_teachers.py" />
       <jump line="102" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="27" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
       <jump line="39" column="14" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
@@ -438,7 +427,6 @@
       <jump line="110" column="7" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="34" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="183" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="182" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="55" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="109" column="44" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="30" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -459,50 +447,57 @@
       <jump line="185" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="112" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="137" column="26" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="0" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="194" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="81" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="195" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="146" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="175" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="151" column="23" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="182" column="20" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="161" column="37" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="4" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="191" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>email</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBlbWFpbF9mb3VuZDoKICAgICAgICByZXRbJ2VtYWlsJ10gPSAnJwo=</text>
+        <text encoding="base64">ICAgIGVkdWNhdGlvbl9sZXZlbCA9IEVEVUNBVElPTl9MRVZFTF9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc2VudGVuY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgIHByaW50IGkuZW5jb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGkgaW4gcmF3X3NlbnRlbmNlX2xpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxpbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGdlbmRlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGdlbmRlci5ncm91cCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGpvYl9zZWVrZXJbJ3Jhd190ZXh0J10K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBmdWxsX3N0cmluZwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50IHJhd19zZW50ZW5jZV9saXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGZ1bGxfc3RyaW5nKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGZ1bGxfc3RyaW5nLCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGVkdWNhdGlvbl9sZXZlbAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICcyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnMScK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
