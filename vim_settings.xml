@@ -170,24 +170,12 @@
         <mark key="^" line="199" column="28" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1481533807299" />
-      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1481359598338">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
         <mark key="[" line="68" column="96" />
         <mark key="]" line="68" column="97" />
         <mark key="^" line="68" column="97" />
         <mark key="." line="68" column="97" />
-      </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" timestamp="1481464939446">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="7" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resume_miner.py" timestamp="1480950914068">
         <mark key="'" line="242" column="7" />
@@ -276,11 +264,11 @@
         <mark key="." line="1516" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481646533692">
-        <mark key="[" line="196" column="102" />
-        <mark key="]" line="196" column="102" />
-        <mark key="^" line="196" column="108" />
-        <mark key="." line="196" column="102" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481648029667">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -478,10 +466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>check_birth</text>
