@@ -258,12 +258,12 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481617723238">
-        <mark key="'" line="194" column="16" />
-        <mark key="[" line="184" column="62" />
-        <mark key="]" line="185" column="29" />
-        <mark key="." line="185" column="29" />
-        <mark key="^" line="185" column="29" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481618642857">
+        <mark key="'" line="203" column="16" />
+        <mark key="[" line="178" column="18" />
+        <mark key="]" line="178" column="20" />
+        <mark key="." line="178" column="20" />
+        <mark key="^" line="178" column="20" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -358,9 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="18" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="27" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" />
-      <jump line="39" column="14" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
       <jump line="77" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
       <jump line="63" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
       <jump line="71" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
@@ -458,19 +455,22 @@
       <jump line="161" column="37" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="4" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="191" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="130" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="96" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="202" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>email</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVkdWNhdGlvbl9sZXZlbCA9IEVEVUNBVElPTl9MRVZFTF9TRUFSQ0hfUEFUVEVSTi5zZWFyY2goc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZW1haWwnOiAnJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
