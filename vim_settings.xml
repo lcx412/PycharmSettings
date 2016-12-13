@@ -261,12 +261,12 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481523697582">
-        <mark key="'" line="181" column="4" />
-        <mark key="[" line="109" column="11" />
-        <mark key="]" line="109" column="44" />
-        <mark key="." line="109" column="44" />
-        <mark key="^" line="109" column="44" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481609992991">
+        <mark key="'" line="184" column="4" />
+        <mark key="[" line="117" column="41" />
+        <mark key="]" line="118" column="7" />
+        <mark key="." line="118" column="7" />
+        <mark key="^" line="118" column="7" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -463,44 +463,44 @@
       <jump line="292" column="8" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCBlbmRfdGltZT5zdGFydF90aW1l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBlbmRfdGltZT5zdGFydF90aW1l</text>
+        <text>education_background</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>r'(https?://)?github.com/\w+(?!\w)'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGNoZWNrX2VkdWNhdGlvbl9iYWNrZ3JvdW5kKHNlbnRlbmNlKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzY2hvb2xbJ25hbWUnXQo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX2VkdWNhdGlvbl9sZXZlbChzZW50ZW5jZSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVsb2FkKHN5cykK</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3dlaWJvX2FkZHJlc3Moc2VudGVuY2UpOgogICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAgJSBzY2hvb2xbJ25hbWUnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgQ0hJTkFfVU5JVkVSU0lUWV9MSVNUCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
