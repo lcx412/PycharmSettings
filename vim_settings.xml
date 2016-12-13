@@ -258,12 +258,12 @@
         <mark key="." line="76" column="61" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481623654689">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481626255288">
         <mark key="'" line="127" column="10" />
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="30" column="56" />
-        <mark key="." line="30" column="56" />
-        <mark key="^" line="30" column="56" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="89" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -461,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>岁</text>
+        <text>(iOS|Android|Python)(初级|中级|高级)(产品经理|(研发|开发|数据挖掘)工程师)</text>
       </register>
       <register name="-" type="4">
-        <text>岁</text>
+        <text>(iOS|Android|Python)(初级|中级|高级)(产品经理|(研发|开发|数据挖掘)工程师)</text>
       </register>
       <register name="/" type="4">
         <text>cet</text>
