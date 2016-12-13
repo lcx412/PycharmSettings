@@ -257,6 +257,12 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
+      <file name="D:/PythonProjects/ResumeMiner/res/Positions.txt" timestamp="1481627035057">
+        <mark key="'" line="2213" column="3" />
+        <mark key="[" line="1170" column="0" />
+        <mark key="]" line="1170" column="0" />
+        <mark key="." line="1170" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481626255288">
         <mark key="'" line="127" column="10" />
@@ -358,34 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="14" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="57" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="58" column="23" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="67" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="66" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="1" column="0" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="42" column="12" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="11" column="22" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="69" column="19" filename="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" />
-      <jump line="8" column="0" filename="D:/PythonProjects/one4one/django_hive.sh" />
-      <jump line="77" column="0" filename="D:/PythonProjects/one4one/django_hive.sh" />
-      <jump line="28" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="45" column="50" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="440" column="34" filename="D:/PythonProjects/one4one/dts_detail.py" />
-      <jump line="24" column="28" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="7" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="132" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="135" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="131" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="7" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" />
-      <jump line="74" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="26" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="41" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="75" column="17" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="77" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="20" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="91" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="16" column="40" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
       <jump line="22" column="60" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
       <jump line="22" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="129" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -458,55 +436,83 @@
       <jump line="179" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="188" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="126" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="2298" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="78" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="2297" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="2281" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="2282" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="2295" column="7" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="4" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="60" column="9" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="94" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="95" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="249" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="449" column="11" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="553" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="556" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="557" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="607" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="608" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="658" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="697" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="723" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="724" column="13" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="893" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="897" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="917" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="936" column="8" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="942" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="943" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
+      <jump line="2232" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(iOS|Android|Python)(初级|中级|高级)(产品经理|(研发|开发|数据挖掘)工程师)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">vLHV0LTy19bUsQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(iOS|Android|Python)(初级|中级|高级)(产品经理|(研发|开发|数据挖掘)工程师)</text>
+        <text>年薪16万起聘</text>
       </register>
       <register name="/" type="4">
-        <text>cet</text>
+        <text>销售</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QUdFX1NFQVJDSF9QQVRURVJOID0gcmUuY29tcGlsZSh1cicoPzwhXGQpKFxkezJ9KcvqJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja19jZXRfbGV2ZWwoZXh0cmFjdGVkLCBsaW5lKQo=</text>
+        <text encoding="base64">vLHV0LTy19bUsQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxpbmUK</text>
+        <text encoding="base64">ob68saG/SkFWQbjfvLa5pLPMyqYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+        <text encoding="base64">ob68saG/SkFWQbmks8zKpgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxpbmUK</text>
+        <text encoding="base64">zqLQxdeo1LEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">06a4trvhvMYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmdWxsX3N0cmluZwo=</text>
+        <text encoding="base64">xr3MqLrDv9W85LTztdfQvTQwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IHJhd19zZW50ZW5jZV9saXN0Cg==</text>
+        <text encoding="base64">vfDI2r270tfUsbXX0L02S87lz9XLq9DdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB0eXBlKGZ1bGxfc3RyaW5nKQo=</text>
+        <text encoding="base64">z/rK276twO0ry6vQ3Su7pcGqzfgrzuXP1dK7vfArtdfQvTYwMDDG8CvLq9DdK8ur0N0ry6vQ3Qo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGZ1bGxfc3RyaW5nLCkK</text>
+        <text encoding="base64">v86zzLnLzsrJz8rQuavLvrXX0L00LTEwS7jfzOGzyQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cet</last-search>
+      <last-search>销售</last-search>
       <last-offset />
-      <last-pattern>cet</last-pattern>
+      <last-pattern>销售</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>string_to_search</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>历史好评</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>Ft_Tea</entry>
         <entry>get_tea</entry>
@@ -534,6 +539,7 @@
         <entry>print</entry>
         <entry>engl</entry>
         <entry>cet</entry>
+        <entry>销售</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
