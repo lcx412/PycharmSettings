@@ -264,11 +264,11 @@
         <mark key="." line="1516" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481648315285">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="23" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="23" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481649193887">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="25" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -466,10 +466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>check_birth</text>
