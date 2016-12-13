@@ -264,12 +264,12 @@
         <mark key="." line="1516" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481639973941">
-        <mark key="'" line="123" column="39" />
-        <mark key="[" line="34" column="48" />
-        <mark key="]" line="34" column="68" />
-        <mark key="^" line="34" column="68" />
-        <mark key="." line="34" column="68" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481642770823">
+        <mark key="'" line="186" column="27" />
+        <mark key="[" line="98" column="33" />
+        <mark key="]" line="98" column="45" />
+        <mark key="^" line="98" column="45" />
+        <mark key="." line="98" column="45" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -364,10 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="33" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="27" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="7" column="32" filename="D:/PythonProjects/ResumeMiner/misc/sql/jobseeker.sql" />
-      <jump line="145" column="36" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="65" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
       <jump line="5" column="13" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
       <jump line="1" column="2" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
@@ -395,7 +391,6 @@
       <jump line="29" column="20" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="120" column="25" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="21" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="185" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="112" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="137" column="26" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="194" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -464,19 +459,24 @@
       <jump line="126" column="15" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="34" column="48" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="123" column="39" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="185" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="196" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="91" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="86" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="186" column="27" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>re.sub(ur'[年月\-\.]', '', birth.group())</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>re.sub(ur'[年月\-\.]', '', birth.group())</text>
       </register>
       <register name="/" type="4">
-        <text>education</text>
+        <text>check_birth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZ2l0aHViJzogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZ2VuZGVyJzogJycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search>education</last-search>
+      <last-search>check_birth</last-search>
       <last-offset />
-      <last-pattern>education</last-pattern>
+      <last-pattern>check_birth</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>string_to_search</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>180</entry>
-        <entry>stamp</entry>
         <entry encoding="base64">XDxBXD4=</entry>
         <entry>lock</entry>
         <entry>deep</entry>
@@ -540,6 +538,8 @@
         <entry>pos</entry>
         <entry>posi</entry>
         <entry>education</entry>
+        <entry>birth</entry>
+        <entry>check_birth</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
