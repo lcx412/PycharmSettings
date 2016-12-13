@@ -264,12 +264,12 @@
         <mark key="." line="1516" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481634972031">
-        <mark key="'" line="166" column="13" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="53" column="30" />
-        <mark key="^" line="53" column="30" />
-        <mark key="." line="53" column="30" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481636493728">
+        <mark key="'" line="167" column="13" />
+        <mark key="[" line="35" column="75" />
+        <mark key="]" line="35" column="78" />
+        <mark key="^" line="35" column="78" />
+        <mark key="." line="35" column="78" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -466,11 +466,11 @@
       <jump line="2202" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">uvO2y7+qt6K5pLPMyqYvvNy5ucqmKEdP0+/R1KOpCg==</text>
+      <register name="&quot;" type="4">
+        <text>C|C\+\+|C#|Go|Java|JavaWeb|iOS|Android|HTML|H5|Node\.js|PHP|Javascript|Python|Hadoop|大数据|ETL|Delphi</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>C|C\+\+|C#|Go|Java|JavaWeb|iOS|Android|HTML|H5|Node\.js|PHP|Javascript|Python|Hadoop|大数据|ETL|Delphi</text>
       </register>
       <register name="/" type="4">
         <text>exp</text>
