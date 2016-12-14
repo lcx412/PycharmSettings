@@ -261,12 +261,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481652668608">
-        <mark key="'" line="240" column="16" />
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="104" column="33" />
-        <mark key="." line="104" column="33" />
-        <mark key="^" line="104" column="33" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481680396466">
+        <mark key="'" line="35" column="51" />
+        <mark key="[" line="204" column="83" />
+        <mark key="]" line="204" column="87" />
+        <mark key="." line="204" column="87" />
+        <mark key="^" line="204" column="87" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" timestamp="1481651514367">
         <mark key="'" line="2784" column="5" />
@@ -362,8 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="110" column="7" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="183" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="55" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="109" column="44" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -399,7 +397,6 @@
       <jump line="96" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="202" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="78" column="2" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="133" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="204" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="179" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="188" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -462,6 +459,9 @@
       <jump line="167" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="229" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="2783" column="5" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" />
+      <jump line="133" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="240" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="35" column="51" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,7 +471,7 @@
         <text>(?=(\W|$))</text>
       </register>
       <register name="/" type="4">
-        <text>check_birth</text>
+        <text>经验</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IG9yIHNlbnRlbmNlX251bSA+IDU=</text>
@@ -508,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check_birth</last-search>
+      <last-search>经验</last-search>
       <last-offset />
-      <last-pattern>check_birth</last-pattern>
+      <last-pattern>经验</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>string_to_search</last-substitute>
       <last-dir>1</last-dir>
@@ -518,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBXD4=</entry>
         <entry>lock</entry>
         <entry>deep</entry>
         <entry encoding="base64">XDxHRU5ERVJfU0VBUkNIX1BBVFRFUk5cPg==</entry>
@@ -538,6 +537,7 @@
         <entry>education</entry>
         <entry>birth</entry>
         <entry>check_birth</entry>
+        <entry>经验</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
