@@ -257,18 +257,23 @@
         <mark key="^" line="76" column="61" />
         <mark key="." line="76" column="61" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/res/Positions.txt" timestamp="1481634048752">
-        <mark key="'" line="2200" column="0" />
-        <mark key="[" line="1516" column="0" />
-        <mark key="]" line="1516" column="0" />
-        <mark key="." line="1516" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/res/Positions.txt" timestamp="1481651683823">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481649193887">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="37" column="25" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481652668608">
+        <mark key="'" line="240" column="16" />
+        <mark key="[" line="104" column="33" />
+        <mark key="]" line="104" column="33" />
+        <mark key="." line="104" column="33" />
+        <mark key="^" line="104" column="33" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" timestamp="1481651514367">
+        <mark key="'" line="2784" column="5" />
+        <mark key="[" line="265" column="8" />
+        <mark key="]" line="266" column="5" />
+        <mark key="^" line="266" column="5" />
+        <mark key="." line="266" column="5" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_users.py" timestamp="1480323218207">
         <mark key="'" line="207" column="8" />
@@ -331,12 +336,6 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1481510788106">
-        <mark key="[" line="107" column="26" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="107" column="28" />
-      </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" timestamp="1481340261607">
         <mark key="'" line="69" column="19" />
         <mark key="[" line="11" column="44" />
@@ -363,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11268" column="0" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversityList.json" />
-      <jump line="116" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="25" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="33" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="110" column="7" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="183" column="4" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -463,46 +459,49 @@
       <jump line="223" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="193" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="131" column="65" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="167" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="229" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="2783" column="5" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>(?=(\W|$))</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(?=(\W|$))</text>
       </register>
       <register name="/" type="4">
         <text>check_birth</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBrICsgJ1x0JyArICcsJy5qb2luKGtrICsgJzonICsgdnYgZm9yIGtrLCB2diBpbiB2Lml0ZW1zKCkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG9yIHNlbnRlbmNlX251bSA+IDU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbnRlbmNlID0gcmUuc3ViKHVyJyg/PD1bYS16QS1aXSlccHtafSg/PVtcdTRlMDAtXHU5ZmE1XSknLCAnJywgc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lX251bSArPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBudW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
+        <text encoding="base64">Q0hJTkFfVU5JVkVSU0lUWV9MSVNUID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbnRlbmNlID0gcmUuc3ViKHVyJyg/PD1bYS16QS1aXSlccHtafSg/PVtcdTRlMDAtXHU5ZmE1XSknLCAnJywgc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgam9iX3NlZWtlclsncmF3X3RleHQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX2tleXdvcmRzKGV4dHJhY3RlZCwgc2VudGVuY2UpOgo=</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3NraWxscyhleHRyYWN0ZWQsIHNlbnRlbmNlKToKICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX3dlaWJvX2FkZHJlc3MoZXh0cmFjdGVkLCBzZW50ZW5jZSk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBlZHVjYXRpb25fbGV2ZWwgYW5kIG5vdCBlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
