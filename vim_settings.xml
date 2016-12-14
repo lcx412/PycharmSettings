@@ -89,6 +89,12 @@
         <mark key="^" line="102" column="35" />
         <mark key="." line="102" column="35" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1481708259667">
+        <mark key="[" line="269" column="33" />
+        <mark key="]" line="269" column="34" />
+        <mark key="." line="269" column="34" />
+        <mark key="^" line="269" column="33" />
+      </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1481535740362">
         <mark key="'" line="17" column="16" />
       </file>
@@ -336,6 +342,12 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1481510788106">
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="107" column="28" />
+        <mark key="." line="107" column="28" />
+        <mark key="^" line="107" column="28" />
+      </file>
       <file name="D:/PythonProjects/hive_log_preprocess/django/mapper2.py" timestamp="1481340261607">
         <mark key="'" line="69" column="19" />
         <mark key="[" line="11" column="44" />
@@ -465,10 +477,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsZV9wYXRoX2RpciA=</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZV9wYXRoX2RpciA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
