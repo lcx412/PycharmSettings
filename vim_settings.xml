@@ -261,12 +261,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481685117377">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481689131476">
         <mark key="'" line="186" column="16" />
-        <mark key="[" line="204" column="83" />
-        <mark key="]" line="204" column="87" />
-        <mark key="." line="204" column="87" />
-        <mark key="^" line="204" column="87" />
+        <mark key="[" line="231" column="34" />
+        <mark key="]" line="231" column="35" />
+        <mark key="." line="231" column="35" />
+        <mark key="^" line="231" column="35" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" timestamp="1481651514367">
         <mark key="'" line="2784" column="5" />
@@ -350,12 +350,12 @@
         <mark key="^" line="411" column="93" />
         <mark key="." line="411" column="93" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481510899716">
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481689632896">
         <mark key="'" line="440" column="34" />
-        <mark key="[" line="535" column="53" />
-        <mark key="]" line="536" column="7" />
-        <mark key="." line="536" column="7" />
-        <mark key="^" line="536" column="7" />
+        <mark key="[" line="533" column="68" />
+        <mark key="]" line="533" column="93" />
+        <mark key="." line="533" column="93" />
+        <mark key="^" line="533" column="93" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1481283291197">
         <mark key="'" line="9" column="15" />
@@ -465,16 +465,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(?=(\W|$))</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>(?=(\W|$))</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>经验</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG9yIHNlbnRlbmNlX251bSA+IDU=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbGVfcGF0aF9kaXIgPSBvcy5wYXRoLmRpcm5hbWUoZmlsZV9wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsaW5lX251bSArPSAxCg==</text>
