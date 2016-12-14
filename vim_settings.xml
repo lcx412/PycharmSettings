@@ -257,16 +257,16 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481729500889">
-        <mark key="'" line="265" column="35" />
-        <mark key="[" line="264" column="8" />
-        <mark key="]" line="264" column="21" />
-        <mark key="^" line="264" column="21" />
-        <mark key="." line="264" column="66" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481733487293">
+        <mark key="'" line="283" column="8" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" timestamp="1481651514367">
+      <file name="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" timestamp="1481730557036">
         <mark key="'" line="2784" column="5" />
-        <mark key="[" line="265" column="8" />
+        <mark key="[" line="2785" column="6" />
         <mark key="]" line="266" column="5" />
         <mark key="^" line="266" column="5" />
         <mark key="." line="266" column="5" />
@@ -364,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="2" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="204" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="179" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="2298" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="78" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2297" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -464,46 +461,49 @@
       <jump line="11" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="274" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="264" column="35" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="165" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="47" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="283" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>(\+\+)?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpbnQg</text>
+        <text>(\+\+)?</text>
       </register>
       <register name="/" type="4">
         <text>check_name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZW50ZW5jZQo=</text>
+      <register name="0" type="4">
+        <text>.replace(u'学士', u'本科')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwbrP/t22LVVJLTLE6r6t0ektMTg5MTExNTYzMDAucGRmJwogICAgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/Vxbe8X76uuNTJvbTz0adfsuLK1C5wZGYnCiAgICAjIHJlc3VtZV9maWxlID0gdScuLi9yYXcvsM21wtXxLWlPUy0yxOq+rdHpLTEzNDY2NzY4MTA2LnBkZicKICAgICMgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/A7rrn0/21xLzywPoucGRmJwogICAgIyByZXN1bWVfZmlsZSA9IHUnLi4vcmF3L9KmwdXn+C0yMDE2xOrQo9XQvPLA+i5wZGYnCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICcsJy5qb2luKGZpbGVfcGF0aF9iYXNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwfW+siuxsb6pvbvNqLTz0acr0MXPorncwO0ucGRmJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpvYl9zZWVrZXIgPSBleHRyYWN0X2FsbF9pbmZvKHJlc3VtZV9maWxlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGZpbGVfcGF0aF9iYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/SpsHV5/gtMjAxNsTq0KPV0LzywPoucGRmJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBmaWxlX3BhdGhfYmFzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB3b3JkLCBmbGFnCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGZpbGVfcGF0aF9iYXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZW50ZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBmaWxlX3BhdGhfYmFzZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">c2VudGVuY2UKICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwbrP/t22LVVJLTLE6r6t0ektMTg5MTExNTYzMDAucGRmJwogICAgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/Vxbe8X76uuNTJvbTz0adfsuLK1C5wZGYnCiAgICAjIHJlc3VtZV9maWxlID0gdScuLi9yYXcvsM21wtXxLWlPUy0yxOq+rdHpLTEzNDY2NzY4MTA2LnBkZicKICAgICMgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/A7rrn0/21xLzywPoucGRmJwogICAgIyByZXN1bWVfZmlsZSA9IHUnLi4vcmF3L9KmwdXn+C0yMDE2xOrQo9XQvPLA+i5wZGYnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
+        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwfW+siuxsb6pvbvNqLTz0acr0MXPorncwO0ucGRmJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja190ZWwoZXh0cmFjdGVkLCBzZWcpCg==</text>
+        <text encoding="base64">ICAgIGpvYl9zZWVrZXIgPSBleHRyYWN0X2FsbF9pbmZvKHJlc3VtZV9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
