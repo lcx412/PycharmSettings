@@ -99,12 +99,12 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481798025580">
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481807065240">
         <mark key="'" line="440" column="34" />
-        <mark key="[" line="522" column="77" />
-        <mark key="]" line="522" column="86" />
-        <mark key="." line="522" column="86" />
-        <mark key="^" line="522" column="86" />
+        <mark key="[" line="520" column="215" />
+        <mark key="]" line="520" column="216" />
+        <mark key="." line="520" column="216" />
+        <mark key="^" line="520" column="256" />
       </file>
     </filemarks>
     <jumps>
@@ -211,34 +211,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>总</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>总</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
       </register>
       <register name="0" type="4">
-        <text>总</text>
+        <text encoding="base64">KHNlbGVjdCBjb3VudCgqKSBmcm9tIHR1dG9yX3JlY29yZCB0MSB3aGVyZSB0MS5hcHBseV90aW1lPD10LmFwcGx5X3RpbWUp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdW1fZGYgPSBwYW5kYXMuRGF0YUZyYW1lKHN1bV9saXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sdW1ucz1bdSe3osbw19y1pcG/JywgdSe8xsqx19y1pcG/JywgdSe3osbwuKi1vNGnyfrK/ScsIHUnsbu3osbwuKi1vL3MyqbK/ScsIHUn09C8xsqxuKi1vNGnyfrK/ScsIHUn09C8xsqxuKi1vL3MyqbK/ScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J7iotbzX3Mqxs6QnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhleGNlbF9maWxlX3ByZSk6CiAgICAgICAgICAgIGRmMl9wcmUgPSBwYW5kYXMucmVhZF9leGNlbChleGNlbF9maWxlX3ByZSwgdSe/zrPMz8K1pScpCiAgICAgICAgICAgIGRmMiA9IGRmMl9wcmUuYXBwZW5kKGRmMikKICAgICAgICBkZjJbW3UnzeKyv7aptaW6xSddXSA9IGRmMlt1J83isr+2qbWlusUnXS5hc3R5cGUoc3RyKQogICAgICAgIGRmMltbdSfK1rv6usUnXV0gPSBkZjJbdSfK1rv6usUnXS5hc3R5cGUoc3RyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZjIgPSBwYW5kYXMuRGF0YUZyYW1lKGxpc3QoY3VyX3N0YXQuZmV0Y2hhbGwoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVt1J8/CtaXKsbzkJywgdSfN4rK/tqm1pbrFJywgdSe/zrPMw/uzxicsIHUn1qe4tre9yr0nLCB1J7aptaXH/rXAJywgdSe2qbWl17TMrCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J9DVw/snLCB1J8rWu/q6xScsIHUnUVG6xScsIHUns8fK0CcsIHUnyqG33ScsIHUn0afQoyddKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdW1fZGYudG9fZXhjZWwoZXhjZWxfd3JpdGVyLCBzaGVldF9uYW1lPXUnuKi1vLvj19wnLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhleGNlbF9maWxlX3ByZSk6CiAgICAgICAgICAgIGRmMl9wcmUgPSBwYW5kYXMucmVhZF9leGNlbChleGNlbF9maWxlX3ByZSwgdSe/zrPMz8K1pScpCiAgICAgICAgICAgIGRmMiA9IGRmMl9wcmUuYXBwZW5kKGRmMikKICAgICAgICBkZjJbW3UnzeKyv7aptaW6xSddXSA9IGRmMlt1J83isr+2qbWlusUnXS5hc3R5cGUoc3RyKQogICAgICAgIGRmMltbdSfK1rv6usUnXV0gPSBkZjJbdSfK1rv6usUnXS5hc3R5cGUoc3RyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZjIgPSBwYW5kYXMuRGF0YUZyYW1lKGxpc3QoY3VyX3N0YXQuZmV0Y2hhbGwoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVt1J8/CtaXKsbzkJywgdSfN4rK/tqm1pbrFJywgdSe/zrPMw/uzxicsIHUn1qe4tre9yr0nLCB1J7aptaXH/rXAJywgdSe2qbWl17TMrCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J9DVw/snLCB1J8rWu/q6xScsIHUnUVG6xScsIHUns8fK0CcsIHUnyqG33ScsIHUn0afQoyddKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
