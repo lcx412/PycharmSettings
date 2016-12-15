@@ -99,18 +99,15 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481809502309">
-        <mark key="'" line="440" column="34" />
-        <mark key="[" line="520" column="41" />
-        <mark key="]" line="520" column="42" />
-        <mark key="." line="520" column="42" />
-        <mark key="^" line="520" column="42" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481811755970">
+        <mark key="'" line="580" column="4" />
+        <mark key="[" line="555" column="40" />
+        <mark key="]" line="555" column="42" />
+        <mark key="." line="555" column="42" />
+        <mark key="^" line="555" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="556" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="557" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="607" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="608" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="658" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -208,6 +205,9 @@
       <jump line="139" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="130" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
       <jump line="19" column="0" filename="D:/PythonProjects/next/next-worker/conf/logging.conf" />
+      <jump line="553" column="37" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="408" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="580" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
