@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1481340394667">
+      <file name="D:/PythonProjects/one4one/answer_at_type_post.py" timestamp="1481769651805">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+      </file>
+      <file name="/a.dummy" timestamp="1481769664936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1481360018038">
@@ -40,7 +45,6 @@
         <mark key="^" line="94" column="36" />
         <mark key="." line="104" column="85" />
       </file>
-      <file name="D:/Program Files/Python/Lib/configparser.py" timestamp="1481536467280" />
       <file name="D:/PythonProjects/matrix/webapp/containers/StatPage.js" timestamp="1481251100439">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="117" column="14" />
@@ -140,6 +144,7 @@
       <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1481302632971">
         <mark key="'" line="34" column="0" />
       </file>
+      <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1481770623431" />
       <file name="D:/PythonProjects/transporter/tests/test_baidu_msg.py" timestamp="1481250129400">
         <mark key="'" line="23" column="38" />
       </file>
@@ -164,7 +169,13 @@
         <mark key="." line="199" column="28" />
         <mark key="^" line="199" column="28" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1481533807299" />
+      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1481772595282">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="58" column="59" />
+        <mark key="." line="58" column="59" />
+        <mark key="^" line="58" column="59" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
         <mark key="[" line="68" column="96" />
@@ -220,14 +231,13 @@
         <mark key="." line="35" column="48" />
         <mark key="^" line="140" column="109" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481710145020">
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481769403819">
         <mark key="'" line="151" column="70" />
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="68" />
         <mark key="." line="82" column="68" />
         <mark key="^" line="82" column="97" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/raw/DOC2PDF.vbs" timestamp="1481723518362" />
       <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1481165448268">
         <mark key="'" line="121" column="12" />
         <mark key="[" line="25" column="98" />
@@ -245,7 +255,6 @@
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481709998946">
         <mark key="[" line="105" column="18" />
       </file>
-      <file name="D:/Program Files/Python/Lib/codecs.py" timestamp="1481540125751" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1480147614289">
         <mark key="'" line="80" column="28" />
         <mark key="[" line="76" column="60" />
@@ -256,7 +265,6 @@
       <file name="D:/PythonProjects/ResumeMiner/res/Positions.txt" timestamp="1481651683823">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481532444700" />
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481733487293">
         <mark key="'" line="283" column="8" />
         <mark key="[" line="45" column="30" />
@@ -364,9 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2298" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="78" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2297" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2281" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2282" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2295" column="7" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -464,46 +469,49 @@
       <jump line="165" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="47" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="283" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="24" column="0" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
+      <jump line="27" column="11" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
+      <jump line="74" column="4" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(\+\+)?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoJ1xuJykK</text>
       </register>
       <register name="-" type="4">
-        <text>(\+\+)?</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>check_name</text>
       </register>
-      <register name="0" type="4">
-        <text>.replace(u'学士', u'本科')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoJ1xuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICcsJy5qb2luKGZpbGVfcGF0aF9iYXNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAic2VsZWN0IGlmKHBwLnByaW9yaXR5PjAsJ3Bvc3RfdG9fdGVhY2hlcnMnLCdwb3N0X3RvX3N0dWRlbnRzJyksY291bnQoKiksc3VtKHAudGVhY2hlcl9jb21tZW50X2NyZWRpdCkgZnJvbSBwb3N0X3JldmVudWVfZXhwZW5kaXR1cmUgcCBqb2luIHBvc3QgcHAgb24gcC5wb3N0X2lkPXBwLnBvc3RfaWQgd2hlcmUgcC50ZWFjaGVyX2NvbW1lbnRfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCBwcC50aXRsZSBsaWtlICclQCUnIGdyb3VwIGJ5IGlmKHBwLnByaW9yaXR5PjAsJ3Bvc3RfdG9fdGVhY2hlcnMnLCdwb3N0X3RvX3N0dWRlbnRzJykiLmZvcm1hdCgKICAgICAgICAgICAgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoJ1x0Jy5qb2luKHN0cih4KSBmb3IgeCBpbiByb3cpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZpbGVfcGF0aF9iYXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmaWxlX3BhdGhfYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZpbGVfcGF0aF9iYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNfY29udGVudCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmaWxlX3BhdGhfYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwbrP/t22LVVJLTLE6r6t0ektMTg5MTExNTYzMDAucGRmJwogICAgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/Vxbe8X76uuNTJvbTz0adfsuLK1C5wZGYnCiAgICAjIHJlc3VtZV9maWxlID0gdScuLi9yYXcvsM21wtXxLWlPUy0yxOq+rdHpLTEzNDY2NzY4MTA2LnBkZicKICAgICMgcmVzdW1lX2ZpbGUgPSB1Jy4uL3Jhdy/A7rrn0/21xLzywPoucGRmJwogICAgIyByZXN1bWVfZmlsZSA9IHUnLi4vcmF3L9KmwdXn+C0yMDE2xOrQo9XQvPLA+i5wZGYnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VtZV9maWxlID0gdScuLi9yYXcvwfW+siuxsb6pvbvNqLTz0acr0MXPorncwO0ucGRmJwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhhbnN3ZXJfY29zdF9hdF90eXBlX2ZpbGUpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvYl9zZWVrZXIgPSBleHRyYWN0X2FsbF9pbmZvKHJlc3VtZV9maWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
