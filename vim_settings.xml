@@ -99,12 +99,12 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481807065240">
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481809502309">
         <mark key="'" line="440" column="34" />
-        <mark key="[" line="520" column="215" />
-        <mark key="]" line="520" column="216" />
-        <mark key="." line="520" column="216" />
-        <mark key="^" line="520" column="256" />
+        <mark key="[" line="520" column="41" />
+        <mark key="]" line="520" column="42" />
+        <mark key="." line="520" column="42" />
+        <mark key="^" line="520" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -211,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
