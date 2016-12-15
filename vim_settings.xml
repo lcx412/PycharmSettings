@@ -80,12 +80,12 @@
         <mark key="^" line="54" column="104" />
         <mark key="." line="54" column="104" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481512273481">
-        <mark key="'" line="114" column="8" />
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="35" />
-        <mark key="^" line="102" column="35" />
-        <mark key="." line="102" column="35" />
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481779771173">
+        <mark key="'" line="133" column="4" />
+        <mark key="[" line="136" column="33" />
+        <mark key="]" line="136" column="34" />
+        <mark key="." line="136" column="34" />
+        <mark key="^" line="120" column="97" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1481708259667">
         <mark key="[" line="269" column="33" />
@@ -148,6 +148,12 @@
       <file name="D:/PythonProjects/transporter/tests/test_baidu_msg.py" timestamp="1481250129400">
         <mark key="'" line="23" column="38" />
       </file>
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1481777390710">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="41" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/revenue_tutor.py" timestamp="1480932320177">
         <mark key="'" line="42" column="11" />
         <mark key="[" line="42" column="18" />
@@ -169,12 +175,12 @@
         <mark key="." line="199" column="28" />
         <mark key="^" line="199" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1481774948185">
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="57" column="313" />
-        <mark key="]" line="57" column="359" />
-        <mark key="." line="57" column="359" />
-        <mark key="^" line="57" column="359" />
+      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1481778155187">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="54" column="313" />
+        <mark key="]" line="54" column="359" />
+        <mark key="." line="54" column="359" />
+        <mark key="^" line="54" column="359" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1480905942939">
         <mark key="'" line="205" column="24" />
@@ -372,14 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2281" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2282" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2295" column="7" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="4" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="60" column="9" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="94" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="95" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="249" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="449" column="11" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="553" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="556" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -472,46 +470,54 @@
       <jump line="24" column="0" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
       <jump line="27" column="11" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
+      <jump line="103" column="19" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="10" column="12" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="120" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="121" column="24" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="122" column="45" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="9" column="26" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="139" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
+      <jump line="130" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLmFwcGVuZChbW3llc19kYXRlXSArIFtzdHIoeCkgZm9yIHggaW4gcm93XV0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>post_to_teachers</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>check_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zdF90b190ZWFjaGVycy5hcHBlbmQoW1t5ZXNfZGF0ZV0gKyBbc3RyKHgpIGZvciB4IGluIHJvd11dKQo=</text>
+        <text encoding="base64">ICAgICAgICBjLnByb19sb2coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLmFwcGVuZChbW3llc19kYXRlXSArIFtzdHIoeCkgZm9yIHggaW4gcm93XV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3RvX3N0dWRlbnRzID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFt5ZXNfZGF0ZV0gKyBbc3RyKHgpIGZvciB4IGluIHJvd10pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgnXG4nKQo=</text>
+        <text encoding="base64">ZnJvbSBtYWlsIGltcG9ydCBNQUlMX1NFTkRFUgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmLndyaXRlKCdcbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmLndyaXRlKCdcdCcuam9pbihbdSfI1cbaJywgdSfH89b6ttTP8ycsIHUntbHM7LTwzOLK/cG/JywgdSe1sczsu9i4tMv5u/HRp7HSJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmFwcGVuZChbW3llc19kYXRlXSArIFtzdHIoeCkgZm9yIHggaW4gcm93XV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic2VsZWN0IGlmKHBwLnByaW9yaXR5PjAsJ3Bvc3RfdG9fdGVhY2hlcnMnLCdwb3N0X3RvX3N0dWRlbnRzJyksY291bnQoKiksc3VtKHAudGVhY2hlcl9jb21tZW50X2NyZWRpdCkgZnJvbSBwb3N0X3JldmVudWVfZXhwZW5kaXR1cmUgcCBqb2luIHBvc3QgcHAgb24gcC5wb3N0X2lkPXBwLnBvc3RfaWQgd2hlcmUgcC50ZWFjaGVyX2NvbW1lbnRfdGltZSBiZXR3ZWVuIHswfSBhbmQgezF9IGFuZCBwcC50aXRsZSBsaWtlICclQCUnIGdyb3VwIGJ5IGlmKHBwLnByaW9yaXR5PjAsJ3Bvc3RfdG9fdGVhY2hlcnMnLCdwb3N0X3RvX3N0dWRlbnRzJykiLmZvcm1hdCgKICAgICAgICAgICAgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3RvX3N0dWRlbnRzID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoJ1x0Jy5qb2luKHN0cih4KSBmb3IgeCBpbiByb3cpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFt5ZXNfZGF0ZV0gKyBbc3RyKHgpIGZvciB4IGluIHJvd10pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgnXG4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
