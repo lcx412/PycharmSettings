@@ -80,12 +80,12 @@
         <mark key="^" line="54" column="104" />
         <mark key="." line="54" column="104" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481779771173">
-        <mark key="'" line="133" column="4" />
-        <mark key="[" line="136" column="33" />
-        <mark key="]" line="136" column="34" />
-        <mark key="." line="136" column="34" />
-        <mark key="^" line="120" column="97" />
+      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481781169789">
+        <mark key="'" line="132" column="4" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="119" column="97" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1481708259667">
         <mark key="[" line="269" column="33" />
@@ -480,8 +480,8 @@
       <jump line="130" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -493,7 +493,7 @@
         <text encoding="base64">ICAgICAgICBjLnByb19sb2coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -502,22 +502,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtYWlsIGltcG9ydCBNQUlMX1NFTkRFUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJzdAo=</text>
+        <text encoding="base64">ZnJvbSBtYWlsIGltcG9ydCBNQUlMX1NFTkRFUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLmFwcGVuZChbW3llc19kYXRlXSArIFtzdHIoeCkgZm9yIHggaW4gcm93XV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3RvX3N0dWRlbnRzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmFwcGVuZChbW3llc19kYXRlXSArIFtzdHIoeCkgZm9yIHggaW4gcm93XV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFt5ZXNfZGF0ZV0gKyBbc3RyKHgpIGZvciB4IGluIHJvd10pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3RvX3N0dWRlbnRzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgnXG4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFt5ZXNfZGF0ZV0gKyBbc3RyKHgpIGZvciB4IGluIHJvd10pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
