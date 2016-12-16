@@ -23,6 +23,7 @@
         <mark key="]" line="50" column="132" />
         <mark key="." line="50" column="132" />
       </file>
+      <file name="C:/Python2/Lib/site-packages/pdfminer/converter.py" timestamp="1481906261607" />
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1481870416356">
         <mark key="'" line="20" column="20" />
       </file>
@@ -37,6 +38,12 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481906534344">
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="75" column="48" />
+        <mark key="." line="75" column="48" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/nextd.py" timestamp="1481860579324">
         <mark key="[" line="23" column="0" />
@@ -194,16 +201,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>TextConverter</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>TextConverter</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
       </register>
-      <register name="0" type="4">
-        <text>u'累计报名人数'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSBUZXh0Q29udmVydGVyKHJzbWdyLCByZXRzdHIsIGNvZGVjPWNvZGVjLCBsYXBhcmFtcz1sYXBhcmFtcykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZjIuZmlsbG5hKDApCg==</text>
