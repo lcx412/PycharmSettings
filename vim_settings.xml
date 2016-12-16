@@ -14,12 +14,12 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481876171592">
+      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481876884906">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="56" column="85" />
-        <mark key="]" line="56" column="85" />
-        <mark key="." line="56" column="85" />
-        <mark key="^" line="56" column="93" />
+        <mark key="[" line="56" column="527" />
+        <mark key="]" line="56" column="533" />
+        <mark key="." line="56" column="533" />
+        <mark key="^" line="56" column="533" />
       </file>
       <file name="/a.dummy" timestamp="1481791412490">
         <mark key="[" line="0" column="0" />
@@ -222,16 +222,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>couse_id</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>couse_id</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
       </register>
       <register name="0" type="4">
-        <text>live_purchase_record</text>
+        <text encoding="base64">KHNlbGVjdCBjb3VudCgqKSBmcm9tIGxpdmVfcHVyY2hhc2VfcmVjb3JkIHBwIHdoZXJlIHBwLnB1cmNoYXNlX3VzZXJfaWQ9cC5wdXJjaGFzZV91c2VyX2lkIGFuZCBwcC5jcmVhdGVfdGltZTxwLmNyZWF0ZV90aW1lIGFuZCBwcC5zdGF0dXM9J1NVQ0NFU1MnKWFzIHB1cmNoYXNlZF90aW1lcw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
