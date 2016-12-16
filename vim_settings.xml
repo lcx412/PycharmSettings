@@ -8,6 +8,7 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1481860748339" />
       <file name="D:/PythonProjects/one4one/answer_at_type_post.py" timestamp="1481769651805">
         <mark key="[" line="48" column="7" />
         <mark key="]" line="48" column="7" />
@@ -33,6 +34,7 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="D:/PythonProjects/next/next-server/bin/nextserver" timestamp="1481859669173" />
       <file name="D:/PythonProjects/next/next-worker/lib/gen-py/aft_thrift/next/next_types/constants.py" timestamp="1481784955573" />
       <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1481788596586" />
       <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481781169789">
@@ -47,6 +49,9 @@
         <mark key="]" line="269" column="34" />
         <mark key="." line="269" column="34" />
         <mark key="^" line="269" column="33" />
+      </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1481859539632">
+        <mark key="'" line="69" column="73" />
       </file>
       <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1481788710119">
         <mark key="'" line="11" column="148" />
@@ -69,11 +74,16 @@
         <mark key="." line="54" column="359" />
         <mark key="^" line="54" column="359" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1481790515127">
+      <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1481858371492">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1481859261058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481789938856">
         <mark key="'" line="151" column="70" />
@@ -82,15 +92,21 @@
         <mark key="." line="82" column="68" />
         <mark key="^" line="82" column="97" />
       </file>
+      <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1481860819226" />
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481709998946">
         <mark key="[" line="105" column="18" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/build.sh" timestamp="1481785030430" />
+      <file name="D:/PythonProjects/next/next-worker/build.sh" timestamp="1481858822534" />
+      <file name="D:/PythonProjects/next/next-server/lib/nextd.py" timestamp="1481860579324">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="/RunDetail.js" timestamp="1481784858891" />
       <file name="/a.regexp" timestamp="1481539182629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/next/next-worker/conf/logging.conf" timestamp="1481787681007">
+      <file name="D:/PythonProjects/next/next-worker/conf/logging.conf" timestamp="1481858406972">
         <mark key="'" line="19" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1481510788106">
@@ -99,6 +115,7 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
+      <file name="D:/PythonProjects/next/next-worker/lib/next_client.py" timestamp="1481859604545" />
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481857546302">
         <mark key="'" line="514" column="13" />
         <mark key="[" line="523" column="16" />
@@ -108,7 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="658" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="697" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="723" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="724" column="13" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -208,6 +224,7 @@
       <jump line="535" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="580" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="514" column="13" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="69" column="73" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
