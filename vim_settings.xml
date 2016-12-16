@@ -14,10 +14,10 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481880387329">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481881291478">
+        <mark key="[" line="50" column="132" />
+        <mark key="]" line="50" column="132" />
+        <mark key="." line="50" column="132" />
       </file>
       <file name="/a.dummy" timestamp="1481791412490">
         <mark key="[" line="0" column="0" />
@@ -219,11 +219,11 @@
       <jump line="60" column="36" filename="D:/PythonProjects/one4one/live_stat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZjIuZmlsbG5hKDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eWVzIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
