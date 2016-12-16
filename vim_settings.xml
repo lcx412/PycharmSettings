@@ -14,12 +14,12 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481874496883">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="76" column="8" />
-        <mark key="^" line="76" column="8" />
-        <mark key="." line="76" column="8" />
+      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481876171592">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="56" column="85" />
+        <mark key="]" line="56" column="85" />
+        <mark key="." line="56" column="85" />
+        <mark key="^" line="56" column="93" />
       </file>
       <file name="/a.dummy" timestamp="1481791412490">
         <mark key="[" line="0" column="0" />
@@ -222,43 +222,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
       </register>
       <register name="0" type="4">
-        <text>LiveStat</text>
+        <text>live_purchase_record</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucGF0aC5iYXNlbmFtZShleGNlbF93cml0ZXIucGF0aCkuc3BsaXQoJy4nKVswXSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">J2xpbmdsaW5nLmxpdUBsZWplbnQuY29tJywgJ2ZlbmdsZWkubWFAbGVqZW50LmNvbScsICdlbmxpbmcud2FuZ0BsZWplbnQuY29tJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3dlbnlhbi5kb3VAbGVqZW50LmNvbScsICd6b25nY2hhbmcubGlAbGVqZW50LmNvbScsIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3MucGF0aC5iYXNlbmFtZShleGNlbF93cml0ZXIucGF0aCkuc3BsaXQoJy4nKVswXSwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">J2xpbmdsaW5nLmxpdUBsZWplbnQuY29tJywgJ2ZlbmdsZWkubWFAbGVqZW50LmNvbScsICdlbmxpbmcud2FuZ0BsZWplbnQuY29tJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3dlbnlhbi5kb3VAbGVqZW50LmNvbScsICd6b25nY2hhbmcubGlAbGVqZW50LmNvbScsIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGZyb21fdW5peHRpbWUoY3IuY3JlYXRlX3RpbWUpLGNyLm91dF90cmFkZV9ubyxjLm5hbWUsY2FzZSB3aGVuIGNyLnR5cGU9MSB0aGVuICfOotDFJyB3aGVuIGNyLnR5cGU9MiB0aGVuICfWp7i2saYnIGVsc2UgJycgZW5kLGNyLmNoYW5uZWwsY3Iuc3RhdHVzLHUubmFtZSx1LnRlbCx1LnFxLHUuY2l0eSx1LnByb3ZpbmNlLHUuc2Nob29sIGZyb20gbXZwX2NoYXJnZV9yZWNvcmQgY3Igam9pbiBtdnBfdXNlciB1IG9uKGNyLnVzZXJfaWQ9dS5pZCkgam9pbiBtdnBfY291cnNlIGMgb24oY3IuY291cnNlX2lkPWMuaWQpIHdoZXJlIGNyLmNyZWF0ZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gb3JkZXIgYnkgY3IuY3JlYXRlX3RpbWUiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCgogICAgICAgIGRmLnRvX2V4Y2VsKGV4Y2VsX3dyaXRlciwgc2hlZXRfbmFtZT11J7/Os8zPwrWlJywgaW5kZXg9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGZyb21fdW5peHRpbWUoY3IuY3JlYXRlX3RpbWUpLGNyLm91dF90cmFkZV9ubyxjLm5hbWUsY2FzZSB3aGVuIGNyLnR5cGU9MSB0aGVuICfOotDFJyB3aGVuIGNyLnR5cGU9MiB0aGVuICfWp7i2saYnIGVsc2UgJycgZW5kLGNyLmNoYW5uZWwsY3Iuc3RhdHVzLHUubmFtZSx1LnRlbCx1LnFxLHUuY2l0eSx1LnByb3ZpbmNlLHUuc2Nob29sIGZyb20gbXZwX2NoYXJnZV9yZWNvcmQgY3Igam9pbiBtdnBfdXNlciB1IG9uKGNyLnVzZXJfaWQ9dS5pZCkgam9pbiBtdnBfY291cnNlIGMgb24oY3IuY291cnNlX2lkPWMuaWQpIHdoZXJlIGNyLmNyZWF0ZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gb3JkZXIgYnkgY3IuY3JlYXRlX3RpbWUiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCgogICAgICAgIGRmLnRvX2V4Y2VsKGV4Y2VsX3dyaXRlciwgc2hlZXRfbmFtZT11J7/Os8zPwrWlJywgaW5kZXg9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZltbdSfK1rv6usUnXV0gPSBkZlt1J8rWu/q6xSddLmFzdHlwZShzdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGZyb21fdW5peHRpbWUoY3IuY3JlYXRlX3RpbWUpLGNyLm91dF90cmFkZV9ubyxjLm5hbWUsY2FzZSB3aGVuIGNyLnR5cGU9MSB0aGVuICfOotDFJyB3aGVuIGNyLnR5cGU9MiB0aGVuICfWp7i2saYnIGVsc2UgJycgZW5kLGNyLmNoYW5uZWwsY3Iuc3RhdHVzLHUubmFtZSx1LnRlbCx1LnFxLHUuY2l0eSx1LnByb3ZpbmNlLHUuc2Nob29sIGZyb20gbXZwX2NoYXJnZV9yZWNvcmQgY3Igam9pbiBtdnBfdXNlciB1IG9uKGNyLnVzZXJfaWQ9dS5pZCkgam9pbiBtdnBfY291cnNlIGMgb24oY3IuY291cnNlX2lkPWMuaWQpIHdoZXJlIGNyLmNyZWF0ZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gb3JkZXIgYnkgY3IuY3JlYXRlX3RpbWUiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCgogICAgICAgIGRmLnRvX2V4Y2VsKGV4Y2VsX3dyaXRlciwgc2hlZXRfbmFtZT11J7/Os8zPwrWlJywgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGYgPSBkZl9wcmUuYXBwZW5kKGRmKQo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdC5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGZyb21fdW5peHRpbWUoY3IuY3JlYXRlX3RpbWUpLGNyLm91dF90cmFkZV9ubyxjLm5hbWUsY2FzZSB3aGVuIGNyLnR5cGU9MSB0aGVuICfOotDFJyB3aGVuIGNyLnR5cGU9MiB0aGVuICfWp7i2saYnIGVsc2UgJycgZW5kLGNyLmNoYW5uZWwsY3Iuc3RhdHVzLHUubmFtZSx1LnRlbCx1LnFxLHUuY2l0eSx1LnByb3ZpbmNlLHUuc2Nob29sIGZyb20gbXZwX2NoYXJnZV9yZWNvcmQgY3Igam9pbiBtdnBfdXNlciB1IG9uKGNyLnVzZXJfaWQ9dS5pZCkgam9pbiBtdnBfY291cnNlIGMgb24oY3IuY291cnNlX2lkPWMuaWQpIHdoZXJlIGNyLmNyZWF0ZV90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0gb3JkZXIgYnkgY3IuY3JlYXRlX3RpbWUiLmZvcm1hdCgKICAgICAgICAgICAgICAgIHllc19zdGFydF90cywgeWVzX2VuZF90cykpCgogICAgICAgIGRmLnRvX2V4Y2VsKGV4Y2VsX3dyaXRlciwgc2hlZXRfbmFtZT11J7/Os8zPwrWlJywgaW5kZXg9RmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
