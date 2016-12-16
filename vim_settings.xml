@@ -99,8 +99,8 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481816727636">
-        <mark key="'" line="580" column="4" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481857546302">
+        <mark key="'" line="514" column="13" />
         <mark key="[" line="523" column="16" />
         <mark key="]" line="523" column="42" />
         <mark key="." line="523" column="42" />
@@ -108,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="5" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="658" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="697" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="723" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -208,6 +207,7 @@
       <jump line="408" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="535" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="580" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="514" column="13" filename="D:/PythonProjects/one4one/dts_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
