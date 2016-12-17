@@ -18,10 +18,12 @@
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
       </file>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481881291478">
-        <mark key="[" line="50" column="132" />
-        <mark key="]" line="50" column="132" />
-        <mark key="." line="50" column="132" />
+      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481940953605">
+        <mark key="'" line="50" column="489" />
+        <mark key="[" line="50" column="491" />
+        <mark key="]" line="50" column="499" />
+        <mark key="." line="50" column="499" />
+        <mark key="^" line="50" column="499" />
       </file>
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1481870416356">
         <mark key="'" line="20" column="20" />
@@ -33,6 +35,7 @@
         <mark key="." line="82" column="68" />
         <mark key="^" line="82" column="97" />
       </file>
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481941116662" />
       <file name="D:/PythonProjects/Poster/articles/byr/JobInfo/【招聘】【阿凡题】内容运营&amp;产品运营（实习）.txt" timestamp="1481792526759">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -199,17 +202,17 @@
       <jump line="514" column="13" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="69" column="73" filename="D:/PythonProjects/next/next-worker/lib/worker.py" />
       <jump line="20" column="20" filename="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" />
-      <jump line="50" column="250" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="26" column="8" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="76" column="4" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="60" column="36" filename="D:/PythonProjects/one4one/live_stat.py" />
+      <jump line="50" column="489" filename="D:/PythonProjects/one4one/live_stat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>DELETED</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>DELETED</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
