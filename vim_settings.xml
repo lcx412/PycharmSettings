@@ -23,7 +23,6 @@
         <mark key="]" line="50" column="132" />
         <mark key="." line="50" column="132" />
       </file>
-      <file name="C:/Python2/Lib/site-packages/pdfminer/converter.py" timestamp="1481906261607" />
       <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1481870416356">
         <mark key="'" line="20" column="20" />
       </file>
@@ -39,11 +38,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481906534344">
-        <mark key="[" line="74" column="49" />
-        <mark key="]" line="74" column="48" />
-        <mark key="^" line="74" column="48" />
-        <mark key="." line="74" column="48" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481908755493">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/nextd.py" timestamp="1481860579324">
         <mark key="[" line="23" column="0" />
@@ -82,6 +81,12 @@
         <mark key="]" line="54" column="359" />
         <mark key="." line="54" column="359" />
         <mark key="^" line="54" column="359" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1481909690958">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="D:/PythonProjects/next/next-worker/bin/nworker.py" timestamp="1481865320221">
         <mark key="[" line="9" column="66" />
@@ -201,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TextConverter</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>TextConverter</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>aft</text>
