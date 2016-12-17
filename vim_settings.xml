@@ -3,65 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1481940953605">
-        <mark key="'" line="50" column="489" />
-        <mark key="[" line="50" column="491" />
-        <mark key="]" line="50" column="499" />
-        <mark key="." line="50" column="499" />
-        <mark key="^" line="50" column="499" />
-      </file>
       <file name="/a.dummy" timestamp="1481957204790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
-        <mark key="[" line="122" column="21" />
-        <mark key="]" line="114" column="34" />
-        <mark key="." line="114" column="34" />
-        <mark key="^" line="114" column="34" />
-      </file>
+      <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481959658163" />
+      <file name="D:/PythonProjects/next/next-web/webapp/components/NewPlan.js" timestamp="1481959751613" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1481949223327">
         <mark key="." line="23" column="91" />
       </file>
-      <file name="D:/PythonProjects/one4one/charge_log_proc.py" timestamp="1481781169789">
-        <mark key="'" line="132" column="4" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="119" column="97" />
+      <file name="D:/PythonProjects/next/next-web/plan/views.py" timestamp="1481960741625" />
+      <file name="D:/PythonProjects/next/next-worker/lib/worker.py" timestamp="1481959246718">
+        <mark key="'" line="69" column="73" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
-      <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1481788710119">
-        <mark key="'" line="11" column="148" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1481778155187">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="54" column="313" />
-        <mark key="]" line="54" column="359" />
-        <mark key="." line="54" column="359" />
-        <mark key="^" line="54" column="359" />
-      </file>
-      <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1481909690958">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1481943864405">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="20" />
-        <mark key="^" line="49" column="20" />
-        <mark key="." line="49" column="20" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1481943505054">
-        <mark key="[" line="80" column="185" />
-        <mark key="]" line="80" column="185" />
-        <mark key="^" line="81" column="77" />
-        <mark key="." line="80" column="185" />
-      </file>
+      <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1481961217476" />
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481950207043">
         <mark key="'" line="134" column="70" />
         <mark key="[" line="108" column="0" />
@@ -69,14 +24,10 @@
         <mark key="^" line="63" column="97" />
         <mark key="." line="42" column="31" />
       </file>
+      <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1481961738831" />
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481955744825" />
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1481947039891" />
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481908755493">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="D:/PythonProjects/next/next-server/lib/utils.py" timestamp="1481960254314" />
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1481946131149">
         <mark key="'" line="82" column="974" />
         <mark key="[" line="82" column="963" />
@@ -89,7 +40,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/new_charged_users.py" timestamp="1481957153118" />
-      <file name="/a.regexp" timestamp="1481954711387">
+      <file name="/a.regexp" timestamp="1481959670089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1481954766252">
@@ -97,13 +48,6 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1481955092114" />
       <file name="D:/PythonProjects/next/next-server/lib/creater.py" timestamp="1481949329510" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481857546302">
-        <mark key="'" line="514" column="13" />
-        <mark key="[" line="523" column="16" />
-        <mark key="]" line="523" column="42" />
-        <mark key="." line="523" column="42" />
-        <mark key="^" line="523" column="42" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="936" column="8" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
