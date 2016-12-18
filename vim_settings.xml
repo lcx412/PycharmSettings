@@ -9,44 +9,20 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/next/next-web/webapp/components/NewPlan.js" timestamp="1481959751613" />
-      <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
-        <mark key="[" line="122" column="21" />
-        <mark key="]" line="114" column="34" />
-        <mark key="." line="114" column="34" />
-        <mark key="^" line="114" column="34" />
-      </file>
       <file name="D:/PythonProjects/next/next-web/plan/views.py" timestamp="1481960741625" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
       <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1481961217476" />
-      <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1481909690958">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-      </file>
-      <file name="D:/PythonProjects/Messages/pv_received_collector.py" timestamp="1481993244582">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="46" column="39" />
+      <file name="D:/PythonProjects/Messages/pv_received_collector.py" timestamp="1481995959608">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/next_handler.py" timestamp="1481968771922" />
       <file name="/Python Console" timestamp="1481967100456">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1481943864405">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="20" />
-        <mark key="^" line="49" column="20" />
-        <mark key="." line="49" column="20" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1481943505054">
-        <mark key="[" line="80" column="185" />
-        <mark key="]" line="80" column="185" />
-        <mark key="^" line="81" column="77" />
-        <mark key="." line="80" column="185" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1481973216756">
         <mark key="]" line="57" column="19" />
@@ -59,11 +35,11 @@
       <file name="D:/PythonProjects/next/next-server/lib/utils.py" timestamp="1481969627953">
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1481908755493">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1481946131149">
+        <mark key="'" line="82" column="974" />
+        <mark key="[" line="82" column="963" />
+        <mark key="]" line="82" column="963" />
+        <mark key="." line="82" column="963" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1481957091206">
         <mark key="[" line="34" column="0" />
@@ -83,8 +59,6 @@
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1481955092114" />
     </filemarks>
     <jumps>
-      <jump line="936" column="8" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="942" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="943" column="2" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2232" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="166" column="13" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -183,46 +157,48 @@
       <jump line="60" column="36" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="50" column="489" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="82" column="974" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="24" column="77" filename="D:/PythonProjects/Messages/pv_received_collector.py" />
+      <jump line="85" column="4" filename="D:/PythonProjects/Messages/pv_received_collector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5leGNlcHRpb24obGluZS5yc3RyaXAoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>&quot;insert into page values ({0},'{1}')&quot;.format(url_id, dest_url)</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZWxheV90aW1lIDwgMCBvciBkZWxheV90aW1lID49IDM2MDA6CiAgICAgICAgICAgIGRlbGF5X3RpbWUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnJ2luc2VydCBpbnRvIHBhZ2Vfdmlld3MgdmFsdWVzICh7MH0sInsxfSIsezJ9LCJ7M30iLCJ7NH0iKScnJy5mb3JtYXQodXJsX2lkLCBzb3VyY2UsIHVzZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5fcGFnZS5lc2NhcGVfc3RyaW5nKHVhKSwgdHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5leGNlcHRpb24obGluZS5yc3RyaXAoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHMgPSBsb2dfdGltZVs6LTRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZCA9IHVzZXJfaWQuZ3JvdXAoMSkgaWYgdXNlcl9pZCBlbHNlIDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWEgPSB1YS5ncm91cCgyKSBpZiB1YSBlbHNlICcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjcHJpbnQodXRpbHMuc3RhbXBfcm91bmRfZm9yd2FyZChpbnQodGltZS50aW1lKCkpLCAxKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxheSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubl9wYWdlLmNvbW1pdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubl9wYWdlLmVzY2FwZV9zdHJpbmcodWEpLCB0cykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnJ2luc2VydCBpbnRvIHBhZ2Vfdmlld3MgdmFsdWVzICh7MH0sInsxfSIsezJ9LCJ7M30iLCJ7NH0iKScnJy5mb3JtYXQodXJsX2lkLCBzb3VyY2UsIHVzZXJfaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJpbnNlcnQgaW50byBwYWdlX3ZpZXdzIHZhbHVlcyAoezB9LCd7MX0nLHsyfSwnezN9JywnezR9JykiLmZvcm1hdCh1cmxfaWQsIHNvdXJjZSwgdXNlcl9pZCwgdWEsIHRzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
