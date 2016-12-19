@@ -24,6 +24,7 @@
       </file>
       <file name="D:/PythonProjects/next/next-web/plan/views.py" timestamp="1481960741625" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
+      <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482138239631" />
       <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1481961217476" />
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1482120578925">
         <mark key="[" line="27" column="16" />
@@ -31,12 +32,12 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482120806885">
+      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482138149897">
         <mark key="'" line="76" column="4" />
-        <mark key="[" line="75" column="40" />
-        <mark key="]" line="75" column="41" />
-        <mark key="." line="75" column="41" />
-        <mark key="^" line="54" column="359" />
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="77" column="28" />
+        <mark key="." line="77" column="28" />
+        <mark key="^" line="77" column="28" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1481909690958">
         <mark key="[" line="8" column="27" />
@@ -209,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replace('\r', '').split('\n')</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>replace('\r', '').split('\n')</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
