@@ -23,15 +23,17 @@
         <mark key="^" line="114" column="34" />
       </file>
       <file name="D:/PythonProjects/next/next-web/plan/views.py" timestamp="1481960741625" />
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1482201477822" />
-      <file name="D:/PythonProjects/one4one/tmp.py" timestamp="1482201929630">
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="69" column="18" />
-        <mark key="^" line="69" column="18" />
-        <mark key="." line="69" column="18" />
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1482203200391" />
+      <file name="D:/PythonProjects/one4one/tmp.py" timestamp="1482204067620">
+        <mark key="[" line="70" column="72" />
+        <mark key="]" line="70" column="69" />
+        <mark key="^" line="70" column="69" />
+        <mark key="." line="70" column="69" />
       </file>
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482203393660" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
       <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482139915825" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482203255661" />
       <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1481961217476" />
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1482120578925">
         <mark key="[" line="27" column="16" />
@@ -217,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sum_</text>
+        <text>android</text>
       </register>
       <register name="-" type="4">
-        <text>sum_</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
