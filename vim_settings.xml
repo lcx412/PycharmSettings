@@ -131,11 +131,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/new_charged_users.py" timestamp="1481957153118" />
-      <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482205426277">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+      <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482207180586">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1481969710593">
         <mark key="[" line="0" column="0" />
@@ -154,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2270" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2244" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="31" column="11" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="184" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -254,13 +254,14 @@
       <jump line="81" column="4" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="46" column="3" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="36" column="0" filename="D:/PythonProjects/ResumeMiner/conf/logging.conf" />
+      <jump line="27" column="0" filename="D:/PythonProjects/ResumeMiner/conf/logging.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
@@ -272,29 +273,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W2xvZ2dlcl9kamFuZ29dCmxldmVsPURFQlVHCmhhbmRsZXJzPXRyZmgKcXVhbG5hbWU9ZGphbmdvLmRiCnByb3BhZ2F0ZT0wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0ZWZtdD0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb21fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSg1KQogICAgdG9fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSgxKQogICAgZGF5ID0gZnJvbV9kYXkKICAgIHdoaWxlIGRheSA8PSB0b19kYXk6CiAgICAgICAgZnRfc3R1ZGVudHMgPSBGdF9TdHVkZW50cyh5ZXM9ZGF5LnN0cmZ0aW1lKCclWS0lbS0lZCcpKQogICAgICAgIGZ0X3N0dWRlbnRzLnN1bV9zdGF0KCkKICAgICAgICBkYXkgKz0gdGltZWRlbHRhKDEpCgogICAgICAgICMgZnJvbV9kYXkgPSBkYXRldGltZSgyMDE2LCAxMiwgMSkKICAgICAgICAjIHRvX2RheSA9IGRhdGV0aW1lKDIwMTYsIDEyLCAxMikKICAgICAgICAjIGRheSA9IGZyb21fZGF5CiAgICAgICAgIyB3aGlsZSBkYXkgPD0gdG9fZGF5OgogICAgICAgICMgICAgIGZ0X3N0dWRlbnRzID0gRnRfU3R1ZGVudHMoeWVzPWRheS5zdHJmdGltZSgnJVktJW0tJWQnKSkKICAgICAgICAjICAgICBmdF9zdHVkZW50cy5zdW1fc3RhdCgpCiAgICAgICAgIyAgICAgZGF5ICs9IHRpbWVkZWx0YSgxKQo=</text>
+        <text encoding="base64">W2xvZ2dlcl9kamFuZ29dCmxldmVsPURFQlVHCmhhbmRsZXJzPXRyZmgKcXVhbG5hbWU9ZGphbmdvLmRiCnByb3BhZ2F0ZT0wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">ZGF0ZWZtdD0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIGZyb21fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSg1KQogICAgdG9fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSgxKQogICAgZGF5ID0gZnJvbV9kYXkKICAgIHdoaWxlIGRheSA8PSB0b19kYXk6CiAgICAgICAgZnRfc3R1ZGVudHMgPSBGdF9TdHVkZW50cyh5ZXM9ZGF5LnN0cmZ0aW1lKCclWS0lbS0lZCcpKQogICAgICAgIGZ0X3N0dWRlbnRzLnN1bV9zdGF0KCkKICAgICAgICBkYXkgKz0gdGltZWRlbHRhKDEpCgogICAgICAgICMgZnJvbV9kYXkgPSBkYXRldGltZSgyMDE2LCAxMiwgMSkKICAgICAgICAjIHRvX2RheSA9IGRhdGV0aW1lKDIwMTYsIDEyLCAxMikKICAgICAgICAjIGRheSA9IGZyb21fZGF5CiAgICAgICAgIyB3aGlsZSBkYXkgPD0gdG9fZGF5OgogICAgICAgICMgICAgIGZ0X3N0dWRlbnRzID0gRnRfU3R1ZGVudHMoeWVzPWRheS5zdHJmdGltZSgnJVktJW0tJWQnKSkKICAgICAgICAjICAgICBmdF9zdHVkZW50cy5zdW1fc3RhdCgpCiAgICAgICAgIyAgICAgZGF5ICs9IHRpbWVkZWx0YSgxKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jbG9zZSgpCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25uX21hdHJpeC5jb21taXQoKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>.format(
-                yes_start_ts, yes_end_ts,</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gaXMgTm9uZToKICAgICAgICAgICAgY2hhcmdlX2NvbnN1bWVfZHVvYmFvID0gMAogICAgICAgICMgY3VyX21hdHJpeC5leGVjdXRlKAogICAgICAgICMgICAgICJ1cGRhdGUgZnRfc3R1ZGVudHMgc2V0IGNoYXJnZV9jb25zdW1lX2R1b2Jhbz17MH0gd2hlcmUgZGF0ZT17MX0iLmZvcm1hdCgKICAgICAgICAjICAgICAgICAgY2hhcmdlX2NvbnN1bWVfZHVvYmFvLCB5ZXNfZGF0ZSkpCgogICAgICAgIGN1cl9tYXRyaXguZXhlY3V0ZSgKICAgICAgICAgICAgInJlcGxhY2UgaW50byBmdF9zdHVkZW50cyhkYXRlLGNoYXJnZV9hbW91bnRfYWxpcGF5LGNoYXJnZV9hbW91bnRfd2VjaGF0LGNoYXJnZV9hbW91bnRfYmFuayxjaGFyZ2VfYW1vdW50X2NtYixjaGFyZ2VfYW1vdW50X290aGVyLGNoYXJnZV9hbW91bnRfYWxsb3dhbmNlLGNoYXJnZV9hbW91bnRfY2FyZCx3ZWVrX21lbWJlcl9hY3RpdmF0ZWQsbW9udGhfbWVtYmVyX2FjdGl2YXRlZCxxdWFydGVyX21lbWJlcl9hY3RpdmF0ZWQseWVhcl9tZW1iZXJfYWN0aXZhdGVkLG1vbnRoX21lbWJlcl9uZXdfYWN0aXZhdGVkLHF1YXJ0ZXJfbWVtYmVyX25ld19hY3RpdmF0ZWQsam95b19tZW1iZXJfYWN0aXZhdGVkLHN1bW1lcl9tZW1iZXJfYWN0aXZhdGVkLGNvbnN1bWVfYW1vdW50X3R1dG9yX2NoYXJnZSxjb25zdW1lX2Ftb3VudF90dXRvcl9hbGxvd2FuY2UsY29uc3VtZV9hbW91bnRfdHV0b3JfcmVkcGFja2V0LGNvbnN1bWVfYW1vdW50X3R1dG9yX21lbWJlcix3YWdlX3R1dG9yX25vcm1hbCx3YWdlX3R1dG9yX2FsbG93YW5jZSx3YWdlX3R1dG9yX21lbWJlcixjb25zdW1lX2Ftb3VudF9wb3N0X2NoYXJnZSxjb25zdW1lX2Ftb3VudF9wb3N0X2FsbG93YW5jZSxyZWZ1bmRfYW1vdW50X3Bvc3Qsd2FnZV9wb3N0LGNoYXJnZV9jb25zdW1lX21hbGwsY2hhcmdlX2NvbnN1bWVfZHVvYmFvKSB2YWx1ZXMoezB9KSIuZm9ybWF0KAogICAgICAgICAgICAgICAgJywnLmpvaW4oW3N0cih4KSBmb3IgeCBpbiBzdHVkZW50c10pKSk=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
