@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482227035138">
+        <mark key="[" line="68" column="94" />
+        <mark key="]" line="68" column="94" />
+        <mark key="^" line="68" column="164" />
+        <mark key="." line="68" column="94" />
+      </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1481962665681" />
       <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482128884599">
         <mark key="'" line="46" column="3" />
@@ -10,9 +16,6 @@
         <mark key="]" line="71" column="22" />
         <mark key="." line="71" column="22" />
         <mark key="^" line="71" column="22" />
-      </file>
-      <file name="/a.dummy" timestamp="1481957204790">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.conf" timestamp="1482205331976">
@@ -54,7 +57,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482139915825" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482225645988">
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482226977735">
         <mark key="'" line="311" column="4" />
         <mark key="[" line="253" column="130" />
         <mark key="]" line="253" column="130" />
@@ -149,9 +152,6 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1482225146400" />
-      <file name="/a.regexp" timestamp="1481969710593">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1481954766252">
         <mark key="[" line="134" column="68" />
       </file>
@@ -269,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
