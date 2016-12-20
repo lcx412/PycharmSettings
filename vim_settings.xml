@@ -54,11 +54,12 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482139915825" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482222799210">
-        <mark key="[" line="232" column="123" />
-        <mark key="]" line="232" column="123" />
-        <mark key="^" line="232" column="170" />
-        <mark key="." line="232" column="123" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482223509151">
+        <mark key="'" line="311" column="4" />
+        <mark key="[" line="253" column="130" />
+        <mark key="]" line="253" column="130" />
+        <mark key="^" line="253" column="170" />
+        <mark key="." line="253" column="130" />
       </file>
       <file name="D:/PythonProjects/next/next-server/conf/django_settings.py" timestamp="1481961217476" />
       <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1482120578925">
@@ -166,9 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2265" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2263" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="933" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2239" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="419" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -266,13 +264,16 @@
       <jump line="76" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="285" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="278" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="110" column="22" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="311" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
