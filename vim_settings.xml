@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482306106925">
-        <mark key="[" line="75" column="128" />
-        <mark key="]" line="75" column="134" />
-        <mark key="^" line="75" column="94" />
-        <mark key="." line="75" column="128" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482307534180">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="72" column="94" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1481962665681" />
       <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482128884599">
@@ -84,7 +84,7 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482138149897">
+      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482309062490">
         <mark key="'" line="76" column="4" />
         <mark key="[" line="77" column="15" />
         <mark key="]" line="77" column="28" />
@@ -123,12 +123,12 @@
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481955744825" />
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482292492158" />
       <file name="/creater.py" timestamp="1481963803732" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482304912902">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482309378576">
         <mark key="'" line="213" column="1787" />
-        <mark key="[" line="61" column="88" />
-        <mark key="]" line="61" column="88" />
-        <mark key="^" line="61" column="88" />
-        <mark key="." line="61" column="88" />
+        <mark key="[" line="82" column="142" />
+        <mark key="]" line="82" column="118" />
+        <mark key="^" line="82" column="118" />
+        <mark key="." line="82" column="118" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482220931544">
         <mark key="'" line="278" column="8" />
@@ -271,11 +271,11 @@
       <jump line="260" column="45" filename="D:/PythonProjects/one4one/ft_students.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19wcmVfZGF0ZSA9IChkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykgLSB0aW1lZGVsdGEoMSkpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>耗</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>耗</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
@@ -284,28 +284,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnllc19wcmVfZGF0ZSA9IChkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykgLSB0aW1lZGVsdGEoMSkpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYWlseV9zdGF0X2RmMiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfcG9zdCA9IHNlbGYuY3VyX3Bvc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCB0ZWFjaGVyX3VzZXJfaWQsZHVyYXRpb24sdHV0b3Jfd2FnZSBmcm9tIGRhdGVfdHV0b3JfcmVjb3JkIHdoZXJlIGRhdGU9ezJ9KSIpCg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9zdGF0LmV4ZWN1dGUoCg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYWlseV9zdGF0X2RmMiA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl8xb24xLmV4ZWN1dGUoInNsZWN0ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCB0ZWFjaGVyX3VzZXJfaWQsZHVyYXRpb24sdHV0b3Jfd2FnZSBmcm9tIGRhdGVfdHV0b3JfcmVjb3JkIHdoZXJlIGRhdGU9ezJ9KSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9zdGF0LmV4ZWN1dGUoCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
