@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482231325284">
-        <mark key="[" line="82" column="195" />
-        <mark key="]" line="82" column="195" />
-        <mark key="^" line="76" column="27" />
-        <mark key="." line="82" column="195" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482292721805">
+        <mark key="[" line="75" column="128" />
+        <mark key="]" line="75" column="134" />
+        <mark key="^" line="75" column="94" />
+        <mark key="." line="75" column="128" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1481962665681" />
       <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482128884599">
@@ -19,6 +19,9 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1482284401393" />
+      <file name="D:/PythonProjects/next/next-worker/lib/TSocketPool.py" timestamp="1481870416356">
+        <mark key="'" line="20" column="20" />
+      </file>
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.conf" timestamp="1482205331976">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="18" column="0" />
@@ -48,12 +51,8 @@
         <mark key="^" line="70" column="69" />
         <mark key="." line="70" column="69" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482288996197">
-        <mark key="'" line="179" column="10" />
-        <mark key="[" line="184" column="11" />
-        <mark key="]" line="184" column="15" />
-        <mark key="." line="184" column="15" />
-        <mark key="^" line="184" column="15" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482293454486">
+        <mark key="'" line="76" column="75" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
       <file name="D:/PythonProjects/tmp_job/job.sh" timestamp="1481788710119">
@@ -64,7 +63,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482139915825" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482242001137">
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482293095429">
         <mark key="'" line="311" column="4" />
         <mark key="[" line="232" column="313" />
         <mark key="]" line="232" column="314" />
@@ -121,14 +120,14 @@
         <mark key="." line="42" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481955744825" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482252873956" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482292492158" />
       <file name="/creater.py" timestamp="1481963803732" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482286130105">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482293308643">
         <mark key="'" line="192" column="1787" />
-        <mark key="[" line="193" column="67" />
-        <mark key="]" line="342" column="144" />
-        <mark key="^" line="342" column="144" />
-        <mark key="." line="342" column="145" />
+        <mark key="[" line="195" column="37" />
+        <mark key="]" line="195" column="36" />
+        <mark key="^" line="195" column="36" />
+        <mark key="." line="195" column="36" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482220931544">
         <mark key="'" line="278" column="8" />
@@ -160,6 +159,9 @@
       </file>
       <file name="D:/PythonProjects/one4one/tutor_card_users.py" timestamp="1481955092114" />
       <file name="D:/PythonProjects/next/next-monitor/conf/logging.conf" timestamp="1482205264317" />
+      <file name="D:/PythonProjects/next/next-worker/conf/logging.conf" timestamp="1481883648253">
+        <mark key="'" line="19" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1481857546302">
         <mark key="'" line="514" column="13" />
         <mark key="[" line="523" column="16" />
@@ -169,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="19" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
-      <jump line="2202" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="93" column="13" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="192" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="200" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -269,46 +268,49 @@
       <jump line="311" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="192" column="1787" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="177" column="10" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="180" column="431" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="117" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="76" column="75" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgns+TWtbrNsrnM+ScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGN1ci5leGVjdXRlKAogICAgICAgICMgICAgICJzZWxlY3Qgc3VtKGFjdHVhbF9jb25zdW1lX2Ftb3VudCksc3VtKGVuZF90aW1lLXN0YXJ0X3RpbWUpLHN1bShpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8NjAscHJpY2UsZmxvb3IoKGVuZF90aW1lLXN0YXJ0X3RpbWUpLzYwKSpwcmljZSkpIGZyb20gKHNlbGVjdCAqIGZyb20gdHV0b3JfcmVjb3JkIHdoZXJlIChpc19tZW1iZXJfdXNlcjw+MCBvciB1c2Vfd2hpdGVib2FyZF9wYWNrYWdlPTEpIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIHR1dG9yX2VudHJ5IT04IGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9KXQgam9pbiAoc2VsZWN0IHRlYWNoZXJfdXNlcl9pZCxpZih2YWxpZF9kdXJhdGlvbj0wLDAsdHV0b3Jfd2FnZSo2MC92YWxpZF9kdXJhdGlvbilhcyBwcmljZSBmcm9tIGRhdGVfdHV0b3JfcmVjb3JkIHdoZXJlIGRhdGU9ezN9KWQgdXNpbmcodGVhY2hlcl91c2VyX2lkKSIuZm9ybWF0KAogICAgICAgICMgICAgICAgICB1aWQsIHllc19zdGFydF90cywgeWVzX2VuZF90cywgeWVzX2RhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgns+TWtbrNsrnM+ScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAic2VsZWN0IHN1bShhY3R1YWxfY29uc3VtZV9hbW91bnQpLHN1bShlbmRfdGltZS1zdGFydF90aW1lKSxzdW0oaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPDYwLHRlYWNoZXJfcHJpY2UsZmxvb3IoKGVuZF90aW1lLXN0YXJ0X3RpbWUpLzYwKSp0ZWFjaGVyX3ByaWNlKSkqMC45IGZyb20gdHV0b3JfcmVjb3JkIHdoZXJlIChpc19tZW1iZXJfdXNlcjw+MCBvciB1c2Vfd2hpdGVib2FyZF9wYWNrYWdlPTEpIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPj1zdGFydF90aW1lIGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgIHVpZCwgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfcG9zdCA9IHNlbGYuY3VyX3Bvc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXIuZXhlY3V0ZSgKICAgICAgICAic2VsZWN0IHN1bShhY3R1YWxfY29uc3VtZV9hbW91bnQpLHN1bShlbmRfdGltZS1zdGFydF90aW1lKSxzdW0oaWYoKGVuZF90aW1lLXN0YXJ0X3RpbWUpPDYwLHRlYWNoZXJfcHJpY2UsZmxvb3IoKGVuZF90aW1lLXN0YXJ0X3RpbWUpLzYwKSp0ZWFjaGVyX3ByaWNlKSkqMC45IGZyb20gdHV0b3JfcmVjb3JkIHdoZXJlIChpc19tZW1iZXJfdXNlcjw+MCBvciB1c2Vfd2hpdGVib2FyZF9wYWNrYWdlPTEpIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPj1zdGFydF90aW1lIGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgIHVpZCwgeWVzX3N0YXJ0X3RzLCB5ZXNfZW5kX3RzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W2xvZ2dlcl9kamFuZ29dCmxldmVsPURFQlVHCmhhbmRsZXJzPXRyZmgKcXVhbG5hbWU9ZGphbmdvLmRiCnByb3BhZ2F0ZT0wCg==</text>
+        <text encoding="base64">bG9nZ2luZy5jb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0ZWZtdD0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb21fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSg1KQogICAgdG9fZGF5ID0gZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSgxKQogICAgZGF5ID0gZnJvbV9kYXkKICAgIHdoaWxlIGRheSA8PSB0b19kYXk6CiAgICAgICAgZnRfc3R1ZGVudHMgPSBGdF9TdHVkZW50cyh5ZXM9ZGF5LnN0cmZ0aW1lKCclWS0lbS0lZCcpKQogICAgICAgIGZ0X3N0dWRlbnRzLnN1bV9zdGF0KCkKICAgICAgICBkYXkgKz0gdGltZWRlbHRhKDEpCgogICAgICAgICMgZnJvbV9kYXkgPSBkYXRldGltZSgyMDE2LCAxMiwgMSkKICAgICAgICAjIHRvX2RheSA9IGRhdGV0aW1lKDIwMTYsIDEyLCAxMikKICAgICAgICAjIGRheSA9IGZyb21fZGF5CiAgICAgICAgIyB3aGlsZSBkYXkgPD0gdG9fZGF5OgogICAgICAgICMgICAgIGZ0X3N0dWRlbnRzID0gRnRfU3R1ZGVudHMoeWVzPWRheS5zdHJmdGltZSgnJVktJW0tJWQnKSkKICAgICAgICAjICAgICBmdF9zdHVkZW50cy5zdW1fc3RhdCgpCiAgICAgICAgIyAgICAgZGF5ICs9IHRpbWVkZWx0YSgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyZ2VfY29uc3VtZV9kdW9iYW8gPSBjdXJfZHVvYmFvLmZldGNob25lKClbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
