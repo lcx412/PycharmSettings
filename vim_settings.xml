@@ -113,22 +113,22 @@
         <mark key="^" line="81" column="77" />
         <mark key="." line="80" column="185" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1481950207043">
-        <mark key="'" line="134" column="70" />
-        <mark key="[" line="108" column="0" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1482310297866">
+        <mark key="'" line="136" column="70" />
+        <mark key="[" line="110" column="0" />
         <mark key="]" line="29" column="0" />
-        <mark key="^" line="63" column="97" />
+        <mark key="^" line="65" column="97" />
         <mark key="." line="42" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1481955744825" />
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1482310290645" />
       <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482292492158" />
       <file name="/creater.py" timestamp="1481963803732" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482309378576">
-        <mark key="'" line="213" column="1787" />
-        <mark key="[" line="82" column="142" />
-        <mark key="]" line="82" column="118" />
-        <mark key="^" line="82" column="118" />
-        <mark key="." line="82" column="118" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482312370038">
+        <mark key="'" line="450" column="8" />
+        <mark key="[" line="245" column="50" />
+        <mark key="]" line="245" column="50" />
+        <mark key="^" line="93" column="29" />
+        <mark key="." line="245" column="50" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482220931544">
         <mark key="'" line="278" column="8" />
@@ -169,10 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="200" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="126" column="15" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="123" column="39" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="185" column="22" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="196" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="91" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -269,46 +265,50 @@
       <jump line="117" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="76" column="75" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="260" column="45" filename="D:/PythonProjects/one4one/ft_students.py" />
+      <jump line="428" column="50" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="237" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="81" column="0" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="450" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>耗</text>
+        <text>码</text>
       </register>
       <register name="-" type="4">
-        <text>耗</text>
+        <text>码</text>
       </register>
       <register name="/" type="4">
         <text>bak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19wcmVfZGF0ZSA9IChkYXRldGltZS5zdHJwdGltZShzZWxmLnllcywgJyVZLSVtLSVkJykgLSB0aW1lZGVsdGEoMSkpLnN0cmZ0aW1lKCclWSVtJWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfcHJlID0gdSIvZGF0YS9ob21lL2x1Y2hlbmd4aWFuZy9vbmU0b25lL9K7ttTSu73Myqa2y8jVsahfIiArIHNlbGYueWVzX3ByZV9kYXRlMiArICIueGxzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2VsX3dyaXRlci5zYXZlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlX2RmLnRvX2V4Y2VsKHNlbGYuZXhjZWxfd3JpdGVyLCBzaGVldF9uYW1lPXUnu/mxvsr9vt0nLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfcG9zdCA9IHNlbGYuY3VyX3Bvc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBvcy5wYXRoLmV4aXN0cyhzZWxmLmZpbGVfcHJlKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kX3RzID0gc2VsZi55ZXNfZW5kX3RzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwYWNrYWdlX2NvbnN1bWVfcmF0aW8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnRfdHMgPSBzZWxmLnllc19zdGFydF90cwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYWlseV9zdGF0X2RmMiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCB0ZWFjaGVyX3VzZXJfaWQsZHVyYXRpb24sdHV0b3Jfd2FnZSBmcm9tIGRhdGVfdHV0b3JfcmVjb3JkIHdoZXJlIGRhdGU9ezJ9KSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9zdGF0LmV4ZWN1dGUoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGppYW9zaGkuYmFzZV9zdGF0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
