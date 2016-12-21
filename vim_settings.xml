@@ -18,6 +18,7 @@
         <mark key="^" line="71" column="22" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
+      <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1482284401393" />
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.conf" timestamp="1482205331976">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="18" column="0" />
@@ -47,7 +48,8 @@
         <mark key="^" line="70" column="69" />
         <mark key="." line="70" column="69" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482242005860">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482284731875">
+        <mark key="'" line="177" column="10" />
         <mark key="[" line="164" column="198" />
         <mark key="]" line="164" column="202" />
         <mark key="." line="164" column="202" />
@@ -172,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2239" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="419" column="3" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="19" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
       <jump line="2202" column="0" filename="D:/PythonProjects/ResumeMiner/res/Positions.txt" />
@@ -272,6 +273,7 @@
       <jump line="0" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="311" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="192" column="1787" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="177" column="10" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
