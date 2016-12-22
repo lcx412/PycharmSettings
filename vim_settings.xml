@@ -124,20 +124,20 @@
         <mark key="." line="42" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1482310290645" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482372879296">
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482374000031">
         <mark key="'" line="51" column="8" />
-        <mark key="[" line="50" column="12" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
+        <mark key="[" line="216" column="22" />
+        <mark key="]" line="216" column="22" />
+        <mark key="." line="216" column="22" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482316174679" />
       <file name="/creater.py" timestamp="1481963803732" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482372730931">
-        <mark key="'" line="450" column="8" />
-        <mark key="[" line="99" column="44" />
-        <mark key="]" line="245" column="50" />
-        <mark key="^" line="93" column="29" />
-        <mark key="." line="245" column="50" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482373836705">
+        <mark key="'" line="63" column="55" />
+        <mark key="[" line="243" column="94" />
+        <mark key="]" line="243" column="94" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="243" column="94" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482220931544">
         <mark key="'" line="278" column="8" />
@@ -178,10 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="193" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="131" column="65" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="167" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="229" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="2783" column="5" filename="D:/PythonProjects/ResumeMiner/res/ChinaUniversities.txt" />
       <jump line="133" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -277,14 +273,18 @@
       <jump line="254" column="55" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="628" column="14" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="26" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="87" column="24" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="248" column="59" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="63" column="55" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="85" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="51" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>sor</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>sor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJzb3JcPg==</text>
