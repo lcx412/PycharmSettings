@@ -26,6 +26,7 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1482284401393" />
+      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1482395684758" />
       <file name="D:/PythonProjects/next/next-web/webapp/components/NewPlan.js" timestamp="1481959751613" />
       <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1482387013165" />
       <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
@@ -85,11 +86,11 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1482391573293">
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="33" column="80" />
-        <mark key="." line="33" column="80" />
-        <mark key="^" line="33" column="80" />
+      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1482396728394">
+        <mark key="[" line="30" column="46" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1482390164328">
         <mark key="[" line="14" column="28" />
@@ -108,6 +109,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/hive_log_preprocess/batch.sh" timestamp="1482385139893" />
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1482396684672">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="35" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1482287809778">
         <mark key="[" line="243" column="101" />
         <mark key="]" line="243" column="101" />
@@ -298,44 +305,44 @@
       <jump line="80" column="94" filename="D:/PythonProjects/one4one/django_hive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiRmFpbGVkIGpvYjp1aWRfaWlkX21hcHBlci8ke2RhdGV9Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>${job_name}_log_preprocessing</text>
       </register>
       <register name="/" type="4">
         <text>user_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjuMTOqtaxvdO009StyrzOxLz+tKbA7Qo=</text>
+        <text encoding="base64">LWlucHV0ICIvZGF0YS9hZmFudGlfb25saW5lX2xvZy8ke2RhdGV9LyoiIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q0hLX1JFVCBGQVRBTCAiRmFpbGVkIGpvYjp1aWRfaWlkX21hcHBlci8ke2RhdGV9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Iy1pbnB1dCAiL2RhdGEvYWZhbnRpX29ubGluZV9sb2cvJHtkYXRlfS8qIiBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibGV2ZWwiOiJJTkZPIgo=</text>
+        <text encoding="base64">Y2QgYGRpcm5hbWUgJDBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZXZlbAo=</text>
+        <text encoding="base64">c291cmNlIH4vLmJhc2hyYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXZlbCA9IGxpbmVbJ2xldmVsJ10K</text>
+        <text encoding="base64">Y2QgL2RhdGEvaG9tZS9sdWNoZW5neGlhbmcvb25lNG9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRpbWVfc3RhbXAsIG1lc3NhZ2UgPSBsaW5lLnN0cmlwKCkuc3BsaXQoJ1x0JywgMSkK</text>
+        <text encoding="base64">c2hvcHQgLXMgZXhwYW5kX2FsaWFzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGFmYW50aV9oaXZlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5zZXJ0IG92ZXJ3cml0ZSBkaXJlY3RvcnkgJy9vdXRwdXQvbHVjaGVuZ3hpYW5nL2RqYW5nby8ke2RhdGV9LycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
