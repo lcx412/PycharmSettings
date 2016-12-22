@@ -124,12 +124,17 @@
         <mark key="." line="42" column="31" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1482310290645" />
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482292492158" />
+      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482372879296">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+      </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482316174679" />
       <file name="/creater.py" timestamp="1481963803732" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482322353185">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482372730931">
         <mark key="'" line="450" column="8" />
-        <mark key="[" line="245" column="50" />
+        <mark key="[" line="99" column="44" />
         <mark key="]" line="245" column="50" />
         <mark key="^" line="93" column="29" />
         <mark key="." line="245" column="50" />
@@ -173,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="86" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="34" column="45" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="223" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="193" column="41" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="131" column="65" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -273,16 +275,19 @@
       <jump line="450" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="274" column="18" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="254" column="55" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="628" column="14" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="26" column="0" filename="D:/PythonProjects/one4one/tutor_sum.py" />
+      <jump line="51" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RfZGF0ZSA9IHNlbGYudG9kX2RhdGUK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>'''</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>bak</text>
+        <text encoding="base64">XDxjdXJzb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfcHJlID0gdSIvZGF0YS9ob21lL2x1Y2hlbmd4aWFuZy9vbmU0b25lL9K7ttTSu73Myqa2y8jVsahfIiArIHNlbGYueWVzX3ByZV9kYXRlMiArICIueGxzIgo=</text>
@@ -319,17 +324,16 @@
       </register>
     </registers>
     <search>
-      <last-search>bak</last-search>
+      <last-search encoding="base64">XDxjdXJzb3JcPg==</last-search>
       <last-offset />
-      <last-pattern>bak</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJzb3JcPg==</last-pattern>
       <last-replace>sentence</last-replace>
-      <last-substitute>string_to_search</last-substitute>
+      <last-substitute>bak</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>string_to_search</entry>
         <entry>tele</entry>
         <entry>tel</entry>
         <entry>phone</entry>
@@ -349,6 +353,7 @@
         <entry>check_name</entry>
         <entry>aft</entry>
         <entry>bak</entry>
+        <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
