@@ -10,14 +10,19 @@
         <mark key="." line="47" column="0" />
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/server.py" timestamp="1481962665681" />
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482379014552">
+      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482391985702">
         <mark key="'" line="57" column="420" />
         <mark key="[" line="50" column="161" />
         <mark key="]" line="50" column="162" />
         <mark key="." line="50" column="162" />
         <mark key="^" line="50" column="162" />
       </file>
-      <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1482387765380" />
+      <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1482391094534">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1482284401393" />
       <file name="D:/PythonProjects/next/next-web/webapp/components/NewPlan.js" timestamp="1481959751613" />
@@ -79,7 +84,18 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1482386934129" />
+      <file name="D:/PythonProjects/one4one/django_hive.sh" timestamp="1482391573293">
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="80" />
+        <mark key="^" line="33" column="80" />
+      </file>
+      <file name="D:/PythonProjects/hive_log_preprocess/map.sh" timestamp="1482390164328">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+      </file>
       <file name="D:/PythonProjects/Messages/pv_received_collector.py" timestamp="1481995959608">
         <mark key="'" line="85" column="4" />
         <mark key="[" line="50" column="0" />
@@ -281,44 +297,44 @@
       <jump line="57" column="420" filename="D:/PythonProjects/one4one/live_stat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>using</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>user_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfcHJlID0gdSIvZGF0YS9ob21lL2x1Y2hlbmd4aWFuZy9vbmU0b25lL9K7ttTSu73Myqa2y8jVsahfIiArIHNlbGYueWVzX3ByZV9kYXRlMiArICIueGxzIgo=</text>
+        <text encoding="base64">ICAgICAgICAjuMTOqtaxvdO009StyrzOxLz+tKbA7Qo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RfZGF0ZSA9IHNlbGYudG9kX2RhdGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
+        <text encoding="base64">ICAgICAgICAibGV2ZWwiOiJJTkZPIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXZlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbCA9IGxpbmVbJ2xldmVsJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRpbWVfc3RhbXAsIG1lc3NhZ2UgPSBsaW5lLnN0cmlwKCkuc3BsaXQoJ1x0JywgMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMSA9IHNlbGYuY3VyXzFvbjEK</text>
+        <text encoding="base64">dXNlIGFmYW50aV9oaXZlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uID0gc2VsZi5jb25uCg==</text>
+        <text encoding="base64">aW5zZXJ0IG92ZXJ3cml0ZSBkaXJlY3RvcnkgJy9vdXRwdXQvbHVjaGVuZ3hpYW5nL2RqYW5nby8ke2RhdGV9LycK</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
