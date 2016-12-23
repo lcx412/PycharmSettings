@@ -134,6 +134,11 @@
         <mark key="[" line="13" column="43" />
       </file>
       <file name="D:/PythonProjects/matrix/api/financial_times.py" timestamp="1482465789364" />
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1481957091206">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/mall_stat.py" timestamp="1482302483406">
         <mark key="[" line="130" column="70" />
         <mark key="]" line="130" column="76" />
@@ -218,14 +223,16 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1482463458443">
-        <mark key="[" line="147" column="36" />
-        <mark key="]" line="147" column="40" />
-        <mark key="^" line="148" column="41" />
-        <mark key="." line="147" column="40" />
+      <file name="D:/PythonProjects/matrix/api/nav.py" timestamp="1482470622798">
+        <mark key="[" line="147" column="40" />
+        <mark key="]" line="147" column="41" />
+        <mark key="^" line="147" column="41" />
+        <mark key="." line="147" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482379768939">
+      <file name="/Dummy.txt" timestamp="1482470598026">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/new_charged_users.py" timestamp="1481957153118" />
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482207180586">
@@ -357,10 +364,10 @@
         <text>grade_tutored_stat</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>售</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>售</text>
       </register>
       <register name="/" type="4">
         <text>ss</text>
