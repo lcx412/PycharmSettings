@@ -12,7 +12,12 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1482395684758" />
-      <file name="D:/PythonProjects/Flask/app.py" timestamp="1482473258453" />
+      <file name="D:/PythonProjects/Flask/app.py" timestamp="1482479010967">
+        <mark key="[" line="55" column="199" />
+        <mark key="]" line="55" column="205" />
+        <mark key="^" line="55" column="205" />
+        <mark key="." line="55" column="205" />
+      </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1482397760919" />
       <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
         <mark key="[" line="122" column="21" />
@@ -48,7 +53,7 @@
         <mark key="." line="106" column="13" />
       </file>
       <file name="C:/Python2/Lib/site-packages/bitmap/bitmap.py" timestamp="1482139915825" />
-      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1482401829360" />
+      <file name="D:/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1482478080546" />
       <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1482474516793" />
       <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482315053127">
         <mark key="'" line="76" column="4" />
@@ -142,6 +147,12 @@
         <mark key="." line="130" column="76" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1482225146400" />
+      <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1482479086787">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1482465130167" />
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482307534180">
         <mark key="[" line="47" column="0" />
@@ -159,7 +170,13 @@
       </file>
       <file name="D:/PythonProjects/one4one/sqoop.sh" timestamp="1482284401393" />
       <file name="D:/PythonProjects/next/next-web/webapp/components/NewPlan.js" timestamp="1481959751613" />
-      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1482387013165" />
+      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1482478913743">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="76" column="36" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="36" />
+      </file>
       <file name="/dep_checker.py" timestamp="1482378312498" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1482397383638" />
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1481955878927" />
@@ -251,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="3" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="11" column="10" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="274" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="264" column="35" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -351,22 +367,23 @@
       <jump line="109" column="22" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="198" column="4" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="148" column="41" filename="D:/PythonProjects/matrix/api/nav.py" />
+      <jump line="75" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>grade_tutored_stat</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcHloczIK</text>
+      <register name="&quot;" type="4">
+        <text>日期</text>
       </register>
       <register name="-" type="4">
-        <text>tutored</text>
+        <text>日期</text>
       </register>
       <register name="/" type="4">
         <text>ss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdFsnZGF0ZSddID0gaW50KHN0YXRbJ2RhdGUnXSAvIDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+yNXG2jwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBpbXBvcnQgcHloczIK</text>
