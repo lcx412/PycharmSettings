@@ -12,13 +12,13 @@
       </file>
       <file name="D:/PythonProjects/next/next-server/lib/db/models.py" timestamp="1481967621276" />
       <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1482395684758" />
-      <file name="D:/PythonProjects/Flask/app.py" timestamp="1482480237740">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="D:/PythonProjects/Flask/app.py" timestamp="1482482620140">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="82" column="16" />
+        <mark key="." line="84" column="0" />
       </file>
-      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1482479990242" />
+      <file name="D:/PythonProjects/Flask/templates/msg_stat.html" timestamp="1482482350478" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1482397760919" />
       <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
         <mark key="[" line="122" column="21" />
@@ -148,11 +148,11 @@
         <mark key="." line="130" column="76" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1482225146400" />
-      <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1482480041223">
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="42" />
-        <mark key="." line="41" column="42" />
-        <mark key="^" line="41" column="42" />
+      <file name="D:/PythonProjects/Flask/templates/page_views.html" timestamp="1482483155599">
+        <mark key="[" line="41" column="116" />
+        <mark key="]" line="41" column="116" />
+        <mark key="." line="41" column="116" />
+        <mark key="^" line="41" column="116" />
       </file>
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1482465130167" />
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482307534180">
@@ -375,10 +375,10 @@
         <text>grade_tutored_stat</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>ss</text>
@@ -387,31 +387,31 @@
         <text encoding="base64">ICAgICAgICA8dGQ+VVY8L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcHloczIK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSdodHRwOi8vbGliLnFpbmNvLm1lL2Rpc3Qvc2hhbWVPbklFLzAuMS5taW4uanMnPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiUGxlYXNlIFByb3ZpZGUgQXJndW1lbnRzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSB1J3swfV97MX1fJy5mb3JtYXQoZGF0ZSwgc291cmNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubl9oaXZlID0gcHloczIuY29ubmVjdChob3N0PScxMC41MS41OC4yMjknLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcnQ9MTIzNDUsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aE1lY2hhbmlzbT0iUExBSU4iLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ9J2x1Y2hlbmd4aWFuZycsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2U9J2FmYW50aV9oaXZlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJJbGxlZ2FsIEFyZ3VtZW50cyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGN1cl9oaXZlLmV4ZWN1dGUoCiAgICAgICAgIyAgICAgInNlbGVjdCBjb3VudCgqKSBmcm9tIGxjeF9oaXZlLnR1dG9yZWRfc3R1ZGVudHNfbmV3IHdoZXJlIHN0YXRfZGF0ZT17MH0iLmZvcm1hdCgKICAgICAgICAjICAgICAgICAgeWVzX2RhdGUpKQogICAgICAgICMgd2Jfc3R1ZGVudHNfbmV3X3llcyA9IGN1cl9oaXZlLmZldGNoYWxsKClbMF1bMF0KICAgICAgICAjIGlmIGludCh3Yl9zdHVkZW50c19uZXdfeWVzKSA9PSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb250ZW50X2lkIDw9IDAgb3IgdXNlcl90eXBlIG5vdCBpbiBbMSwgMl06Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZXJfdHlwZSA9PSAxOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmVtYWluLnJlbWFpbl9zdGF0KCkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBleHBvcnRfdHlwZSA9IHUn0tHUxLbBJwogICAgICAgICAgICBjdXJfbXNnLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICB1InNlbGVjdCBkaXN0aW5jdCB1c2VyX2lkIGZyb20gbXNnX3N0YXR1cyB3aGVyZSBjb250ZW50X2lkPXswfSBhbmQgaGFzX3JlYWQ9MSIuZm9ybWF0KGNvbnRlbnRfaWQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmVtYWluID0gUmVtYWluKHllcz0oZGF0ZXRpbWUudG9kYXkoKSAtIHRpbWVkZWx0YSgyKSkuc3RyZnRpbWUoJyVZLSVtLSVkJykpCg==</text>
+        <text encoding="base64">IyBpbXBvcnQgcHloczIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IChwYWNrYWdlX25hbWVzICkK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/string_to_search/sentence/g</text>
