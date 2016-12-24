@@ -91,6 +91,9 @@
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="18" />
       </file>
+      <file name="C:/Python3/Lib/site-packages/bleach/__init__.py" timestamp="1482591800837">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Django Console" timestamp="1482588162691">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="35" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="165" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="47" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="283" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="24" column="0" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
@@ -358,6 +359,8 @@
       <jump line="75" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="180" column="0" filename="C:/Python2/Lib/site-packages/flask_script/__init__.py" />
       <jump line="744" column="32" filename="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" />
+      <jump line="33" column="8" filename="C:/Python3/Lib/site-packages/bleach/__init__.py" />
+      <jump line="0" column="0" filename="C:/Python3/Lib/site-packages/bleach/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
