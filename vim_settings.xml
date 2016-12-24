@@ -26,7 +26,7 @@
         <mark key="." line="114" column="34" />
         <mark key="^" line="114" column="34" />
       </file>
-      <file name="D:/PythonProjects/sofia/manage.py" timestamp="1482566920335" />
+      <file name="D:/PythonProjects/sofia/manage.py" timestamp="1482567449939" />
       <file name="D:/PythonProjects/next/next-web/plan/views.py" timestamp="1481960741625" />
       <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1482300038720">
         <mark key="'" line="260" column="45" />
@@ -96,7 +96,9 @@
         <mark key="^" line="81" column="77" />
         <mark key="." line="80" column="185" />
       </file>
-      <file name="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" timestamp="1482567031312" />
+      <file name="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" timestamp="1482567303055">
+        <mark key="'" line="744" column="32" />
+      </file>
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1482393283685">
         <mark key="[" line="56" column="36" />
         <mark key="]" line="57" column="33" />
@@ -159,6 +161,7 @@
         <mark key="^" line="17" column="20" />
       </file>
       <file name="D:/PythonProjects/matrix/api/whiteboard.py" timestamp="1482465130167" />
+      <file name="D:/PythonProjects/sofia/templates/index.html" timestamp="1482567832181" />
       <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482307534180">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -272,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="264" column="35" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="165" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="47" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -372,6 +374,7 @@
       <jump line="148" column="41" filename="D:/PythonProjects/matrix/api/nav.py" />
       <jump line="75" column="0" filename="D:/PythonProjects/one4one/page_views.py" />
       <jump line="180" column="0" filename="C:/Python2/Lib/site-packages/flask_script/__init__.py" />
+      <jump line="744" column="32" filename="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -384,7 +387,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ss</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNvdW50KCopIGZyb20gdHV0b3JfcmVjb3JkIGpvaW4gZmFxX3VzZXIgb24gdHV0b3JfcmVjb3JkLnRlYWNoZXJfdXNlcl9pZD1mYXFfdXNlci51c2VyX2lkIHdoZXJlIHRlYWNoZXJfdHlwZT0xIGFuZCB0dXRvcl9zdGF0dXMgaW4gKDUsNikgYW5kIGFwcGx5X3RpbWUvMTAwMCBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIHJlcyA9IGN1cl8xb24xLmZldGNob25lKCkK</text>
@@ -421,17 +424,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ss</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>ss</last-pattern>
+      <last-pattern>x</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>bak</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>phone</entry>
         <entry>print</entry>
         <entry>engl</entry>
         <entry>cet</entry>
@@ -451,6 +453,7 @@
         <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
         <entry>user_id</entry>
         <entry>ss</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>% s/string_to_search/sentence/g</entry>
