@@ -19,7 +19,7 @@
         <mark key="." line="50" column="162" />
         <mark key="^" line="50" column="162" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" timestamp="1482654438705">
+      <file name="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" timestamp="1482656160817">
         <mark key="'" line="19" column="7" />
         <mark key="[" line="20" column="7" />
         <mark key="]" line="20" column="8" />
@@ -242,12 +242,12 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482654675530">
-        <mark key="'" line="316" column="8" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="16" />
-        <mark key="^" line="105" column="16" />
-        <mark key="." line="105" column="16" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482656686615">
+        <mark key="'" line="324" column="8" />
+        <mark key="[" line="194" column="72" />
+        <mark key="]" line="194" column="72" />
+        <mark key="^" line="194" column="84" />
+        <mark key="." line="194" column="72" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
@@ -420,40 +420,40 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>copy</text>
       </register>
       <register name="0" type="4">
-        <text>简历_初整理</text>
+        <text>.replace(u'学士', u'本科')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJywnLmpvaW4odSclcycgJSB4IGZvciB4IGluIHJvdyBpZiB4KSkK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndGFibGVfZXh0cmFjdGlvbicK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmICdDKysnIG5vdCBpbiByZXN1bWVfZmlsZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdGFibGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJywnLmpvaW4odSclcycgJSB4IGZvciB4IGluIHJvdyBpZiB4KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAndGFibGVfZXh0cmFjdGlvbicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICMgdGFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
