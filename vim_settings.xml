@@ -12,8 +12,8 @@
         <mark key="^" line="72" column="94" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/test/position_extract_test.py" timestamp="1482679898769">
-        <mark key="[" line="4" column="0" />
+      <file name="D:/PythonProjects/ResumeMiner/test/position_extract_test.py" timestamp="1482692505485">
+        <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="54" />
         <mark key="^" line="23" column="57" />
         <mark key="." line="4" column="0" />
@@ -156,11 +156,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/conf/dict.txt" timestamp="1482680570415">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+      <file name="D:/PythonProjects/ResumeMiner/conf/dict.txt" timestamp="1482692624563">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1482491589335">
         <mark key="[" line="34" column="40" />
@@ -174,11 +174,12 @@
         <mark key="^" line="243" column="101" />
         <mark key="." line="243" column="101" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" timestamp="1482685981637">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="14" />
+      <file name="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" timestamp="1482693873477">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_remain.py" timestamp="1481943505054">
         <mark key="[" line="80" column="185" />
@@ -243,12 +244,12 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482686021895">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482692406750">
         <mark key="'" line="113" column="14" />
-        <mark key="[" line="179" column="65" />
-        <mark key="]" line="179" column="66" />
-        <mark key="." line="179" column="66" />
-        <mark key="^" line="179" column="66" />
+        <mark key="[" line="52" column="65" />
+        <mark key="]" line="52" column="66" />
+        <mark key="." line="52" column="66" />
+        <mark key="^" line="52" column="64" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
@@ -315,7 +316,6 @@
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="311" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="192" column="1787" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="177" column="10" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="180" column="431" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
@@ -415,49 +415,50 @@
       <jump line="78" column="28" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="21" column="19" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="113" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="20" column="6" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>聘</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHUnU0VNJzogdSfL0cv30v3H5tOqz/onLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>聘</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHUnyMvKwic6IHUnSFInLAo=</text>
+        <text encoding="base64">ICAgIHUnQyc6IHUnQysrJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVwbGFjZSh1J8jLwabXytS0JywgdSdIUicpLnJlcGxhY2UodSfIy8rCJywgJ0hSJykK</text>
+        <text encoding="base64">ICAgIHUnU0VNJzogdSfL0cv30v3H5tOqz/onLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHUn0dC3oic6IHUn0dC3ormks8zKpicsCg==</text>
+        <text encoding="base64">ICAgIHUnsvrGt8novMbKpic6IHUnsvrGtycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdDJzogJ0MrKycsCg==</text>
+        <text encoding="base64">ICAgIHUnvbu7pSc6IHUnVUUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgIHUnxr3D5snovMbKpic6IHUnVUknLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9zLnJlbW92ZShyYXcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3ID0gZGlyICsgJy8nICsgZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyA9IGRpciArICcvJyArIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdSfUy86sJyBpbiBmaWxlOgogICAgICAgICAgICAgICAgZXh0cmFjdGVkWydwb3NpdGlvbiddID0gdSfUy86sJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcmF3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdSfUy86sJwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
