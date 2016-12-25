@@ -242,12 +242,12 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482656686615">
-        <mark key="'" line="324" column="8" />
-        <mark key="[" line="194" column="72" />
-        <mark key="]" line="194" column="72" />
-        <mark key="^" line="194" column="84" />
-        <mark key="." line="194" column="72" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482659440851">
+        <mark key="'" line="329" column="8" />
+        <mark key="[" line="107" column="23" />
+        <mark key="]" line="107" column="23" />
+        <mark key="^" line="107" column="23" />
+        <mark key="." line="107" column="23" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
@@ -420,10 +420,10 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>copy</text>
@@ -432,31 +432,31 @@
         <text>.replace(u'学士', u'本科')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3cucmVtb3ZlKE5vbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmICdDKysnIG5vdCBpbiByZXN1bWVfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIE5vbmUgaW4gcm93Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB2Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0YWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHRhYmxlOgogICAgICAgICAgICB3aGlsZSBOb25lIGluIHJvdzoKICAgICAgICAgICAgICAgIHJvdy5yZW1vdmUoTm9uZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJywnLmpvaW4odSclcycgJSB4IGZvciB4IGluIHJvdyBpZiB4KSkK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAndGFibGVfZXh0cmFjdGlvbicK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmICdDKysnIG5vdCBpbiByZXN1bWVfZmlsZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdGFibGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJywnLmpvaW4odSclcycgJSB4IGZvciB4IGluIHJvdyBpZiB4KSkK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
