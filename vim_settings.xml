@@ -74,6 +74,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="19" column="23" />
       </file>
+      <file name="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" timestamp="1482647192444">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+      </file>
       <file name="/Python Console" timestamp="1482636798061">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,12 +135,12 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482640999837">
-        <mark key="'" line="198" column="42" />
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="17" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482646119127">
+        <mark key="'" line="197" column="42" />
+        <mark key="[" line="50" column="131" />
+        <mark key="]" line="50" column="133" />
+        <mark key="." line="50" column="133" />
+        <mark key="^" line="50" column="133" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
@@ -269,44 +275,44 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UE9TSVRJT05fU0VBUkNIX1BBVFRFUk4gPSByZS5jb21waWxlKAogICAgdXInKD88PShccHtafXxccHtQfXxeKSlbXHcrXSsovNy5ucqmfLmks8zKpnzJ6LzGyqZ8t9bO9sqmfMzl0enKpnzXqNSxfMq1z7DJ+ny5y87KfNfcvOB8vq3A7XzW97ncfNeo1LF8zsTUsXzW+sDtfLLfu6581MvTqnzQ0NX+fMewzKh8v823/nyx4LytKSg/PShcV3wkKSknKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.replace('\\','/')</text>
       </register>
       <register name="-" type="4">
-        <text>experience</text>
+        <text>.replace('\\','/')</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UE9TSVRJT05fU0VBUkNIX1BBVFRFUk4gPSByZS5jb21waWxlKAogICAgdXInKD88PShccHtafXxccHtQfXxeKSlbXHcrXSsovNy5ucqmfLmks8zKpnzJ6LzGyqZ8t9bO9sqmfMzl0enKpnzXqNSxfMq1z7DJ+ny5y87KfNfcvOB8vq3A7XzW97ncfNeo1LF8zsTUsXzW+sDtfLLfu6581MvTqnzQ0NX+fMewzKh8v823/nyx4LytKSg/PShcV3wkKSknKQo=</text>
+        <text encoding="base64">ICAgIGZvciBkaXIgaW4gZGlyczoKICAgICAgICBwcmludCByb290ICsgJy8nICsgZGlyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja19leHBlcmllbmNlKGV4dHJhY3RlZCwgc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIHByaW50IHJvb3QgKyAnLycgKyBmaWxlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGZpbGVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb3c6Cg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja19leHBlcmllbmNlKGV4dHJhY3RlZCwgc2VudGVuY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3c6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnllcyArICIgMjM6NTk6NTknKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19zdGFydCA9ICJ1bml4X3RpbWVzdGFtcCgnIiArIHNlbGYueWVzICsgIiAwMDowMDowMCcpIgo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
