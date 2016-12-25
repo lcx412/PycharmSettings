@@ -13,12 +13,22 @@
         <mark key="." line="50" column="162" />
         <mark key="^" line="50" column="162" />
       </file>
+      <file name="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" timestamp="1482650000526">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+      </file>
       <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1482394604632">
         <mark key="'" line="80" column="94" />
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="23" />
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1482649791042">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python3/Lib/site-packages/django/db/models/functions/base.py" timestamp="1482598059349" />
       <file name="C:/Python3/Lib/site-packages/django/contrib/contenttypes/fields.py" timestamp="1482594094206" />
@@ -74,11 +84,17 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" timestamp="1482647192444">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="55" />
+      <file name="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" timestamp="1482649340221">
+        <mark key="'" line="36" column="49" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="37" column="36" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" timestamp="1482648895633">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Python Console" timestamp="1482636798061">
         <mark key="[" line="0" column="0" />
@@ -122,8 +138,12 @@
       <file name="C:/Python3/Lib/site-packages/bleach/__init__.py" timestamp="1482591800837">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" timestamp="1482636198638">
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" timestamp="1482648929711">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="/Django Console" timestamp="1482598514427">
         <mark key="[" line="0" column="0" />
@@ -135,24 +155,37 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482646119127">
-        <mark key="'" line="197" column="42" />
-        <mark key="[" line="50" column="131" />
-        <mark key="]" line="50" column="133" />
-        <mark key="." line="50" column="133" />
-        <mark key="^" line="50" column="133" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482649701767">
+        <mark key="'" line="296" column="8" />
+        <mark key="[" line="221" column="83" />
+        <mark key="]" line="222" column="46" />
+        <mark key="." line="222" column="46" />
+        <mark key="^" line="222" column="46" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
       </file>
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1482565726335">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="D:/PythonProjects/pythonzh.cn/forum/models.py" timestamp="1482597153295" />
       <file name="D:/PythonProjects/pythonzh.cn/replies/forms.py" timestamp="1482597689769" />
-      <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482636327620">
+      <file name="/Dummy.txt" timestamp="1482472253513">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482648664620">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="29" column="9" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="22" />
-        <mark key="." line="35" column="0" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="29" column="9" />
+      </file>
+      <file name="/a.regexp" timestamp="1482648591385">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1481954766252">
         <mark key="[" line="134" column="68" />
@@ -170,20 +203,6 @@
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
-      <jump line="27" column="11" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
-      <jump line="74" column="4" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
-      <jump line="103" column="19" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="10" column="12" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="120" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="121" column="24" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="122" column="45" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="9" column="26" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="139" column="8" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="130" column="4" filename="D:/PythonProjects/one4one/charge_log_proc.py" />
-      <jump line="19" column="0" filename="D:/PythonProjects/next/next-worker/conf/logging.conf" />
-      <jump line="553" column="37" filename="D:/PythonProjects/one4one/dts_detail.py" />
-      <jump line="408" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="535" column="0" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="580" column="4" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="514" column="13" filename="D:/PythonProjects/one4one/dts_detail.py" />
@@ -270,68 +289,88 @@
       <jump line="0" column="0" filename="C:/Python3/Lib/site-packages/bleach/__init__.py" />
       <jump line="47" column="378" filename="D:/PythonProjects/matrix/api/tk_views.py" />
       <jump line="196" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="72" column="93" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="291" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="37" column="34" filename="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" />
+      <jump line="281" column="12" filename="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" />
+      <jump line="217" column="44" filename="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" />
+      <jump line="0" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" />
+      <jump line="23" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="68" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="275" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="38" column="49" filename="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" />
+      <jump line="232" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="52" column="96" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="292" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
+      <jump line="16" column="7" filename="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.replace('\\','/')</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>.replace('\\','/')</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>copy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBkaXIgaW4gZGlyczoKICAgICAgICBwcmludCByb290ICsgJy8nICsgZGlyCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICd0ZXh0X2V4dHJhY3Rpb24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIHByaW50IHJvb3QgKyAnLycgKyBmaWxlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGZpbGVzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgIGZyb20gcmVzdW1lbWluZXIgaW1wb3J0IGNvbnZlcnRfcGRmX3RvX3NlbnRlbmNlX2xpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja19leHBlcmllbmNlKGV4dHJhY3RlZCwgc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdlZHVjYXRpb24nOiB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdleHBlcmllbmNlJzogJycsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb3c6Cg==</text>
+      <register name="6" type="4">
+        <text>'file_path': file,
+                         'raw_text': '',
+                         'name': '',
+                         'gender': '',
+                         'birth': '',
+                         'age': '',
+                         'tel': '',
+                         'email': '',
+                         'cet': '',
+                         'github': '',</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdjb2xsZWdlcyc6IHNldCgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxsb3dQT1M9KCduJywgJ3InLCAnbnQnLCAnbnonLCAnYW4nLCAndm4nKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdrZXl3b3Jkcyc6IGppZWJhLmFuYWx5c2UudGV4dHJhbmsoJycsIHRvcEs9NSwgd2l0aFdlaWdodD1GYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>bak</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>engl</entry>
-        <entry>cet</entry>
         <entry>销售</entry>
         <entry>exp</entry>
         <entry>pos</entry>
@@ -349,6 +388,9 @@
         <entry>user_id</entry>
         <entry>ss</entry>
         <entry>x</entry>
+        <entry>os.cp</entry>
+        <entry>cp</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry>% s/string_to_search/sentence/g</entry>
