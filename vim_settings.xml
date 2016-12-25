@@ -68,11 +68,11 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="28" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1482637157049">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="12" column="9" />
+      <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1482640571570">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="/Python Console" timestamp="1482636798061">
         <mark key="[" line="0" column="0" />
@@ -129,12 +129,12 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="243" column="94" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482637165803">
-        <mark key="'" line="281" column="8" />
-        <mark key="[" line="85" column="85" />
-        <mark key="]" line="86" column="25" />
-        <mark key="." line="86" column="25" />
-        <mark key="^" line="86" column="25" />
+      <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482640999837">
+        <mark key="'" line="198" column="42" />
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
@@ -164,7 +164,6 @@
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="283" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="24" column="0" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
       <jump line="27" column="11" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
       <jump line="74" column="4" filename="D:/PythonProjects/one4one/answer_cost_at_type.py" />
@@ -264,49 +263,50 @@
       <jump line="33" column="8" filename="C:/Python3/Lib/site-packages/bleach/__init__.py" />
       <jump line="0" column="0" filename="C:/Python3/Lib/site-packages/bleach/__init__.py" />
       <jump line="47" column="378" filename="D:/PythonProjects/matrix/api/tk_views.py" />
+      <jump line="196" column="42" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9TSVRJT05fU0VBUkNIX1BBVFRFUk4gPSByZS5jb21waWxlKAogICAgdXInKD88PShccHtafXxccHtQfXxeKSlbXHcrXSsovNy5ucqmfLmks8zKpnzJ6LzGyqZ8t9bO9sqmfMzl0enKpnzXqNSxfMq1z7DJ+ny5y87KfNfcvOB8vq3A7XzW97ncfNeo1LF8zsTUsXzW+sDtfLLfu6581MvTqnzQ0NX+fMewzKh8v823/nyx4LytKSg/PShcV3wkKSknKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>experience</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfMW9uMS5leGVjdXRlKAogICAgICAgICAgICAic2VsZWN0IGNvdW50KCopIGZyb20gdHV0b3JfcmVjb3JkIGpvaW4gZmFxX3VzZXIgb24gdHV0b3JfcmVjb3JkLnRlYWNoZXJfdXNlcl9pZD1mYXFfdXNlci51c2VyX2lkIHdoZXJlIHRlYWNoZXJfdHlwZT0xIGFuZCB0dXRvcl9zdGF0dXMgaW4gKDUsNikgYW5kIGFwcGx5X3RpbWUvMTAwMCBiZXR3ZWVuIHswfSBhbmQgezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQogICAgICAgIHJlcyA9IGN1cl8xb24xLmZldGNob25lKCkK</text>
+        <text encoding="base64">UE9TSVRJT05fU0VBUkNIX1BBVFRFUk4gPSByZS5jb21waWxlKAogICAgdXInKD88PShccHtafXxccHtQfXxeKSlbXHcrXSsovNy5ucqmfLmks8zKpnzJ6LzGyqZ8t9bO9sqmfMzl0enKpnzXqNSxfMq1z7DJ+ny5y87KfNfcvOB8vq3A7XzW97ncfNeo1LF8zsTUsXzW+sDtfLLfu6581MvTqnzQ0NX+fMewzKh8v823/nyx4LytKSg/PShcV3wkKSknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja19leHBlcmllbmNlKGV4dHJhY3RlZCwgc2VudGVuY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb3c6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3c6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnllcyArICIgMjM6NTk6NTknKSIK</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnllc19zdGFydCA9ICJ1bml4X3RpbWVzdGFtcCgnIiArIHNlbGYueWVzICsgIiAwMDowMDowMCcpIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnllc19lbmQgPSAidW5peF90aW1lc3RhbXAoJyIgKyBzZWxmLnllcyArICIgMjM6NTk6NTknKSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnllc19zdGFydCA9ICJ1bml4X3RpbWVzdGFtcCgnIiArIHNlbGYueWVzICsgIiAwMDowMDowMCcpIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
