@@ -35,12 +35,12 @@
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482747664020">
-        <mark key="'" line="298" column="4" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="129" column="18" />
-        <mark key="." line="130" column="0" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482749081257">
+        <mark key="'" line="304" column="4" />
+        <mark key="[" line="162" column="25" />
+        <mark key="]" line="162" column="25" />
+        <mark key="^" line="162" column="25" />
+        <mark key="." line="162" column="25" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1482721783238">
         <mark key="[" line="14" column="66" />
@@ -285,17 +285,17 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXJnZShkZl9yZWZ1c2VkLCBob3c9J2xlZnQnLCBvbj11J0lEJykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3R1dG9yICs9IGNvbnN1bWVfcGFja2FnZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
