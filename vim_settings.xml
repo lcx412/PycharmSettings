@@ -35,12 +35,17 @@
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="28" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482749081257">
-        <mark key="'" line="304" column="4" />
-        <mark key="[" line="162" column="25" />
-        <mark key="]" line="162" column="25" />
-        <mark key="^" line="162" column="25" />
-        <mark key="." line="162" column="25" />
+      <file name="D:/PythonProjects/matrix/statistics/models.py" timestamp="1482764319065">
+        <mark key="[" line="1050" column="0" />
+        <mark key="]" line="1050" column="57" />
+        <mark key="." line="1050" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482765742662">
+        <mark key="'" line="275" column="66" />
+        <mark key="[" line="157" column="75" />
+        <mark key="]" line="157" column="76" />
+        <mark key="." line="157" column="76" />
+        <mark key="^" line="157" column="236" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1482721783238">
         <mark key="[" line="14" column="66" />
@@ -60,6 +65,12 @@
         <mark key="]" line="205" column="42" />
         <mark key="^" line="153" column="72" />
         <mark key="." line="205" column="42" />
+      </file>
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1482764818403">
+        <mark key="[" line="221" column="29" />
+        <mark key="]" line="221" column="29" />
+        <mark key="^" line="221" column="29" />
+        <mark key="." line="221" column="29" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1482640571570">
         <mark key="[" line="13" column="43" />
@@ -84,6 +95,12 @@
         <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/revenue_consume.py" timestamp="1482765651518">
+        <mark key="[" line="128" column="96" />
+        <mark key="]" line="128" column="160" />
+        <mark key="^" line="115" column="98" />
+        <mark key="." line="128" column="96" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1482721524162">
         <mark key="[" line="14" column="66" />
@@ -136,12 +153,6 @@
         <mark key="." line="464" column="15" />
         <mark key="^" line="464" column="14" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1482721828437">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1482742900066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="59" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
-      <jump line="63" column="55" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
-      <jump line="85" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="51" column="8" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="50" column="582" filename="D:/PythonProjects/one4one/live_stat.py" />
       <jump line="57" column="420" filename="D:/PythonProjects/one4one/live_stat.py" />
@@ -274,57 +282,58 @@
       <jump line="711" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="100" column="150" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="10" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="275" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="436" column="28" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="140" column="23" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="138" column="45" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="6" column="10" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="283" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="132" column="48" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="288" column="26" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="154" column="43" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="275" column="66" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>,NULL))</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,NULL))</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lX3R1dG9yICs9IGNvbnN1bWVfcGFja2FnZQo=</text>
+      <register name="0" type="4">
+        <text>, 'consume_users_package_expired', 'consume_ave_package_expired'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2NvbnN1bWVfcGFja2FnZV9leHBpcmVkJywgJ2NvbnN1bWVfcGFja2FnZV9leHBpcmVkX3JhdGlvJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnN1bWVfdHV0b3JfYWxsICs9IGNvbnN1bWVfcGFja2FnZSArIGNvbnN1bWVfcGFja2FnZV9leHBpcmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyZ2VkX3BheSArPSBjb25zdW1lX3BhY2thZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBjdXJfMW9uMS5mZXRjaG9uZSgpCiAgICAgICAgY29uc3VtZV9wYWNrYWdlICs9IHJlc1swXSBpZiByZXMgZWxzZSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNlbGVjdCB1bml0X3ByaWNlKnR1dG9yX2R1cmF0aW9uIGZyb20gd2hpdGVfYm9hcmRfcGFja2FnZSBwIGpvaW4gd2hpdGVfYm9hcmRfcGFja2FnZV90eXBlIHQgb24gcC50eXBlX2lkPXQucGlkIHdoZXJlIHAuZW5kX3RpbWUgYmV0d2VlbiB7MH0gYW5kIHsxfSIuZm9ybWF0KAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICdjaGFyZ2VfdXNlcnNfbmV3JywKICAgICAgICAgICAgICAgICAgJ2NoYXJnZV91c2Vyc19uZXdfcGN0JywgJ2NoYXJnZV91c2Vyc19uZXdfcmF0aW8nLCAnY2hhcmdlX2F2ZV9uZXcnLCAnY2hhcmdlX3VzZXJzX29sZCcsCiAgICAgICAgICAgICAgICAgICdjaGFyZ2VfdXNlcnNfb2xkX3BjdCcsICdjaGFyZ2VfdXNlcnNfb2xkX3JhdGlvJywgJ2NoYXJnZV9hdmVfb2xkJw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3BhY2thZ2UgKz0gY3VyXzFvbjEuZmV0Y2hvbmUoKVswXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfK17Pk08O7p8G/JywgJ8rXs+TTw7unwb/VvLHIJywgJ8rXs+TTw7unwb+7t7HIJywgJ8rXs+TIy775s+TWtScsCiAgICAgICAgICAgICAgICAgICAn0Piz5NPDu6fBvycsICfQ+LPk08O7p8G/1byxyCcsICfQ+LPk08O7p8G/u7exyCcsICfQ+LPkyMu++bPk1rUnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lX3BhY2thZ2UgKz0gY3VyXzFvbjEuZmV0Y2hvbmUoKVswXQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>'charge_users_new', 'charge_users_new_pct', 'charge_users_new_ratio',
-                  'charge_users_new_ratio_week_basis', 'charge_ave_new', 'charge_users_old', 'charge_users_old_pct',
-                  'charge_users_old_ratio', 'charge_users_old_ratio_week_basis', 'charge_ave_old'</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICfK17Pk08O7p8G/JywgJ8rXs+TTw7unwb/VvLHIJywgJ8rXs+TTw7unwb+7t7HIJywgJ8rXs+TTw7unwb/W3M2sscgnLCAnytez5MjLvvmz5Na1JywKICAgICAgICAgICAgICAgICAgICfQ+LPk08O7p8G/JywgJ9D4s+TTw7unwb/VvLHIJywgJ9D4s+TTw7unwb+7t7HIJywgJ9D4s+TTw7unwb/W3M2sscgnLCAn0Piz5MjLvvmz5Na1Jwo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
