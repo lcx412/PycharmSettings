@@ -18,13 +18,7 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/live_stat.py" timestamp="1482484369455">
-        <mark key="'" line="57" column="420" />
-        <mark key="[" line="50" column="161" />
-        <mark key="]" line="50" column="162" />
-        <mark key="." line="50" column="162" />
-        <mark key="^" line="50" column="162" />
-      </file>
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1482721507723" />
       <file name="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" timestamp="1482673489932">
         <mark key="'" line="19" column="7" />
         <mark key="[" line="4" column="38" />
@@ -32,15 +26,21 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
-      <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1482394604632">
-        <mark key="'" line="80" column="94" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1482722509369">
+        <mark key="'" line="79" column="94" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1482673525173">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/uid_iid_mapper.py" timestamp="1482722607141">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="C:/Python3/Lib/site-packages/django/db/models/functions/base.py" timestamp="1482598059349" />
       <file name="D:/PythonProjects/Flask/app.py" timestamp="1482490394883">
@@ -56,19 +56,8 @@
         <mark key="." line="114" column="34" />
         <mark key="^" line="114" column="34" />
       </file>
-      <file name="D:/PythonProjects/one4one/page_views.py" timestamp="1482490288424">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="76" column="36" />
-        <mark key="^" line="76" column="31" />
-        <mark key="." line="76" column="36" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1482300038720">
-        <mark key="'" line="260" column="45" />
-        <mark key="[" line="260" column="44" />
-        <mark key="]" line="260" column="45" />
-        <mark key="." line="260" column="45" />
-        <mark key="^" line="60" column="400" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1482721783238">
+        <mark key="[" line="14" column="66" />
       </file>
       <file name="D:/PythonProjects/one4one/tmp.py" timestamp="1482378044141">
         <mark key="[" line="70" column="72" />
@@ -77,18 +66,14 @@
         <mark key="." line="70" column="69" />
       </file>
       <file name="C:/Python3/Lib/site-packages/django/core/management/__init__.py" timestamp="1482597555756" />
+      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1482721560877">
+        <mark key="[" line="14" column="66" />
+      </file>
       <file name="D:/PythonProjects/matrix/api/gen_table.py" timestamp="1482472159146">
         <mark key="[" line="18" column="50" />
         <mark key="]" line="18" column="54" />
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
-      </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482400251865">
-        <mark key="'" line="76" column="75" />
-        <mark key="[" line="106" column="12" />
-        <mark key="]" line="106" column="13" />
-        <mark key="^" line="109" column="25" />
-        <mark key="." line="106" column="13" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1482477818224">
         <mark key="[" line="5" column="0" />
@@ -96,36 +81,20 @@
         <mark key="^" line="62" column="269" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482314600270">
-        <mark key="'" line="252" column="55" />
-        <mark key="[" line="176" column="8" />
-        <mark key="]" line="176" column="10" />
-        <mark key="^" line="176" column="10" />
-        <mark key="." line="143" column="120" />
+      <file name="D:/PythonProjects/one4one/wb_students.py" timestamp="1482720872546">
+        <mark key="'" line="45" column="32" />
+        <mark key="." line="25" column="32" />
       </file>
+      <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1482720373988" />
       <file name="C:/Python3/Lib/site-packages/django/utils/translation/__init__.py" timestamp="1482597033573" />
       <file name="C:/Python3/Lib/site-packages/django/db/models/expressions.py" timestamp="1482598127332" />
-      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1482565770082">
+      <file name="D:/PythonProjects/one4one/one4one.sh" timestamp="1482721860432">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="19" />
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1482432899465">
-        <mark key="'" line="214" column="4" />
-        <mark key="[" line="205" column="41" />
-        <mark key="]" line="205" column="42" />
-        <mark key="^" line="153" column="72" />
-        <mark key="." line="205" column="42" />
-      </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1482581804040" />
-      <file name="D:/PythonProjects/one4one/answer_cost_at_type.py" timestamp="1482315053127">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="77" column="15" />
-        <mark key="]" line="77" column="28" />
-        <mark key="." line="77" column="28" />
-        <mark key="^" line="77" column="28" />
-      </file>
       <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1482640571570">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="44" />
@@ -151,10 +120,8 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" timestamp="1482648895633">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/PythonProjects/one4one/wb_duration.py" timestamp="1482721524162">
+        <mark key="[" line="14" column="66" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/conf/dict.txt" timestamp="1482692624563">
         <mark key="[" line="11" column="4" />
@@ -192,57 +159,19 @@
         <mark key="[" line="13" column="0" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/test/content_extract_test.py" timestamp="1482673552331" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1482310297866">
-        <mark key="'" line="136" column="70" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="65" column="97" />
-        <mark key="." line="42" column="31" />
-      </file>
       <file name="D:/PythonProjects/next/next-server/lib/dep_checker.py" timestamp="1482393283685">
         <mark key="[" line="56" column="36" />
         <mark key="]" line="57" column="33" />
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_package.py" timestamp="1482477672984">
-        <mark key="'" line="198" column="4" />
-        <mark key="[" line="117" column="14" />
-        <mark key="]" line="117" column="16" />
-        <mark key="^" line="117" column="16" />
-        <mark key="." line="117" column="16" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_sum.py" timestamp="1482565275729">
-        <mark key="'" line="371" column="42" />
-        <mark key="[" line="586" column="0" />
-        <mark key="]" line="586" column="0" />
-        <mark key="^" line="571" column="248" />
-        <mark key="." line="586" column="0" />
-      </file>
       <file name="C:/Python3/Lib/site-packages/django/utils/functional.py" timestamp="1482596933791" />
-      <file name="D:/PythonProjects/matrix/api/revenue_package.py" timestamp="1482472305553">
-        <mark key="'" line="77" column="24" />
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="60" column="36" />
-        <mark key="." line="60" column="36" />
-        <mark key="^" line="60" column="18" />
-      </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" timestamp="1482648929711">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482720641667" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1482721544792">
+        <mark key="[" line="17" column="66" />
       </file>
       <file name="/Django Console" timestamp="1482598514427">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482565664015">
-        <mark key="'" line="63" column="55" />
-        <mark key="[" line="243" column="94" />
-        <mark key="]" line="243" column="94" />
-        <mark key="^" line="87" column="26" />
-        <mark key="." line="243" column="94" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" timestamp="1482692406750">
         <mark key="'" line="113" column="14" />
@@ -254,7 +183,8 @@
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
       </file>
-      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1482565726335">
+      <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1482721828437">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -266,11 +196,6 @@
         <mark key="]" line="130" column="76" />
         <mark key="^" line="130" column="76" />
         <mark key="." line="130" column="76" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1482472253513">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482648664620">
         <mark key="'" line="27" column="0" />
@@ -304,22 +229,16 @@
         <mark key="." line="32" column="21" />
       </file>
       <file name="D:/PythonProjects/pythonzh.cn/forum/feeds.py" timestamp="1482598612430" />
+      <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1482721761144">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/django/template/library.py" timestamp="1482599812776" />
       <file name="D:/PythonProjects/pythonzh.cn/templates/base.html" timestamp="1482598761551" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1482299072334">
-        <mark key="'" line="514" column="13" />
-        <mark key="[" line="516" column="262" />
-        <mark key="]" line="516" column="290" />
-        <mark key="." line="516" column="290" />
-        <mark key="^" line="516" column="290" />
-      </file>
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="192" column="1787" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
-      <jump line="177" column="10" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="180" column="431" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
-      <jump line="117" column="35" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="76" column="75" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="260" column="45" filename="D:/PythonProjects/one4one/ft_students.py" />
       <jump line="428" column="50" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
@@ -416,16 +335,20 @@
       <jump line="21" column="19" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="113" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="20" column="6" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
+      <jump line="45" column="32" filename="D:/PythonProjects/one4one/wb_students.py" />
+      <jump line="60" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
+      <jump line="77" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
+      <jump line="39" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>运营</text>
+        <text>python</text>
       </register>
       <register name="-" type="4">
-        <text>运营</text>
+        <text>python</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
@@ -434,31 +357,31 @@
         <text encoding="base64">ICAgIHUn1MvTqteo1LEnOiB1J9TL06onLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHUnU0VNJzogdSfL0cv30v3H5tOqz/onLAo=</text>
+        <text encoding="base64">IyDTw9PaxeS6z2FkZCBmaWxlLS0+bWFwIHh4eCB1c2luZ8q508MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHUnsvrGt8novMbKpic6IHUnsvrGtycsCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHUnvbu7pSc6IHUnVUUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHUnxr3D5snovMbKpic6IHUnVUknLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY3VyID0gc2VsZi5jb25uLmN1cnNvcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYj0nb25lJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyPSdhZmFudGknLCBwYXNzd2Q9J0xlamVudDE2OCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdSfUy86sJyBpbiBmaWxlOgogICAgICAgICAgICAgICAgZXh0cmFjdGVkWydwb3NpdGlvbiddID0gdSfUy86sJwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29ubiA9IE15U1FMZGIuY29ubmVjdChob3N0PScxMC40NC41NC41MycsIHBvcnQ9MzMxMCwgY2hhcnNldD0ndXRmOCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdSfUy86sJwo=</text>
+        <text encoding="base64">ICAgIHUnU0VNJzogdSfL0cv30v3H5tOqz/onLAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
