@@ -37,6 +37,9 @@
         <mark key="^" line="31" column="28" />
       </file>
       <file name="C:/Python3/Lib/site-packages/django/db/models/functions/base.py" timestamp="1482598059349" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482739859341">
+        <mark key="'" line="275" column="4" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/django/contrib/contenttypes/fields.py" timestamp="1482594094206" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion.py" timestamp="1482721783238">
         <mark key="[" line="14" column="66" />
@@ -98,6 +101,9 @@
       <file name="D:/PythonProjects/pythonzh.cn/forum/templatetags/forum_tags.py" timestamp="1482598737487">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" timestamp="1482567303055">
+        <mark key="'" line="744" column="32" />
+      </file>
       <file name="D:/PythonProjects/ResumeMiner/test/content_extract_test.py" timestamp="1482673552331" />
       <file name="C:/Python3/Lib/site-packages/django/utils/functional.py" timestamp="1482596933791" />
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482720641667" />
@@ -117,7 +123,7 @@
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482738532497">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482740115901">
         <mark key="'" line="712" column="4" />
         <mark key="[" line="707" column="36" />
         <mark key="]" line="708" column="3" />
@@ -145,6 +151,9 @@
       <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1481954766252">
         <mark key="[" line="134" column="68" />
       </file>
+      <file name="C:/Python2/Lib/site-packages/flask_script/__init__.py" timestamp="1482566249643">
+        <mark key="'" line="180" column="0" />
+      </file>
       <file name="D:/PythonProjects/pythonzh.cn/forum/feeds.py" timestamp="1482598612430" />
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1482721761144">
         <mark key="[" line="19" column="0" />
@@ -163,9 +172,6 @@
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="237" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
-      <jump line="81" column="0" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
-      <jump line="450" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="274" column="18" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="254" column="55" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="628" column="14" filename="D:/PythonProjects/one4one/tutor_sum.py" />
@@ -263,6 +269,9 @@
       <jump line="551" column="60" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="630" column="16" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="711" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="100" column="150" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="10" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="275" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
