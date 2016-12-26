@@ -117,11 +117,12 @@
       <file name="D:/PythonProjects/matrix/webapp/routes.js" timestamp="1482461456744">
         <mark key="[" line="13" column="43" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482737526412">
-        <mark key="[" line="266" column="63" />
-        <mark key="]" line="266" column="63" />
-        <mark key="." line="266" column="63" />
-        <mark key="^" line="266" column="63" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482738532497">
+        <mark key="'" line="712" column="4" />
+        <mark key="[" line="707" column="36" />
+        <mark key="]" line="708" column="3" />
+        <mark key="." line="708" column="3" />
+        <mark key="^" line="708" column="3" />
       </file>
       <file name="D:/PythonProjects/one4one/matrix.sh" timestamp="1482721828437">
         <mark key="'" line="39" column="0" />
@@ -162,8 +163,6 @@
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
     </filemarks>
     <jumps>
-      <jump line="260" column="45" filename="D:/PythonProjects/one4one/ft_students.py" />
-      <jump line="428" column="50" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="237" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="81" column="0" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="450" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
@@ -262,49 +261,51 @@
       <jump line="77" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="39" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="551" column="60" filename="D:/PythonProjects/one4one/dts_detail.py" />
+      <jump line="630" column="16" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="711" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>它</text>
+        <text>refused</text>
       </register>
       <register name="-" type="4">
-        <text>它</text>
+        <text>refused</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHApID4gMzoKICAgICAgICAgICAgICAgIHAgPSBwLnJlcGxhY2UodSe5pLPMyqYnLCB1JycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXJnZShkZl9yZWZ1c2VkLCBob3c9J2xlZnQnLCBvbj11J0lEJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsneW9uZ2xlLnlhbkBsZWplbnQuY29tJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJbdSfRp8n6vczT/UlEJ10sIHJbdSe9zMqmvczT/UlEJ10sIHJbdSfIzr3Mv8bEvyddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRvX2FkZHJlc3NlcyA9IFsneW9uZ2xlLnlhbkBsZWplbnQuY29tJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgclt1J7iotbzKwrz+SUQnXSA9ICd7MH0tezF9LXsyfS17M30nLmZvcm1hdChyW3UnuKi1vLeixvDKsbzkJ10udG9fcHlkYXRldGltZSgpLnN0cmZ0aW1lKCclWV8lbV8lZF8lSF8lTV8lUycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJbdSfRp8n6vczT/UlEJ10sIHJbdSe9zMqmvczT/UlEJ10sIHJbdSfIzr3Mv8bEvyddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgclt1J7iotbzKwrz+SUQnXSA9ICd7MH0tezF9LXsyfS17M30nLmZvcm1hdChyW3UnuKi1vLeixvDKsbzkJ10udG9fcHlkYXRldGltZSgpLnN0cmZ0aW1lKCclWV8lbV8lZF8lSF8lTV8lUycpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGZpbGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByb290ICsgJy8nICsgZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBkaXIgaW4gZGlyczoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByb290ICsgJy8nICsgZGlyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClJBV19ESVIgPSB1J0U6L0RvY3VtZW50cy/Rp8HhL7zywPpf0tHV+8DtL9TL06rKtc+wJwo=</text>
+        <text encoding="base64">ICAgIGZvciBkaXIgaW4gZGlyczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClJBV19ESVIgPSB1J0U6L0RvY3VtZW50cy/Rp8HhL7zywPpf0tHV+8DtL9TL06rKtc+wJwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
