@@ -259,12 +259,15 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1482838341134">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-        <mark key="^" line="24" column="11" />
+      <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1482847275152">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1482598601342">
+        <mark key="'" line="46" column="378" />
       </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_report.py" timestamp="1482835660243">
         <mark key="'" line="136" column="70" />
@@ -273,11 +276,17 @@
         <mark key="^" line="66" column="37" />
         <mark key="." line="66" column="59" />
       </file>
+      <file name="C:/Python3/Lib/site-packages/bleach/__init__.py" timestamp="1482591800837">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482834799625">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="26" />
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
+      </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1482845460077">
+        <mark key="'" line="36" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482834704598">
         <mark key="[" line="60" column="22" />
@@ -335,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="94" filename="D:/PythonProjects/one4one/django_hive.py" />
       <jump line="310" column="24" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="56" column="31" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="773" column="65" filename="D:/PythonProjects/one4one/tutor_sum.py" />
@@ -435,46 +443,47 @@
       <jump line="118" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="19" column="0" filename="D:/PythonProjects/one4one/bpush_channel_cleaner.py" />
       <jump line="18" column="21" filename="D:/PythonProjects/one4one/bpush_channel_cleaner.py" />
+      <jump line="36" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'Exempted: {0} {1}'.format(uid, cid)</text>
       </register>
       <register name="-" type="4">
-        <text>found_</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bGluZV9udW0gPSAwCg==</text>
+      <register name="0" type="4">
+        <text>'Exempted: {0} {1}'.format(uid, cid)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvX3VwZGF0ZV91c2Vycy5wb3AoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICdiYWlkdSB3b3JrZXIgZXJyb3InIGluIGxpbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYWcgPSBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgZXJyX2xvZwo=</text>
+        <text encoding="base64">ICAgICAgICBmbGFnID0gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbCB0b191cGRhdGVfdXNlcnNbOl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvX3VwZGF0ZV91c2Vycy5wb3AoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjdXIuZXhlY3V0ZSgidXBkYXRlIHVzZXJfZm9yX21lc3NhZ2Ugd2hlcmUgdXNlcl9pZD17MH0gYW5kIGNoYW5uZWxfaWQ9ezF9Ii5mb3JtYXQodWlkLCBjaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYWcgPSBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dG9fdXBkYXRlX3VzZXJzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9fdXBkYXRlX3VzZXJzID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -488,7 +497,7 @@
       <last-offset />
       <last-pattern>posi</last-pattern>
       <last-replace>sentence</last-replace>
-      <last-substitute>bak</last-substitute>
+      <last-substitute>posi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
