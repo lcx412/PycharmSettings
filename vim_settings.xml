@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1482576459284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1482825113974" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1482828078388" />
       <file name="D:/PythonProjects/ResumeMiner/test/position_extract_test.py" timestamp="1482731954373">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="54" />
@@ -37,6 +37,7 @@
         <mark key="^" line="63" column="32" />
         <mark key="." line="63" column="32" />
       </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/init_scripts/init_mq.py" timestamp="1482828232378" />
       <file name="D:/PythonProjects/one4one/mail.py" timestamp="1481944262647">
         <mark key="[" line="122" column="21" />
         <mark key="]" line="114" column="34" />
@@ -96,11 +97,6 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="D:/PythonProjects/ResumeMiner/resumeminer/jobseeker.py" timestamp="1482648895633">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/PythonProjects/ResumeMiner/misc/script/DE_DUP.py" timestamp="1482734055676">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="14" column="21" />
@@ -119,10 +115,10 @@
       <file name="/Python Console" timestamp="1482744361793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1482734208412">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1482826253838">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
         <mark key="^" line="37" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1482741406658">
@@ -262,14 +258,14 @@
       <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1482721560877">
         <mark key="[" line="14" column="66" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1482477818224">
-        <mark key="[" line="5" column="0" />
+      <file name="D:/PythonProjects/one4one/wb_remain.py" timestamp="1482826312495">
+        <mark key="[" line="107" column="71" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="62" column="269" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_cost.py" timestamp="1482720373988" />
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1482824399511" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1482828181884" />
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482314600270">
         <mark key="'" line="252" column="55" />
         <mark key="[" line="176" column="8" />
@@ -352,11 +348,7 @@
         <mark key="^" line="233" column="11" />
         <mark key="." line="233" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482766877305">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1482828479826" />
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482648664620">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="29" column="9" />
@@ -381,12 +373,12 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/django/template/library.py" timestamp="1482599812776" />
       <file name="D:/PythonProjects/pythonzh.cn/templates/base.html" timestamp="1482598761551" />
-      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1482809276494">
-        <mark key="'" line="549" column="60" />
-        <mark key="[" line="582" column="47" />
-        <mark key="]" line="582" column="72" />
-        <mark key="^" line="582" column="72" />
-        <mark key="." line="582" column="72" />
+      <file name="D:/PythonProjects/one4one/dts_detail.py" timestamp="1482827928624">
+        <mark key="'" line="548" column="60" />
+        <mark key="[" line="606" column="33" />
+        <mark key="]" line="606" column="34" />
+        <mark key="^" line="581" column="74" />
+        <mark key="." line="606" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -496,10 +488,10 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text>上线记录和在线时长中新增教师额外信息字段。</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>上线记录和在线时长中新增教师额外信息字段。</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
