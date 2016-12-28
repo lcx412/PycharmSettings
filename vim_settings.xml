@@ -219,12 +219,12 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482902420796">
-        <mark key="'" line="275" column="66" />
-        <mark key="[" line="157" column="75" />
-        <mark key="]" line="157" column="76" />
-        <mark key="." line="157" column="76" />
-        <mark key="^" line="157" column="236" />
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482903620188">
+        <mark key="'" line="308" column="4" />
+        <mark key="[" line="180" column="405" />
+        <mark key="]" line="180" column="413" />
+        <mark key="." line="180" column="413" />
+        <mark key="^" line="180" column="413" />
       </file>
       <file name="D:/PythonProjects/one4one/ft_teachers.py" timestamp="1482850345512" />
       <file name="C:/Python3/Lib/site-packages/model_utils/models.py" timestamp="1482855708339" />
@@ -357,8 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="773" column="65" filename="D:/PythonProjects/one4one/tutor_sum.py" />
-      <jump line="378" column="42" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="191" column="102" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="205" column="40" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="153" column="74" filename="D:/PythonProjects/one4one/revenue_charge.py" />
@@ -457,6 +455,8 @@
       <jump line="36" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="0" column="0" filename="/Python Console" />
       <jump line="45" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="180" column="536" filename="D:/PythonProjects/one4one/revenue_consume.py" />
+      <jump line="308" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
