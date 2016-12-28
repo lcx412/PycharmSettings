@@ -239,11 +239,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1482852845082">
-        <mark key="[" line="112" column="33" />
-        <mark key="]" line="112" column="33" />
-        <mark key="^" line="112" column="27" />
-        <mark key="." line="45" column="32" />
+      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1482894817902">
+        <mark key="[" line="72" column="73" />
+        <mark key="]" line="73" column="7" />
+        <mark key="^" line="73" column="7" />
+        <mark key="." line="73" column="7" />
       </file>
       <file name="D:/PythonProjects/pythonzh.cn/manage.py" timestamp="1482597407688" />
       <file name="D:/PythonProjects/transporter/src/transporter/proc/worker/baidu.py" timestamp="1482824133152" />
@@ -296,11 +296,6 @@
         <mark key="." line="106" column="98" />
         <mark key="^" line="106" column="49" />
       </file>
-      <file name="D:/PythonProjects/one4one/wb_status.py" timestamp="1482852079400">
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-      </file>
       <file name="D:/PythonProjects/one4one/zuoyeba_teacher.py" timestamp="1482834338468">
         <mark key="[" line="150" column="37" />
         <mark key="]" line="150" column="38" />
@@ -319,8 +314,8 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1482828181884" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482314600270">
-        <mark key="'" line="252" column="55" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1482894900766">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="176" column="8" />
         <mark key="]" line="176" column="10" />
         <mark key="^" line="176" column="10" />
@@ -464,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="31" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="773" column="65" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="378" column="42" filename="D:/PythonProjects/one4one/tutor_sum.py" />
       <jump line="191" column="102" filename="D:/PythonProjects/one4one/revenue_charge.py" />
@@ -564,6 +558,7 @@
       <jump line="18" column="21" filename="D:/PythonProjects/one4one/bpush_channel_cleaner.py" />
       <jump line="36" column="0" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" />
       <jump line="0" column="0" filename="/Python Console" />
+      <jump line="45" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
