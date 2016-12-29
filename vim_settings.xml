@@ -47,7 +47,7 @@
         <mark key="^" line="54" column="400" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482896073707">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1482980983788">
         <mark key="'" line="110" column="31" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -216,7 +216,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482936053686">
+      <file name="D:/PythonProjects/one4one/revenue_consume.py" timestamp="1482981040826">
         <mark key="'" line="278" column="4" />
         <mark key="[" line="266" column="0" />
         <mark key="]" line="266" column="0" />
@@ -310,11 +310,12 @@
       <file name="/Django Console" timestamp="1482979199552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482834704598">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="22" />
-        <mark key="^" line="60" column="22" />
-        <mark key="." line="60" column="22" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482981270030">
+        <mark key="'" line="95" column="38" />
+        <mark key="[" line="113" column="91" />
+        <mark key="]" line="113" column="90" />
+        <mark key="^" line="113" column="90" />
+        <mark key="." line="113" column="90" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482851596898">
         <mark key="[" line="526" column="0" />
@@ -331,10 +332,6 @@
       </file>
       <file name="/a.regexp" timestamp="1482895802261">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/revenue_income_index.py" timestamp="1482891452035">
-        <mark key="[" line="133" column="68" />
-        <mark key="." line="46" column="31" />
       </file>
       <file name="D:/PythonProjects/matrix/api/revenue_charge.py" timestamp="1482742888104">
         <mark key="[" line="130" column="84" />
@@ -357,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="23" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="78" column="0" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="164" column="4" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="96" column="37" filename="D:/PythonProjects/one4one/revenue_package.py" />
@@ -457,16 +453,17 @@
       <jump line="106" column="117" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="127" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="274" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="94" column="38" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ets</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>ets</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
@@ -475,31 +472,31 @@
         <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcnNldD0ndXRmOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1ciA9IHNlbGYuY29ubi5jdXJzb3IoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nTGVqZW50MTY4JywgZGI9J29uZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcnNldD0ndXRmOCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4gPSBNeVNRTGRiLmNvbm5lY3QoaG9zdD0nMTAuNDQuNTQuNTMnLCBwb3J0PTMzMTAsIHVzZXI9J2FmYW50aScsIHBhc3N3ZD0nTGVqZW50MTY4JywgZGI9J29uZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB5ZXNfZGF0ZSA9IHNlbGYueWVzX2RhdGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjdXIgPSBzZWxmLmN1cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ0X21lbWJlcl9jYXJkcy5wcmljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJfc3RhdCA9IHNlbGYuY3VyX3N0YXQK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
