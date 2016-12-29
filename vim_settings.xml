@@ -196,7 +196,8 @@
         <mark key="^" line="73" column="7" />
         <mark key="." line="73" column="7" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482977997308">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1482983176679">
+        <mark key="'" line="56" column="165" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="71" column="94" />
@@ -310,12 +311,12 @@
       <file name="/Django Console" timestamp="1482979199552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482982401794">
+      <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482983077712">
         <mark key="'" line="99" column="64" />
-        <mark key="[" line="112" column="59" />
-        <mark key="]" line="112" column="59" />
+        <mark key="[" line="458" column="10" />
+        <mark key="]" line="458" column="10" />
         <mark key="^" line="133" column="74" />
-        <mark key="." line="112" column="59" />
+        <mark key="." line="458" column="10" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1482851596898">
         <mark key="[" line="526" column="0" />
@@ -354,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="39" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="178" column="27" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="45" column="14" filename="D:/PythonProjects/one4one/revenue_package.py" />
       <jump line="127" column="38" filename="D:/PythonProjects/one4one/revenue_package.py" />
@@ -454,22 +454,23 @@
       <jump line="487" column="8" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="89" column="15" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
       <jump line="99" column="64" filename="D:/PythonProjects/one4one/tutor_teacher.py" />
+      <jump line="56" column="165" filename="D:/PythonProjects/one4one/ft_member_cards_daily.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">PHN0cm9uZz7LtcP3o7o8L3N0cm9uZz4=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PHN0cm9uZz7LtcP3o7o8L3N0cm9uZz4=</text>
       </register>
       <register name="/" type="4">
         <text>posi</text>
       </register>
-      <register name="0" type="4">
-        <text>二代</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1JzxzdHJvbmc+y7XD96O6PC9zdHJvbmc+PGJyPjxicj4nICsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYWNrYWdlX2NvbnN1bWVfcmF0aW8gPSByb3VuZChjb25zdW1lX3BhY2thZ2UgKiAxMDAgLyB0dXRvcl9jb25zdW1lX2FsbCwgMikK</text>
