@@ -147,6 +147,10 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1483065925225">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1482826253838">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="38" />
@@ -171,9 +175,6 @@
         <mark key="]" line="24" column="81" />
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="81" />
-      </file>
-      <file name="C:/Python2/Lib/site-packages/flask_sqlalchemy/__init__.py" timestamp="1482567303055">
-        <mark key="'" line="744" column="32" />
       </file>
       <file name="D:/PythonProjects/one4one/goods_stat.py" timestamp="1482851752017">
         <mark key="[" line="75" column="34" />
@@ -412,8 +413,11 @@
         <mark key="^" line="17" column="31" />
       </file>
       <file name="D:/PythonProjects/pythonzh.cn/forum/mark.py" timestamp="1482597170239" />
-      <file name="C:/Python3/Lib/site-packages/kombu/mixins.py" timestamp="1483065506138">
-        <mark key="'" line="28" column="0" />
+      <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1482598601342">
+        <mark key="'" line="46" column="378" />
+      </file>
+      <file name="C:/Python3/Lib/site-packages/kombu/mixins.py" timestamp="1483066120104">
+        <mark key="'" line="169" column="41" />
       </file>
       <file name="D:/PythonProjects/Messages/log_received_collector.py" timestamp="1482833146377" />
       <file name="D:/PythonProjects/ResumeMiner/test/content_extract_test.py" timestamp="1482673552331" />
@@ -423,6 +427,9 @@
         <mark key="]" line="55" column="106" />
         <mark key="^" line="55" column="106" />
         <mark key="." line="55" column="106" />
+      </file>
+      <file name="C:/Python3/Lib/site-packages/bleach/__init__.py" timestamp="1482591800837">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/answer_consume.py" timestamp="1482834799625">
         <mark key="[" line="39" column="22" />
@@ -435,6 +442,9 @@
         <mark key="]" line="113" column="445" />
         <mark key="." line="113" column="445" />
         <mark key="^" line="113" column="445" />
+      </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/bucket.py" timestamp="1482845460077">
+        <mark key="'" line="36" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_teacher.py" timestamp="1482983077712">
         <mark key="'" line="99" column="64" />
@@ -495,9 +505,6 @@
         <mark key="^" line="122" column="13" />
         <mark key="." line="122" column="42" />
       </file>
-      <file name="C:/Python2/Lib/site-packages/flask_script/__init__.py" timestamp="1482566249643">
-        <mark key="'" line="180" column="0" />
-      </file>
       <file name="D:/PythonProjects/one4one/wb_ltv.py" timestamp="1482851849180">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -514,8 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/__init__.py" />
-      <jump line="23" column="16" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="68" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="275" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="38" column="49" filename="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" />
@@ -614,6 +619,8 @@
       <jump line="106" column="8" filename="D:/PythonProjects/one4one/tutor_cards.py" />
       <jump line="109" column="53" filename="D:/PythonProjects/one4one/tutor_cards.py" />
       <jump line="28" column="0" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
+      <jump line="110" column="0" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
+      <jump line="169" column="41" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
