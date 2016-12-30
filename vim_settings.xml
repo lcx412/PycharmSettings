@@ -241,11 +241,12 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/base.py" timestamp="1482824598301" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483017983177">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483070224892">
         <mark key="'" line="126" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="50" column="234" />
+        <mark key="]" line="50" column="238" />
+        <mark key="." line="50" column="238" />
+        <mark key="^" line="50" column="238" />
       </file>
       <file name="D:/PythonProjects/one4one/wb_teachers.py" timestamp="1482850182913">
         <mark key="[" line="35" column="34" />
@@ -629,10 +630,10 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>experience.startswith('1')</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>experience.startswith('1')</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>ft_mem</text>
