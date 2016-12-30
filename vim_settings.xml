@@ -216,7 +216,7 @@
         <mark key="^" line="115" column="98" />
         <mark key="." line="128" column="96" />
       </file>
-      <file name="/Python Console" timestamp="1483086709919">
+      <file name="/Python Console" timestamp="1483095034968">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -408,6 +408,12 @@
         <mark key="^" line="122" column="13" />
         <mark key="." line="122" column="42" />
       </file>
+      <file name="D:/PythonProjects/Messages/msg_received_collector.py" timestamp="1483095539692">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="50" />
+      </file>
       <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1483020789246">
         <mark key="'" line="142" column="53" />
         <mark key="[" line="153" column="59" />
@@ -534,11 +540,11 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>and</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>install_id_pattern.search(message).group(1)</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
@@ -547,31 +553,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkWydleHBlcmllbmNlJ10gPSBleHBlcmllbmNlIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYWN0ZWRbJ2V4cGVyaWVuY2UnXSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZW50ZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YWxsX2lkID0gMCBpZiBpbnN0YWxsX2lkID09ICdudWxsJyBlbHNlIGluc3RhbGxfaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGhhc19leHRyYWN0ZWRfdmFsdWVzIDwgOCBvciBub3QgZXh0cmFjdGVkWyduYW1lJ106Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHRyYWN0ZWRbJ2V4cGVyaWVuY2UnXSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXN1bWVfZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZW50ZW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzZWQgKz0gMQogICAgICAgIHByaW50IHJlc3VtZV9maWxlCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNlbnRlbmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXN1bWVfZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
