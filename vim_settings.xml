@@ -216,7 +216,7 @@
         <mark key="^" line="115" column="98" />
         <mark key="." line="128" column="96" />
       </file>
-      <file name="/Python Console" timestamp="1483080832036">
+      <file name="/Python Console" timestamp="1483086709919">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -354,7 +354,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483082282332" />
+      <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483086850634">
+        <mark key="'" line="363" column="52" />
+      </file>
       <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483080166569">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="56" column="103" />
@@ -427,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="275" column="32" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="38" column="49" filename="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" />
       <jump line="232" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -527,6 +528,7 @@
       <jump line="28" column="0" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
       <jump line="110" column="0" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
       <jump line="169" column="41" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
+      <jump line="363" column="52" filename="C:/Python3/Lib/site-packages/apns.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,7 +541,7 @@
         <text>and</text>
       </register>
       <register name="/" type="4">
-        <text>ft_mem</text>
+        <text>feed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkWydleHBlcmllbmNlJ10gPSBleHBlcmllbmNlIAo=</text>
@@ -576,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ft_mem</last-search>
+      <last-search>feed</last-search>
       <last-offset />
-      <last-pattern>ft_mem</last-pattern>
+      <last-pattern>feed</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>posi</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>education</entry>
         <entry>birth</entry>
         <entry>check_birth</entry>
         <entry>经验</entry>
@@ -606,6 +607,7 @@
         <entry>posit</entry>
         <entry>posi</entry>
         <entry>ft_mem</entry>
+        <entry>feed</entry>
       </history-search>
       <history-cmd>
         <entry>% s/string_to_search/sentence/g</entry>
