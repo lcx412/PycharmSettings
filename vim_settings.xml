@@ -207,7 +207,7 @@
         <mark key="^" line="115" column="98" />
         <mark key="." line="128" column="96" />
       </file>
-      <file name="/Python Console" timestamp="1483095034968">
+      <file name="/Python Console" timestamp="1483155673654">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -343,12 +343,12 @@
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483098740005">
         <mark key="'" line="363" column="52" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483080166569">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="56" column="103" />
-        <mark key="]" line="56" column="115" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="56" column="115" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483155711048">
+        <mark key="'" line="97" column="68" />
+        <mark key="[" line="56" column="298" />
+        <mark key="]" line="56" column="298" />
+        <mark key="^" line="56" column="298" />
+        <mark key="." line="56" column="298" />
       </file>
       <file name="D:/PythonProjects/ResumeMiner/conf/logging.ini" timestamp="1482648664620">
         <mark key="'" line="27" column="0" />
@@ -477,7 +477,6 @@
       <jump line="176" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="168" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="7" column="12" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
-      <jump line="96" column="27" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="106" column="117" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="127" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="274" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
@@ -516,13 +515,17 @@
       <jump line="110" column="0" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
       <jump line="169" column="41" filename="C:/Python3/Lib/site-packages/kombu/mixins.py" />
       <jump line="363" column="52" filename="C:/Python3/Lib/site-packages/apns.py" />
+      <jump line="96" column="68" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>u&quot;replace into member_card_duration_gen2 (date,user_id,package_type_id,package_grade,package_name,package_record_id,package_charge_type,valid_days,valid_duration,valid_posts,sale_price,unit_price,charge_time,from_time,to_time,card_balance) values ({0},{1},'{2}','{3}','{4}',{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15})&quot;.format(
+                    yes_date, user_id, package_type_id, package_grade, package_name, package_record_id, payment_mode,
+                    valid_days, valid_duration, valid_posts, sale_price, unit_price, charge_time, start_time, end_time,
+                    sale_price)</text>
       </register>
       <register name="-" type="4">
         <text>install_id_pattern.search(message).group(1)</text>
@@ -530,8 +533,11 @@
       <register name="/" type="4">
         <text>feed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkWydleHBlcmllbmNlJ10gPSBleHBlcmllbmNlIAo=</text>
+      <register name="0" type="4">
+        <text>u&quot;replace into member_card_duration_gen2 (date,user_id,package_type_id,package_grade,package_name,package_record_id,package_charge_type,valid_days,valid_duration,valid_posts,sale_price,unit_price,charge_time,from_time,to_time,card_balance) values ({0},{1},'{2}','{3}','{4}',{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15})&quot;.format(
+                    yes_date, user_id, package_type_id, package_grade, package_name, package_record_id, payment_mode,
+                    valid_days, valid_duration, valid_posts, sale_price, unit_price, charge_time, start_time, end_time,
+                    sale_price)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
