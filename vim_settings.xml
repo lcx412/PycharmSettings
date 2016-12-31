@@ -112,6 +112,7 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483193275910" />
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483195927108" />
       <file name="D:/PythonProjects/one4one/Guaguale.py" timestamp="1482835407489">
         <mark key="[" line="76" column="49" />
         <mark key="]" line="76" column="49" />
@@ -208,11 +209,11 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1482910771718">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="17" column="31" />
+      <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1483195779977">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/tutor_detail.py" timestamp="1482835030951">
         <mark key="[" line="40" column="23" />
@@ -233,7 +234,7 @@
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="81" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195499061" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195891671" />
       <file name="D:/PythonProjects/matrix/api/tk_views.py" timestamp="1482598601342">
         <mark key="'" line="46" column="378" />
       </file>
