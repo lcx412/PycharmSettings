@@ -111,11 +111,11 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="/bpush.py" timestamp="1483198926396" />
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483416517240">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="37" column="0" />
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483428046682">
+        <mark key="[" line="42" column="153" />
+        <mark key="]" line="42" column="153" />
+        <mark key="." line="42" column="153" />
+        <mark key="^" line="42" column="148" />
       </file>
       <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1483195779977">
         <mark key="[" line="20" column="20" />
@@ -350,19 +350,16 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
       </register>
-      <register name="0" type="4">
-        <text>u&quot;replace into member_card_duration_gen2 (date,user_id,package_type_id,package_grade,package_name,package_record_id,package_charge_type,valid_days,valid_duration,valid_posts,sale_price,unit_price,charge_time,from_time,to_time,card_balance) values ({0},{1},'{2}','{3}','{4}',{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15})&quot;.format(
-                    yes_date, user_id, package_type_id, package_grade, package_name, package_record_id, payment_mode,
-                    valid_days, valid_duration, valid_posts, sale_price, unit_price, charge_time, start_time, end_time,
-                    sale_price)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHVpZF9paWRzIGFzIHNlbGVjdCB1c2VyX2lkLHNvcnRfYXJyYXkoY29sbGVjdF9zZXQoaW5zdGFsbF9pZCkpYXMgaW5zdGFsbF9pZHMgZnJvbSB1aWRfaWlkIHdoZXJlIHVzZXJfaWQ+MCBhbmQgaW5zdGFsbF9pZD4wIGdyb3VwIGJ5IHVzZXJfaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgbWVzc2FnZQo=</text>
