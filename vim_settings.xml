@@ -111,7 +111,8 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="/bpush.py" timestamp="1483198926396" />
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483433342308">
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483434702884">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="42" column="153" />
         <mark key="]" line="42" column="153" />
         <mark key="." line="42" column="153" />
@@ -244,7 +245,6 @@
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483195084937" />
     </filemarks>
     <jumps>
-      <jump line="38" column="49" filename="D:/PythonProjects/ResumeMiner/misc/script/cp_from_sub.py" />
       <jump line="232" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="292" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="16" column="7" filename="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" />
@@ -344,6 +344,7 @@
       <jump line="363" column="52" filename="C:/Python3/Lib/site-packages/apns.py" />
       <jump line="96" column="68" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="97" column="29" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
+      <jump line="23" column="0" filename="D:/PythonProjects/one4one/uid_iid.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
