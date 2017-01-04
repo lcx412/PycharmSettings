@@ -13,8 +13,7 @@
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483514040481">
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483516932965">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
@@ -25,15 +24,8 @@
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1483501358756">
         <mark key="'" line="155" column="20" />
       </file>
-      <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
+      <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_app/app.docker" timestamp="1483517066402" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483196585210" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483511273872">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="21" />
-        <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="21" />
-      </file>
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +36,43 @@
         <mark key="^" line="221" column="34" />
         <mark key="." line="221" column="34" />
       </file>
+      <file name="/bpush.py" timestamp="1483198926396" />
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483497897090">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="0" />
+      </file>
+      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1483414028352">
+        <mark key="'" line="97" column="29" />
+        <mark key="[" line="53" column="47" />
+        <mark key="]" line="58" column="44" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+      </file>
+      <file name="D:/PythonProjects/transporter/misc/scripts/start_http_server.sh" timestamp="1483516800115" />
+      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1482721544792">
+        <mark key="[" line="17" column="66" />
+      </file>
+      <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/build_wheels.sh" timestamp="1483500152947" />
+      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1483371043496">
+        <mark key="'" line="142" column="53" />
+        <mark key="[" line="107" column="60" />
+        <mark key="]" line="107" column="62" />
+        <mark key="^" line="107" column="62" />
+        <mark key="." line="107" column="62" />
+      </file>
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
+      <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483511273872">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="^" line="59" column="23" />
+        <mark key="." line="59" column="21" />
+      </file>
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1483502701703">
         <mark key="'" line="212" column="60" />
         <mark key="[" line="205" column="38" />
@@ -53,27 +82,11 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
-      <file name="/bpush.py" timestamp="1483198926396" />
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483497897090">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="0" />
+      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483516922933">
+        <mark key="'" line="29" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483514134762" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195891671" />
-      <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1483414028352">
-        <mark key="'" line="97" column="29" />
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="58" column="44" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-      </file>
       <file name="D:/PythonProjects/transporter/requirements/common.txt" timestamp="1483513638266" />
-      <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1482721544792">
-        <mark key="[" line="17" column="66" />
-      </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483513535417" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483513862277">
@@ -86,16 +99,8 @@
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483506986083">
         <mark key="'" line="363" column="52" />
       </file>
-      <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/build_wheels.sh" timestamp="1483500152947" />
       <file name="/a.regexp" timestamp="1482895802261">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/tutor_cards.py" timestamp="1483371043496">
-        <mark key="'" line="142" column="53" />
-        <mark key="[" line="107" column="60" />
-        <mark key="]" line="107" column="62" />
-        <mark key="^" line="107" column="62" />
-        <mark key="." line="107" column="62" />
       </file>
       <file name="D:/PythonProjects/one4one/apple_token_cleaner.py" timestamp="1483502965747">
         <mark key="[" line="2" column="0" />
@@ -103,10 +108,8 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
     </filemarks>
     <jumps>
-      <jump line="52" column="26" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="78" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="55" column="98" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -206,6 +209,7 @@
       <jump line="4" column="9" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="57" column="17" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="214" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
+      <jump line="29" column="0" filename="D:/PythonProjects/transporter/configs/transporter.ini" />
     </jumps>
     <registers>
       <register name="a" type="4">
