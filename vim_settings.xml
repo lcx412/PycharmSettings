@@ -73,6 +73,13 @@
         <mark key="^" line="221" column="29" />
         <mark key="." line="221" column="29" />
       </file>
+      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1483497723638">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="209" column="31" />
+        <mark key="]" line="209" column="32" />
+        <mark key="^" line="208" column="35" />
+        <mark key="." line="209" column="32" />
+      </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483200395579" />
       <file name="D:/PythonProjects/ResumeMiner/test/test.py" timestamp="1482640571570">
         <mark key="[" line="13" column="43" />
@@ -111,12 +118,12 @@
         <mark key="." line="0" column="12" />
       </file>
       <file name="/bpush.py" timestamp="1483198926396" />
-      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483434702884">
+      <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483497897090">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="42" column="153" />
-        <mark key="]" line="42" column="153" />
-        <mark key="." line="42" column="153" />
-        <mark key="^" line="42" column="148" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="D:/PythonProjects/one4one/bpush_channel_cleaner.py" timestamp="1483195779977">
         <mark key="[" line="20" column="20" />
@@ -245,7 +252,6 @@
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483195084937" />
     </filemarks>
     <jumps>
-      <jump line="232" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="292" column="8" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="16" column="7" filename="D:/PythonProjects/ResumeMiner/test/extract_func_test.py" />
       <jump line="186" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -345,16 +351,17 @@
       <jump line="96" column="68" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="97" column="29" filename="D:/PythonProjects/Messages/msg_sent_collector.py" />
       <jump line="23" column="0" filename="D:/PythonProjects/one4one/uid_iid.sh" />
+      <jump line="208" column="0" filename="D:/PythonProjects/one4one/revenue_charge.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
