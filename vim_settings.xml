@@ -46,7 +46,8 @@
         <mark key="^" line="42" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_app/entrypoint.sh" timestamp="1483519657043" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1483529342704">
+      <file name="D:/PythonProjects/one4one/zuoyeba_student.py" timestamp="1483535402139">
+        <mark key="'" line="112" column="0" />
         <mark key="[" line="22" column="93" />
         <mark key="]" line="62" column="643" />
         <mark key="^" line="62" column="643" />
@@ -126,8 +127,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="55" column="98" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="44" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="15" column="18" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="14" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="76" column="28" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -226,6 +225,8 @@
       <jump line="214" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="29" column="0" filename="D:/PythonProjects/transporter/configs/transporter.ini" />
       <jump line="41" column="23" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="36" column="2" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="112" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
