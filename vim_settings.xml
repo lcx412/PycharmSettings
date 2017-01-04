@@ -37,7 +37,8 @@
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1483512938115">
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1483516597712">
+        <mark key="'" line="214" column="0" />
         <mark key="[" line="220" column="30" />
         <mark key="]" line="221" column="34" />
         <mark key="^" line="221" column="34" />
@@ -105,7 +106,6 @@
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="52" column="26" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="78" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="55" column="98" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -205,6 +205,7 @@
       <jump line="55" column="45" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="4" column="9" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="57" column="17" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="214" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
