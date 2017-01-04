@@ -13,8 +13,11 @@
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
+      <file name="D:/PythonProjects/transporter/configs/AFTPushDev.pem" timestamp="1483544907450">
+        <mark key="'" line="42" column="57" />
+      </file>
       <file name="D:/PythonProjects/Aftlogger/src/aftlogger/__init__.py" timestamp="1483520183462" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483541365659">
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483545162344">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="30" column="42" />
         <mark key="." line="30" column="42" />
@@ -127,7 +130,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="15" column="18" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="14" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="76" column="28" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="77" column="45" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -227,6 +229,7 @@
       <jump line="41" column="23" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="36" column="2" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
       <jump line="112" column="0" filename="D:/PythonProjects/one4one/zuoyeba_student.py" />
+      <jump line="42" column="57" filename="D:/PythonProjects/transporter/configs/AFTPushDev.pem" />
     </jumps>
     <registers>
       <register name="a" type="4">
