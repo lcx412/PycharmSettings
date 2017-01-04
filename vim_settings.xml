@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1482576459284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1483195452821" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1483507917579" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/build.sh" timestamp="1483415377841" />
       <file name="/a.dummy" timestamp="1483502429478">
         <mark key="[" line="0" column="0" />
@@ -14,8 +14,11 @@
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483505463640">
-        <mark key="[" line="24" column="67" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483508928178">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483494582204" />
@@ -24,7 +27,13 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483196585210" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483505598813" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483508682434">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,7 +44,7 @@
         <mark key="^" line="138" column="34" />
         <mark key="." line="205" column="39" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483200395579" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
       <file name="/Python Console" timestamp="1483415356804">
         <mark key="[" line="0" column="0" />
@@ -64,6 +73,12 @@
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483192694927" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483508925092">
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="68" />
+        <mark key="^" line="50" column="68" />
+        <mark key="." line="50" column="68" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483506986083">
         <mark key="'" line="363" column="52" />
       </file>
@@ -87,7 +102,6 @@
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="38" column="15" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="46" column="29" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="210" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -187,49 +201,50 @@
       <jump line="208" column="0" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="155" column="20" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" />
       <jump line="212" column="60" filename="D:/PythonProjects/one4one/revenue_charge.py" />
+      <jump line="38" column="25" filename="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="&quot;" type="4">
+        <text>channel_id</text>
       </register>
       <register name="-" type="4">
-        <text>, IosTokenRepo.remove(token_hex)</text>
+        <text>channel_id</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHVpZF9paWRzIGFzIHNlbGVjdCB1c2VyX2lkLHNvcnRfYXJyYXkoY29sbGVjdF9zZXQoaW5zdGFsbF9pZCkpYXMgaW5zdGFsbF9pZHMgZnJvbSB1aWRfaWlkIHdoZXJlIHVzZXJfaWQ+MCBhbmQgaW5zdGFsbF9pZD4wIGdyb3VwIGJ5IHVzZXJfaWQ7Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGNsZWFuX2NoYW5uZWxfaWQoY2xzLCBjaGFubmVsX2lkKToKICAgICAgICBkYm0gPSBEQk1hbmFnZXIoKQogICAgICAgIHBvb2wgPSBkYm0uZ2V0X2FmYW50aV9vbmxpbmVfcG9vbCgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uID0gcG9vbC5jb25uZWN0KCkKICAgICAgICAgICAgY3Vyc29yID0gY29ubi5jdXJzb3IoKQoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc3Fscy5DTEVBTl9DSEFOTkVMX0lEX1NUTSwgKGNoYW5uZWxfaWQsICkpCiAgICAgICAgICAgIGNvbm4uY29tbWl0KCkKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjb25uLmNsb3NlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjdXJyZW50IGlvc19kZXZpY2VfdG9rZW4gc2l6ZTonLCBJb3NUb2tlblJlcG8uc2l6ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoKHJlY29yZFswXSwgcmVjb3JkWzFdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdjdXJyZW50IGlvc19kZXZpY2VfdG9rZW4gc2l6ZTonLCBJb3NUb2tlblJlcG8uc2l6ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluaXRfYXBwLmluaXRfcmVwbyhjb25maWcpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZywgcmFiYml0X2NvbmZpZywgYXBwbGVfY29uZmlnLCBiYWlkdV9jb25maWcgPSBpbml0X2FwcC5pbml0X2NvbmZpZ3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb3JkczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuZXhpdCgnQ09ORklHX1BBVEggaXMgbm90IHNldC4gIDooICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkcyA9IGN1cnNvci5mZXRjaGFsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
