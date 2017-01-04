@@ -14,7 +14,9 @@
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483502908024" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483505463640">
+        <mark key="[" line="24" column="67" />
+      </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483494582204" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1483501358756">
@@ -22,6 +24,7 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483196585210" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483505598813" />
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,7 +64,7 @@
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483192694927" />
-      <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483503053879">
+      <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483506986083">
         <mark key="'" line="363" column="52" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/build_wheels.sh" timestamp="1483500152947" />
@@ -81,7 +84,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483195084937" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
     </filemarks>
     <jumps>
       <jump line="186" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
