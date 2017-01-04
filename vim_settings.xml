@@ -14,10 +14,11 @@
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483510439057">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483514040481">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483494582204" />
@@ -26,15 +27,21 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483196585210" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483510385627">
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483511273872">
         <mark key="'" line="38" column="25" />
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="59" column="23" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
         <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="23" />
+        <mark key="." line="59" column="21" />
       </file>
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/PythonProjects/one4one/revenue_tutor.py" timestamp="1483512938115">
+        <mark key="[" line="220" column="30" />
+        <mark key="]" line="221" column="34" />
+        <mark key="^" line="221" column="34" />
+        <mark key="." line="221" column="34" />
       </file>
       <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1483502701703">
         <mark key="'" line="212" column="60" />
@@ -45,12 +52,6 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
-      <file name="/Python Console" timestamp="1483415356804">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="/bpush.py" timestamp="1483198926396" />
       <file name="D:/PythonProjects/one4one/uid_iid.sh" timestamp="1483497897090">
         <mark key="'" line="23" column="0" />
@@ -59,6 +60,7 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483514134762" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195891671" />
       <file name="D:/PythonProjects/Messages/msg_sent_collector.py" timestamp="1483414028352">
         <mark key="'" line="97" column="29" />
@@ -67,16 +69,18 @@
         <mark key="^" line="58" column="44" />
         <mark key="." line="58" column="44" />
       </file>
+      <file name="D:/PythonProjects/transporter/requirements/common.txt" timestamp="1483513638266" />
       <file name="D:/PythonProjects/one4one/wb_privileged_conversion_by_week.py" timestamp="1482721544792">
         <mark key="[" line="17" column="66" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
-      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483192694927" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483508925092">
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="68" />
-        <mark key="^" line="50" column="68" />
-        <mark key="." line="50" column="68" />
+      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483513535417" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483513862277">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483506986083">
         <mark key="'" line="363" column="52" />
@@ -101,14 +105,6 @@
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
     </filemarks>
     <jumps>
-      <jump line="38" column="15" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="46" column="29" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="210" column="0" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="60" column="22" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="57" column="25" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="7" column="10" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="68" column="20" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="4" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="67" column="20" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="52" column="26" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="78" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -201,49 +197,57 @@
       <jump line="155" column="20" filename="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" />
       <jump line="212" column="60" filename="D:/PythonProjects/one4one/revenue_charge.py" />
       <jump line="38" column="25" filename="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" />
+      <jump line="50" column="42" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="39" column="40" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="36" column="0" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="0" column="12" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="59" column="12" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="55" column="45" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="4" column="9" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="57" column="17" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGltcG9ydCBpbml0X2FwcA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IGltcG9ydCBpbml0X2FwcA==</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGNsZWFuX2NoYW5uZWxfaWQoY2xzLCBjaGFubmVsX2lkKToKICAgICAgICBkYm0gPSBEQk1hbmFnZXIoKQogICAgICAgIHBvb2wgPSBkYm0uZ2V0X2FmYW50aV9vbmxpbmVfcG9vbCgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uID0gcG9vbC5jb25uZWN0KCkKICAgICAgICAgICAgY3Vyc29yID0gY29ubi5jdXJzb3IoKQoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc3Fscy5DTEVBTl9DSEFOTkVMX0lEX1NUTSwgKGNoYW5uZWxfaWQsICkpCiAgICAgICAgICAgIGNvbm4uY29tbWl0KCkKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjb25uLmNsb3NlKCkK</text>
+      <register name="0" type="4">
+        <text>isinstance(device_tokens, list):</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4odG9rZW5faGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
+        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoKHJlY29yZFswXSwgcmVjb3JkWzFdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4odG9rZW5faGV4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
