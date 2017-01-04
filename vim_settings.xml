@@ -14,15 +14,15 @@
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
       <file name="D:/PythonProjects/Aftlogger/src/aftlogger/__init__.py" timestamp="1483520183462" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483522728631">
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483526499422">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="30" column="42" />
         <mark key="." line="30" column="42" />
         <mark key="^" line="30" column="42" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
-      <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483519667377" />
-      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1483501358756">
+      <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483526124404" />
+      <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1483525032120">
         <mark key="'" line="155" column="20" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_app/app.docker" timestamp="1483517066402" />
@@ -90,15 +90,15 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
-      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483522481780">
+      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483525045800">
         <mark key="'" line="29" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195891671" />
       <file name="D:/PythonProjects/transporter/requirements/common.txt" timestamp="1483513638266" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483521788646" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483519127986">
-        <mark key="'" line="57" column="17" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483525936187">
+        <mark key="'" line="41" column="23" />
         <mark key="[" line="47" column="26" />
         <mark key="]" line="31" column="24" />
         <mark key="." line="31" column="24" />
@@ -116,7 +116,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="78" column="21" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="55" column="98" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="44" column="0" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="15" column="18" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -216,6 +215,7 @@
       <jump line="57" column="17" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
       <jump line="214" column="0" filename="D:/PythonProjects/one4one/revenue_tutor.py" />
       <jump line="29" column="0" filename="D:/PythonProjects/transporter/configs/transporter.ini" />
+      <jump line="41" column="23" filename="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
