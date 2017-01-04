@@ -13,7 +13,8 @@
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483519136395">
+      <file name="D:/PythonProjects/Aftlogger/src/aftlogger/__init__.py" timestamp="1483520183462" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483521792776">
         <mark key="[" line="32" column="34" />
         <mark key="]" line="30" column="42" />
         <mark key="." line="30" column="42" />
@@ -65,7 +66,13 @@
         <mark key="." line="107" column="62" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483506969271" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
+      <file name="C:/Python3/Lib/site-packages/redis/connection.py" timestamp="1483521654363" />
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483522248170">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483511273872">
         <mark key="'" line="38" column="25" />
@@ -83,13 +90,13 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
-      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483516922933">
+      <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483522481780">
         <mark key="'" line="29" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1483195891671" />
       <file name="D:/PythonProjects/transporter/requirements/common.txt" timestamp="1483513638266" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
-      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483519256118" />
+      <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483521788646" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483519127986">
         <mark key="'" line="57" column="17" />
         <mark key="[" line="47" column="26" />
@@ -100,13 +107,11 @@
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483506986083">
         <mark key="'" line="363" column="52" />
       </file>
+      <file name="D:/PythonProjects/transporter/.gitignore" timestamp="1483522524364">
+        <mark key="[" line="3" column="5" />
+      </file>
       <file name="/a.regexp" timestamp="1482895802261">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/PythonProjects/one4one/apple_token_cleaner.py" timestamp="1483502965747">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
