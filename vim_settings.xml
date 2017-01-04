@@ -14,11 +14,10 @@
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1483193311941" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483192868276" />
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483508928178">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483510439057">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483494582204" />
@@ -27,12 +26,12 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1483196585210" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483508682434">
+      <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483510385627">
         <mark key="'" line="38" column="25" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="59" column="20" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+        <mark key="." line="59" column="23" />
       </file>
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
@@ -207,11 +206,11 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>channel_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>channel_id</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
@@ -220,31 +219,31 @@
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGNsZWFuX2NoYW5uZWxfaWQoY2xzLCBjaGFubmVsX2lkKToKICAgICAgICBkYm0gPSBEQk1hbmFnZXIoKQogICAgICAgIHBvb2wgPSBkYm0uZ2V0X2FmYW50aV9vbmxpbmVfcG9vbCgpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjb25uID0gcG9vbC5jb25uZWN0KCkKICAgICAgICAgICAgY3Vyc29yID0gY29ubi5jdXJzb3IoKQoKICAgICAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc3Fscy5DTEVBTl9DSEFOTkVMX0lEX1NUTSwgKGNoYW5uZWxfaWQsICkpCiAgICAgICAgICAgIGNvbm4uY29tbWl0KCkKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjb25uLmNsb3NlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4odG9rZW5faGV4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoKHJlY29yZFswXSwgcmVjb3JkWzFdKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW10K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoKHJlY29yZFswXSwgcmVjb3JkWzFdKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb3JkczoK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkcyA9IGN1cnNvci5mZXRjaGFsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
