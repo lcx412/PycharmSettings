@@ -31,11 +31,10 @@
         <mark key="^" line="101" column="25" />
         <mark key="." line="44" column="31" />
       </file>
-      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483595890626">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
+      <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483597840183">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/README" timestamp="1483415067326" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/entrypoint.sh" timestamp="1483526124404" />
@@ -270,8 +269,8 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGltcG9ydCBpbml0X2FwcA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGltcG9ydCBpbml0X2FwcA==</text>
@@ -283,31 +282,31 @@
         <text>isinstance(device_tokens, list):</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4odG9rZW5faGV4KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
