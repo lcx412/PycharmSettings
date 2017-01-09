@@ -109,7 +109,7 @@
         <mark key="." line="107" column="62" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483608829532" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483950294517">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483955756645">
         <mark key="'" line="138" column="52" />
         <mark key="[" line="79" column="320" />
         <mark key="]" line="79" column="320" />
@@ -126,7 +126,7 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/connection.py" timestamp="1483521654363" />
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483941977677">
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483956697534">
         <mark key="'" line="222" column="178" />
         <mark key="[" line="222" column="21" />
         <mark key="]" line="222" column="20" />
@@ -170,12 +170,12 @@
         <mark key="." line="43" column="28" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1483948155729">
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1483956718294">
         <mark key="'" line="392" column="332" />
-        <mark key="[" line="561" column="332" />
-        <mark key="]" line="561" column="332" />
-        <mark key="^" line="37" column="81" />
-        <mark key="." line="561" column="332" />
+        <mark key="[" line="226" column="365" />
+        <mark key="]" line="226" column="365" />
+        <mark key="^" line="226" column="355" />
+        <mark key="." line="226" column="365" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483521788646" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483525936187">
@@ -308,10 +308,10 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
