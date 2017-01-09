@@ -6,18 +6,18 @@
       <file name="/start_script.py" timestamp="1482576459284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483955756645">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483975113377">
         <mark key="'" line="138" column="52" />
-        <mark key="[" line="79" column="320" />
-        <mark key="]" line="79" column="320" />
-        <mark key="^" line="80" column="64" />
-        <mark key="." line="79" column="320" />
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="31" />
+        <mark key="^" line="134" column="31" />
+        <mark key="." line="134" column="31" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1483957681882">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="73" column="81" />
-        <mark key="]" line="73" column="81" />
-        <mark key="." line="73" column="81" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1483975539362">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="102" column="31" />
+        <mark key="." line="102" column="31" />
         <mark key="^" line="73" column="81" />
       </file>
       <file name="/a.dummy" timestamp="1483930780881">
@@ -154,12 +154,12 @@
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483607241789">
         <mark key="'" line="283" column="39" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483958007281">
+      <file name="D:/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1483975518128">
         <mark key="'" line="133" column="25" />
-        <mark key="[" line="134" column="25" />
-        <mark key="]" line="134" column="26" />
-        <mark key="^" line="133" column="33" />
-        <mark key="." line="134" column="26" />
+        <mark key="[" line="102" column="34" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="102" column="80" />
+        <mark key="." line="102" column="34" />
       </file>
       <file name="D:/PythonProjects/transporter/.gitignore" timestamp="1483522524364">
         <mark key="[" line="3" column="5" />
@@ -181,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="39" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="551" column="60" filename="D:/PythonProjects/one4one/dts_detail.py" />
       <jump line="630" column="16" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
@@ -281,16 +280,17 @@
       <jump line="392" column="332" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="285" column="25" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="133" column="25" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
+      <jump line="101" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily_gen2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>int(</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>int(</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
@@ -299,31 +299,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgMS41yNW6873Myqa2y7jEzqqwtMPrvMa30Qo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHV0b3JfY29zdCArPSB0ZWFjaGVyX3ByaWNlICogdGVhY2hlcl9kdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAxLjXI1brzvczKprbLuMTOqrC0w+u8xrfRCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHV0b3JfY29zdCArPSB0ZWFjaGVyX3ByaWNlICogdGVhY2hlcl9kdXJhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
