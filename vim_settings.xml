@@ -118,12 +118,6 @@
         <mark key="^" line="0" column="20" />
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/connection.py" timestamp="1483521654363" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483522248170">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-      </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483941977677">
         <mark key="'" line="222" column="178" />
@@ -148,12 +142,6 @@
         <mark key="." line="205" column="39" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1483605642458">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="113" column="33" />
-      </file>
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
       <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483595981634">
         <mark key="'" line="29" column="0" />
@@ -175,11 +163,12 @@
         <mark key="." line="43" column="28" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/app.docker" timestamp="1483500206602" />
-      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1483944970853">
-        <mark key="[" line="526" column="0" />
-        <mark key="]" line="526" column="0" />
+      <file name="D:/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1483948155729">
+        <mark key="'" line="392" column="332" />
+        <mark key="[" line="561" column="332" />
+        <mark key="]" line="561" column="332" />
         <mark key="^" line="37" column="81" />
-        <mark key="." line="526" column="0" />
+        <mark key="." line="561" column="332" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/init_app.py" timestamp="1483521788646" />
       <file name="D:/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1483525936187">
@@ -206,9 +195,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
-      <jump line="113" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
-      <jump line="20" column="6" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="45" column="32" filename="D:/PythonProjects/one4one/wb_students.py" />
       <jump line="60" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
       <jump line="77" column="0" filename="D:/PythonProjects/one4one/matrix.sh" />
@@ -306,19 +292,22 @@
       <jump line="283" column="39" filename="C:/Python3/Lib/site-packages/apns.py" />
       <jump line="287" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="222" column="178" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
+      <jump line="223" column="69" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="226" column="332" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="392" column="332" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>valid_</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>valid_</text>
       </register>
       <register name="/" type="4">
-        <text>feed</text>
+        <text>valid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIDEyLjIwyNXG8L/JsLTV4rj2wLTF3AogICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3Qgc3VtKGFjdHVhbF9jb25zdW1lX2Ftb3VudCksc3VtKGVuZF90aW1lLXN0YXJ0X3RpbWUpLHN1bShpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8NjAsMSxmbG9vcigoZW5kX3RpbWUtc3RhcnRfdGltZSkvNjApKSooY2FzZSBncmFkZV9yYW5nZSB3aGVuIDEgdGhlbiA1MCB3aGVuIDIgdGhlbiA2MCB3aGVuIDMgdGhlbiA3MCBlbHNlIDAgZW5kKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgKGlzX21lbWJlcl91c2VyPD4wIG9yIHVzZV93aGl0ZWJvYXJkX3BhY2thZ2U8PjApIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIHR1dG9yX2VudHJ5IT04IGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB1aWQsIHllc19zdGFydF90cywgeWVzX2VuZF90cywgeWVzX2RhdGUpKQo=</text>
@@ -355,9 +344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>feed</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>feed</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>posi</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>birth</entry>
         <entry>check_birth</entry>
         <entry>经验</entry>
         <entry>coll</entry>
@@ -385,6 +373,7 @@
         <entry>posi</entry>
         <entry>ft_mem</entry>
         <entry>feed</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry>% s/string_to_search/sentence/g</entry>
