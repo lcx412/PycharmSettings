@@ -8,7 +8,7 @@
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1483507917579" />
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/build.sh" timestamp="1483415377841" />
-      <file name="/a.dummy" timestamp="1483761097782">
+      <file name="/a.dummy" timestamp="1483930780881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_app/build.sh" timestamp="1483416674156" />
@@ -26,12 +26,12 @@
         <mark key="^" line="54" column="400" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483605108108">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483931237819">
         <mark key="'" line="110" column="31" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="101" column="25" />
-        <mark key="." line="44" column="31" />
+        <mark key="[" line="163" column="15" />
+        <mark key="]" line="163" column="18" />
+        <mark key="." line="163" column="18" />
+        <mark key="^" line="163" column="18" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483674755476">
         <mark key="[" line="27" column="0" />
@@ -306,43 +306,43 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>可按这个来跑</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>可按这个来跑</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHV0b3JfY291bnQsIHR1dG9yX2R1cmF0aW9uLCBjb25zdW1lX2Ftb3VudCwgcGF5X2Ftb3VudCwgdHV0b3JfY29zdCA9IGN1cl8xb24xLmZldGNob25lKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIDEyLjIwyNXG8L/JsLTV4rj2wLTF3AogICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3Qgc3VtKGFjdHVhbF9jb25zdW1lX2Ftb3VudCksc3VtKGVuZF90aW1lLXN0YXJ0X3RpbWUpLHN1bShpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8NjAsMSxmbG9vcigoZW5kX3RpbWUtc3RhcnRfdGltZSkvNjApKSooY2FzZSBncmFkZV9yYW5nZSB3aGVuIDEgdGhlbiA1MCB3aGVuIDIgdGhlbiA2MCB3aGVuIDMgdGhlbiA3MCBlbHNlIDAgZW5kKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgKGlzX21lbWJlcl91c2VyPD4wIG9yIHVzZV93aGl0ZWJvYXJkX3BhY2thZ2U8PjApIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIHR1dG9yX2VudHJ5IT04IGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB1aWQsIHllc19zdGFydF90cywgeWVzX2VuZF90cywgeWVzX2RhdGUpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
