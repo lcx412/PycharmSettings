@@ -119,12 +119,12 @@
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/connection.py" timestamp="1483521654363" />
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483846910898">
-        <mark key="'" line="258" column="0" />
-        <mark key="[" line="110" column="17" />
-        <mark key="]" line="111" column="23" />
-        <mark key="^" line="111" column="23" />
-        <mark key="." line="111" column="23" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483941977677">
+        <mark key="'" line="222" column="178" />
+        <mark key="[" line="222" column="21" />
+        <mark key="]" line="222" column="20" />
+        <mark key="^" line="222" column="20" />
+        <mark key="." line="222" column="20" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1483511273872">
         <mark key="'" line="38" column="25" />
@@ -134,7 +134,7 @@
         <mark key="." line="59" column="21" />
       </file>
       <file name="D:/PythonProjects/transporter/configs/logging.conf" timestamp="1483608054739" />
-      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1483502701703">
+      <file name="D:/PythonProjects/one4one/revenue_charge.py" timestamp="1483942443236">
         <mark key="'" line="212" column="60" />
         <mark key="[" line="205" column="38" />
         <mark key="]" line="205" column="39" />
@@ -188,7 +188,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="78" column="28" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="21" column="19" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="113" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
       <jump line="20" column="6" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
@@ -288,6 +287,7 @@
       <jump line="257" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="283" column="39" filename="C:/Python3/Lib/site-packages/apns.py" />
       <jump line="287" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
+      <jump line="222" column="178" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
