@@ -7,6 +7,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1483507917579" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1483949294179">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="73" column="81" />
+        <mark key="]" line="73" column="81" />
+        <mark key="." line="73" column="81" />
+        <mark key="^" line="73" column="81" />
+      </file>
       <file name="D:/PythonProjects/transporter/misc/docker/alpine/build_wheels/build.sh" timestamp="1483415377841" />
       <file name="/a.dummy" timestamp="1483930780881">
         <mark key="[" line="0" column="0" />
@@ -26,11 +33,11 @@
         <mark key="^" line="54" column="400" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483943229396">
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483949405102">
         <mark key="'" line="287" column="0" />
-        <mark key="[" line="288" column="25" />
-        <mark key="]" line="288" column="26" />
-        <mark key="." line="288" column="26" />
+        <mark key="[" line="163" column="14" />
+        <mark key="]" line="163" column="14" />
+        <mark key="." line="163" column="14" />
         <mark key="^" line="288" column="32" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483674755476">
@@ -102,12 +109,12 @@
         <mark key="." line="107" column="62" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1483608829532" />
-      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483846683106">
-        <mark key="'" line="130" column="52" />
-        <mark key="[" line="56" column="143" />
-        <mark key="]" line="57" column="28" />
-        <mark key="^" line="57" column="28" />
-        <mark key="." line="57" column="28" />
+      <file name="D:/PythonProjects/one4one/ft_member_cards_daily.py" timestamp="1483950294517">
+        <mark key="'" line="138" column="52" />
+        <mark key="[" line="79" column="320" />
+        <mark key="]" line="79" column="320" />
+        <mark key="^" line="80" column="64" />
+        <mark key="." line="79" column="320" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1483608522399" />
       <file name="D:/PythonProjects/one4one/django_hive.py" timestamp="1483693387379">
@@ -301,22 +308,22 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>valid_</text>
+        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
       </register>
       <register name="-" type="4">
-        <text>valid_</text>
+        <text>)t join (select teacher_user_id,if(valid_duration=0,0,tutor_wage*60/valid_duration)as price from date_tutor_record where date={3})d using(teacher_user_id)</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIDEyLjIwyNXG8L/JsLTV4rj2wLTF3AogICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3Qgc3VtKGFjdHVhbF9jb25zdW1lX2Ftb3VudCksc3VtKGVuZF90aW1lLXN0YXJ0X3RpbWUpLHN1bShpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8NjAsMSxmbG9vcigoZW5kX3RpbWUtc3RhcnRfdGltZSkvNjApKSooY2FzZSBncmFkZV9yYW5nZSB3aGVuIDEgdGhlbiA1MCB3aGVuIDIgdGhlbiA2MCB3aGVuIDMgdGhlbiA3MCBlbHNlIDAgZW5kKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgKGlzX21lbWJlcl91c2VyPD4wIG9yIHVzZV93aGl0ZWJvYXJkX3BhY2thZ2U8PjApIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIHR1dG9yX2VudHJ5IT04IGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB1aWQsIHllc19zdGFydF90cywgeWVzX2VuZF90cywgeWVzX2RhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgMS41yNW6873Myqa2y7jEzqqwtMPrvMa30Qo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHV0b3JfY29zdCArPSB0ZWFjaGVyX3ByaWNlICogdGVhY2hlcl9kdXJhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAnJycK</text>
@@ -325,19 +332,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
