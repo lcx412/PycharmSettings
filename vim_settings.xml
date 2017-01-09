@@ -19,19 +19,19 @@
         <mark key="'" line="42" column="57" />
       </file>
       <file name="D:/PythonProjects/Aftlogger/src/aftlogger/__init__.py" timestamp="1483520183462" />
-      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1483588461155">
+      <file name="D:/PythonProjects/one4one/ft_students.py" timestamp="1483934649647">
         <mark key="'" line="254" column="45" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="54" column="400" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483931237819">
-        <mark key="'" line="110" column="31" />
-        <mark key="[" line="163" column="15" />
-        <mark key="]" line="163" column="18" />
-        <mark key="." line="163" column="18" />
-        <mark key="^" line="163" column="18" />
+      <file name="D:/PythonProjects/one4one/ft_students_detail.py" timestamp="1483934723693">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="288" column="25" />
+        <mark key="]" line="288" column="26" />
+        <mark key="." line="288" column="26" />
+        <mark key="^" line="288" column="32" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483674755476">
         <mark key="[" line="27" column="0" />
@@ -118,12 +118,6 @@
         <mark key="^" line="0" column="20" />
       </file>
       <file name="C:/Python3/Lib/site-packages/redis/connection.py" timestamp="1483521654363" />
-      <file name="D:/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1483522248170">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="25" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-      </file>
       <file name="C:/Python3/Lib/site-packages/redis/client.py" timestamp="1483192923398" />
       <file name="D:/PythonProjects/one4one/ft_member_cards.py" timestamp="1483846910898">
         <mark key="'" line="258" column="0" />
@@ -148,12 +142,6 @@
         <mark key="." line="205" column="39" />
       </file>
       <file name="D:/PythonProjects/transporter/src/transporter/repos/db_manager.py" timestamp="1483508125056" />
-      <file name="D:/PythonProjects/one4one/zuoyeba_detail.py" timestamp="1483605642458">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="113" column="33" />
-      </file>
       <file name="D:/PythonProjects/transporter/misc/docker/ubuntu/build_wheels/sources.list" timestamp="1483500160583" />
       <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483595981634">
         <mark key="'" line="29" column="0" />
@@ -200,7 +188,6 @@
       <file name="D:/PythonProjects/transporter/misc/scripts/start_baidu_mass_worker.sh" timestamp="1483200494598" />
     </filemarks>
     <jumps>
-      <jump line="77" column="45" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="78" column="28" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="21" column="19" filename="D:/PythonProjects/ResumeMiner/misc/script/RESUME_CLASSIFIER.py" />
       <jump line="113" column="14" filename="D:/PythonProjects/ResumeMiner/resumeminer/resumeminer.py" />
@@ -300,16 +287,17 @@
       <jump line="42" column="57" filename="D:/PythonProjects/transporter/configs/AFTPushDev.pem" />
       <jump line="257" column="0" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="283" column="39" filename="C:/Python3/Lib/site-packages/apns.py" />
+      <jump line="287" column="0" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>可按这个来跑</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>可按这个来跑</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>feed</text>
@@ -318,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAjIDEyLjIwyNXG8L/JsLTV4rj2wLTF3AogICAgICAgIGN1cl8xb24xLmV4ZWN1dGUoCiAgICAgICAgICAgICJzZWxlY3Qgc3VtKGFjdHVhbF9jb25zdW1lX2Ftb3VudCksc3VtKGVuZF90aW1lLXN0YXJ0X3RpbWUpLHN1bShpZigoZW5kX3RpbWUtc3RhcnRfdGltZSk8NjAsMSxmbG9vcigoZW5kX3RpbWUtc3RhcnRfdGltZSkvNjApKSooY2FzZSBncmFkZV9yYW5nZSB3aGVuIDEgdGhlbiA1MCB3aGVuIDIgdGhlbiA2MCB3aGVuIDMgdGhlbiA3MCBlbHNlIDAgZW5kKSkgZnJvbSB0dXRvcl9yZWNvcmQgd2hlcmUgKGlzX21lbWJlcl91c2VyPD4wIG9yIHVzZV93aGl0ZWJvYXJkX3BhY2thZ2U8PjApIGFuZCBzdGFydF90aW1lPjAgYW5kIGVuZF90aW1lIGJldHdlZW4gezF9IGFuZCB7Mn0gYW5kIGVuZF90aW1lPnN0YXJ0X3RpbWUgYW5kIHR1dG9yX2VudHJ5IT04IGFuZCBzdHVkZW50X3VzZXJfaWQ9ezB9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICB1aWQsIHllc19zdGFydF90cywgeWVzX2VuZF90cywgeWVzX2RhdGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAodG9rZW5faGV4KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0b2tlbl9oZXgsIGZhaWxfdGltZSwgSW9zVG9rZW5SZXBvLnJlbW92ZSh0b2tlbl9oZXgpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyTXNnUmVwby5jbGVhbl9kZXZpY2VfdG9rZW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
