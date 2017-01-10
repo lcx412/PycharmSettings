@@ -33,8 +33,8 @@
       <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483595981634">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1484028587536">
-        <mark key="'" line="119" column="4" />
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1484032137971">
+        <mark key="'" line="92" column="0" />
         <mark key="[" line="88" column="215" />
         <mark key="]" line="88" column="255" />
         <mark key="." line="88" column="255" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="16" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="711" column="4" filename="D:/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="100" column="150" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="10" column="0" filename="D:/PythonProjects/one4one/revenue_consume.py" />
@@ -288,6 +287,7 @@
       <jump line="101" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_daily_gen2.py" />
       <jump line="109" column="65" filename="D:/PythonProjects/one4one/tutor_comment.py" />
       <jump line="119" column="4" filename="D:/PythonProjects/one4one/tutor_comment.py" />
+      <jump line="92" column="0" filename="D:/PythonProjects/one4one/tutor_comment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
