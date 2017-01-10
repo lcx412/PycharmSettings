@@ -33,12 +33,12 @@
       <file name="D:/PythonProjects/transporter/configs/transporter.ini" timestamp="1483595981634">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1484032137971">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="88" column="215" />
-        <mark key="]" line="88" column="255" />
-        <mark key="." line="88" column="255" />
-        <mark key="^" line="88" column="255" />
+      <file name="D:/PythonProjects/one4one/tutor_comment.py" timestamp="1484032915103">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="74" column="255" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1483930780881">
         <mark key="[" line="0" column="0" />
@@ -293,8 +293,8 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>增加了辅导录音和学生评价标签字段</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1cjIgPSBzZWxmLmNvbm4yLmN1cnNvcigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>增加了辅导录音和学生评价标签字段</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgICAgICBkZiA9IGRmLm1lcmdlKGRmMiwgaG93PSdsZWZ0Jywgb249W3UnuKi1vLzHwrxJRCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1cjIgPSBzZWxmLmNvbm4yLmN1cnNvcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyAxLjXI1brzvczKprbLuMTOqrC0w+u8xrfRCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm4yID0gbS5jb25uZWN0aW9uKCdwb3N0X3N0YXRfZGInKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycnCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXIyID0gc2VsZi5jdXIyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycnCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uMiA9IHNlbGYuY29ubjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHV0b3JfY29zdCArPSB0ZWFjaGVyX3ByaWNlICogdGVhY2hlcl9kdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB0b2QgPSBzZWxmLnRvZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXMgPSBzZWxmLnllcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfZW5kID0gc2VsZi55ZXNfZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5ZXNfc3RhcnQgPSBzZWxmLnllc19zdGFydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
