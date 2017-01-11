@@ -40,8 +40,8 @@
         <mark key="^" line="74" column="255" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1484140996331">
-        <mark key="'" line="696" column="4" />
+      <file name="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" timestamp="1484141888091">
+        <mark key="'" line="687" column="0" />
         <mark key="[" line="561" column="332" />
         <mark key="]" line="561" column="332" />
         <mark key="." line="561" column="332" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="66" filename="D:/PythonProjects/one4one/revenue_consume.py" />
       <jump line="118" column="31" filename="D:/PythonProjects/one4one/ft_students_detail.py" />
       <jump line="19" column="0" filename="D:/PythonProjects/one4one/bpush_channel_cleaner.py" />
       <jump line="18" column="21" filename="D:/PythonProjects/one4one/bpush_channel_cleaner.py" />
@@ -303,6 +302,7 @@
       <jump line="561" column="332" filename="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="355" column="31" filename="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" />
       <jump line="696" column="4" filename="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" />
+      <jump line="687" column="0" filename="D:/Nutstore/PythonProjects/one4one/tutor_teacher_detail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
