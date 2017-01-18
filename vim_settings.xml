@@ -133,6 +133,12 @@
         <mark key="^" line="54" column="400" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/Nutstore/PythonProjects/one4one/ft_teachers.py" timestamp="1484756423978">
+        <mark key="[" line="207" column="84" />
+        <mark key="]" line="320" column="9" />
+        <mark key="^" line="320" column="9" />
+        <mark key="." line="320" column="9" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1483607241789">
         <mark key="'" line="283" column="39" />
       </file>
@@ -178,6 +184,7 @@
         <mark key="^" line="59" column="23" />
         <mark key="." line="59" column="21" />
       </file>
+      <file name="D:/Nutstore/PythonProjects/one4one/revenue_expenditure.py" timestamp="1484755369603" />
       <file name="/a.txt" timestamp="1482895806468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,43 +327,44 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>答疑</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>答疑</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZyb20gcG9zdF9yZXZlbnVlX2V4cGVuZGl0dXJlIGUgbGVmdCBqb2luIGFuc3dlcl9jb25zdW1lX3JlY29yZCBjIHVzaW5nKHBvc3RfaWQpICIKICAgICAgICAgICAgIndoZXJlIHRlYWNoZXJfY29tbWVudF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCh5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2NvbW1lbnRfY3JlZGl0ID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
+      <register name="1" type="4">
+        <text>,0)),&quot;
+            &quot;sum(if(cost_flag=2 and coupon_id=0,0,teacher_comment_credit)) &quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
+        <text encoding="base64">ICAgICMgICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfdGFzayI6IGV4cGVuZGl0dXJlX3Rhc2t9Cg==</text>
+        <text encoding="base64">ICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmV3YXJkIjogZXhwZW5kaXR1cmVfbGV2ZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfdGFzayI6IGV4cGVuZGl0dXJlX3Rhc2t9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmVkX3BhY2tldCI6IGV4cGVuZGl0dXJlX3JlZF9wYWNrZXQsICJleHBlbmRpdHVyZV9yZXdhcmQiOiBleHBlbmRpdHVyZV9yZXdhcmQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmV3YXJkIjogZXhwZW5kaXR1cmVfbGV2ZWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndoZXJlIHRlYWNoZXJfY29tbWVudF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCh5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmVkX3BhY2tldCI6IGV4cGVuZGl0dXJlX3JlZF9wYWNrZXQsICJleHBlbmRpdHVyZV9yZXdhcmQiOiBleHBlbmRpdHVyZV9yZXdhcmQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZyb20gcG9zdF9yZXZlbnVlX2V4cGVuZGl0dXJlIGUgbGVmdCBqb2luIGFuc3dlcl9jb25zdW1lX3JlY29yZCBjIHVzaW5nKHBvc3RfaWQpICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndoZXJlIHRlYWNoZXJfY29tbWVudF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCh5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZyb20gcG9zdF9yZXZlbnVlX2V4cGVuZGl0dXJlIGUgbGVmdCBqb2luIGFuc3dlcl9jb25zdW1lX3JlY29yZCBjIHVzaW5nKHBvc3RfaWQpICIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
