@@ -182,7 +182,7 @@
         <mark key="^" line="138" column="34" />
         <mark key="." line="205" column="39" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1484139806799">
+      <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1486371741286">
         <mark key="[" line="77" column="33" />
         <mark key="]" line="77" column="33" />
         <mark key="." line="77" column="33" />
@@ -200,6 +200,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/unknown/worker.py" timestamp="1486367325615" />
+      <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1486371883563" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="/Python Console" />
@@ -314,7 +315,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>sum</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2NvbW1lbnRfY3JlZGl0ID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQo=</text>
@@ -352,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sum</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern>sum</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>sentence</last-replace>
       <last-substitute>posi</last-substitute>
       <last-dir>1</last-dir>
@@ -362,7 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>经验</entry>
         <entry>coll</entry>
         <entry>name</entry>
         <entry>aft</entry>
@@ -382,6 +382,7 @@
         <entry>feed</entry>
         <entry>valid</entry>
         <entry>sum</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>% s/string_to_search/sentence/g</entry>
