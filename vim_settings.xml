@@ -4,14 +4,23 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1486367345425" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1486546447004">
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1486558962546">
         <mark key="'" line="28" column="20" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="56" />
+        <mark key="^" line="38" column="56" />
+        <mark key="." line="38" column="56" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/configs/transporter.ini" timestamp="1486380458278" />
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_http_server.sh" timestamp="1486366503562" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1486557774549" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1486368932892" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486546858634">
-        <mark key="'" line="103" column="0" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486559008716">
+        <mark key="'" line="101" column="12" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="94" column="62" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1486545606401">
         <mark key="." line="105" column="28" />
@@ -26,8 +35,11 @@
       <file name="D:/Nutstore/PythonProjects/Messages/msg_received_collector.py" timestamp="1486370061582" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/gateway.py" timestamp="1486368970812" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/base.py" timestamp="1486370677265" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1486379896886" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1486558199387" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1486544553881" />
+      <file name="/Dummy.txt" timestamp="1486558976432">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Python3/Lib/site-packages/apns.py" timestamp="1486547192020" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/fbthrift_server/server.py" timestamp="1486366090477" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/message.py" timestamp="1486365139735" />
@@ -36,16 +48,19 @@
         <mark key="]" line="77" column="33" />
         <mark key="." line="77" column="33" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486544947941" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486558401201" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards.py" timestamp="1486543133915" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/unknown/worker.py" timestamp="1486367325615" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1486371883563" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1486558891189">
+        <mark key="'" line="48" column="22" />
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
-      <jump line="78" column="23" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
-      <jump line="23" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
-      <jump line="176" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="168" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="7" column="12" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="106" column="117" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
@@ -142,50 +157,54 @@
       <jump line="29" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="103" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="28" column="20" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" />
+      <jump line="96" column="30" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
+      <jump line="13" column="45" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
+      <jump line="102" column="12" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
+      <jump line="48" column="22" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBmcm9tIC4uLnJlcG9zLmlvc190b2tlbl9yZXBvIGltcG9ydCBJb3NUb2tlblJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVyX2NvbW1lbnRfY3JlZGl0ID0gY3VyX3N0YXQuZmV0Y2hvbmUoKVswXQo=</text>
+        <text encoding="base64">ZnJvbSAuLi5yZXBvcy5pb3NfdG9rZW5fcmVwbyBpbXBvcnQgSW9zVG9rZW5SZXBvCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyBmcm9tIC4uLnJlcG9zLmlvc190b2tlbl9yZXBvIGltcG9ydCBJb3NUb2tlblJlCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZvciBkZXZpY2VfdG9rZW4gaW4gSW9zVG9rZW5SZXBvLmFsbF90b2tlbnMoKToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb3JkczoK</text>
+      </register>
+      <register name="6" type="4">
         <text>,0)),&quot;
             &quot;sum(if(cost_flag=2 and coupon_id=0,0,teacher_comment_credit)) &quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfdGFzayI6IGV4cGVuZGl0dXJlX3Rhc2t9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmV3YXJkIjogZXhwZW5kaXR1cmVfbGV2ZWwsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfcmVkX3BhY2tldCI6IGV4cGVuZGl0dXJlX3JlZF9wYWNrZXQsICJleHBlbmRpdHVyZV9yZXdhcmQiOiBleHBlbmRpdHVyZV9yZXdhcmQsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndoZXJlIHRlYWNoZXJfY29tbWVudF90aW1lIGJldHdlZW4gezB9IGFuZCB7MX0iLmZvcm1hdCh5ZXNfc3RhcnRfdHMsIHllc19lbmRfdHMpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZyb20gcG9zdF9yZXZlbnVlX2V4cGVuZGl0dXJlIGUgbGVmdCBqb2luIGFuc3dlcl9jb25zdW1lX3JlY29yZCBjIHVzaW5nKHBvc3RfaWQpICIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfdGFzayI6IGV4cGVuZGl0dXJlX3Rhc2t9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
