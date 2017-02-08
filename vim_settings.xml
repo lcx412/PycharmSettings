@@ -7,7 +7,9 @@
         <mark key="'" line="11" column="58" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1486367345425" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486364874185" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486543882638">
+        <mark key="'" line="72" column="0" />
+      </file>
       <file name="D:/Nutstore/PythonProjects/one4one/ft_students_detail.py" timestamp="1484578798183">
         <mark key="." line="269" column="27" />
       </file>
@@ -18,9 +20,9 @@
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/gateway.py" timestamp="1486368970812" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/base.py" timestamp="1486370677265" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1486379896886" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1486377809079" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1486544553881" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1486368932892" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486543472216">
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486543911431">
         <mark key="'" line="103" column="0" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/fbthrift_server/server.py" timestamp="1486366090477" />
@@ -33,14 +35,12 @@
         <mark key="]" line="77" column="33" />
         <mark key="." line="77" column="33" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486377733983" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486544903312" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards.py" timestamp="1486543133915" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/unknown/worker.py" timestamp="1486367325615" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1486371883563" />
     </filemarks>
     <jumps>
-      <jump line="308" column="4" filename="D:/PythonProjects/one4one/revenue_consume.py" />
-      <jump line="238" column="28" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="298" column="4" filename="D:/PythonProjects/one4one/ft_member_cards.py" />
       <jump line="226" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="78" column="23" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
@@ -138,6 +138,8 @@
       <jump line="11" column="58" filename="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_fbthrift_server.sh" />
       <jump line="78" column="30" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="1" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
+      <jump line="72" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" />
+      <jump line="29" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="103" column="0" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
     </jumps>
     <registers>
