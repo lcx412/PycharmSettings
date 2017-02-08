@@ -6,14 +6,11 @@
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_fbthrift_server.sh" timestamp="1486368843193">
         <mark key="'" line="11" column="58" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/one4one/mail.py" timestamp="1484144868487">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-      </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/worker.py" timestamp="1486367345425" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486364874185" />
+      <file name="D:/Nutstore/PythonProjects/one4one/ft_students_detail.py" timestamp="1484578798183">
+        <mark key="." line="269" column="27" />
+      </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1486368241452" />
       <file name="D:/Nutstore/PythonProjects/Messages/msg_received_collector.py" timestamp="1486370061582" />
       <file name="D:/Nutstore/PythonProjects/transporter/configs/transporter.ini" timestamp="1486380458278" />
@@ -27,12 +24,6 @@
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/ios_token_repo.py" timestamp="1486379896886" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/redis_manager.py" timestamp="1486377809079" />
-      <file name="D:/Nutstore/PythonProjects/one4one/ft_teachers.py" timestamp="1484756423978">
-        <mark key="[" line="202" column="84" />
-        <mark key="]" line="321" column="9" />
-        <mark key="^" line="321" column="9" />
-        <mark key="." line="321" column="9" />
-      </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1486368932892" />
       <file name="D:/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1483674755476">
         <mark key="[" line="27" column="0" />
@@ -40,6 +31,9 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/fbthrift_server/server.py" timestamp="1486366090477" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1486543012668">
+        <mark key="." line="105" column="28" />
+      </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/baidu/message.py" timestamp="1486365139735" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_daily_gen2.py" timestamp="1486371741286">
         <mark key="[" line="77" column="33" />
