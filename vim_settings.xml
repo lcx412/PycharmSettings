@@ -13,7 +13,7 @@
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/configs/transporter.ini" timestamp="1486380458278" />
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_http_server.sh" timestamp="1486366503562" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1486557774549" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/message_repo.py" timestamp="1486607737002" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/router.py" timestamp="1486368932892" />
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486559008716">
         <mark key="'" line="101" column="12" />
@@ -25,10 +25,11 @@
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1486545606401">
         <mark key="." line="105" column="28" />
       </file>
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1486607910978" />
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_fbthrift_server.sh" timestamp="1486368843193">
         <mark key="'" line="11" column="58" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486605904915">
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486607854719">
         <mark key="'" line="72" column="0" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/bpush.py" timestamp="1486368241452" />
@@ -54,7 +55,7 @@
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/unknown/worker.py" timestamp="1486367325615" />
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards_gen2.py" timestamp="1486371883563" />
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1486558891189">
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1486607820495">
         <mark key="'" line="48" column="22" />
         <mark key="[" line="48" column="21" />
         <mark key="]" line="24" column="1" />
