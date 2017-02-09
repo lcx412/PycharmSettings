@@ -26,6 +26,9 @@
         <mark key="." line="105" column="28" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/msg_factory.py" timestamp="1486607910978" />
+      <file name="/Python Console" timestamp="1486650248036">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_fbthrift_server.sh" timestamp="1486368843193">
         <mark key="'" line="11" column="58" />
       </file>
@@ -49,7 +52,12 @@
         <mark key="]" line="77" column="33" />
         <mark key="." line="77" column="33" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486558401201" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486650243271">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+      </file>
       <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards.py" timestamp="1486606414391">
         <mark key="[" line="292" column="36" />
       </file>
@@ -170,10 +178,10 @@
         <text>cur_1on1</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBmcm9tIC4uLnJlcG9zLmlvc190b2tlbl9yZXBvIGltcG9ydCBJb3NUb2tlblJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>, IosTokenRepo.remove(token_hex)</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -182,32 +190,31 @@
         <text encoding="base64">ZnJvbSAuLi5yZXBvcy5pb3NfdG9rZW5fcmVwbyBpbXBvcnQgSW9zVG9rZW5SZXBvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIC4uLnJlcG9zLmlvc190b2tlbl9yZXBvIGltcG9ydCBJb3NUb2tlblJlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBkZXZpY2VfdG9rZW4gaW4gSW9zVG9rZW5SZXBvLmFsbF90b2tlbnMoKToK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdjdXJyZW50IGlvc19kZXZpY2VfdG9rZW4gc2l6ZTonLCBJb3NUb2tlblJlcG8uc2l6ZSgpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdjdXJyZW50IGlvc19kZXZpY2VfdG9rZW4gc2l6ZTonLCBJb3NUb2tlblJlcG8uc2l6ZSgpKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ZnJvbSAuLi5yZXBvcy5pb3NfdG9rZW5fcmVwbyBpbXBvcnQgSW9zVG9rZW5SZXBvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb3JkczoK</text>
+        <text encoding="base64">IyBmcm9tIC4uLnJlcG9zLmlvc190b2tlbl9yZXBvIGltcG9ydCBJb3NUb2tlblJlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,0)),&quot;
-            &quot;sum(if(cost_flag=2 and coupon_id=0,0,teacher_comment_credit)) &quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZvciBkZXZpY2VfdG9rZW4gaW4gSW9zVG9rZW5SZXBvLmFsbF90b2tlbnMoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJfZS5zdGF0X2FsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiZXhwZW5kaXR1cmVfdGFzayI6IGV4cGVuZGl0dXJlX3Rhc2t9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVjb3JkczoK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
