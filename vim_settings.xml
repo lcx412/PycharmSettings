@@ -20,6 +20,10 @@
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486607854719">
         <mark key="'" line="72" column="0" />
       </file>
+      <file name="D:/Nutstore/PythonProjects/Messages/update_message_status.py" timestamp="1487248919500">
+        <mark key="'" line="55" column="112" />
+        <mark key="." line="56" column="447" />
+      </file>
       <file name="/Dummy.txt" timestamp="1486691861214">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,7 +55,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="4" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="7" column="12" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="106" column="117" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
       <jump line="127" column="0" filename="D:/PythonProjects/one4one/ft_member_cards_gen2.py" />
@@ -151,6 +154,7 @@
       <jump line="13" column="45" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="102" column="12" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" />
       <jump line="48" column="22" filename="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" />
+      <jump line="55" column="112" filename="D:/Nutstore/PythonProjects/Messages/update_message_status.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
