@@ -9,21 +9,9 @@
       <file name="/Python Console" timestamp="1486650248036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1486545606401">
-        <mark key="." line="105" column="28" />
-      </file>
-      <file name="D:/Nutstore/PythonProjects/Messages/msg_received_collector.py" timestamp="1488118332697" />
+      <file name="D:/Nutstore/PythonProjects/one4one/sqoop.sh" timestamp="1502009563397" />
       <file name="D:/Nutstore/PythonProjects/transporter/misc/scripts/start_fbthrift_server.sh" timestamp="1486368843193">
         <mark key="'" line="11" column="58" />
-      </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486650243271">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-      </file>
-      <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards.py" timestamp="1486606414391">
-        <mark key="[" line="292" column="36" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/message.py" timestamp="1486559008716">
         <mark key="'" line="101" column="12" />
@@ -31,13 +19,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="94" column="62" />
-      </file>
-      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1486607820495">
-        <mark key="'" line="48" column="22" />
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="24" column="5" />
-        <mark key="^" line="24" column="1" />
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/user_msg_repo.py" timestamp="1486558962546">
         <mark key="'" line="28" column="20" />
@@ -48,6 +29,32 @@
       </file>
       <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/message.py" timestamp="1486607854719">
         <mark key="'" line="72" column="0" />
+      </file>
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/push_gateway/apple/worker.py" timestamp="1486545606401">
+        <mark key="." line="105" column="28" />
+      </file>
+      <file name="D:/Nutstore/PythonProjects/one4one/uid_iid.sh" timestamp="1502010064149" />
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/proc/cron/clean_token.py" timestamp="1486650243271">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+      </file>
+      <file name="D:/Nutstore/PythonProjects/one4one/ft_member_cards.py" timestamp="1486606414391">
+        <mark key="[" line="292" column="36" />
+      </file>
+      <file name="D:/Nutstore/PythonProjects/transporter/src/transporter/repos/sqls.py" timestamp="1486607820495">
+        <mark key="'" line="48" column="22" />
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="1" />
+      </file>
+      <file name="D:/Nutstore/PythonProjects/one4one/django_hive.sh" timestamp="1502010155709">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -156,11 +163,11 @@
       <register name="a" type="4">
         <text>cur_1on1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${HADOOP}</text>
       </register>
       <register name="-" type="4">
-        <text>, IosTokenRepo.remove(token_hex)</text>
+        <text>${HADOOP}</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
